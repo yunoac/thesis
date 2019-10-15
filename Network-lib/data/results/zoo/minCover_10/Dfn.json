@@ -1,0 +1,1220 @@
+{
+    "initialCoverSize": 229,
+    "times": [
+        3609118,
+        16922913,
+        30208646,
+        43487607,
+        56598163,
+        70041514,
+        83345901,
+        96516685,
+        112718640,
+        126295733,
+        139455220,
+        152641754,
+        165912485,
+        179230000,
+        192407435,
+        209952257,
+        225175944,
+        238209407,
+        251291564,
+        266013838,
+        284273572,
+        298202968,
+        311444381,
+        324502272,
+        337686868,
+        350739388,
+        363880866,
+        378758924,
+        394313636,
+        407629101,
+        420892221,
+        433958709,
+        447131807,
+        460444068,
+        475651753,
+        490680925,
+        503812837,
+        516936138,
+        530448930,
+        545594475,
+        558491163,
+        571400015,
+        584458894,
+        597609135,
+        610645957,
+        623505428,
+        637511931,
+        652531203,
+        665568424,
+        678791510,
+        692647705,
+        707382115,
+        721494723,
+        734971884,
+        751604480,
+        765506610,
+        778895382,
+        793170964,
+        809035674,
+        823110555,
+        836588682,
+        851939756,
+        867507397,
+        883337859,
+        897007482,
+        910501905,
+        924206505,
+        938011749,
+        952145214,
+        967861925,
+        982144904,
+        996331808,
+        1011134100,
+        1024826630,
+        1039286943,
+        1053779504,
+        1069600402,
+        1083836457,
+        1098253896,
+        1112583251,
+        1126228896,
+        1139910749,
+        1155057960,
+        1172766245,
+        1187901687,
+        1202840675,
+        1217471029,
+        1232021796,
+        1246534925,
+        1262252756,
+        1278158016,
+        1292810505,
+        1307736516,
+        1324753759,
+        1339565256,
+        1355009010,
+        1370999802,
+        1387172511,
+        1403835426,
+        1418711234,
+        1434691325,
+        1449511240,
+        1464045917,
+        1479035630,
+        1493797156,
+        1509606233,
+        1524563161,
+        1540666477,
+        1554734123,
+        1569538797,
+        1586209648,
+        1600290088,
+        1619921807,
+        1635231504,
+        1650026198,
+        1664195034,
+        1679842526,
+        1695368604,
+        1711249258,
+        1726142515,
+        1741405743,
+        1756280431,
+        1770500849,
+        1786560532,
+        1802653875,
+        1817081423,
+        1832562741,
+        1848382421,
+        1862841906,
+        1878118999,
+        1895608263,
+        1911838321,
+        1926866899,
+        1941285581,
+        1957224131,
+        1972357101,
+        1987329686,
+        2003464346,
+        2018375469,
+        2033331347,
+        2047732192,
+        2062880772,
+        2078406054,
+        2095209504,
+        2110871454,
+        2126662601
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 6_JEN 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 49_HUB 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 3_DRE 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 5_HEI,4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 5_HEI 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,6_JEN 7_ILM 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 7_ILM 6_JEN,1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 8_DeCix 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 9_Geant 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 5_HEI,4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 11_STU,10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 36_KAI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 11_STU 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 13_Telia 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 25_EWE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 23_KAS 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 31_HAM 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 38_DOR 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 20_BON 18_WUP 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 20_BON 44_DUI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 21_MAR 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 17_BRE 27_MUE,14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 26_Telekom 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 38_DOR 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 36_KAI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 17_BRE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 17_BRE 30_DES 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 33_ROS 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 32_KIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 37_GRE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 34_MAG 35_BRA 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 34_MAG 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 35_BRA 34_MAG 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 5_HEI,4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 28_SAA 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 37_GRE 32_KIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 27_MUE,14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 11_STU,10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 42_AUG 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 45_FZJ 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 44_DUI 20_BON 18_WUP 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 1_LEI,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 56_ZIB 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 57_ZEU 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 12_DeCix 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 43_GAR 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 46_AAC 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 47_WUE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 54_BAY 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 3_DRE,0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 55_FFO 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI,0_CHE 55_FFO 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 56_ZIB 30_DES 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 57_ZEU 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 57_ZEU 30_DES 1_LEI"
+        },
+        {
+            "x": 0.11664329318603084,
+            "cycle": "1_LEI 33_ROS 8_DeCix 33_ROS 8_DeCix 33_ROS 8_DeCix 33_ROS 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0.07707478339787932,
+            "cycle": "1_LEI 23_KAS 13_Telia 23_KAS 13_Telia 23_KAS 13_Telia 23_KAS 13_Telia 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 56_ZIB 31_HAM 56_ZIB 31_HAM 56_ZIB 31_HAM 56_ZIB 31_HAM 1_LEI"
+        },
+        {
+            "x": 0.2289008290135397,
+            "cycle": "1_LEI 9_Geant 47_WUE 9_Geant 47_WUE 9_Geant 47_WUE 9_Geant 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 21_MAR 27_MUE 38_DOR 55_FFO 26_Telekom 55_FFO 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0.14010523931092267,
+            "cycle": "1_LEI 31_HAM 27_MUE 30_DES 27_MUE 30_DES 27_MUE 30_DES 12_DeCix 1_LEI"
+        },
+        {
+            "x": 0.01642997536190502,
+            "cycle": "1_LEI 15_Telekom 12_DeCix 54_BAY 12_DeCix 54_BAY 12_DeCix 54_BAY 12_DeCix 1_LEI"
+        },
+        {
+            "x": 0.19874840826529858,
+            "cycle": "1_LEI 47_WUE 3_DRE 47_WUE 3_DRE 47_WUE 3_DRE 47_WUE 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0.10304802859157447,
+            "cycle": "1_LEI 21_MAR 40_FHM 15_Telekom 21_MAR 40_FHM 15_Telekom 21_MAR 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.09881718290177911,
+            "cycle": "1_LEI 46_AAC 20_BON 27_MUE 21_MAR 27_MUE 21_MAR 27_MUE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 5_HEI 36_KAI 5_HEI 36_KAI 5_HEI 36_KAI 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 31_HAM 29_GC 31_HAM 29_GC 31_HAM 29_GC 31_HAM 29_GC 1_LEI"
+        },
+        {
+            "x": 0.027681302049631484,
+            "cycle": "1_LEI 54_BAY 40_FHM 46_AAC 14_BIE 46_AAC 14_BIE 46_AAC 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 39_BOC 18_WUP 2_ADH 55_FFO 38_DOR 20_BON 27_MUE 18_WUP 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 2_ADH 18_WUP 27_MUE 20_BON 38_DOR 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 40_FHM 4_GSI 5_HEI 11_STU 42_AUG 43_GAR 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 42_AUG 54_BAY 42_AUG 54_BAY 42_AUG 54_BAY 42_AUG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 11_STU 36_KAI 28_SAA 36_KAI 28_SAA 36_KAI 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.10864912144472685,
+            "cycle": "1_LEI 10_FZK 2_ADH 10_FZK 2_ADH 10_FZK 2_ADH 10_FZK 2_ADH 1_LEI"
+        },
+        {
+            "x": 0.0337468094297132,
+            "cycle": "1_LEI 36_KAI 30_DES 57_ZEU 30_DES 57_ZEU 30_DES 57_ZEU 30_DES 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 2_ADH 55_FFO 57_ZEU 55_FFO 57_ZEU 55_FFO 2_ADH 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 37_GRE 32_KIE 37_GRE 32_KIE 37_GRE 32_KIE 37_GRE 32_KIE 1_LEI"
+        },
+        {
+            "x": 0.0014418486051255102,
+            "cycle": "1_LEI 0_CHE 37_GRE 0_CHE 37_GRE 0_CHE 37_GRE 0_CHE 37_GRE 1_LEI"
+        },
+        {
+            "x": 0.07111596657918723,
+            "cycle": "1_LEI 32_KIE 36_KAI 32_KIE 45_FZJ 36_KAI 32_KIE 36_KAI 32_KIE 1_LEI"
+        },
+        {
+            "x": 0.03465319609087324,
+            "cycle": "1_LEI 49_HUB 28_SAA 49_HUB 28_SAA 49_HUB 28_SAA 49_HUB 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 49_HUB 2_ADH 49_HUB 2_ADH 49_HUB 2_ADH 49_HUB 2_ADH 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 35_BRA 34_MAG 35_BRA 34_MAG 35_BRA 34_MAG 35_BRA 34_MAG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 34_MAG 55_FFO 34_MAG 55_FFO 34_MAG 55_FFO 45_FZJ 35_BRA 1_LEI"
+        },
+        {
+            "x": 0.26332922293992317,
+            "cycle": "1_LEI 6_JEN 7_ILM 6_JEN 7_ILM 6_JEN 7_ILM 6_JEN 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.02266419198366114,
+            "cycle": "1_LEI 35_BRA 7_ILM 35_BRA 7_ILM 35_BRA 7_ILM 35_BRA 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 20_BON 45_FZJ 47_WUE 45_FZJ 21_MAR 27_MUE 46_AAC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 11_STU 41_REG 11_STU 41_REG 11_STU 42_AUG 24_PAD 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 42_AUG 11_STU 5_HEI 4_GSI 49_HUB 0_CHE 6_JEN 1_LEI"
+        },
+        {
+            "x": 0.1657405411415067,
+            "cycle": "1_LEI 28_SAA 36_KAI 11_STU 36_KAI 11_STU 36_KAI 11_STU 42_AUG 1_LEI"
+        },
+        {
+            "x": 0.11803919283740268,
+            "cycle": "1_LEI 25_EWE 55_FFO 57_ZEU 49_HUB 14_BIE 55_FFO 57_ZEU 49_HUB 1_LEI"
+        },
+        {
+            "x": 0.05521578331768166,
+            "cycle": "1_LEI 6_JEN 0_CHE 6_JEN 0_CHE 6_JEN 0_CHE 6_JEN 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 49_HUB 57_ZEU 2_ADH 49_HUB 57_ZEU 55_FFO 32_KIE 1_LEI"
+        },
+        {
+            "x": 0.06837418140117425,
+            "cycle": "1_LEI 28_SAA 36_KAI 26_Telekom 28_SAA 36_KAI 26_Telekom 28_SAA 36_KAI 1_LEI"
+        },
+        {
+            "x": 0.24437487902213245,
+            "cycle": "1_LEI 46_AAC 20_BON 38_DOR 20_BON 38_DOR 20_BON 38_DOR 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 44_DUI 19_BIR 44_DUI 19_BIR 44_DUI 19_BIR 44_DUI 19_BIR 1_LEI"
+        },
+        {
+            "x": 0.2602882876205481,
+            "cycle": "1_LEI 26_Telekom 4_GSI 5_HEI 4_GSI 5_HEI 4_GSI 5_HEI 4_GSI 1_LEI"
+        },
+        {
+            "x": 0.10313406537964095,
+            "cycle": "1_LEI 40_FHM 4_GSI 40_FHM 4_GSI 40_FHM 4_GSI 40_FHM 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 3_DRE 40_FHM 3_DRE 41_REG 36_KAI 41_REG 34_MAG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 45_FZJ 38_DOR 26_Telekom 4_GSI 45_FZJ 38_DOR 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 27_MUE 20_BON 27_MUE 20_BON 27_MUE 20_BON 44_DUI 1_LEI"
+        },
+        {
+            "x": 0.036932566376489895,
+            "cycle": "1_LEI 36_KAI 38_DOR 25_EWE 38_DOR 25_EWE 38_DOR 25_EWE 14_BIE 1_LEI"
+        },
+        {
+            "x": 0.06924514001441744,
+            "cycle": "1_LEI 32_KIE 37_GRE 55_FFO 13_Telia 32_KIE 37_GRE 55_FFO 13_Telia 1_LEI"
+        },
+        {
+            "x": 0.09449560273282986,
+            "cycle": "1_LEI 34_MAG 54_BAY 7_ILM 34_MAG 54_BAY 7_ILM 34_MAG 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 14_BIE 15_Telekom 36_KAI 15_Telekom 14_BIE 15_Telekom 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 0_CHE 3_DRE 7_ILM 24_PAD 16_GOE 10_FZK 5_HEI 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 11_STU 42_AUG 3_DRE 55_FFO 54_BAY 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.07450140693928065,
+            "cycle": "1_LEI 14_BIE 25_EWE 12_DeCix 14_BIE 25_EWE 12_DeCix 14_BIE 12_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 11_STU 36_KAI 40_FHM 11_STU 5_HEI 11_STU 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 14_BIE 48_TUB 56_ZIB 55_FFO 25_EWE 45_FZJ 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 33_ROS 38_DOR 32_KIE 33_ROS 38_DOR 32_KIE 33_ROS 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 23_KAS 38_DOR 23_KAS 38_DOR 23_KAS 38_DOR 33_ROS 37_GRE 1_LEI"
+        },
+        {
+            "x": 0.08439668394584117,
+            "cycle": "1_LEI 54_BAY 55_FFO 33_ROS 7_ILM 54_BAY 55_FFO 33_ROS 9_Geant 1_LEI"
+        },
+        {
+            "x": 0.04058235187075313,
+            "cycle": "1_LEI 46_AAC 7_ILM 46_AAC 7_ILM 46_AAC 7_ILM 47_WUE 46_AAC 1_LEI"
+        },
+        {
+            "x": 0.036253714047636686,
+            "cycle": "1_LEI 28_SAA 47_WUE 7_ILM 28_SAA 47_WUE 7_ILM 18_WUP 47_WUE 1_LEI"
+        },
+        {
+            "x": 0.25562512097786755,
+            "cycle": "1_LEI 18_WUP 20_BON 27_MUE 21_MAR 18_WUP 20_BON 27_MUE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0.08333333333333333,
+            "cycle": "1_LEI 34_MAG 35_BRA 55_FFO 34_MAG 35_BRA 55_FFO 34_MAG 35_BRA 1_LEI"
+        },
+        {
+            "x": 0.06817879027215693,
+            "cycle": "1_LEI 47_WUE 10_FZK 47_WUE 10_FZK 47_WUE 28_SAA 47_WUE 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 0_CHE 55_FFO 32_KIE 15_Telekom 0_CHE 55_FFO 14_BIE 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 45_FZJ 33_ROS 45_FZJ 33_ROS 45_FZJ 29_GC 10_FZK 1_LEI"
+        },
+        {
+            "x": 0.1278542640080752,
+            "cycle": "1_LEI 13_Telia 0_CHE 13_Telia 0_CHE 13_Telia 0_CHE 13_Telia 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.11435450319633751,
+            "cycle": "1_LEI 32_KIE 55_FFO 0_CHE 55_FFO 0_CHE 55_FFO 12_DeCix 18_WUP 1_LEI"
+        },
+        {
+            "x": 0.13458492506803477,
+            "cycle": "1_LEI 6_JEN 7_ILM 3_DRE 42_AUG 3_DRE 42_AUG 3_DRE 42_AUG 1_LEI"
+        },
+        {
+            "x": 0.10500616559011522,
+            "cycle": "1_LEI 18_WUP 10_FZK 7_ILM 6_JEN 15_Telekom 10_FZK 7_ILM 6_JEN 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 5_HEI 11_STU 41_REG 10_FZK 5_HEI 11_STU 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 13_Telia 43_GAR 42_AUG 11_STU 42_AUG 11_STU 42_AUG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 18_WUP 26_Telekom 38_DOR 29_GC 26_Telekom 38_DOR 29_GC 1_LEI"
+        },
+        {
+            "x": 0.04058270700164025,
+            "cycle": "1_LEI 36_KAI 45_FZJ 55_FFO 37_GRE 36_KAI 45_FZJ 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 11_STU 41_REG 42_AUG 11_STU 41_REG 42_AUG 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 5_HEI 10_FZK 37_GRE 32_KIE 4_GSI 5_HEI 10_FZK 1_LEI"
+        },
+        {
+            "x": 0.12717635987487622,
+            "cycle": "1_LEI 40_FHM 8_DeCix 7_ILM 40_FHM 8_DeCix 7_ILM 40_FHM 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 21_MAR 2_ADH 21_MAR 2_ADH 42_AUG 47_WUE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0.010042855525327327,
+            "cycle": "1_LEI 29_GC 28_SAA 29_GC 28_SAA 29_GC 28_SAA 29_GC 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.13609764521262768,
+            "cycle": "1_LEI 37_GRE 29_GC 37_GRE 29_GC 37_GRE 29_GC 37_GRE 29_GC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 31_HAM 56_ZIB 36_KAI 31_HAM 56_ZIB 36_KAI 34_MAG 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 23_KAS 22_GIE 23_KAS 22_GIE 23_KAS 22_GIE 23_KAS 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 24_PAD 22_GIE 24_PAD 22_GIE 24_PAD 22_GIE 24_PAD 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 9_Geant 24_PAD 9_Geant 24_PAD 9_Geant 24_PAD 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 22_GIE 25_EWE 38_DOR 21_MAR 12_DeCix 25_EWE 38_DOR 21_MAR 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 32_KIE 37_GRE 43_GAR 45_FZJ 32_KIE 37_GRE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.009702090440438321,
+            "cycle": "1_LEI 2_ADH 49_HUB 8_DeCix 2_ADH 49_HUB 8_DeCix 2_ADH 49_HUB 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 38_DOR 17_BRE 13_Telia 28_SAA 25_EWE 38_DOR 31_HAM 1_LEI"
+        },
+        {
+            "x": 0.033123391687592825,
+            "cycle": "1_LEI 8_DeCix 31_HAM 45_FZJ 8_DeCix 4_GSI 8_DeCix 4_GSI 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 57_ZEU 55_FFO 54_BAY 2_ADH 57_ZEU 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 55_FFO 38_DOR 31_HAM 38_DOR 31_HAM 38_DOR 31_HAM 1_LEI"
+        },
+        {
+            "x": 0.07542740611219571,
+            "cycle": "1_LEI 6_JEN 7_ILM 10_FZK 38_DOR 26_Telekom 10_FZK 38_DOR 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0.02824291752479923,
+            "cycle": "1_LEI 54_BAY 34_MAG 18_WUP 35_BRA 55_FFO 35_BRA 55_FFO 35_BRA 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 55_FFO 57_ZEU 49_HUB 2_ADH 3_DRE 40_FHM 54_BAY 1_LEI"
+        },
+        {
+            "x": 0.1051345047403642,
+            "cycle": "1_LEI 2_ADH 54_BAY 2_ADH 54_BAY 2_ADH 54_BAY 12_DeCix 14_BIE 1_LEI"
+        },
+        {
+            "x": 0.05617297257232887,
+            "cycle": "1_LEI 36_KAI 11_STU 5_HEI 11_STU 5_HEI 11_STU 5_HEI 4_GSI 1_LEI"
+        },
+        {
+            "x": 0.11512432172013773,
+            "cycle": "1_LEI 36_KAI 11_STU 42_AUG 37_GRE 54_BAY 40_FHM 15_Telekom 6_JEN 1_LEI"
+        },
+        {
+            "x": 0.008879773242196326,
+            "cycle": "1_LEI 40_FHM 15_Telekom 40_FHM 15_Telekom 40_FHM 15_Telekom 40_FHM 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 27_MUE 30_DES 56_ZIB 21_MAR 27_MUE 30_DES 56_ZIB 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 27_MUE 23_KAS 48_TUB 24_PAD 16_GOE 48_TUB 56_ZIB 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 27_MUE 21_MAR 30_DES 27_MUE 21_MAR 30_DES 56_ZIB 1_LEI"
+        },
+        {
+            "x": 0.06382894353322684,
+            "cycle": "1_LEI 48_TUB 14_BIE 48_TUB 14_BIE 48_TUB 14_BIE 48_TUB 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 45_FZJ 43_GAR 25_EWE 14_BIE 31_HAM 56_ZIB 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.024061306198973925,
+            "cycle": "1_LEI 42_AUG 47_WUE 42_AUG 47_WUE 42_AUG 47_WUE 42_AUG 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 10_FZK 12_DeCix 10_FZK 12_DeCix 10_FZK 12_DeCix 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 35_BRA 32_KIE 45_FZJ 22_GIE 32_KIE 45_FZJ 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 45_FZJ 16_GOE 29_GC 45_FZJ 16_GOE 29_GC 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 16_GOE 21_MAR 16_GOE 21_MAR 16_GOE 21_MAR 47_WUE 1_LEI"
+        },
+        {
+            "x": 0.025402268841992787,
+            "cycle": "1_LEI 29_GC 45_FZJ 32_KIE 29_GC 45_FZJ 23_KAS 12_DeCix 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 26_Telekom 10_FZK 36_KAI 26_Telekom 24_PAD 26_Telekom 24_PAD 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 36_KAI 29_GC 10_FZK 36_KAI 29_GC 10_FZK 36_KAI 1_LEI"
+        },
+        {
+            "x": 0.12867527136465362,
+            "cycle": "1_LEI 21_MAR 27_MUE 20_BON 45_FZJ 21_MAR 27_MUE 20_BON 46_AAC 1_LEI"
+        },
+        {
+            "x": 0.004276269771123738,
+            "cycle": "1_LEI 19_BIR 25_EWE 19_BIR 25_EWE 19_BIR 25_EWE 19_BIR 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 23_KAS 27_MUE 20_BON 38_DOR 23_KAS 27_MUE 20_BON 18_WUP 1_LEI"
+        },
+        {
+            "x": 0.047667747722245496,
+            "cycle": "1_LEI 15_Telekom 6_JEN 15_Telekom 6_JEN 15_Telekom 6_JEN 15_Telekom 6_JEN 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 45_FZJ 40_FHM 3_DRE 55_FFO 25_EWE 45_FZJ 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.021172252557796613,
+            "cycle": "1_LEI 25_EWE 35_BRA 38_DOR 25_EWE 35_BRA 25_EWE 35_BRA 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 22_GIE 23_KAS 55_FFO 24_PAD 22_GIE 23_KAS 12_DeCix 1_LEI"
+        },
+        {
+            "x": 0.08078848936776235,
+            "cycle": "1_LEI 49_HUB 57_ZEU 55_FFO 31_HAM 57_ZEU 55_FFO 14_BIE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0.041023269262105234,
+            "cycle": "1_LEI 32_KIE 12_DeCix 55_FFO 32_KIE 12_DeCix 55_FFO 38_DOR 28_SAA 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 27_MUE 21_MAR 27_MUE 21_MAR 27_MUE 18_WUP 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.38196080716259734,
+            "cycle": "1_LEI 0_CHE 55_FFO 57_ZEU 55_FFO 57_ZEU 55_FFO 38_DOR 35_BRA 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 23_KAS 42_AUG 11_STU 42_AUG 11_STU 5_HEI 36_KAI 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.08148108228301337,
+            "cycle": "1_LEI 36_KAI 28_SAA 36_KAI 5_HEI 4_GSI 36_KAI 5_HEI 4_GSI 1_LEI"
+        },
+        {
+            "x": 0.21913513713835558,
+            "cycle": "1_LEI 54_BAY 34_MAG 4_GSI 5_HEI 11_STU 42_AUG 54_BAY 34_MAG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 56_ZIB 55_FFO 54_BAY 30_DES 56_ZIB 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0.06093320578017757,
+            "cycle": "1_LEI 12_DeCix 32_KIE 12_DeCix 32_KIE 12_DeCix 32_KIE 12_DeCix 32_KIE 1_LEI"
+        },
+        {
+            "x": 0.07456823631819334,
+            "cycle": "1_LEI 25_EWE 38_DOR 55_FFO 38_DOR 55_FFO 38_DOR 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 5_HEI 36_KAI 5_HEI 36_KAI 5_HEI 36_KAI 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.04413499600720913,
+            "cycle": "1_LEI 37_GRE 0_CHE 15_Telekom 0_CHE 15_Telekom 0_CHE 15_Telekom 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.1395063059056622,
+            "cycle": "1_LEI 28_SAA 36_KAI 28_SAA 36_KAI 28_SAA 36_KAI 28_SAA 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.05941778560239202,
+            "cycle": "1_LEI 46_AAC 40_FHM 45_FZJ 40_FHM 45_FZJ 40_FHM 45_FZJ 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.11150971997116513,
+            "cycle": "1_LEI 14_BIE 21_MAR 27_MUE 20_BON 38_DOR 32_KIE 37_GRE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.041793530347346924,
+            "cycle": "1_LEI 4_GSI 45_FZJ 25_EWE 45_FZJ 25_EWE 45_FZJ 25_EWE 13_Telia 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 45_FZJ 21_MAR 27_MUE 23_KAS 31_HAM 27_MUE 23_KAS 1_LEI"
+        },
+        {
+            "x": 0.15536564296243763,
+            "cycle": "1_LEI 25_EWE 45_FZJ 21_MAR 27_MUE 20_BON 19_BIR 25_EWE 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 55_FFO 24_PAD 49_HUB 2_ADH 55_FFO 24_PAD 49_HUB 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 5_HEI 11_STU 41_REG 11_STU 41_REG 11_STU 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.16703473576684347,
+            "cycle": "1_LEI 26_Telekom 48_TUB 56_ZIB 30_DES 56_ZIB 30_DES 56_ZIB 30_DES 1_LEI"
+        },
+        {
+            "x": 0.07450140693928065,
+            "cycle": "1_LEI 21_MAR 14_BIE 22_GIE 24_PAD 49_HUB 57_ZEU 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.12913691465497057,
+            "cycle": "1_LEI 35_BRA 38_DOR 21_MAR 27_MUE 31_HAM 38_DOR 28_SAA 36_KAI 1_LEI"
+        },
+        {
+            "x": 0.044194010804392836,
+            "cycle": "1_LEI 44_DUI 20_BON 27_MUE 20_BON 27_MUE 20_BON 27_MUE 31_HAM 1_LEI"
+        },
+        {
+            "x": 0.22089372867868504,
+            "cycle": "1_LEI 2_ADH 49_HUB 57_ZEU 49_HUB 57_ZEU 49_HUB 57_ZEU 31_HAM 1_LEI"
+        },
+        {
+            "x": 0.08425303456429395,
+            "cycle": "1_LEI 54_BAY 40_FHM 54_BAY 40_FHM 54_BAY 40_FHM 54_BAY 40_FHM 1_LEI"
+        },
+        {
+            "x": 0.16629859756648988,
+            "cycle": "1_LEI 31_HAM 56_ZIB 31_HAM 56_ZIB 31_HAM 56_ZIB 31_HAM 23_KAS 1_LEI"
+        },
+        {
+            "x": 0.12154448645473144,
+            "cycle": "1_LEI 29_GC 33_ROS 29_GC 33_ROS 29_GC 33_ROS 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0.056172972572328846,
+            "cycle": "1_LEI 36_KAI 5_HEI 36_KAI 5_HEI 36_KAI 5_HEI 36_KAI 26_Telekom 1_LEI"
+        }
+    ],
+    "values": [
+        54,
+        49.333333333333336,
+        46.583333333333336,
+        43.91666666666667,
+        41.833333333333336,
+        39.66666666666667,
+        38.333333333333336,
+        36.625000000000014,
+        33.62500000000001,
+        32.95833333333333,
+        31.58854166666666,
+        29.921874999999993,
+        28.899999999999995,
+        27.666666666666657,
+        26.99999999999999,
+        22.83333333333332,
+        22.499999999999993,
+        21.77777777777778,
+        20.916666666666668,
+        20.16666666666667,
+        19.500000000000004,
+        18.625000000000004,
+        18.625000000000004,
+        18.062500000000004,
+        17.250000000000004,
+        16.875000000000004,
+        16.133333333333336,
+        16.13333333333334,
+        14.958333333333334,
+        14.958333333333334,
+        13.222222222222229,
+        12.958333333333337,
+        12.833333333333337,
+        11.972222222222225,
+        11.615740740740744,
+        11.58333333333334,
+        11.424811385459536,
+        11.163580246913583,
+        10.998148148148147,
+        10.761904761904763,
+        10.619714506172837,
+        10.411826599326597,
+        10.237828947368419,
+        10.136828449328444,
+        10.119574020084217,
+        10.081751219006117,
+        9.96776014109347,
+        9.922030673404903,
+        9.872687653713347,
+        9.85626785128997,
+        9.806276150766205,
+        9.75005025247026,
+        9.725857210211647,
+        9.698457835390897,
+        9.66159129077415,
+        9.66153517960886,
+        9.648554176111219,
+        9.633647934875787,
+        9.61450247832841,
+        9.60090144864225,
+        9.589617240035196,
+        9.523785266327655,
+        9.51058083828728,
+        9.478102693513087,
+        9.470074714690787,
+        9.46459339808234,
+        9.453315748108242,
+        9.449537325839582,
+        9.432907133099961,
+        9.40241240952946,
+        9.352129960055661,
+        9.331063616952912,
+        9.309876365680744,
+        9.294913406801546,
+        9.231817581157921,
+        9.217585732967489,
+        9.212151848574758,
+        9.164908325544468,
+        9.144503848766856,
+        9.128009298098883,
+        9.128009298098883,
+        9.12625579184248,
+        9.12396937395071,
+        9.116303427615405,
+        9.10613944682776,
+        9.103720719108706,
+        9.099912800178311,
+        9.097751067879269,
+        9.077832858784646,
+        9.059458033152143,
+        9.052508925146272,
+        9.047070416734977,
+        9.036224495430048,
+        9.02895834888739,
+        9.01570382829007,
+        8.998536407760508,
+        8.991636531309126,
+        8.9777591968829,
+        8.97685119788445,
+        8.97479659771406,
+        8.972458934360732,
+        8.969440623124713,
+        8.968822632670225,
+        8.964537479116787,
+        8.961967068401355,
+        8.96191553140944,
+        8.961915531409442,
+        8.95501540872337,
+        8.954531759099346,
+        8.952786661713303,
+        8.945420477182134,
+        8.944752937903294,
+        8.944669520568155,
+        8.941844303529926,
+        8.930246901952508,
+        8.925796535468942,
+        8.924585926917555,
+        8.919805440339116,
+        8.913639324185064,
+        8.909329709757056,
+        8.896239138301512,
+        8.883653950882808,
+        8.878168873905892,
+        8.86747267010767,
+        8.846317219032423,
+        8.841471651167064,
+        8.839339961326637,
+        8.836343433798747,
+        8.83267702501472,
+        8.803741925203921,
+        8.801941541697335,
+        8.793314632346382,
+        8.79156475868387,
+        8.79155175117037,
+        8.787946766602365,
+        8.785361799818322,
+        8.78536179981832,
+        8.781422540346101,
+        8.779384583439926,
+        8.777633398447954,
+        8.776648577747565,
+        8.771681589188253,
+        8.769390523137803,
+        8.760242677127145,
+        8.753431239721536,
+        8.749999999999998
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 1486518,
+    "lpBound": 8.749999999999998
+}

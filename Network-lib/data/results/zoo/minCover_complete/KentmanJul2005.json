@@ -1,0 +1,134 @@
+{
+    "initialCoverSize": 25,
+    "times": [
+        1184217,
+        1621589,
+        2108719,
+        2546445,
+        3006538,
+        4116463,
+        4602162,
+        5100492,
+        5682723,
+        6137185,
+        6656327
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 2_Dunkirk 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 5_Horsted,0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 1_Wye 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 8_University_of_Greenwich,0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 14_KIAD-M,0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 10_CCCU-S 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 1_Wye 2_Dunkirk 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 4_Kent 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Blue_Bell_Hill 1_Wye 8_University_of_Greenwich,0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 12_KIAD-R 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 2_Dunkirk 1_Wye 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 11_CCCU-T 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 13_KIAD-C 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 9_CCCU-C 0_Blue_Bell_Hill 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Blue_Bell_Hill,8_University_of_Greenwich 1_Wye 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Blue_Bell_Hill 9_CCCU-C 5_Horsted 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 10_CCCU-S 5_Horsted 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 9_CCCU-C 8_University_of_Greenwich 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 10_CCCU-S 1_Wye 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 1_Wye 9_CCCU-C 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Blue_Bell_Hill 11_CCCU-T 10_CCCU-S 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Blue_Bell_Hill 8_University_of_Greenwich 12_KIAD-R 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Blue_Bell_Hill 12_KIAD-R 1_Wye 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Blue_Bell_Hill 14_KIAD-M 13_KIAD-C 0_Blue_Bell_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Blue_Bell_Hill 14_KIAD-M 1_Wye 0_Blue_Bell_Hill"
+        }
+    ],
+    "values": [
+        9,
+        8,
+        8,
+        8,
+        8,
+        7.5,
+        7,
+        7,
+        6.5,
+        5.5,
+        5.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 100356,
+    "lpBound": 5.5
+}

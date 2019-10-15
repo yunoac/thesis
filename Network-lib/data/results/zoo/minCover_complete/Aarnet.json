@@ -1,0 +1,128 @@
+{
+    "initialCoverSize": 26,
+    "times": [
+        2178536,
+        2849251,
+        3617930,
+        4398535,
+        5092686,
+        5744121
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 2_Canberra1 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 1_Brisbane2 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 4_Townsville 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 1_Brisbane2 4_Townsville 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 11_Perth1 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 8_Armidale 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 9_Hobart 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 5_Cairns 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 4_Townsville 1_Brisbane2 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 9_Hobart 2_Canberra1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 2_Canberra1 12_Perth2 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 1_Brisbane2 11_Perth1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 18_Darwin 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 2_Canberra1 14_Adelaide2 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 1_Brisbane2 13_Adelaide1 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 17_Alice_Springs 0_Sydney1 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 2_Canberra1 9_Hobart 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 2_Canberra1 16_Melbourne2 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 1_Brisbane2 15_Melbourne1 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 17_Alice_Springs 18_Darwin 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 18_Darwin 17_Alice_Springs 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 5_Cairns 1_Brisbane2 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 1_Brisbane2 5_Cairns 0_Sydney1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Sydney1 8_Armidale 4_Townsville 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 11_Perth1 8_Armidale 0_Sydney1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Sydney1 13_Adelaide1 8_Armidale 0_Sydney1"
+        }
+    ],
+    "values": [
+        14,
+        13,
+        13,
+        13,
+        12,
+        12
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 429643,
+    "lpBound": 12
+}

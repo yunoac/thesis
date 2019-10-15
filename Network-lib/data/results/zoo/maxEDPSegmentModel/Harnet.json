@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 21297381,
+            "dest": "5_CERNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 1,
+            "runtime": 88084446,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_APAN-JP",
+            "nbpSR": 1,
+            "runtime": 12762951,
+            "dest": "16_HKUST",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 17580169,
+            "dest": "6_ASNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_GOOGLE",
+            "nbpSR": 1,
+            "runtime": 13364928,
+            "dest": "12_Technology_Park",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 1,
+            "runtime": 43542874,
+            "dest": "3_APAN-JP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 2,
+            "runtime": 72275231,
+            "dest": "15_HKU",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 12173401,
+            "dest": "19_CityU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Vocational_Training_Council",
+            "nbpSR": 1,
+            "runtime": 12248083,
+            "dest": "14_HKIEd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 1,
+            "runtime": 25921530,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 28496818,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 2,
+            "runtime": 87363261,
+            "dest": "20_HKBU",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 43027442,
+            "dest": "19_CityU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_KREPNET2",
+            "nbpSR": 1,
+            "runtime": 12603328,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 13501612,
+            "dest": "14_HKIEd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 2,
+            "runtime": 34501985,
+            "dest": "14_HKIEd",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_HKIEd",
+            "nbpSR": 1,
+            "runtime": 31278733,
+            "dest": "12_Technology_Park",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 48087837,
+            "dest": "9_Vocational_Training_Council",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 50382811,
+            "dest": "20_HKBU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_KREPNET2",
+            "nbpSR": 1,
+            "runtime": 13785858,
+            "dest": "15_HKU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 1,
+            "runtime": 63680550,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_HKEAA",
+            "nbpSR": 1,
+            "runtime": 14536074,
+            "dest": "13_LU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 1,
+            "runtime": 85601282,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 12572740,
+            "dest": "16_HKUST",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 12332078,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Vocational_Training_Council",
+            "nbpSR": 1,
+            "runtime": 12783736,
+            "dest": "14_HKIEd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 28307552,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 2,
+            "runtime": 27806701,
+            "dest": "18_CUHK",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 17956167,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 54652243,
+            "dest": "6_ASNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 21524905,
+            "dest": "5_CERNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 2,
+            "runtime": 65402282,
+            "dest": "17_PolyU",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "17_PolyU",
+            "nbpSR": 1,
+            "runtime": 51071282,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Technology_Park",
+            "nbpSR": 1,
+            "runtime": 16977026,
+            "dest": "15_HKU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 12275444,
+            "dest": "20_HKBU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 20342856,
+            "dest": "3_APAN-JP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 45542505,
+            "dest": "17_PolyU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 16358434,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 1,
+            "runtime": 51174306,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Technology_Park",
+            "nbpSR": 1,
+            "runtime": 12556048,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_APAN-JP",
+            "nbpSR": 1,
+            "runtime": 13522484,
+            "dest": "20_HKBU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_KREPNET2",
+            "nbpSR": 1,
+            "runtime": 15403423,
+            "dest": "9_Vocational_Training_Council",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Technology_Park",
+            "nbpSR": 1,
+            "runtime": 15459945,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 2,
+            "runtime": 47833357,
+            "dest": "18_CUHK",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "5_CERNET",
+            "nbpSR": 1,
+            "runtime": 14036718,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 28081042,
+            "dest": "6_ASNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_HKEAA",
+            "nbpSR": 1,
+            "runtime": 15806513,
+            "dest": "0_ASGCNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 20593477,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 12462931,
+            "dest": "13_LU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 20594279,
+            "dest": "4_International",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 24450457,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_APAN-JP",
+            "nbpSR": 1,
+            "runtime": 16584487,
+            "dest": "16_HKUST",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_APAN-JP",
+            "nbpSR": 1,
+            "runtime": 12565484,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 1,
+            "runtime": 52635035,
+            "dest": "9_Vocational_Training_Council",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 12570880,
+            "dest": "13_LU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 19972651,
+            "dest": "6_ASNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 12313282,
+            "dest": "13_LU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 2,
+            "runtime": 64694857,
+            "dest": "18_CUHK",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 12544724,
+            "dest": "19_CityU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 1,
+            "runtime": 80587467,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 20851813,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 2,
+            "runtime": 68968216,
+            "dest": "16_HKUST",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 12193987,
+            "dest": "19_CityU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 12343539,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 12260371,
+            "dest": "4_International",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 20454185,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_CUHK",
+            "nbpSR": 1,
+            "runtime": 87226587,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 15867152,
+            "dest": "17_PolyU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 43053042,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_ASGCNET",
+            "nbpSR": 1,
+            "runtime": 12202076,
+            "dest": "4_International",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_CERNET",
+            "nbpSR": 1,
+            "runtime": 12184658,
+            "dest": "18_CUHK",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_KREPNET2",
+            "nbpSR": 1,
+            "runtime": 14841982,
+            "dest": "6_ASNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 1,
+            "runtime": 39676512,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 1,
+            "runtime": 46157893,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_CityU",
+            "nbpSR": 1,
+            "runtime": 21516038,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_GOOGLE",
+            "nbpSR": 1,
+            "runtime": 15531953,
+            "dest": "9_Vocational_Training_Council",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Technology_Park",
+            "nbpSR": 1,
+            "runtime": 12342626,
+            "dest": "9_Vocational_Training_Council",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Open_Uni",
+            "nbpSR": 1,
+            "runtime": 12385868,
+            "dest": "16_HKUST",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Vocational_Training_Council",
+            "nbpSR": 1,
+            "runtime": 14840689,
+            "dest": "19_CityU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Vocational_Training_Council",
+            "nbpSR": 1,
+            "runtime": 12412741,
+            "dest": "0_ASGCNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 1,
+            "runtime": 50079756,
+            "dest": "0_ASGCNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 1,
+            "runtime": 26943561,
+            "dest": "5_CERNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_HKIX",
+            "nbpSR": 1,
+            "runtime": 52196269,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 1,
+            "runtime": 30480699,
+            "dest": "4_International",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_HKBU",
+            "nbpSR": 1,
+            "runtime": 20645558,
+            "dest": "11_Open_Uni",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_HKU",
+            "nbpSR": 1,
+            "runtime": 81621691,
+            "dest": "10_HKEAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 20605853,
+            "dest": "12_Technology_Park",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_HKIEd",
+            "nbpSR": 1,
+            "runtime": 29440498,
+            "dest": "2_HKIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 2,
+            "runtime": 55210190,
+            "dest": "18_CUHK",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 2,
+            "runtime": 28896526,
+            "dest": "17_PolyU",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_LU",
+            "nbpSR": 2,
+            "runtime": 30234108,
+            "dest": "19_CityU",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_HKUST",
+            "nbpSR": 1,
+            "runtime": 43171312,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_APAN-JP",
+            "nbpSR": 1,
+            "runtime": 12494313,
+            "dest": "2_HKIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 12186689,
+            "dest": "18_CUHK",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_ASNET",
+            "nbpSR": 1,
+            "runtime": 12230660,
+            "dest": "1_KREPNET2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_PolyU",
+            "nbpSR": 2,
+            "runtime": 46638323,
+            "dest": "14_HKIEd",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Technology_Park",
+            "nbpSR": 1,
+            "runtime": 12391306,
+            "dest": "5_CERNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 12712640,
+            "dest": "8_TEIN3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_International",
+            "nbpSR": 1,
+            "runtime": 16761448,
+            "dest": "5_CERNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TEIN3",
+            "nbpSR": 1,
+            "runtime": 17227789,
+            "dest": "7_GOOGLE",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,604 @@
+{
+    "initialCoverSize": 124,
+    "times": [
+        7751889,
+        31962103,
+        55321417,
+        78195010,
+        103137453,
+        129511782,
+        153380221,
+        177337427,
+        202571969,
+        229057019,
+        255619780,
+        283126010,
+        307031809,
+        330877088,
+        354616323,
+        382816718,
+        406745391,
+        431100342,
+        453812553,
+        478507744,
+        501048875,
+        524086822,
+        547840568,
+        571416408,
+        594036678,
+        616955120,
+        640510008,
+        663115338,
+        687588642,
+        710698849,
+        734742018,
+        756990230,
+        787892326,
+        812051541,
+        834286757,
+        857534977,
+        885528761,
+        908480389,
+        930882860,
+        957066154,
+        979524872,
+        1002987188,
+        1030159793,
+        1052553916,
+        1074636675,
+        1097768918,
+        1123272245,
+        1146220234
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 31_Indianapolis 1_Toledo 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 2_Kalmazoo 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 30_Saginaw 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 31_Indianapolis 63_Jackson 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 65_Traverse_City 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 31_Indianapolis 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 5_Erie 8_Bethany_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 10_Buffalo 0_South_Bend 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 5_Erie 0_South_Bend 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 5_Erie 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 10_Buffalo 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 4_Youngstown 6_Cleveland,7_Akron 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 4_Youngstown 6_Cleveland,7_Akron 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 7_Akron,6_Cleveland 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 7_Akron,6_Cleveland 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 9_Dover 5_Erie 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 29_None 5_Erie 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 10_Buffalo 5_Erie 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 11_Rochester 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 21_Binghampton 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 11_Rochester 21_Binghampton 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 37_Danville 12_Roanoke 37_Danville 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 37_Danville 12_Roanoke 45_Ashburn 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 38_Raleigh 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 14_Fredericksburg 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 14_Fredericksburg 13_Norfolk/VA_Beach 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 14_Fredericksburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 27_Petersburg 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 8_Bethany_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 52_Montreal 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 20_Stamford 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 52_Montreal 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 22_Newark 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 49_New_Haven 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 21_Binghampton 19_New_York_City 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 10_Buffalo 25_Atlantic_City 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 25_Atlantic_City 0_South_Bend 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 13_Norfolk/VA_Beach 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 25_Atlantic_City 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 25_Atlantic_City 8_Bethany_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 9_Dover 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 28_Emporia 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 40_Roanoke_Rapids 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 9_Dover 8_Bethany_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 69_Easton 5_Erie 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 31_Indianapolis 7_Akron 7_Akron 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 33_Culpeper 13_Norfolk/VA_Beach 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 33_Culpeper 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 33_Culpeper 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 47_Staunton 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 39_Rocky_Mount 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 40_Roanoke_Rapids 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 27_Petersburg 39_Rocky_Mount 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 17_Altoona 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 43_Frederick 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 45_Ashburn 33_Culpeper 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 60_Harrisonburg 4_Youngstown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 48_Baltimore 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 45_Ashburn 12_Roanoke,37_Danville 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 8_Bethany_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 50_Hartford 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 56_Providence 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 33_Culpeper 45_Ashburn 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 52_Montreal 18_Poughkeepsie 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 57_Boston 16_Harrisburg 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 53_Albany,55_Syracuse 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 53_Albany,55_Syracuse 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 54_Watertown 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 21_Binghampton 11_Rochester 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 4_Youngstown 55_Syracuse,53_Albany 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 4_Youngstown 55_Syracuse,53_Albany 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 20_Stamford 57_Boston 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 52_Montreal 56_Providence 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 4_Youngstown 63_Jackson 31_Indianapolis 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 31_Indianapolis 30_Saginaw 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 4_Youngstown 30_Saginaw 31_Indianapolis 16_Harrisburg"
+        },
+        {
+            "x": 0.5000000000000001,
+            "cycle": "16_Harrisburg 43_Frederick 25_Atlantic_City 43_Frederick 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 25_Atlantic_City 11_Rochester 25_Atlantic_City 16_Harrisburg"
+        },
+        {
+            "x": 0.5,
+            "cycle": "16_Harrisburg 69_Easton 8_Bethany_Beach 69_Easton 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 10_Buffalo 65_Traverse_City 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 14_Fredericksburg 47_Staunton 14_Fredericksburg 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 21_Binghampton 19_New_York_City 21_Binghampton 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 5_Erie 65_Traverse_City 25_Atlantic_City 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 25_Atlantic_City 4_Youngstown 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 25_Atlantic_City 11_Rochester 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 7_Akron,6_Cleveland 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0.25,
+            "cycle": "16_Harrisburg 25_Atlantic_City 13_Norfolk/VA_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 25_Atlantic_City 8_Bethany_Beach 9_Dover 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 5_Erie 14_Fredericksburg 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 14_Fredericksburg 13_Norfolk/VA_Beach 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0.5000000000000002,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 33_Culpeper 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0.2499999999999999,
+            "cycle": "16_Harrisburg 45_Ashburn 33_Culpeper 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 33_Culpeper 5_Erie 33_Culpeper 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 13_Norfolk/VA_Beach 40_Roanoke_Rapids 13_Norfolk/VA_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0.24999999999999983,
+            "cycle": "16_Harrisburg 27_Petersburg 33_Culpeper 25_Atlantic_City 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 5_Erie 28_Emporia 14_Fredericksburg 16_Harrisburg"
+        },
+        {
+            "x": 0.25,
+            "cycle": "16_Harrisburg 5_Erie 40_Roanoke_Rapids 33_Culpeper 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 40_Roanoke_Rapids 14_Fredericksburg 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 52_Montreal 18_Poughkeepsie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 57_Boston 20_Stamford 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 22_Newark 52_Montreal 18_Poughkeepsie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 56_Providence 52_Montreal 18_Poughkeepsie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 31_Indianapolis 30_Saginaw 31_Indianapolis 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 31_Indianapolis 63_Jackson 31_Indianapolis 16_Harrisburg"
+        },
+        {
+            "x": 0.7500000000000001,
+            "cycle": "16_Harrisburg 33_Culpeper 45_Ashburn 33_Culpeper 16_Harrisburg"
+        },
+        {
+            "x": 0.25000000000000006,
+            "cycle": "16_Harrisburg 33_Culpeper 28_Emporia 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 29_None 25_Atlantic_City 29_None 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 45_Ashburn 12_Roanoke 45_Ashburn 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 33_Culpeper 47_Staunton 33_Culpeper 16_Harrisburg"
+        },
+        {
+            "x": 0.75,
+            "cycle": "16_Harrisburg 40_Roanoke_Rapids 5_Erie 40_Roanoke_Rapids 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 14_Fredericksburg 5_Erie 14_Fredericksburg 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 38_Raleigh 28_Emporia 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 38_Raleigh 5_Erie 38_Raleigh 16_Harrisburg"
+        },
+        {
+            "x": 0.25000000000000006,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 25_Atlantic_City 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0.2499999999999999,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 33_Culpeper 45_Ashburn 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 18_Poughkeepsie 52_Montreal 22_Newark 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 5_Erie 11_Rochester 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 5_Erie 30_Saginaw 4_Youngstown 16_Harrisburg"
+        },
+        {
+            "x": 1,
+            "cycle": "16_Harrisburg 21_Binghampton 54_Watertown 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 57_Boston 20_Stamford 21_Binghampton 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 5_Erie 48_Baltimore 5_Erie 16_Harrisburg"
+        },
+        {
+            "x": 0,
+            "cycle": "16_Harrisburg 8_Bethany_Beach 9_Dover 8_Bethany_Beach 16_Harrisburg"
+        },
+        {
+            "x": 0.5,
+            "cycle": "16_Harrisburg 29_None 61_Salisbury 29_None 16_Harrisburg"
+        }
+    ],
+    "values": [
+        45,
+        41,
+        41,
+        39,
+        38,
+        36,
+        34,
+        34,
+        34,
+        34,
+        33.5,
+        33.5,
+        33.5,
+        33.5,
+        33.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        31.5,
+        31.166666666666664,
+        30.166666666666664,
+        30.166666666666664,
+        30.166666666666664,
+        29.666666666666664,
+        29.666666666666664,
+        29.666666666666664,
+        29.5,
+        29.16666666666666,
+        29.16666666666666,
+        29.16666666666666,
+        29,
+        29,
+        29,
+        29,
+        29,
+        28.83333333333333,
+        28.75,
+        28.75,
+        28.25,
+        28.25,
+        28.25,
+        28.25,
+        28.25,
+        28.25,
+        28.25
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 4624443,
+    "lpBound": 28.25
+}

@@ -1,0 +1,82 @@
+{
+    "initialCoverSize": 18,
+    "times": [1340239],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 2_Stuttgart 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 5_Cologne 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 2_Stuttgart 5_Cologne 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 6_Frankfurt 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 5_Cologne,6_Frankfurt 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 5_Cologne,14_Dusseldorf 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 5_Cologne 2_Stuttgart 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 6_Frankfurt,5_Cologne 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 9_Paris 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 7_Dublin 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 7_Dublin,8_London 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 8_London,7_Dublin 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 7_Dublin 2_Stuttgart 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 2_Stuttgart 7_Dublin 0_Hamburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hamburg 10_Rotterdam 0_Hamburg 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 2_Stuttgart 11_The_Hague 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 11_The_Hague 2_Stuttgart 0_Hamburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hamburg 14_Dusseldorf,5_Cologne 0_Hamburg"
+        }
+    ],
+    "values": [10],
+    "initialCoverSeg": 4,
+    "runtime": 86496,
+    "lpBound": 10
+}

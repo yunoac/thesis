@@ -1,0 +1,136 @@
+{
+    "initialCoverSize": 28,
+    "times": [
+        1408840,
+        3902520,
+        6373719,
+        8825570,
+        11284630,
+        13739791
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 1_Thi'bodaux,0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 3_Gulfport,0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 2_Covington 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 5_Lafayette 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 2_Covington 3_Gulfport,0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 26_Slidell 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 2_Covington 5_Lafayette 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 4_Baton_Rouge 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 5_Lafayette 2_Covington 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 8_Alexandria 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 10_San_Antonio 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 9_Derry 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans,1_Thi'bodaux 9_Derry 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 9_Derry 1_Thi'bodaux,0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans,1_Thi'bodaux 11_Austin 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 11_Austin 1_Thi'bodaux,0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 19_Fort_Polk 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans,3_Gulfport 2_Covington 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 33_Ruston 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 31_Bossier_City 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 32_Minden 0_New_Orleans 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 31_Bossier_City 33_Ruston 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 33_Ruston 31_Bossier_City 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 26_Slidell 19_Fort_Polk 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 9_Derry 4_Baton_Rouge 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 11_Austin 4_Baton_Rouge 0_New_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_Orleans 2_Covington 8_Alexandria 0_New_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_Orleans 4_Baton_Rouge 9_Derry 0_New_Orleans"
+        }
+    ],
+    "values": [
+        11,
+        9,
+        8,
+        8,
+        8,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 415763,
+    "lpBound": 8
+}

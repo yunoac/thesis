@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 16946415,
+            "dest": "6_IVM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NLS",
+            "nbpSR": 1,
+            "runtime": 27495895,
+            "dest": "20_POR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_HLT",
+            "nbpSR": 2,
+            "runtime": 40087480,
+            "dest": "24_AKL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_LCN",
+            "nbpSR": 1,
+            "runtime": 27974989,
+            "dest": "16_WRK",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 45075567,
+            "dest": "21_NAP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_AKL",
+            "nbpSR": 1,
+            "runtime": 118685038,
+            "dest": "15_NSH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_MUP",
+            "nbpSR": 2,
+            "runtime": 41600612,
+            "dest": "0_WLG",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_LAX",
+            "nbpSR": 1,
+            "runtime": 20842973,
+            "dest": "9_NLS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_MUP",
+            "nbpSR": 2,
+            "runtime": 45916409,
+            "dest": "22_ROT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_AVL",
+            "nbpSR": 1,
+            "runtime": 44360052,
+            "dest": "11_MTA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_MUP",
+            "nbpSR": 1,
+            "runtime": 45944599,
+            "dest": "13_WAG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_WRK",
+            "nbpSR": 1,
+            "runtime": 17002156,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_WLG",
+            "nbpSR": 1,
+            "runtime": 60464074,
+            "dest": "15_NSH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_TAU",
+            "nbpSR": 1,
+            "runtime": 21724437,
+            "dest": "0_WLG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AVL",
+            "nbpSR": 2,
+            "runtime": 35317934,
+            "dest": "23_HLT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 44961555,
+            "dest": "20_POR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 1,
+            "runtime": 40083800,
+            "dest": "16_WRK",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_LCN",
+            "nbpSR": 1,
+            "runtime": 26620449,
+            "dest": "10_Syd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 18901466,
+            "dest": "14_MUP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_MUP",
+            "nbpSR": 2,
+            "runtime": 42028906,
+            "dest": "23_HLT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 46307410,
+            "dest": "4_LCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 20673155,
+            "dest": "11_MTA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 2,
+            "runtime": 44582816,
+            "dest": "5_CHC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_HLT",
+            "nbpSR": 1,
+            "runtime": 35242240,
+            "dest": "1_DUD",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_WRK",
+            "nbpSR": 1,
+            "runtime": 17006445,
+            "dest": "0_WLG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 2,
+            "runtime": 50359833,
+            "dest": "5_CHC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 17615165,
+            "dest": "22_ROT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_IVM",
+            "nbpSR": 1,
+            "runtime": 30701914,
+            "dest": "24_AKL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 17230941,
+            "dest": "11_MTA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AVL",
+            "nbpSR": 2,
+            "runtime": 48031435,
+            "dest": "24_AKL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_LCN",
+            "nbpSR": 1,
+            "runtime": 26799052,
+            "dest": "17_LAX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 16917987,
+            "dest": "17_LAX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_GIS",
+            "nbpSR": 1,
+            "runtime": 18390106,
+            "dest": "12_NPL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_ROT",
+            "nbpSR": 1,
+            "runtime": 45678710,
+            "dest": "18_TAU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_WLG",
+            "nbpSR": 2,
+            "runtime": 68089749,
+            "dest": "9_NLS",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_PNR",
+            "nbpSR": 2,
+            "runtime": 72639338,
+            "dest": "21_NAP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 17275833,
+            "dest": "3_PNR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_WLG",
+            "nbpSR": 2,
+            "runtime": 54558504,
+            "dest": "14_MUP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_NLS",
+            "nbpSR": 1,
+            "runtime": 32559981,
+            "dest": "18_TAU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_ROT",
+            "nbpSR": 2,
+            "runtime": 41871903,
+            "dest": "23_HLT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_AVL",
+            "nbpSR": 1,
+            "runtime": 41762394,
+            "dest": "1_DUD",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_CHC",
+            "nbpSR": 1,
+            "runtime": 52768460,
+            "dest": "10_Syd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 16844732,
+            "dest": "4_LCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 16900852,
+            "dest": "18_TAU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_PNR",
+            "nbpSR": 2,
+            "runtime": 60805888,
+            "dest": "22_ROT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_TPO",
+            "nbpSR": 1,
+            "runtime": 16789971,
+            "dest": "2_AVL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_TPO",
+            "nbpSR": 1,
+            "runtime": 16792595,
+            "dest": "9_NLS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 17199532,
+            "dest": "2_AVL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NLS",
+            "nbpSR": 1,
+            "runtime": 30574371,
+            "dest": "7_INV",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_ROT",
+            "nbpSR": 2,
+            "runtime": 41963955,
+            "dest": "0_WLG",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_WLG",
+            "nbpSR": 1,
+            "runtime": 62958343,
+            "dest": "12_NPL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_LAX",
+            "nbpSR": 1,
+            "runtime": 16841702,
+            "dest": "11_MTA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 16688046,
+            "dest": "24_AKL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Syd",
+            "nbpSR": 1,
+            "runtime": 16725058,
+            "dest": "22_ROT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 16804685,
+            "dest": "18_TAU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_MTA",
+            "nbpSR": 1,
+            "runtime": 17567927,
+            "dest": "16_WRK",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_HLT",
+            "nbpSR": 2,
+            "runtime": 32754909,
+            "dest": "9_NLS",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 16690978,
+            "dest": "20_POR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NLS",
+            "nbpSR": 1,
+            "runtime": 30889415,
+            "dest": "11_MTA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_WRK",
+            "nbpSR": 1,
+            "runtime": 18501787,
+            "dest": "17_LAX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 17238114,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 43809822,
+            "dest": "21_NAP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 17844629,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_IVM",
+            "nbpSR": 1,
+            "runtime": 30841827,
+            "dest": "15_NSH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 18197631,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_WLG",
+            "nbpSR": 1,
+            "runtime": 69436355,
+            "dest": "10_Syd",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_MTA",
+            "nbpSR": 1,
+            "runtime": 16694605,
+            "dest": "20_POR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Syd",
+            "nbpSR": 1,
+            "runtime": 16913019,
+            "dest": "0_WLG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_MTA",
+            "nbpSR": 1,
+            "runtime": 16658688,
+            "dest": "23_HLT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_LAX",
+            "nbpSR": 1,
+            "runtime": 37378271,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 1,
+            "runtime": 47089904,
+            "dest": "7_INV",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_WRK",
+            "nbpSR": 1,
+            "runtime": 17128648,
+            "dest": "24_AKL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 17429222,
+            "dest": "22_ROT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_HLT",
+            "nbpSR": 1,
+            "runtime": 35303204,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_WRK",
+            "nbpSR": 1,
+            "runtime": 17859098,
+            "dest": "4_LCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_WAG",
+            "nbpSR": 1,
+            "runtime": 18109486,
+            "dest": "2_AVL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 45361458,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_ROT",
+            "nbpSR": 1,
+            "runtime": 45915853,
+            "dest": "15_NSH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_NSH",
+            "nbpSR": 1,
+            "runtime": 39578352,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_LAX",
+            "nbpSR": 1,
+            "runtime": 17069739,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_ROT",
+            "nbpSR": 1,
+            "runtime": 48306938,
+            "dest": "13_WAG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_MTA",
+            "nbpSR": 1,
+            "runtime": 17126535,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_HLT",
+            "nbpSR": 1,
+            "runtime": 29858403,
+            "dest": "13_WAG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_AKL",
+            "nbpSR": 1,
+            "runtime": 106557764,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_MTA",
+            "nbpSR": 1,
+            "runtime": 17428467,
+            "dest": "4_LCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Syd",
+            "nbpSR": 1,
+            "runtime": 17103270,
+            "dest": "6_IVM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Syd",
+            "nbpSR": 1,
+            "runtime": 17048468,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_IVM",
+            "nbpSR": 1,
+            "runtime": 26871655,
+            "dest": "17_LAX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NLS",
+            "nbpSR": 2,
+            "runtime": 34388292,
+            "dest": "23_HLT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_DUD",
+            "nbpSR": 1,
+            "runtime": 53519737,
+            "dest": "14_MUP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_TAU",
+            "nbpSR": 1,
+            "runtime": 17482825,
+            "dest": "17_LAX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_DUD",
+            "nbpSR": 1,
+            "runtime": 63255186,
+            "dest": "8_TPO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 1,
+            "runtime": 45595436,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 16933660,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_INV",
+            "nbpSR": 1,
+            "runtime": 17142954,
+            "dest": "14_MUP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_NAP",
+            "nbpSR": 2,
+            "runtime": 41928673,
+            "dest": "3_PNR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_IVM",
+            "nbpSR": 1,
+            "runtime": 28051551,
+            "dest": "14_MUP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_NPL",
+            "nbpSR": 1,
+            "runtime": 20422261,
+            "dest": "7_INV",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_PNR",
+            "nbpSR": 2,
+            "runtime": 65128098,
+            "dest": "2_AVL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_POR",
+            "nbpSR": 1,
+            "runtime": 17420865,
+            "dest": "19_GIS",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

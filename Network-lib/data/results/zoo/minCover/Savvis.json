@@ -1,0 +1,86 @@
+{
+    "initialCoverSize": 16,
+    "times": [
+        1167637,
+        1711324,
+        2236419,
+        2733994,
+        3256628
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_Philadelphia,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dallas 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Austin 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York,1_Philadelphia 8_Dallas 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_Los_Angeles 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Champaign 0_New_York 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 15_Salt_Lake_City 12_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 12_Los_Angeles 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_San_Diego 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_San_Diego 1_Philadelphia 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 9_Champaign 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 1_Philadelphia 13_San_Diego 0_New_York"
+        }
+    ],
+    "values": [
+        6,
+        5,
+        5,
+        4,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 143426,
+    "lpBound": 4
+}

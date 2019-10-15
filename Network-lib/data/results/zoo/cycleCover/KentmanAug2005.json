@@ -1,0 +1,247 @@
+{
+    "initialCoverSize": 37,
+    "times": [
+        2072350,
+        4389369,
+        6597739,
+        8909372,
+        11141108,
+        13476589,
+        15900787,
+        18185493,
+        20434034,
+        22746723,
+        25088597,
+        27426372,
+        29738841,
+        31928685,
+        34250869,
+        36423560,
+        38673500
+    ],
+    "finalCoverSize": 10,
+    "minSegCycles": [
+        "0_KIAD-C 1_Canterbury_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 3_Mid_Kent_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 5_KIAD-O 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 6_Thanet_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 7_Hilderstone_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 8_Kent_ACL 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 9_Hadlow_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 13_West_Kent_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 17_Dunkirk 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 16_Beacon_Hill 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 9_Hadlow_College 0_KIAD-C",
+        "0_KIAD-C 16_Beacon_Hill 4_South_Kent_College_-_Ashford 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 17_Dunkirk 0_KIAD-C",
+        "0_KIAD-C 19_KIAD-R 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 17_Dunkirk 4_South_Kent_College_-_Ashford 0_KIAD-C",
+        "0_KIAD-C 18_NW_Kent_College_-_Dartford 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 24_EIS-Maidstone 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 27_Dorton_College 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 22_CCCU-C 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 9_Hadlow_College 4_South_Kent_College_-_Ashford 0_KIAD-C",
+        "0_KIAD-C 13_West_Kent_College 5_KIAD-O 0_KIAD-C",
+        "0_KIAD-C 3_Mid_Kent_College 1_Canterbury_College 0_KIAD-C",
+        "0_KIAD-C 6_Thanet_College 1_Canterbury_College 0_KIAD-C",
+        "0_KIAD-C 6_Thanet_College 3_Mid_Kent_College 0_KIAD-C",
+        "0_KIAD-C 8_Kent_ACL 7_Hilderstone_College 0_KIAD-C",
+        "0_KIAD-C 18_NW_Kent_College_-_Dartford 7_Hilderstone_College 0_KIAD-C",
+        "0_KIAD-C 18_NW_Kent_College_-_Dartford 8_Kent_ACL 0_KIAD-C",
+        "0_KIAD-C 22_CCCU-C 9_Hadlow_College 0_KIAD-C",
+        "0_KIAD-C 19_KIAD-R 17_Dunkirk 0_KIAD-C",
+        "0_KIAD-C 17_Dunkirk 16_Beacon_Hill 0_KIAD-C",
+        "0_KIAD-C 24_EIS-Maidstone 16_Beacon_Hill 0_KIAD-C",
+        "0_KIAD-C 19_KIAD-R 4_South_Kent_College_-_Ashford 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 19_KIAD-R 0_KIAD-C",
+        "0_KIAD-C 27_Dorton_College 24_EIS-Maidstone 0_KIAD-C",
+        "0_KIAD-C 27_Dorton_College 16_Beacon_Hill 0_KIAD-C",
+        "0_KIAD-C 19_KIAD-R 1_Canterbury_College 0_KIAD-C"
+    ],
+    "values": [
+        16,
+        14,
+        13,
+        13,
+        12.5,
+        11.5,
+        11.5,
+        11,
+        10,
+        10,
+        10,
+        10,
+        10,
+        9.5,
+        9,
+        8.75,
+        8.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 58637743,
+    "lpBound": 8.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 1_Canterbury_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 3_Mid_Kent_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 4_South_Kent_College_-_Ashford 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 5_KIAD-O 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 6_Thanet_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 7_Hilderstone_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 8_Kent_ACL 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 9_Hadlow_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 13_West_Kent_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 17_Dunkirk 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 4_South_Kent_College_-_Ashford 16_Beacon_Hill 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 4_South_Kent_College_-_Ashford 9_Hadlow_College 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 16_Beacon_Hill 4_South_Kent_College_-_Ashford 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 4_South_Kent_College_-_Ashford 17_Dunkirk 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 19_KIAD-R 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 17_Dunkirk 4_South_Kent_College_-_Ashford 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 18_NW_Kent_College_-_Dartford 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 24_EIS-Maidstone 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 27_Dorton_College 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 22_CCCU-C 0_KIAD-C 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 9_Hadlow_College 4_South_Kent_College_-_Ashford 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 13_West_Kent_College 5_KIAD-O 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 3_Mid_Kent_College 1_Canterbury_College 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 6_Thanet_College 1_Canterbury_College 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 6_Thanet_College 3_Mid_Kent_College 0_KIAD-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KIAD-C 8_Kent_ACL 7_Hilderstone_College 0_KIAD-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KIAD-C 18_NW_Kent_College_-_Dartford 7_Hilderstone_College 0_KIAD-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KIAD-C 18_NW_Kent_College_-_Dartford 8_Kent_ACL 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 22_CCCU-C 9_Hadlow_College 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 19_KIAD-R 17_Dunkirk 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 17_Dunkirk 16_Beacon_Hill 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 24_EIS-Maidstone 16_Beacon_Hill 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 19_KIAD-R 4_South_Kent_College_-_Ashford 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 4_South_Kent_College_-_Ashford 19_KIAD-R 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 27_Dorton_College 24_EIS-Maidstone 0_KIAD-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KIAD-C 27_Dorton_College 16_Beacon_Hill 0_KIAD-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KIAD-C 19_KIAD-R 1_Canterbury_College 0_KIAD-C"
+        }
+    ],
+    "greedySolution": [
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 9_Hadlow_College 0_KIAD-C",
+        "0_KIAD-C 4_South_Kent_College_-_Ashford 17_Dunkirk 0_KIAD-C",
+        "0_KIAD-C 17_Dunkirk 4_South_Kent_College_-_Ashford 0_KIAD-C",
+        "0_KIAD-C 22_CCCU-C 0_KIAD-C 0_KIAD-C",
+        "0_KIAD-C 13_West_Kent_College 5_KIAD-O 0_KIAD-C",
+        "0_KIAD-C 6_Thanet_College 3_Mid_Kent_College 0_KIAD-C",
+        "0_KIAD-C 18_NW_Kent_College_-_Dartford 7_Hilderstone_College 0_KIAD-C",
+        "0_KIAD-C 18_NW_Kent_College_-_Dartford 8_Kent_ACL 0_KIAD-C",
+        "0_KIAD-C 27_Dorton_College 24_EIS-Maidstone 0_KIAD-C",
+        "0_KIAD-C 19_KIAD-R 1_Canterbury_College 0_KIAD-C"
+    ]
+}

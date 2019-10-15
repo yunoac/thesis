@@ -1,0 +1,386 @@
+{
+    "initialCoverSize": 69,
+    "times": [
+        1615064,
+        2771520,
+        3967073,
+        4990577,
+        5897432,
+        6866328,
+        7795153,
+        8751102,
+        9703458,
+        10654346,
+        11590544,
+        12488080,
+        13451730,
+        14451756,
+        15445090,
+        16432570,
+        17313845,
+        18300106,
+        19322749,
+        20382791,
+        21443616,
+        22539953,
+        23661369,
+        24793051,
+        25882810,
+        26997299,
+        28117065,
+        29194117,
+        30352634,
+        31473821,
+        32644282,
+        33902049,
+        35083239,
+        36159874,
+        37303735,
+        38417412,
+        39823733,
+        41618123,
+        43711530,
+        44980830,
+        46206108,
+        47500745,
+        49470183,
+        51361497,
+        53047223,
+        54179513,
+        56265378,
+        58018324,
+        59894415
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston,0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 3_New_York 0_Miami 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 4_Paris 0_Miami 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 6_Amsterdam 0_Miami 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 1_London 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London,3_New_York 4_Paris 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London,4_Paris 3_New_York 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London,3_New_York 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London,6_Amsterdam 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London,3_New_York 5_Milan 6_Amsterdam,1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 9_Singapore,8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 10_Los_Angeles 1_London 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 10_Los_Angeles 8_Hong_Kong 1_London 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 17_Las_Vegas 1_London 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 10_Los_Angeles 13_Seattle 1_London 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 16_Houston,0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 1_London 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 8_Hong_Kong 1_London 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 1_London 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 10_Los_Angeles 1_London 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 17_Las_Vegas 15_San_Jose 9_Singapore 15_San_Jose 9_Singapore 15_San_Jose 9_Singapore 15_San_Jose 1_London"
+        },
+        {
+            "x": 0.1816770186335404,
+            "cycle": "1_London 13_Seattle 16_Houston 13_Seattle 16_Houston 13_Seattle 16_Houston 13_Seattle 4_Paris 1_London"
+        },
+        {
+            "x": 0.28778467908902694,
+            "cycle": "1_London 17_Las_Vegas 13_Seattle 17_Las_Vegas 13_Seattle 17_Las_Vegas 13_Seattle 17_Las_Vegas 4_Paris 1_London"
+        },
+        {
+            "x": 0.24603174603174602,
+            "cycle": "1_London 10_Los_Angeles 8_Hong_Kong 18_Phoenix 8_Hong_Kong 18_Phoenix 8_Hong_Kong 18_Phoenix 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 18_Phoenix 12_Chicago 18_Phoenix 12_Chicago 18_Phoenix 12_Chicago 18_Phoenix 11_Kansas_City 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 4_Paris 3_New_York 8_Hong_Kong 4_Paris 3_New_York 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0.2660455486542443,
+            "cycle": "1_London 10_Los_Angeles 6_Amsterdam 5_Milan 6_Amsterdam 5_Milan 6_Amsterdam 5_Milan 6_Amsterdam 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 4_Paris 8_Hong_Kong 4_Paris 8_Hong_Kong 6_Amsterdam 3_New_York 5_Milan 4_Paris 1_London"
+        },
+        {
+            "x": 0.026153094087876652,
+            "cycle": "1_London 6_Amsterdam 3_New_York 6_Amsterdam 3_New_York 6_Amsterdam 3_New_York 6_Amsterdam 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 20_Atlanta 8_Hong_Kong 20_Atlanta 8_Hong_Kong 20_Atlanta 8_Hong_Kong 19_Dallas 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 3_New_York 4_Paris 3_New_York 4_Paris 3_New_York 4_Paris 3_New_York 4_Paris 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 9_Singapore 16_Houston 0_Miami 16_Houston 0_Miami 16_Houston 0_Miami 1_London"
+        },
+        {
+            "x": 0.10686968023924547,
+            "cycle": "1_London 6_Amsterdam 0_Miami 6_Amsterdam 0_Miami 6_Amsterdam 0_Miami 6_Amsterdam 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 10_Los_Angeles 3_New_York 0_Miami 16_Houston 10_Los_Angeles 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 4_Paris 3_New_York 5_Milan 3_New_York 5_Milan 3_New_York 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0.044786634460547495,
+            "cycle": "1_London 3_New_York 0_Miami 3_New_York 0_Miami 3_New_York 0_Miami 3_New_York 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 13_Seattle 9_Singapore 12_Chicago 0_Miami 16_Houston 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 13_Seattle 18_Phoenix 8_Hong_Kong 13_Seattle 18_Phoenix 8_Hong_Kong 13_Seattle 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 3_New_York 15_San_Jose 3_New_York 15_San_Jose 3_New_York 15_San_Jose 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 10_Los_Angeles 8_Hong_Kong 16_Houston 9_Singapore 13_Seattle 10_Los_Angeles 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 0_Miami 16_Houston 10_Los_Angeles 13_Seattle 18_Phoenix 15_San_Jose 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 0_Miami 16_Houston 13_Seattle 3_New_York 5_Milan 4_Paris 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 8_Hong_Kong 10_Los_Angeles 13_Seattle 9_Singapore 16_Houston 8_Hong_Kong 10_Los_Angeles 13_Seattle 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 18_Phoenix 4_Paris 13_Seattle 18_Phoenix 4_Paris 13_Seattle 20_Atlanta 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 9_Singapore 11_Kansas_City 9_Singapore 11_Kansas_City 9_Singapore 13_Seattle 20_Atlanta 1_London"
+        },
+        {
+            "x": 0.06004140786749477,
+            "cycle": "1_London 4_Paris 0_Miami 16_Houston 8_Hong_Kong 10_Los_Angeles 4_Paris 0_Miami 4_Paris 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 4_Paris 5_Milan 3_New_York 8_Hong_Kong 10_Los_Angeles 4_Paris 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0.1009316770186336,
+            "cycle": "1_London 6_Amsterdam 5_Milan 3_New_York 8_Hong_Kong 10_Los_Angeles 6_Amsterdam 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0.1009316770186336,
+            "cycle": "1_London 8_Hong_Kong 10_Los_Angeles 3_New_York 5_Milan 6_Amsterdam 3_New_York 5_Milan 6_Amsterdam 1_London"
+        },
+        {
+            "x": 0.04054520358868178,
+            "cycle": "1_London 10_Los_Angeles 13_Seattle 16_Houston 8_Hong_Kong 16_Houston 8_Hong_Kong 16_Houston 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0.03203358638141248,
+            "cycle": "1_London 10_Los_Angeles 13_Seattle 3_New_York 10_Los_Angeles 13_Seattle 3_New_York 10_Los_Angeles 13_Seattle 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 10_Los_Angeles 4_Paris 10_Los_Angeles 4_Paris 10_Los_Angeles 14_San_Francisco 16_Houston 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 4_Paris 15_San_Jose 9_Singapore 12_Chicago 9_Singapore 12_Chicago 16_Houston 0_Miami 1_London"
+        },
+        {
+            "x": 0.3333333333333334,
+            "cycle": "1_London 4_Paris 8_Hong_Kong 16_Houston 0_Miami 16_Houston 0_Miami 16_Houston 0_Miami 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 9_Singapore 20_Atlanta 13_Seattle 10_Los_Angeles 20_Atlanta 13_Seattle 10_Los_Angeles 1_London"
+        },
+        {
+            "x": 0.015873015873015917,
+            "cycle": "1_London 17_Las_Vegas 3_New_York 17_Las_Vegas 3_New_York 17_Las_Vegas 3_New_York 17_Las_Vegas 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0.2660455486542443,
+            "cycle": "1_London 8_Hong_Kong 3_New_York 5_Milan 3_New_York 5_Milan 3_New_York 5_Milan 3_New_York 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 9_Singapore 16_Houston 12_Chicago 0_Miami 16_Houston 13_Seattle 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 0_Miami 16_Houston 0_Miami 16_Houston 14_San_Francisco 10_Los_Angeles 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 13_Seattle 20_Atlanta 9_Singapore 20_Atlanta 9_Singapore 20_Atlanta 9_Singapore 15_San_Jose 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 13_Seattle 20_Atlanta 13_Seattle 20_Atlanta 13_Seattle 10_Los_Angeles 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 0_Miami 16_Houston 9_Singapore 15_San_Jose 3_New_York 0_Miami 16_Houston 13_Seattle 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 9_Singapore 12_Chicago 9_Singapore 12_Chicago 9_Singapore 16_Houston 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 9_Singapore 13_Seattle 3_New_York 15_San_Jose 9_Singapore 16_Houston 8_Hong_Kong 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 10_Los_Angeles 13_Seattle 9_Singapore 13_Seattle 9_Singapore 13_Seattle 9_Singapore 13_Seattle 1_London"
+        },
+        {
+            "x": 0.13664596273291918,
+            "cycle": "1_London 0_Miami 16_Houston 13_Seattle 3_New_York 0_Miami 16_Houston 13_Seattle 10_Los_Angeles 1_London"
+        },
+        {
+            "x": 0.004270186335403756,
+            "cycle": "1_London 8_Hong_Kong 4_Paris 8_Hong_Kong 4_Paris 8_Hong_Kong 4_Paris 8_Hong_Kong 4_Paris 1_London"
+        },
+        {
+            "x": 0,
+            "cycle": "1_London 15_San_Jose 9_Singapore 15_San_Jose 9_Singapore 15_San_Jose 9_Singapore 15_San_Jose 3_New_York 1_London"
+        }
+    ],
+    "values": [
+        10,
+        9.000000000000002,
+        8,
+        5.555555555555555,
+        5,
+        5,
+        4.833333333333333,
+        4.666666666666668,
+        3.833333333333333,
+        3.7827380952380953,
+        3.714285714285715,
+        3.6944444444444455,
+        3.541666666666667,
+        3.1527777777777777,
+        2.981829573934837,
+        2.513706140350877,
+        2.430372807017544,
+        2.404513888888889,
+        2.3996248403575984,
+        2.380621693121693,
+        2.372990430053905,
+        2.365276569996657,
+        2.3470634892896536,
+        2.326263258691809,
+        2.3252513284597143,
+        2.322699228442307,
+        2.3218229040938327,
+        2.3218229040938327,
+        2.3218229040938323,
+        2.320324254534697,
+        2.3188869032973614,
+        2.313101571696789,
+        2.309658005175975,
+        2.309658005175974,
+        2.28930171841426,
+        2.2808473817352253,
+        2.2772778038146093,
+        2.269158541619428,
+        2.26863590847705,
+        2.26336487156311,
+        2.259583356659016,
+        2.2586887835703,
+        2.2569800361204666,
+        2.2569800361204666,
+        2.2561908416474803,
+        2.2555088852988696,
+        2.2503177354130557,
+        2.2499999999999996,
+        2.25
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 166987,
+    "lpBound": 2.25
+}

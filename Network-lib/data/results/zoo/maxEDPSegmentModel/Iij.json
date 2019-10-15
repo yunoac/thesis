@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "26_PaloAlto_DC",
+            "nbpSR": 2,
+            "runtime": 60580246,
+            "dest": "35_Okayama",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_Sappora_DC",
+            "nbpSR": 1,
+            "runtime": 58443561,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 1,
+            "runtime": 56215377,
+            "dest": "13_JPNAP_Tokyo_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Nagoya_DC",
+            "nbpSR": 1,
+            "runtime": 146852199,
+            "dest": "3_Saitama_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Tokyo",
+            "nbpSR": 2,
+            "runtime": 1272280069,
+            "dest": "36_Hiroshima",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Saitama_DC",
+            "nbpSR": 1,
+            "runtime": 49604841,
+            "dest": "25_San_Jose_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Shinsaibashi_DC",
+            "nbpSR": 8,
+            "runtime": 464104591,
+            "dest": "6_Shibuya_DC",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "14_NYIIX",
+            "nbpSR": 1,
+            "runtime": 34811942,
+            "dest": "35_Okayama",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Nagoya_DC",
+            "nbpSR": 2,
+            "runtime": 140794558,
+            "dest": "8_Yokohama_DC2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Tokyo_DC1",
+            "nbpSR": 2,
+            "runtime": 51025868,
+            "dest": "30_Tokyo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "36_Hiroshima",
+            "nbpSR": 1,
+            "runtime": 63039946,
+            "dest": "12_JPNAP_Osaka",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Kanazawa",
+            "nbpSR": 1,
+            "runtime": 70983355,
+            "dest": "4_Nerima_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PAIX",
+            "nbpSR": 1,
+            "runtime": 30485107,
+            "dest": "8_Yokohama_DC2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Chiba",
+            "nbpSR": 1,
+            "runtime": 63397162,
+            "dest": "17_dix-ie",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Nerima_DC",
+            "nbpSR": 1,
+            "runtime": 33342992,
+            "dest": "10_JPNAP_Tokyo_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Yokohama_DC1",
+            "nbpSR": 2,
+            "runtime": 49846459,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_dix-ie",
+            "nbpSR": 1,
+            "runtime": 41558669,
+            "dest": "18_Equinix_exchange",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Newyork_DC",
+            "nbpSR": 1,
+            "runtime": 131387788,
+            "dest": "29_Chiba",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "26_PaloAlto_DC",
+            "nbpSR": 2,
+            "runtime": 71171411,
+            "dest": "20_Fukuoka_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Nagoya_DC",
+            "nbpSR": 2,
+            "runtime": 183756952,
+            "dest": "33_Hamamatsu",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 76741038,
+            "dest": "20_Fukuoka_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 33175311,
+            "dest": "18_Equinix_exchange",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 36157622,
+            "dest": "33_Hamamatsu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Osaka",
+            "nbpSR": 2,
+            "runtime": 630975827,
+            "dest": "32_Kanazawa",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_NYIIX",
+            "nbpSR": 1,
+            "runtime": 28774178,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tokyo_DC1",
+            "nbpSR": 2,
+            "runtime": 49951958,
+            "dest": "25_San_Jose_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 1,
+            "runtime": 89389932,
+            "dest": "3_Saitama_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_Sappora_DC",
+            "nbpSR": 2,
+            "runtime": 55816398,
+            "dest": "18_Equinix_exchange",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Shinsaibashi_DC",
+            "nbpSR": 2,
+            "runtime": 452304587,
+            "dest": "2_Sendai_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 28856938,
+            "dest": "17_dix-ie",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_JPNAP_Tokyo_2",
+            "nbpSR": 1,
+            "runtime": 28537003,
+            "dest": "19_Newyork_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Fukuoka_DC",
+            "nbpSR": 1,
+            "runtime": 116199303,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_China",
+            "nbpSR": 1,
+            "runtime": 33997455,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Kanazawa",
+            "nbpSR": 1,
+            "runtime": 63527452,
+            "dest": "27_Okinawa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_LA_DC",
+            "nbpSR": 1,
+            "runtime": 366222224,
+            "dest": "13_JPNAP_Tokyo_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Hamamatsu",
+            "nbpSR": 2,
+            "runtime": 77105979,
+            "dest": "5_Yokohama_DC1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_NYIIX",
+            "nbpSR": 1,
+            "runtime": 38415989,
+            "dest": "10_JPNAP_Tokyo_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_JPNAP_Tokyo_1",
+            "nbpSR": 1,
+            "runtime": 29692277,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_dix-ie",
+            "nbpSR": 1,
+            "runtime": 35630719,
+            "dest": "27_Okinawa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Toyama",
+            "nbpSR": 1,
+            "runtime": 61551227,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Ikebukuro_DC",
+            "nbpSR": 2,
+            "runtime": 125440561,
+            "dest": "28_Sappora_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "33_Hamamatsu",
+            "nbpSR": 2,
+            "runtime": 74880938,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 40263982,
+            "dest": "21_Shinsaibashi_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tokyo_DC1",
+            "nbpSR": 2,
+            "runtime": 56205338,
+            "dest": "34_Osaka",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_PAIX",
+            "nbpSR": 1,
+            "runtime": 28838603,
+            "dest": "22_Kyoto_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Nagoya_DC",
+            "nbpSR": 2,
+            "runtime": 171178795,
+            "dest": "22_Kyoto_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_China",
+            "nbpSR": 1,
+            "runtime": 37095771,
+            "dest": "28_Sappora_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Toyama",
+            "nbpSR": 2,
+            "runtime": 80522198,
+            "dest": "21_Shinsaibashi_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Tokyo_DC2",
+            "nbpSR": 1,
+            "runtime": 50865626,
+            "dest": "30_Tokyo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Okinawa",
+            "nbpSR": 1,
+            "runtime": 33318906,
+            "dest": "29_Chiba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Toyama",
+            "nbpSR": 1,
+            "runtime": 78818139,
+            "dest": "4_Nerima_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 1,
+            "runtime": 59971978,
+            "dest": "12_JPNAP_Osaka",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 58731591,
+            "dest": "8_Yokohama_DC2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_PAIX",
+            "nbpSR": 1,
+            "runtime": 32362733,
+            "dest": "5_Yokohama_DC1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 2,
+            "runtime": 63108495,
+            "dest": "24_LA_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_PAIX",
+            "nbpSR": 1,
+            "runtime": 29457943,
+            "dest": "36_Hiroshima",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_JPNAP_Osaka",
+            "nbpSR": 1,
+            "runtime": 37254385,
+            "dest": "11_China",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 63745598,
+            "dest": "2_Sendai_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_PAIX",
+            "nbpSR": 1,
+            "runtime": 28768616,
+            "dest": "27_Okinawa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Saitama_DC",
+            "nbpSR": 1,
+            "runtime": 50750016,
+            "dest": "16_LAIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Yokohama_DC2",
+            "nbpSR": 2,
+            "runtime": 70165511,
+            "dest": "2_Sendai_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "33_Hamamatsu",
+            "nbpSR": 1,
+            "runtime": 63214074,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 40277237,
+            "dest": "7_Ikebukuro_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Hamamatsu",
+            "nbpSR": 2,
+            "runtime": 52803168,
+            "dest": "23_Ashburn_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Newyork_DC",
+            "nbpSR": 1,
+            "runtime": 172569173,
+            "dest": "10_JPNAP_Tokyo_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_JPNAP_Tokyo_1",
+            "nbpSR": 1,
+            "runtime": 35067616,
+            "dest": "29_Chiba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Ikebukuro_DC",
+            "nbpSR": 1,
+            "runtime": 141246647,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 1,
+            "runtime": 54793290,
+            "dest": "3_Saitama_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_dix-ie",
+            "nbpSR": 1,
+            "runtime": 42810952,
+            "dest": "20_Fukuoka_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 55603039,
+            "dest": "36_Hiroshima",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Tokyo",
+            "nbpSR": 3,
+            "runtime": 1617509747,
+            "dest": "23_Ashburn_DC",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Tokyo_DC1",
+            "nbpSR": 2,
+            "runtime": 41705804,
+            "dest": "28_Sappora_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Nagoya_DC",
+            "nbpSR": 1,
+            "runtime": 144400616,
+            "dest": "14_NYIIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Shinsaibashi_DC",
+            "nbpSR": 2,
+            "runtime": 500342448,
+            "dest": "2_Sendai_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_LA_DC",
+            "nbpSR": 1,
+            "runtime": 396165819,
+            "dest": "17_dix-ie",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_dix-ie",
+            "nbpSR": 1,
+            "runtime": 30133502,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 72441120,
+            "dest": "22_Kyoto_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 58011724,
+            "dest": "5_Yokohama_DC1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Toyama",
+            "nbpSR": 2,
+            "runtime": 78602787,
+            "dest": "5_Yokohama_DC1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Fukuoka_DC",
+            "nbpSR": 2,
+            "runtime": 98918487,
+            "dest": "24_LA_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "35_Okayama",
+            "nbpSR": 2,
+            "runtime": 78540010,
+            "dest": "31_Toyama",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Tokyo_DC1",
+            "nbpSR": 2,
+            "runtime": 51137079,
+            "dest": "26_PaloAlto_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Fukuoka_DC",
+            "nbpSR": 1,
+            "runtime": 108171718,
+            "dest": "1_Tokyo_DC2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Yokohama_DC2",
+            "nbpSR": 1,
+            "runtime": 57995232,
+            "dest": "11_China",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Shibuya_DC",
+            "nbpSR": 2,
+            "runtime": 710186362,
+            "dest": "5_Yokohama_DC1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Shibuya_DC",
+            "nbpSR": 1,
+            "runtime": 884490918,
+            "dest": "27_Okinawa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_China",
+            "nbpSR": 1,
+            "runtime": 28382655,
+            "dest": "19_Newyork_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Shibuya_DC",
+            "nbpSR": 8,
+            "runtime": 1054720118,
+            "dest": "34_Osaka",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "24_LA_DC",
+            "nbpSR": 2,
+            "runtime": 696704302,
+            "dest": "33_Hamamatsu",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Ikebukuro_DC",
+            "nbpSR": 1,
+            "runtime": 147203739,
+            "dest": "1_Tokyo_DC2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Tokyo",
+            "nbpSR": 2,
+            "runtime": 1295567750,
+            "dest": "36_Hiroshima",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Equinix_exchange",
+            "nbpSR": 3,
+            "runtime": 107445715,
+            "dest": "9_Nagoya_DC",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "3_Saitama_DC",
+            "nbpSR": 1,
+            "runtime": 48288674,
+            "dest": "24_LA_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Ikebukuro_DC",
+            "nbpSR": 1,
+            "runtime": 147702110,
+            "dest": "4_Nerima_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Sappora_DC",
+            "nbpSR": 2,
+            "runtime": 54750785,
+            "dest": "6_Shibuya_DC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Shibuya_DC",
+            "nbpSR": 8,
+            "runtime": 1104681929,
+            "dest": "34_Osaka",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 29819250,
+            "dest": "29_Chiba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Toyama",
+            "nbpSR": 1,
+            "runtime": 53841884,
+            "dest": "10_JPNAP_Tokyo_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_LAIIX",
+            "nbpSR": 1,
+            "runtime": 60211009,
+            "dest": "25_San_Jose_DC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Kyoto_DC",
+            "nbpSR": 2,
+            "runtime": 68187989,
+            "dest": "6_Shibuya_DC",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

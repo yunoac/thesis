@@ -1,0 +1,210 @@
+{
+    "initialCoverSize": 43,
+    "times": [
+        1480736,
+        2297853,
+        2999066,
+        3626851,
+        4301235,
+        4952004,
+        5618172,
+        6304654,
+        6926987,
+        7600973,
+        8229532,
+        8894820,
+        9581574
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_KRLight 1_CANARIE 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 2_NLR_FrameNet 9_CENIC 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 2_NLR_FrameNet 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 3_CSTNet_HKEOEP 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 4_StarLight 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 4_StarLight,11_Pacific_Wave_Seattle 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 4_StarLight,11_Pacific_Wave_Seattle 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 5_Pacific_Northwest_Gigapop 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 5_Pacific_Northwest_Gigapop 6_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 5_Pacific_Northwest_Gigapop 7_Internet2_DCN 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 6_NLR_FrameNet 5_Pacific_Northwest_Gigapop 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 7_Internet2_DCN 5_Pacific_Northwest_Gigapop 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 8_NLR_FrameNet 17_CENIC 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 8_NLR_FrameNet 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 9_CENIC 2_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 2_NLR_FrameNet 8_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 10_Pacific_Wave_Sunnyvale,15_Pacific_Wave_Los_Angeles 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 11_Pacific_Wave_Seattle,4_StarLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 11_Pacific_Wave_Seattle,4_StarLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 12_Internet2_DCN 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 13_Pacific_Wave_Hawaii 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 14_AARNET_Sydney 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 8_NLR_FrameNet 2_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 15_Pacific_Wave_Los_Angeles,10_Pacific_Wave_Sunnyvale 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 16_JGN2_Plus_Tokyo 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 17_CENIC 0_KRLight 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 17_CENIC 8_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KRLight 3_CSTNet_HKEOEP 1_CANARIE 0_KRLight"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KRLight 12_Internet2_DCN 1_CANARIE 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 12_Internet2_DCN 2_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KRLight 12_Internet2_DCN 3_CSTNet_HKEOEP 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 13_Pacific_Wave_Hawaii 2_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 7_Internet2_DCN 6_NLR_FrameNet 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 6_NLR_FrameNet 7_Internet2_DCN 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 14_AARNET_Sydney 5_Pacific_Northwest_Gigapop 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 16_JGN2_Plus_Tokyo 5_Pacific_Northwest_Gigapop 0_KRLight"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KRLight 2_NLR_FrameNet 14_AARNET_Sydney 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 2_NLR_FrameNet 16_JGN2_Plus_Tokyo 0_KRLight"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KRLight 5_Pacific_Northwest_Gigapop 1_CANARIE 0_KRLight"
+        }
+    ],
+    "values": [
+        26,
+        25,
+        25,
+        24,
+        24,
+        23.5,
+        22.5,
+        22.5,
+        21.5,
+        21.5,
+        20.5,
+        20.5,
+        20.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 133888,
+    "lpBound": 20.5
+}

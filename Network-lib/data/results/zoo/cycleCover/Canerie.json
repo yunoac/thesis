@@ -1,0 +1,523 @@
+{
+    "initialCoverSize": 81,
+    "times": [
+        6030498,
+        10823410,
+        15108118,
+        21316979,
+        26172897,
+        30472319,
+        34703133,
+        40043677,
+        45056697,
+        49453306,
+        53866878,
+        59227284,
+        64950323,
+        69474164,
+        75011241,
+        81150769,
+        86083492,
+        90676353,
+        99811975,
+        104271742,
+        109837426,
+        115914924,
+        120170340,
+        125473340,
+        129986073,
+        133001255,
+        136830594,
+        141432979,
+        148008788,
+        151526300,
+        155540265,
+        159577258,
+        163729617,
+        166430408,
+        169427931,
+        173344594,
+        176800794,
+        180578802,
+        183250157,
+        186216939,
+        190320003,
+        195351382,
+        198690493
+    ],
+    "finalCoverSize": 23,
+    "minSegCycles": [
+        "0_Thunder_Bay 1_Chicago 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 1_Chicago 6_Windsor/Detroit 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 18_North_and_South_America 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 19_Europe_and_other_countries 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 1_Chicago 22_Calgary 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 10_Asie-Pacifique 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 22_Calgary 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 23_Saskatoon 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 5_Montreal 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 14_Europe 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 11_Boston 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 1_Chicago 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 2_Regina 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 9_Charlottetown 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 8_Fredericton 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 11_Boston 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 12_Asia-Pacific 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 20_Europe_et_autres_pays 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 21_Europe_and_other_countries 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 14_Europe 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 1_Chicago 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 2_Regina 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 1_Chicago 24_Whitehorse 1_Chicago 0_Thunder_Bay",
+        "0_Thunder_Bay 23_Saskatoon 24_Whitehorse 1_Chicago 0_Thunder_Bay",
+        "0_Thunder_Bay 1_Chicago 25_Yellowknife 1_Chicago 0_Thunder_Bay",
+        "0_Thunder_Bay 1_Chicago 24_Whitehorse 23_Saskatoon 0_Thunder_Bay",
+        "0_Thunder_Bay 28_Kelowna 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 29_Vancouver 1_Chicago 0_Thunder_Bay",
+        "0_Thunder_Bay 10_Asie-Pacifique 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 27_Kamloops 30_Victoria 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 30_Victoria 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay",
+        "0_Thunder_Bay 12_Asia-Pacific 28_Kelowna 12_Asia-Pacific 0_Thunder_Bay",
+        "0_Thunder_Bay 20_Europe_et_autres_pays 28_Kelowna 20_Europe_et_autres_pays 0_Thunder_Bay",
+        "0_Thunder_Bay 10_Asie-Pacifique 6_Windsor/Detroit 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 21_Europe_and_other_countries 6_Windsor/Detroit 0_Thunder_Bay",
+        "0_Thunder_Bay 21_Europe_and_other_countries 2_Regina 21_Europe_and_other_countries 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 25_Yellowknife 2_Regina 0_Thunder_Bay",
+        "0_Thunder_Bay 18_North_and_South_America 13_Amerique_du_Nord_et_Amerique_du_Sud 6_Windsor/Detroit 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 19_Europe_and_other_countries 18_North_and_South_America 0_Thunder_Bay",
+        "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 25_Yellowknife 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay",
+        "0_Thunder_Bay 19_Europe_and_other_countries 29_Vancouver 19_Europe_and_other_countries 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 29_Vancouver 30_Victoria 0_Thunder_Bay",
+        "0_Thunder_Bay 30_Victoria 27_Kamloops 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 11_Boston 4_Ottawa 0_Thunder_Bay",
+        "0_Thunder_Bay 11_Boston 22_Calgary 11_Boston 0_Thunder_Bay",
+        "0_Thunder_Bay 27_Kamloops 2_Regina 27_Kamloops 0_Thunder_Bay",
+        "0_Thunder_Bay 23_Saskatoon 25_Yellowknife 23_Saskatoon 0_Thunder_Bay",
+        "0_Thunder_Bay 12_Asia-Pacific 22_Calgary 2_Regina 0_Thunder_Bay",
+        "0_Thunder_Bay 30_Victoria 27_Kamloops 6_Windsor/Detroit 0_Thunder_Bay",
+        "0_Thunder_Bay 28_Kelowna 30_Victoria 28_Kelowna 0_Thunder_Bay",
+        "0_Thunder_Bay 30_Victoria 18_North_and_South_America 30_Victoria 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 14_Europe 4_Ottawa 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 9_Charlottetown 8_Fredericton 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 20_Europe_et_autres_pays 9_Charlottetown 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 27_Kamloops 30_Victoria 0_Thunder_Bay",
+        "0_Thunder_Bay 18_North_and_South_America 24_Whitehorse 18_North_and_South_America 0_Thunder_Bay",
+        "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 24_Whitehorse 2_Regina 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 24_Whitehorse 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay",
+        "0_Thunder_Bay 11_Boston 8_Fredericton 9_Charlottetown 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 11_Boston 8_Fredericton 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 8_Fredericton 11_Boston 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 2_Regina 9_Charlottetown 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 22_Calgary 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 8_Fredericton 9_Charlottetown 0_Thunder_Bay",
+        "0_Thunder_Bay 11_Boston 4_Ottawa 14_Europe 0_Thunder_Bay",
+        "0_Thunder_Bay 23_Saskatoon 24_Whitehorse 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 10_Asie-Pacifique 12_Asia-Pacific 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 9_Charlottetown 8_Fredericton 0_Thunder_Bay",
+        "0_Thunder_Bay 22_Calgary 21_Europe_and_other_countries 22_Calgary 0_Thunder_Bay",
+        "0_Thunder_Bay 28_Kelowna 2_Regina 28_Kelowna 0_Thunder_Bay",
+        "0_Thunder_Bay 21_Europe_and_other_countries 27_Kamloops 30_Victoria 0_Thunder_Bay",
+        "0_Thunder_Bay 12_Asia-Pacific 22_Calgary 21_Europe_and_other_countries 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 24_Whitehorse 6_Windsor/Detroit 0_Thunder_Bay"
+    ],
+    "values": [
+        25,
+        24,
+        21.5,
+        21.25,
+        20,
+        19.5,
+        17.5,
+        16.25,
+        15.5,
+        15.5,
+        15,
+        14.7,
+        14.333333333333332,
+        14.333333333333332,
+        13.8125,
+        13.708333333333332,
+        13.5,
+        13.5,
+        13.424999999999999,
+        13.392857142857142,
+        13.108490566037737,
+        12.108490566037736,
+        12.108490566037736,
+        11.358490566037737,
+        11.184713375796179,
+        11.18361153262519,
+        10.828124999999998,
+        10.780745967741936,
+        10.780745967741936,
+        10.780745967741936,
+        10.121212121212121,
+        10.121212121212121,
+        10.118018967334036,
+        10.118018967334036,
+        10.118018967334036,
+        10.118018967334034,
+        10.09375,
+        10.09375,
+        10.047120418848168,
+        10.042084168336673,
+        10.042084168336673,
+        10.029605263157892,
+        10
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 14,
+    "runtime": 282215907,
+    "lpBound": 10,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 6_Windsor/Detroit 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 18_North_and_South_America 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 19_Europe_and_other_countries 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 22_Calgary 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 10_Asie-Pacifique 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 2_Regina 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 2_Regina 22_Calgary 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 2_Regina 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 23_Saskatoon 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 5_Montreal 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 8_Fredericton 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 4_Ottawa 14_Europe 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 4_Ottawa 11_Boston 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 6_Windsor/Detroit 1_Chicago 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 4_Ottawa 2_Regina 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 9_Charlottetown 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 8_Fredericton 9_Charlottetown 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 9_Charlottetown 8_Fredericton 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 11_Boston 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 12_Asia-Pacific 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 20_Europe_et_autres_pays 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 21_Europe_and_other_countries 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 14_Europe 4_Ottawa 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 1_Chicago 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 2_Regina 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 24_Whitehorse 1_Chicago 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 23_Saskatoon 24_Whitehorse 1_Chicago 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 25_Yellowknife 1_Chicago 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 1_Chicago 24_Whitehorse 23_Saskatoon 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 28_Kelowna 0_Thunder_Bay 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 2_Regina 29_Vancouver 1_Chicago 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 10_Asie-Pacifique 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 27_Kamloops 30_Victoria 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 30_Victoria 27_Kamloops 0_Thunder_Bay 0_Thunder_Bay"
+        },
+        {
+            "x": 0.2857142857142858,
+            "cycle": "0_Thunder_Bay 12_Asia-Pacific 28_Kelowna 12_Asia-Pacific 0_Thunder_Bay"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Thunder_Bay 20_Europe_et_autres_pays 28_Kelowna 20_Europe_et_autres_pays 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 10_Asie-Pacifique 6_Windsor/Detroit 10_Asie-Pacifique 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 6_Windsor/Detroit 21_Europe_and_other_countries 6_Windsor/Detroit 0_Thunder_Bay"
+        },
+        {
+            "x": 0.3571428571428572,
+            "cycle": "0_Thunder_Bay 21_Europe_and_other_countries 2_Regina 21_Europe_and_other_countries 0_Thunder_Bay"
+        },
+        {
+            "x": 0.07142857142857129,
+            "cycle": "0_Thunder_Bay 2_Regina 25_Yellowknife 2_Regina 0_Thunder_Bay"
+        },
+        {
+            "x": 0.2857142857142857,
+            "cycle": "0_Thunder_Bay 18_North_and_South_America 13_Amerique_du_Nord_et_Amerique_du_Sud 6_Windsor/Detroit 0_Thunder_Bay"
+        },
+        {
+            "x": 0.4285714285714286,
+            "cycle": "0_Thunder_Bay 6_Windsor/Detroit 19_Europe_and_other_countries 18_North_and_South_America 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 25_Yellowknife 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay"
+        },
+        {
+            "x": 0.2857142857142857,
+            "cycle": "0_Thunder_Bay 19_Europe_and_other_countries 29_Vancouver 19_Europe_and_other_countries 0_Thunder_Bay"
+        },
+        {
+            "x": 0.4285714285714285,
+            "cycle": "0_Thunder_Bay 6_Windsor/Detroit 29_Vancouver 30_Victoria 0_Thunder_Bay"
+        },
+        {
+            "x": 0.4285714285714285,
+            "cycle": "0_Thunder_Bay 30_Victoria 27_Kamloops 10_Asie-Pacifique 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 4_Ottawa 11_Boston 4_Ottawa 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 11_Boston 22_Calgary 11_Boston 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 27_Kamloops 2_Regina 27_Kamloops 0_Thunder_Bay"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Thunder_Bay 23_Saskatoon 25_Yellowknife 23_Saskatoon 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 12_Asia-Pacific 22_Calgary 2_Regina 0_Thunder_Bay"
+        },
+        {
+            "x": 0.5714285714285715,
+            "cycle": "0_Thunder_Bay 30_Victoria 27_Kamloops 6_Windsor/Detroit 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 28_Kelowna 30_Victoria 28_Kelowna 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 30_Victoria 18_North_and_South_America 30_Victoria 0_Thunder_Bay"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Thunder_Bay 4_Ottawa 14_Europe 4_Ottawa 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 8_Fredericton 9_Charlottetown 8_Fredericton 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 9_Charlottetown 20_Europe_et_autres_pays 9_Charlottetown 0_Thunder_Bay"
+        },
+        {
+            "x": 0.4285714285714287,
+            "cycle": "0_Thunder_Bay 2_Regina 27_Kamloops 30_Victoria 0_Thunder_Bay"
+        },
+        {
+            "x": 0.14285714285714285,
+            "cycle": "0_Thunder_Bay 18_North_and_South_America 24_Whitehorse 18_North_and_South_America 0_Thunder_Bay"
+        },
+        {
+            "x": 0.5714285714285715,
+            "cycle": "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 24_Whitehorse 2_Regina 0_Thunder_Bay"
+        },
+        {
+            "x": 0.1428571428571428,
+            "cycle": "0_Thunder_Bay 2_Regina 24_Whitehorse 13_Amerique_du_Nord_et_Amerique_du_Sud 0_Thunder_Bay"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Thunder_Bay 11_Boston 8_Fredericton 9_Charlottetown 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 8_Fredericton 11_Boston 8_Fredericton 0_Thunder_Bay"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Thunder_Bay 9_Charlottetown 8_Fredericton 11_Boston 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 2_Regina 9_Charlottetown 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 9_Charlottetown 22_Calgary 10_Asie-Pacifique 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 8_Fredericton 9_Charlottetown 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 11_Boston 4_Ottawa 14_Europe 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 23_Saskatoon 24_Whitehorse 10_Asie-Pacifique 0_Thunder_Bay"
+        },
+        {
+            "x": 0.28571428571428575,
+            "cycle": "0_Thunder_Bay 10_Asie-Pacifique 12_Asia-Pacific 10_Asie-Pacifique 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 9_Charlottetown 8_Fredericton 0_Thunder_Bay"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Thunder_Bay 22_Calgary 21_Europe_and_other_countries 22_Calgary 0_Thunder_Bay"
+        },
+        {
+            "x": 0.3571428571428572,
+            "cycle": "0_Thunder_Bay 28_Kelowna 2_Regina 28_Kelowna 0_Thunder_Bay"
+        },
+        {
+            "x": 0.1428571428571428,
+            "cycle": "0_Thunder_Bay 21_Europe_and_other_countries 27_Kamloops 30_Victoria 0_Thunder_Bay"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "0_Thunder_Bay 12_Asia-Pacific 22_Calgary 21_Europe_and_other_countries 0_Thunder_Bay"
+        },
+        {
+            "x": 0.14285714285714285,
+            "cycle": "0_Thunder_Bay 6_Windsor/Detroit 24_Whitehorse 6_Windsor/Detroit 0_Thunder_Bay"
+        }
+    ],
+    "greedySolution": [
+        "0_Thunder_Bay 12_Asia-Pacific 28_Kelowna 12_Asia-Pacific 0_Thunder_Bay",
+        "0_Thunder_Bay 20_Europe_et_autres_pays 28_Kelowna 20_Europe_et_autres_pays 0_Thunder_Bay",
+        "0_Thunder_Bay 6_Windsor/Detroit 19_Europe_and_other_countries 18_North_and_South_America 0_Thunder_Bay",
+        "0_Thunder_Bay 11_Boston 22_Calgary 11_Boston 0_Thunder_Bay",
+        "0_Thunder_Bay 23_Saskatoon 25_Yellowknife 23_Saskatoon 0_Thunder_Bay",
+        "0_Thunder_Bay 30_Victoria 27_Kamloops 6_Windsor/Detroit 0_Thunder_Bay",
+        "0_Thunder_Bay 28_Kelowna 30_Victoria 28_Kelowna 0_Thunder_Bay",
+        "0_Thunder_Bay 4_Ottawa 14_Europe 4_Ottawa 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 9_Charlottetown 8_Fredericton 0_Thunder_Bay",
+        "0_Thunder_Bay 2_Regina 27_Kamloops 30_Victoria 0_Thunder_Bay",
+        "0_Thunder_Bay 13_Amerique_du_Nord_et_Amerique_du_Sud 24_Whitehorse 2_Regina 0_Thunder_Bay",
+        "0_Thunder_Bay 8_Fredericton 11_Boston 8_Fredericton 0_Thunder_Bay",
+        "0_Thunder_Bay 9_Charlottetown 22_Calgary 10_Asie-Pacifique 0_Thunder_Bay",
+        "0_Thunder_Bay 12_Asia-Pacific 22_Calgary 21_Europe_and_other_countries 0_Thunder_Bay"
+    ]
+}

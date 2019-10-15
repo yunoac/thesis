@@ -1,0 +1,660 @@
+{
+    "initialCoverSize": 126,
+    "times": [
+        2851565,
+        15906760,
+        28942070,
+        41939055,
+        55010191,
+        68032129,
+        81052716,
+        94107286,
+        108024336,
+        123072496,
+        136514843,
+        149984327,
+        163455398,
+        176436022,
+        189755499,
+        203016623,
+        221305225,
+        234530231,
+        247427338,
+        260739119,
+        276493294,
+        289734040,
+        302820285,
+        317374533,
+        335621048,
+        349506418,
+        363338869,
+        377758843,
+        393391825,
+        407551666,
+        421422446,
+        435870786,
+        451100828,
+        464887494,
+        479689891,
+        496269400,
+        510040821,
+        523993524,
+        538901971,
+        554795390,
+        568527350,
+        582898067,
+        598699944,
+        612777945,
+        626788162,
+        641587691,
+        657195586,
+        671259694,
+        685509587,
+        701901892,
+        715762797,
+        729796338,
+        744815458,
+        760145165,
+        773745484,
+        788263511,
+        804239908,
+        818631979,
+        832569254,
+        846502263,
+        861383883,
+        875238814,
+        891927533,
+        905821015,
+        919861065,
+        933976584,
+        948452538,
+        962329602,
+        976380095,
+        991480135,
+        1006241714,
+        1020131144
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 3_Greenwood 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 11_Lafayette 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 18_Muncie 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 5_Centralia_ 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 6_Columbus 3_Greenwood 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 1_Bloomington 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 1_Bloomington 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 10_St_Loius 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 7_Louisville 0_Indianapolis_ 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 2_Shelbyville 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson,8_Lansing 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 28_Mt_Pleasant 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 12_Grand_Rapids 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 8_Lansing 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 48_Kokomo 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 14_Gary 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson,8_Lansing 10_St_Loius 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 13_Muskegon 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 13_Muskegon 28_Mt_Pleasant 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 27_Traverse_City 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 41_La_Grange 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 17_Madison_ 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 35_Appleton_ 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 16_Rockford_ 37_Milwaukee_ 16_Rockford_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 18_Muncie 26_Ann_Arbor,9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 22_Champaign_ 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 23_Bloomington 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 23_Bloomington 24_Peoria_ 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 10_St_Loius 24_Peoria_ 23_Bloomington 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 33_Saginaw 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 28_Mt_Pleasant 13_Muskegon 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 31_Midland 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 28_Mt_Pleasant 33_Saginaw 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 31_Midland 27_Traverse_City 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 31_Midland 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 43_Lima 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 35_Appleton_ 37_Milwaukee_ 16_Rockford_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 17_Madison_ 40_Northbrook_ 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 16_Rockford_ 38_Green_Bay_ 16_Rockford_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 39_Des_Plaines_ 35_Appleton_ 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 41_La_Grange,42_Oak_Brook_ 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 2_Shelbyville 41_La_Grange,42_Oak_Brook_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 42_Oak_Brook_,41_La_Grange 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 42_Oak_Brook_,41_La_Grange 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 11_Lafayette 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson,8_Lansing 43_Lima 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 26_Ann_Arbor 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 46_Warsaw 9_Jackson 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 23_Bloomington 47_Marion 23_Bloomington 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson,26_Ann_Arbor 18_Muncie 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 11_Lafayette 26_Ann_Arbor,9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson,26_Ann_Arbor 10_St_Loius 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 50_Three_Rivers 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 8_Lansing 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 2_Shelbyville 33_Saginaw 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 22_Champaign_ 43_Lima 22_Champaign_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 29_Portage 18_Muncie 55_Saginaw 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 7_Louisville 3_Greenwood 7_Louisville 9_Jackson"
+        },
+        {
+            "x": 0.024999999999999967,
+            "cycle": "9_Jackson 12_Grand_Rapids 33_Saginaw 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0.03750000000000003,
+            "cycle": "9_Jackson 46_Warsaw 50_Three_Rivers 46_Warsaw 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 59_Toledo 13_Muskegon 55_Saginaw 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 19_Anderson 29_Portage 9_Jackson"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "9_Jackson 31_Midland 13_Muskegon 31_Midland 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 6_Columbus 10_St_Loius 6_Columbus 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 10_St_Loius 1_Bloomington 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 20_Mattoon_ 26_Ann_Arbor 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 11_Lafayette 34_None 9_Jackson"
+        },
+        {
+            "x": 0.35000000000000003,
+            "cycle": "9_Jackson 12_Grand_Rapids 57_Pontiac 12_Grand_Rapids 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 50_Three_Rivers 35_Appleton_ 39_Des_Plaines_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 57_Pontiac 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 31_Midland 55_Saginaw 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 11_Lafayette 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 23_Bloomington 24_Peoria_ 23_Bloomington 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 11_Lafayette 26_Ann_Arbor 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 46_Warsaw 34_None 9_Jackson"
+        },
+        {
+            "x": 0.75,
+            "cycle": "9_Jackson 2_Shelbyville 18_Muncie 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 48_Kokomo 29_Portage 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 23_Bloomington 43_Lima 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 18_Muncie 29_Portage 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 6_Columbus 33_Saginaw 28_Mt_Pleasant 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 39_Des_Plaines_ 35_Appleton_ 26_Ann_Arbor 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 45_South_Bend 11_Lafayette 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 0.39999999999999997,
+            "cycle": "9_Jackson 55_Saginaw 31_Midland 55_Saginaw 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 20_Mattoon_ 57_Pontiac 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 16_Rockford_ 37_Milwaukee_ 35_Appleton_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 17_Madison_ 40_Northbrook_ 17_Madison_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 39_Des_Plaines_ 13_Muskegon 39_Des_Plaines_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 40_Northbrook_ 13_Muskegon 40_Northbrook_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 28_Mt_Pleasant 27_Traverse_City 35_Appleton_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 11_Lafayette 55_Saginaw 9_Jackson"
+        },
+        {
+            "x": 0.025000000000000022,
+            "cycle": "9_Jackson 50_Three_Rivers 33_Saginaw 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 39_Des_Plaines_ 50_Three_Rivers 39_Des_Plaines_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 40_Northbrook_ 50_Three_Rivers 40_Northbrook_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 50_Three_Rivers 18_Muncie 22_Champaign_ 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 34_None 41_La_Grange,42_Oak_Brook_ 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 42_Oak_Brook_,41_La_Grange 34_None 9_Jackson"
+        },
+        {
+            "x": 0.4000000000000001,
+            "cycle": "9_Jackson 28_Mt_Pleasant 27_Traverse_City 31_Midland 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 55_Saginaw 18_Muncie 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 0.4,
+            "cycle": "9_Jackson 58_Southfield/Detroit 27_Traverse_City 28_Mt_Pleasant 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 59_Toledo 13_Muskegon 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 29_Portage 18_Muncie 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0.012500000000000011,
+            "cycle": "9_Jackson 20_Mattoon_ 50_Three_Rivers 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0.14999999999999997,
+            "cycle": "9_Jackson 8_Lansing 43_Lima 8_Lansing 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 29_Portage 19_Anderson 29_Portage 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 59_Toledo 13_Muskegon 12_Grand_Rapids 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 10_St_Loius 57_Pontiac 10_St_Loius 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 34_None 46_Warsaw 50_Three_Rivers 9_Jackson"
+        },
+        {
+            "x": 1,
+            "cycle": "9_Jackson 35_Appleton_ 39_Des_Plaines_ 35_Appleton_ 9_Jackson"
+        },
+        {
+            "x": 0.4,
+            "cycle": "9_Jackson 31_Midland 27_Traverse_City 28_Mt_Pleasant 9_Jackson"
+        },
+        {
+            "x": 0.39999999999999997,
+            "cycle": "9_Jackson 28_Mt_Pleasant 27_Traverse_City 58_Southfield/Detroit 9_Jackson"
+        },
+        {
+            "x": 0.24999999999999997,
+            "cycle": "9_Jackson 55_Saginaw 18_Muncie 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 51_Kalamazoo 57_Pontiac 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 20_Mattoon_ 57_Pontiac 12_Grand_Rapids 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 50_Three_Rivers 40_Northbrook_ 17_Madison_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 50_Three_Rivers 46_Warsaw 34_None 9_Jackson"
+        },
+        {
+            "x": 0.8,
+            "cycle": "9_Jackson 59_Toledo 13_Muskegon 59_Toledo 9_Jackson"
+        },
+        {
+            "x": 0.025000000000000022,
+            "cycle": "9_Jackson 39_Des_Plaines_ 33_Saginaw 12_Grand_Rapids 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 59_Toledo 13_Muskegon 28_Mt_Pleasant 9_Jackson"
+        },
+        {
+            "x": 0.35000000000000003,
+            "cycle": "9_Jackson 20_Mattoon_ 57_Pontiac 20_Mattoon_ 9_Jackson"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "9_Jackson 39_Des_Plaines_ 43_Lima 39_Des_Plaines_ 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 12_Grand_Rapids 33_Saginaw 2_Shelbyville 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 31_Midland 13_Muskegon 59_Toledo 9_Jackson"
+        },
+        {
+            "x": 0.125,
+            "cycle": "9_Jackson 12_Grand_Rapids 33_Saginaw 12_Grand_Rapids 9_Jackson"
+        },
+        {
+            "x": 0,
+            "cycle": "9_Jackson 31_Midland 27_Traverse_City 31_Midland 9_Jackson"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "9_Jackson 31_Midland 55_Saginaw 31_Midland 9_Jackson"
+        },
+        {
+            "x": 0.25,
+            "cycle": "9_Jackson 20_Mattoon_ 18_Muncie 55_Saginaw 9_Jackson"
+        }
+    ],
+    "values": [
+        29,
+        29,
+        27,
+        26,
+        25,
+        25,
+        25,
+        25,
+        24,
+        24,
+        23,
+        22.5,
+        21,
+        21,
+        20,
+        20,
+        20,
+        20,
+        20,
+        19.92307692307692,
+        19.846153846153843,
+        19.846153846153843,
+        19.749999999999993,
+        19.75,
+        19.75,
+        19.5,
+        19.28125,
+        18.941176470588236,
+        18.625000000000004,
+        18.571428571428573,
+        18.57142857142857,
+        18.57142857142857,
+        18.57142857142857,
+        18.518518518518515,
+        18.518518518518515,
+        18.454545454545457,
+        18.299999999999997,
+        18.299999999999994,
+        18.072916666666668,
+        18.072072072072075,
+        18.06390977443609,
+        17.555555555555557,
+        17.555555555555554,
+        17.52941176470588,
+        17.52941176470588,
+        17.516129032258064,
+        17.44444444444444,
+        17.416666666666664,
+        17.416666666666664,
+        17.416666666666664,
+        17.41666666666666,
+        17.384615384615387,
+        17.384615384615387,
+        17.349999999999994,
+        17.349999999999998,
+        17.318181818181824,
+        17.318181818181824,
+        17.318181818181824,
+        17.28571428571429,
+        17.277777777777775,
+        17.272727272727273,
+        17.246666666666666,
+        17.231707317073166,
+        17.231707317073166,
+        17.212121212121218,
+        17.17054263565892,
+        17.17054263565892,
+        17.17054263565892,
+        17.166666666666668,
+        17.166666666666668,
+        17.161290322580648,
+        17.150000000000002
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 1636333,
+    "lpBound": 17.150000000000002
+}

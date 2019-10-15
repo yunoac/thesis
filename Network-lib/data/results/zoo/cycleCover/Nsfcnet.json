@@ -1,0 +1,142 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        1143003,
+        1436218,
+        1689730,
+        1918534,
+        2141018,
+        2399636,
+        2609415,
+        2849149,
+        3069277,
+        3290185
+    ],
+    "finalCoverSize": 6,
+    "minSegCycles": [
+        "0_Peking_University 8_China_Academy_of_Sciences@0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 2_APAN/STAR 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 3_CERNET 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 2_APAN/STAR 8_China_Academy_of_Sciences@0_Peking_University 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications@5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications@5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University@8_China_Academy_of_Sciences 2_APAN/STAR 0_Peking_University 0_Peking_University",
+        "0_Peking_University 9_CSTNET 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 3_CERNET 9_CSTNET 3_CERNET 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 8_China_Academy_of_Sciences 5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University 8_China_Academy_of_Sciences 0_Peking_University 8_China_Academy_of_Sciences 0_Peking_University",
+        "0_Peking_University 9_CSTNET 2_APAN/STAR 9_CSTNET 0_Peking_University",
+        "0_Peking_University 2_APAN/STAR 3_CERNET 2_APAN/STAR 0_Peking_University",
+        "0_Peking_University 8_China_Academy_of_Sciences 2_APAN/STAR 3_CERNET 0_Peking_University",
+        "0_Peking_University 3_CERNET 2_APAN/STAR 3_CERNET 0_Peking_University",
+        "0_Peking_University 8_China_Academy_of_Sciences 3_CERNET 8_China_Academy_of_Sciences 0_Peking_University"
+    ],
+    "values": [
+        6,
+        4,
+        4,
+        4,
+        4,
+        3.5,
+        3.4000000000000004,
+        3.4000000000000004,
+        3.375,
+        3.333333333333333
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 4,
+    "runtime": 4545973,
+    "lpBound": 3.333333333333333,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 8_China_Academy_of_Sciences@0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 2_APAN/STAR 0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 3_CERNET 0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 5_Natural_Science_Foundation_of_China 0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 2_APAN/STAR 8_China_Academy_of_Sciences@0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications@5_Natural_Science_Foundation_of_China 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications@5_Natural_Science_Foundation_of_China 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University@8_China_Academy_of_Sciences 2_APAN/STAR 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 9_CSTNET 0_Peking_University 0_Peking_University 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 3_CERNET 9_CSTNET 3_CERNET 0_Peking_University"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 5_Natural_Science_Foundation_of_China 8_China_Academy_of_Sciences 5_Natural_Science_Foundation_of_China 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 8_China_Academy_of_Sciences 0_Peking_University 8_China_Academy_of_Sciences 0_Peking_University"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Peking_University 9_CSTNET 2_APAN/STAR 9_CSTNET 0_Peking_University"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "0_Peking_University 2_APAN/STAR 3_CERNET 2_APAN/STAR 0_Peking_University"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Peking_University 8_China_Academy_of_Sciences 2_APAN/STAR 3_CERNET 0_Peking_University"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Peking_University 3_CERNET 2_APAN/STAR 3_CERNET 0_Peking_University"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Peking_University 8_China_Academy_of_Sciences 3_CERNET 8_China_Academy_of_Sciences 0_Peking_University"
+        }
+    ],
+    "greedySolution": [
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications@5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University 3_CERNET 9_CSTNET 3_CERNET 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University",
+        "0_Peking_University 9_CSTNET 2_APAN/STAR 9_CSTNET 0_Peking_University"
+    ]
+}

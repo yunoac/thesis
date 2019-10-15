@@ -1,0 +1,40 @@
+{
+    "originalCover": {
+        "runtime": 245088,
+        "cycles": [
+            "0_New_York 1_London 0_New_York",
+            "0_New_York 3_St_Petersburg 0_New_York",
+            "0_New_York 4_Moscow 0_New_York",
+            "0_New_York 6_Frankfurt 0_New_York",
+            "0_New_York 7_Paris 0_New_York"
+        ],
+        "source": 0,
+        "maxSeg": 3
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "newCover": {
+        "cycles": [
+            "0_New_York 1_London 0_New_York",
+            "0_New_York 3_St_Petersburg 0_New_York",
+            "0_New_York 4_Moscow 0_New_York",
+            "0_New_York 6_Frankfurt 0_New_York",
+            "0_New_York 7_Paris 0_New_York"
+        ],
+        "source": 0,
+        "runetime": 259726,
+        "maxSeg": 3
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "initialCoverSize": 43,
+    "times": [
+        1120668,
+        1489435,
+        1782100,
+        2070371,
+        2490430,
+        2859123,
+        3195272,
+        3501846,
+        3824932,
+        4154923,
+        4499613,
+        4874013,
+        5297573,
+        5690171,
+        6069406,
+        6494621,
+        6891729,
+        7262542,
+        7618199,
+        7926166,
+        8281343,
+        8691965,
+        9105944,
+        9520202,
+        9897914,
+        10264009,
+        10623624,
+        10942856,
+        11326769,
+        11735438,
+        12124479,
+        12563749
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_Chicago,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Washington_DC,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Seattle 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Seattle 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 6_Denver 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Denver 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Denver 8_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 7_Kansas_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York,2_Washington_DC 10_Indianapolis 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York,1_Chicago 9_Atlanta 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Atlanta 1_Chicago 4_Sunnyvale 1_Chicago 4_Sunnyvale 1_Chicago 4_Sunnyvale 1_Chicago 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 3_Seattle 4_Sunnyvale 3_Seattle 4_Sunnyvale 3_Seattle 4_Sunnyvale 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Seattle 6_Denver 8_Houston 6_Denver 8_Houston 6_Denver 5_Los_Angeles 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 2_Washington_DC 4_Sunnyvale 2_Washington_DC 4_Sunnyvale 2_Washington_DC 4_Sunnyvale 2_Washington_DC 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Washington_DC 0_New_York 2_Washington_DC 0_New_York 2_Washington_DC 0_New_York 2_Washington_DC 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_Indianapolis 2_Washington_DC 1_Chicago 0_New_York 10_Indianapolis 2_Washington_DC 1_Chicago 9_Atlanta 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Seattle 4_Sunnyvale 1_Chicago 3_Seattle 4_Sunnyvale 1_Chicago 3_Seattle 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 6_Denver 8_Houston 4_Sunnyvale 7_Kansas_City 5_Los_Angeles 6_Denver 8_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Houston 6_Denver 0_New_York 8_Houston 6_Denver 0_New_York 8_Houston 6_Denver 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 7_Kansas_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_Indianapolis 2_Washington_DC 4_Sunnyvale 10_Indianapolis 2_Washington_DC 4_Sunnyvale 10_Indianapolis 2_Washington_DC 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Denver 5_Los_Angeles 0_New_York 6_Denver 5_Los_Angeles 0_New_York 6_Denver 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.09027777777777779,
+            "cycle": "0_New_York 3_Seattle 5_Los_Angeles 6_Denver 5_Los_Angeles 6_Denver 5_Los_Angeles 6_Denver 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.06250000000000001,
+            "cycle": "0_New_York 3_Seattle 0_New_York 5_Los_Angeles 3_Seattle 0_New_York 3_Seattle 0_New_York 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0.13657407407407407,
+            "cycle": "0_New_York 3_Seattle 5_Los_Angeles 0_New_York 3_Seattle 5_Los_Angeles 0_New_York 3_Seattle 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 2_Washington_DC 4_Sunnyvale 10_Indianapolis 2_Washington_DC 10_Indianapolis 2_Washington_DC 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.08333333333333334,
+            "cycle": "0_New_York 3_Seattle 4_Sunnyvale 10_Indianapolis 2_Washington_DC 10_Indianapolis 2_Washington_DC 10_Indianapolis 2_Washington_DC 0_New_York"
+        },
+        {
+            "x": 0.08333333333333331,
+            "cycle": "0_New_York 5_Los_Angeles 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Kansas_City 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Kansas_City 5_Los_Angeles 6_Denver 8_Houston 7_Kansas_City 5_Los_Angeles 6_Denver 8_Houston 0_New_York"
+        },
+        {
+            "x": 0.08333333333333326,
+            "cycle": "0_New_York 1_Chicago 9_Atlanta 1_Chicago 9_Atlanta 1_Chicago 4_Sunnyvale 6_Denver 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 3_Seattle 0_New_York 5_Los_Angeles 3_Seattle 0_New_York 5_Los_Angeles 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_New_York 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 7_Kansas_City 5_Los_Angeles 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Seattle 4_Sunnyvale 7_Kansas_City 5_Los_Angeles 6_Denver 8_Houston 0_New_York 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.06250000000000006,
+            "cycle": "0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 0_New_York 5_Los_Angeles 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Houston 6_Denver 4_Sunnyvale 10_Indianapolis 2_Washington_DC 10_Indianapolis 2_Washington_DC 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.2708333333333333,
+            "cycle": "0_New_York 5_Los_Angeles 3_Seattle 4_Sunnyvale 1_Chicago 9_Atlanta 1_Chicago 4_Sunnyvale 3_Seattle 0_New_York"
+        },
+        {
+            "x": 0.14583333333333337,
+            "cycle": "0_New_York 3_Seattle 4_Sunnyvale 1_Chicago 9_Atlanta 1_Chicago 4_Sunnyvale 6_Denver 5_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Los_Angeles 6_Denver 8_Houston 0_New_York 3_Seattle 5_Los_Angeles 6_Denver 8_Houston 0_New_York"
+        }
+    ],
+    "values": [
+        8,
+        6,
+        4.666666666666666,
+        4.666666666666667,
+        2.555555555555556,
+        2.25,
+        2.114583333333333,
+        2.0520833333333335,
+        1.6397569444444442,
+        1.6328125,
+        1.6041666666666665,
+        1.5876322751322751,
+        1.5370370370370368,
+        1.53125,
+        1.4891774891774892,
+        1.4700396825396829,
+        1.4519841269841272,
+        1.4342592592592591,
+        1.422385620915033,
+        1.4095117845117846,
+        1.4095117845117846,
+        1.3967472046289777,
+        1.3959568323453413,
+        1.3925619834710743,
+        1.3886054421768708,
+        1.3650793650793651,
+        1.3650793650793653,
+        1.3650793650793651,
+        1.365079365079365,
+        1.3563218390804601,
+        1.3518518518518516,
+        1.3518518518518516
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 48331,
+    "lpBound": 1.3518518518518516
+}

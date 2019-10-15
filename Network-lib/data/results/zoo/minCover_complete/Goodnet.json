@@ -1,0 +1,186 @@
+{
+    "initialCoverSize": 41,
+    "times": [
+        1460211,
+        2120705,
+        2832411,
+        3449587,
+        4105116
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Tampa 1_Oklahoma_City 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 2_New_Orleans 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 1_Oklahoma_City 7_Atlanta,0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 2_New_Orleans 4_Los_Angeles 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 5_Phoenix 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 15_Washington,_DC 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 4_Los_Angeles 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 4_Los_Angeles 15_Washington,_DC 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 2_New_Orleans 1_Oklahoma_City 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 5_Phoenix 12_Chicago 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 6_Tucson 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 2_New_Orleans 15_Washington,_DC 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 8_Birmingham 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 12_Chicago 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa,7_Atlanta 1_Oklahoma_City 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 1_Oklahoma_City 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 10_Salt_Lake_City 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 11_Denver 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 1_Oklahoma_City 12_Chicago 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 13_Hartford 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 9_San_Jose 15_Washington,_DC 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 10_Salt_Lake_City 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 11_Denver 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 12_Chicago 5_Phoenix 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa,7_Atlanta 9_San_Jose 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 2_New_Orleans 10_Salt_Lake_City 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 2_New_Orleans 11_Denver 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 2_New_Orleans 13_Hartford 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 12_Chicago 15_Washington,_DC 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 13_Hartford 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 13_Hartford 15_Washington,_DC 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 15_Washington,_DC 4_Los_Angeles 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 15_Washington,_DC 2_New_Orleans 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 15_Washington,_DC 9_San_Jose 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 15_Washington,_DC 12_Chicago 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 15_Washington,_DC 13_Hartford 0_Tampa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tampa 16_Chattanooga 0_Tampa 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 16_Chattanooga 6_Tucson 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 6_Tucson 1_Oklahoma_City 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 8_Birmingham 1_Oklahoma_City 0_Tampa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tampa 8_Birmingham 4_Los_Angeles 0_Tampa"
+        }
+    ],
+    "values": [
+        29,
+        27,
+        27,
+        26,
+        26
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 112355,
+    "lpBound": 26
+}

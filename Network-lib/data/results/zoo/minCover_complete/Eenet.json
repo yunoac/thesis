@@ -1,0 +1,144 @@
+{
+    "initialCoverSize": 28,
+    "times": [
+        1146751,
+        1470714,
+        1798790,
+        2096710,
+        2395133,
+        2720336,
+        3021743,
+        3320064,
+        3621415,
+        3954077
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Parnu 1_Haapsald 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 2_Kuressaare 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 3_Rakvere 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 4_Narva 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 6_GEANT2 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 7_Paide 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 5_Tallinn,7_Paide 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 9_Viljandi 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 7_Paide,5_Tallinn 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 8_Turi 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 7_Paide 9_Viljandi 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 10_Jogeva 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 7_Paide,10_Jogeva 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 9_Viljandi 7_Paide 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 10_Jogeva,7_Paide 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 11_Tartu 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 10_Jogeva,11_Tartu 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 11_Tartu,10_Jogeva 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 12_Voru 0_Parnu 0_Parnu"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Parnu 2_Kuressaare 1_Haapsald 0_Parnu"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Parnu 3_Rakvere 1_Haapsald 0_Parnu"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Parnu 3_Rakvere 2_Kuressaare 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 6_GEANT2 4_Narva 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 8_Turi 4_Narva 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 8_Turi 6_GEANT2 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 12_Voru 9_Viljandi 0_Parnu"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Parnu 9_Viljandi 8_Turi 0_Parnu"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Parnu 8_Turi 9_Viljandi 0_Parnu"
+        }
+    ],
+    "values": [
+        15,
+        14,
+        14,
+        13.5,
+        12.5,
+        12.5,
+        12,
+        11,
+        10.5,
+        10.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 82305,
+    "lpBound": 10.5
+}

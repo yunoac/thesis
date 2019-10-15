@@ -1,0 +1,236 @@
+{
+    "initialCoverSize": 45,
+    "times": [
+        1280994,
+        2248111,
+        3191803,
+        4177611,
+        5114348,
+        6046906,
+        6988686,
+        7944213,
+        8883995,
+        9904756,
+        10872122,
+        11851969,
+        12820877,
+        13896928,
+        14859670,
+        15771068,
+        16692884,
+        17648970,
+        18642168,
+        19609843,
+        20629281,
+        22548905
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_PA 1_TS 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 2_CS 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 3_CT 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 4_TO 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 5_GE 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 6_PD 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 1_TS 8_FI 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 10_MI 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 17_GEANT 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 18_USA 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 1_TS 11_RM 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 8_FI 1_TS 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 13_BO 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 16_PI 0_PA 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 8_FI 11_RM 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 12_NA 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 14_BA 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 11_RM 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 19_CA 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 11_RM 1_TS 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 11_RM 8_FI 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 21_PG 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 22_AQ 0_PA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 23_FRA 0_PA 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 13_BO 4_TO 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 19_CA 5_GE 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 21_PG 6_PD 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 5_GE 13_BO 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 4_TO 16_PI 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 16_PI 10_MI 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 10_MI 19_CA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 2_CS 1_TS 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 5_GE 21_PG 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 22_AQ 16_PI 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 6_PD 23_FRA 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 3_CT 2_CS 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 23_FRA 17_GEANT 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 3_CT 1_TS 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 5_GE 4_TO 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 14_BA 12_NA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 17_GEANT 12_NA 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 17_GEANT 14_BA 0_PA"
+        },
+        {
+            "x": 1,
+            "cycle": "0_PA 18_USA 1_TS 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 19_CA 8_FI 0_PA"
+        },
+        {
+            "x": 0,
+            "cycle": "0_PA 8_FI 19_CA 0_PA"
+        }
+    ],
+    "values": [
+        22,
+        20,
+        18,
+        17,
+        17,
+        16,
+        15.5,
+        15,
+        14.5,
+        14.25,
+        13,
+        13,
+        12.4,
+        11.999999999999998,
+        11.5,
+        11.5,
+        10.5,
+        10.5,
+        10.5,
+        10,
+        10,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 196638,
+    "lpBound": 10
+}

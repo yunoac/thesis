@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 2,
+            "runtime": 62776464,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 1,
+            "runtime": 48494987,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 62553927,
+            "dest": "9_Palo_Alto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 53851754,
+            "dest": "19_Mumbai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Manila",
+            "nbpSR": 1,
+            "runtime": 49022248,
+            "dest": "0_Jakarta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Mumbai",
+            "nbpSR": 1,
+            "runtime": 57859047,
+            "dest": "19_Mumbai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Mumbai",
+            "nbpSR": 1,
+            "runtime": 66390203,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Taipei",
+            "nbpSR": 1,
+            "runtime": 44990994,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 3,
+            "runtime": 51434248,
+            "dest": "4_San_Jose",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 2,
+            "runtime": 64836368,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 46258635,
+            "dest": "11_Mumbai",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Mumbai",
+            "nbpSR": 1,
+            "runtime": 62802664,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Mumbai",
+            "nbpSR": 1,
+            "runtime": 57402088,
+            "dest": "9_Palo_Alto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 4,
+            "runtime": 50568012,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "8_London",
+            "nbpSR": 3,
+            "runtime": 38290475,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 1,
+            "runtime": 52771674,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 56817559,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 3,
+            "runtime": 43353034,
+            "dest": "4_San_Jose",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_New_Delhi",
+            "nbpSR": 1,
+            "runtime": 55193715,
+            "dest": "7_Auckland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 51639250,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Jakarta",
+            "nbpSR": 1,
+            "runtime": 72607177,
+            "dest": "14_Taipei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 46131251,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Manila",
+            "nbpSR": 1,
+            "runtime": 56827511,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 60686537,
+            "dest": "16_Manila",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Sydney",
+            "nbpSR": 1,
+            "runtime": 86288668,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 3,
+            "runtime": 41410687,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 2,
+            "runtime": 66007203,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Sydney",
+            "nbpSR": 2,
+            "runtime": 43376527,
+            "dest": "14_Taipei",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 48621012,
+            "dest": "11_Mumbai",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 42802482,
+            "dest": "14_Taipei",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Taipei",
+            "nbpSR": 2,
+            "runtime": 51844806,
+            "dest": "2_Singapore",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_New_Delhi",
+            "nbpSR": 1,
+            "runtime": 54940853,
+            "dest": "17_Bangkok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 51783152,
+            "dest": "7_Auckland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 1,
+            "runtime": 60132539,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 1,
+            "runtime": 54453030,
+            "dest": "9_Palo_Alto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 70451990,
+            "dest": "11_Mumbai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 51739299,
+            "dest": "3_Kuala_Lumpur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 3,
+            "runtime": 39956844,
+            "dest": "4_San_Jose",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 47796503,
+            "dest": "13_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 4,
+            "runtime": 85703282,
+            "dest": "13_Tokyo",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 2,
+            "runtime": 51375748,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 1,
+            "runtime": 43565995,
+            "dest": "0_Jakarta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Bangkok",
+            "nbpSR": 1,
+            "runtime": 82451179,
+            "dest": "19_Mumbai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 2,
+            "runtime": 36535726,
+            "dest": "13_Tokyo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 80827337,
+            "dest": "17_Bangkok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 86167261,
+            "dest": "7_Auckland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tokyo",
+            "nbpSR": 1,
+            "runtime": 44862953,
+            "dest": "9_Palo_Alto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 1,
+            "runtime": 58231468,
+            "dest": "9_Palo_Alto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 2,
+            "runtime": 83405376,
+            "dest": "17_Bangkok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 48634660,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 52608242,
+            "dest": "2_Singapore",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Manila",
+            "nbpSR": 2,
+            "runtime": 49298872,
+            "dest": "7_Auckland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 1,
+            "runtime": 46520214,
+            "dest": "0_Jakarta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 42855311,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 72583894,
+            "dest": "6_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Sydney",
+            "nbpSR": 3,
+            "runtime": 41299185,
+            "dest": "8_London",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 82163915,
+            "dest": "17_Bangkok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_New_Delhi",
+            "nbpSR": 1,
+            "runtime": 46699381,
+            "dest": "4_San_Jose",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 2,
+            "runtime": 45627026,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Bangkok",
+            "nbpSR": 2,
+            "runtime": 85222612,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Tokyo",
+            "nbpSR": 1,
+            "runtime": 55534523,
+            "dest": "10_New_Delhi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Manila",
+            "nbpSR": 2,
+            "runtime": 42701387,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 2,
+            "runtime": 46408892,
+            "dest": "8_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 3,
+            "runtime": 39597689,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 3,
+            "runtime": 43297086,
+            "dest": "4_San_Jose",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 5,
+            "runtime": 39324078,
+            "dest": "6_Sydney",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "0_Jakarta",
+            "nbpSR": 1,
+            "runtime": 70040194,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 3,
+            "runtime": 55387784,
+            "dest": "1_Perth",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 77857820,
+            "dest": "17_Bangkok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tokyo",
+            "nbpSR": 2,
+            "runtime": 47683395,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 2,
+            "runtime": 46738909,
+            "dest": "11_Mumbai",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Mumbai",
+            "nbpSR": 1,
+            "runtime": 64222828,
+            "dest": "7_Auckland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 3,
+            "runtime": 55732808,
+            "dest": "8_London",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 2,
+            "runtime": 55816440,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Taipei",
+            "nbpSR": 1,
+            "runtime": 77422363,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 2,
+            "runtime": 56731750,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Kuala_Lumpur",
+            "nbpSR": 1,
+            "runtime": 88614035,
+            "dest": "17_Bangkok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 44049549,
+            "dest": "0_Jakarta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 2,
+            "runtime": 43890959,
+            "dest": "17_Bangkok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Tokyo",
+            "nbpSR": 4,
+            "runtime": 80390746,
+            "dest": "2_Singapore",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "13_Tokyo",
+            "nbpSR": 5,
+            "runtime": 52663893,
+            "dest": "6_Sydney",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "18_Chenai",
+            "nbpSR": 1,
+            "runtime": 58875689,
+            "dest": "3_Kuala_Lumpur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Mumbai",
+            "nbpSR": 1,
+            "runtime": 68176604,
+            "dest": "8_London",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 1,
+            "runtime": 56416412,
+            "dest": "19_Mumbai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Jakarta",
+            "nbpSR": 1,
+            "runtime": 46605846,
+            "dest": "1_Perth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Hong_Kong",
+            "nbpSR": 1,
+            "runtime": 55636475,
+            "dest": "18_Chenai",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Perth",
+            "nbpSR": 2,
+            "runtime": 46340139,
+            "dest": "12_Seoul",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 50614121,
+            "dest": "14_Taipei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_London",
+            "nbpSR": 2,
+            "runtime": 48452282,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Taipei",
+            "nbpSR": 2,
+            "runtime": 42931000,
+            "dest": "13_Tokyo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Singapore",
+            "nbpSR": 2,
+            "runtime": 55833462,
+            "dest": "16_Manila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Chenai",
+            "nbpSR": 1,
+            "runtime": 72271464,
+            "dest": "6_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Mumbai",
+            "nbpSR": 1,
+            "runtime": 68565836,
+            "dest": "15_Hong_Kong",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 3,
+            "runtime": 50752522,
+            "dest": "2_Singapore",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 50148600,
+            "dest": "6_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Chenai",
+            "nbpSR": 1,
+            "runtime": 70140672,
+            "dest": "1_Perth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_San_Jose",
+            "nbpSR": 2,
+            "runtime": 49011664,
+            "dest": "7_Auckland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Auckland",
+            "nbpSR": 1,
+            "runtime": 60889104,
+            "dest": "3_Kuala_Lumpur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Seoul",
+            "nbpSR": 2,
+            "runtime": 48958764,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 59415127,
+            "dest": "2_Singapore",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

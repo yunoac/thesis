@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 2666585,
+            "dest": "3_Cork",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 3221290,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 2437392,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 3693659,
+            "dest": "3_Cork",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 1,
+            "runtime": 4905121,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 3553578,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 5151094,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1984673,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 1,
+            "runtime": 2638812,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 2631377,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 3124870,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2644694,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 2518370,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1888229,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 1,
+            "runtime": 2932691,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1849628,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1844188,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 2589353,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1673447,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2637493,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1730811,
+            "dest": "2_Limerick",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1838575,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 3008675,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1675073,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 1,
+            "runtime": 2653845,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1847289,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2583564,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1856848,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2732871,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1869089,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 4203223,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1860929,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 3511385,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 3288146,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 2884847,
+            "dest": "0_Dublin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 3822214,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 6127474,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 7219915,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 1,
+            "runtime": 3058438,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 1,
+            "runtime": 3931082,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 3871043,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 1,
+            "runtime": 5928972,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 5856167,
+            "dest": "3_Cork",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 1,
+            "runtime": 2700167,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 2649818,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1756973,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1880091,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 2657782,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 1,
+            "runtime": 4094501,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1933938,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1871006,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1974099,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1987633,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1914004,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 3143814,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 3653626,
+            "dest": "3_Cork",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 2589385,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 4980692,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 1,
+            "runtime": 7486280,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 1,
+            "runtime": 2748042,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1938876,
+            "dest": "2_Limerick",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 1,
+            "runtime": 3122338,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1917265,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 1,
+            "runtime": 3839842,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 2122946,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 3312385,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 1,
+            "runtime": 2901442,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 2647291,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1858609,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1779061,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 1843163,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 1,
+            "runtime": 3044843,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 2220798,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 4020863,
+            "dest": "3_Cork",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 2487196,
+            "dest": "1_Galway",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 3626458,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 2,
+            "runtime": 6205544,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 4455113,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 2090916,
+            "dest": "3_Cork",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Waterford",
+            "nbpSR": 2,
+            "runtime": 2678343,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 4110430,
+            "dest": "5_Portlaioise",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 4203556,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 2631626,
+            "dest": "0_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2555193,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 3705403,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1767062,
+            "dest": "0_Dublin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1751825,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_None",
+            "nbpSR": 1,
+            "runtime": 2388104,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 2102378,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 2,
+            "runtime": 4102017,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 5971325,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 1,
+            "runtime": 6337658,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 1806742,
+            "dest": "0_Dublin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cork",
+            "nbpSR": 2,
+            "runtime": 2703375,
+            "dest": "4_Waterford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1859999,
+            "dest": "4_Waterford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Portlaioise",
+            "nbpSR": 1,
+            "runtime": 2700497,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 1,
+            "runtime": 3102907,
+            "dest": "7_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Galway",
+            "nbpSR": 1,
+            "runtime": 1849613,
+            "dest": "2_Limerick",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Dublin",
+            "nbpSR": 2,
+            "runtime": 4478544,
+            "dest": "2_Limerick",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Limerick",
+            "nbpSR": 1,
+            "runtime": 3389039,
+            "dest": "6_None",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

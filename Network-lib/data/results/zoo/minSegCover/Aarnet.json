@@ -1,0 +1,25 @@
+{
+    "nbCycles": 17,
+    "runtime": 4427859,
+    "cycles": [
+        "1_Brisbane2,3_Sydney2 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2,3_Sydney2 0_Sydney1 4_Townsville 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 0_Sydney1,3_Sydney2 1_Brisbane2",
+        "1_Brisbane2 9_Hobart 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 2_Canberra1 4_Townsville 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 2_Canberra1 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 8_Armidale 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 5_Cairns 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 14_Adelaide2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 12_Perth2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2,16_Melbourne2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 16_Melbourne2,14_Adelaide2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 18_Darwin 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 17_Alice_Springs 1_Brisbane2 1_Brisbane2"
+    ],
+    "segmentCost": 5,
+    "source": "1_Brisbane2"
+}

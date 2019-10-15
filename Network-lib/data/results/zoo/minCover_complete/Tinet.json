@@ -1,0 +1,804 @@
+{
+    "initialCoverSize": 162,
+    "times": [
+        3903532,
+        15730763,
+        28071758,
+        40158169,
+        53087096,
+        65642238,
+        78336494,
+        90093453,
+        101861834,
+        113549655,
+        126657548,
+        138514907,
+        150328636,
+        162364597,
+        175880676,
+        188095098,
+        199949636,
+        212370642,
+        224103956,
+        235927671,
+        247841245,
+        261038620,
+        273406035,
+        287073752,
+        299059735,
+        310963918,
+        323186268,
+        337043691,
+        348901266,
+        360791205,
+        372762001,
+        384591881,
+        396485158,
+        408277829,
+        421149904,
+        434971532,
+        447734491,
+        459549356,
+        471541103,
+        485367886,
+        498032657,
+        512122328,
+        523923888,
+        536160033,
+        548260374,
+        560226895,
+        572204011,
+        585201434,
+        597814938,
+        609747954,
+        621864254,
+        634138959,
+        646061707,
+        657911222,
+        670147730,
+        683484185,
+        698135401,
+        710723998,
+        722658982,
+        734783727,
+        749611188,
+        761808165,
+        773981521,
+        786063379,
+        798325898,
+        810541382,
+        822431081,
+        834426208,
+        848165269,
+        860824017,
+        873147967,
+        885393311
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_?,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Montreal 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 29_Palo_Alto 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 44_Toronto 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 43_Miami 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Boston 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 19_Cagliari 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 38_Brussels 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_London 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dusseldorf 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_Athens 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 8_Dusseldorf 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Antwerp 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 27_Oslo 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 28_Copenhagen 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Manchester 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Manchester 4_London 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Manchester 5_Amsterdam 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 8_Dusseldorf 5_Amsterdam 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dusseldorf 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Bratislava 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 25_Hamburg 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 30_Stockholm 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Antwerp 11_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_None 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_None 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 48_Denver 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 24_Singapore 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_None 48_Denver 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_None 29_Palo_Alto 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 14_Bucharest 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 14_Bucharest 15_Vienna 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Vienna 14_Bucharest 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 14_Bucharest 33_Munich 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 14_Bucharest 26_Sofia 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Bratislava 5_Amsterdam 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 17_Prague 5_Amsterdam 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 18_Warsaw 11_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 20_Rome 0_New_York 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 13_Athens 21_??? 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 19_Cagliari 13_Athens 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 21_??? 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 36_Barcelona 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Montreal 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 25_Hamburg 27_Oslo 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 27_Oslo 25_Hamburg 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 27_Oslo 30_Stockholm 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 28_Copenhagen 30_Stockholm 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 30_Stockholm 27_Oslo 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 30_Stockholm 28_Copenhagen 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 29_Palo_Alto 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_London 47_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 26_Sofia 14_Bucharest 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 33_Munich 14_Bucharest 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 15_Vienna 39_Basel 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_Athens 8_Dusseldorf 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 17_Prague 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_None 18_Warsaw 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Amsterdam 39_Basel 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 19_Cagliari 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 36_Barcelona 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 23_Madrid 11_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_None 9_Antwerp 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 39_Basel 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 39_Basel 15_Vienna 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 39_Basel 5_Amsterdam 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 40_Zurich 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 40_Zurich 10_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 40_Zurich 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_Athens 42_Turin 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 19_Cagliari 10_None 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 19_Cagliari 40_Zurich 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 43_Miami 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 45_Seattle 0_New_York 0_New_York"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_New_York 44_Toronto 12_None 0_New_York"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_New_York 29_Palo_Alto 46_San_Jose 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 31_Hong_Kong 0_New_York 0_New_York"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_New_York 9_Antwerp 45_Seattle 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 10_None 47_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0.30000000000000004,
+            "cycle": "0_New_York 43_Miami 46_San_Jose 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 48_Denver 12_None 0_New_York"
+        },
+        {
+            "x": 0.39999999999999997,
+            "cycle": "0_New_York 12_None 43_Miami 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_None 51_Atlanta 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_Athens 43_Miami 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 43_Miami 12_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 51_Atlanta 0_New_York 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 33_Munich 3_Boston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 31_Hong_Kong 20_Rome 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 20_Rome 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 16_Bratislava 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 17_Prague 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 31_Hong_Kong 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 38_Brussels 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0.15000000000000002,
+            "cycle": "0_New_York 33_Munich 8_Dusseldorf 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 38_Brussels 3_Boston 0_New_York"
+        },
+        {
+            "x": 0.30000000000000004,
+            "cycle": "0_New_York 51_Atlanta 3_Boston 0_New_York"
+        },
+        {
+            "x": 0.85,
+            "cycle": "0_New_York 39_Basel 8_Dusseldorf 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 45_Seattle 9_Antwerp 0_New_York"
+        },
+        {
+            "x": 0.3,
+            "cycle": "0_New_York 23_Madrid 13_Athens 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 51_Atlanta 19_Cagliari 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 47_Los_Angeles 44_Toronto 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 9_Antwerp 8_Dusseldorf 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 31_Hong_Kong 9_Antwerp 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Manchester 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0.85,
+            "cycle": "0_New_York 7_Manchester 17_Prague 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 26_Sofia 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dusseldorf 14_Bucharest 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Bratislava 14_Bucharest 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 31_Hong_Kong 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 38_Brussels 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 33_Munich 17_Prague 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 33_Munich 18_Warsaw 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 36_Barcelona 19_Cagliari 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 40_Zurich 19_Cagliari 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Bratislava 26_Sofia 0_New_York"
+        },
+        {
+            "x": 0.15000000000000002,
+            "cycle": "0_New_York 7_Manchester 33_Munich 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 19_Cagliari 36_Barcelona 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 52_Washington_DC 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 7_Manchester 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 20_Rome 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Bratislava 38_Brussels 0_New_York"
+        },
+        {
+            "x": 0.3,
+            "cycle": "0_New_York 40_Zurich 36_Barcelona 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 8_Dusseldorf 39_Basel 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 17_Prague 39_Basel 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 46_San_Jose 43_Miami 0_New_York"
+        },
+        {
+            "x": 0.39999999999999997,
+            "cycle": "0_New_York 48_Denver 43_Miami 0_New_York"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_New_York 48_Denver 44_Toronto 0_New_York"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_New_York 9_Antwerp 47_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 43_Miami 48_Denver 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 45_Seattle 29_Palo_Alto 0_New_York"
+        },
+        {
+            "x": 0.3,
+            "cycle": "0_New_York 20_Rome 12_None 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 16_Bratislava 39_Basel 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 36_Barcelona 7_Manchester 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 44_Toronto 48_Denver 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 13_Athens 51_Atlanta 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Vienna 3_Boston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 36_Barcelona 9_Antwerp 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dusseldorf 15_Vienna 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 14_Bucharest 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 39_Basel 16_Bratislava 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 18_Warsaw 15_Vienna 0_New_York"
+        },
+        {
+            "x": 0.15000000000000002,
+            "cycle": "0_New_York 39_Basel 17_Prague 0_New_York"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_New_York 31_Hong_Kong 52_Washington_DC 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 46_San_Jose 51_Atlanta 0_New_York"
+        },
+        {
+            "x": 0.3,
+            "cycle": "0_New_York 12_None 20_Rome 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 47_Los_Angeles 9_Antwerp 0_New_York"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_New_York 46_San_Jose 29_Palo_Alto 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 45_Seattle 15_Vienna 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 51_Atlanta 46_San_Jose 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 7_Manchester 38_Brussels 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 48_Denver 18_Warsaw 0_New_York"
+        },
+        {
+            "x": 0.30000000000000004,
+            "cycle": "0_New_York 31_Hong_Kong 18_Warsaw 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 36_Barcelona 20_Rome 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Vienna 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 17_Prague 45_Seattle 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 18_Warsaw 31_Hong_Kong 0_New_York"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_New_York 45_Seattle 18_Warsaw 0_New_York"
+        }
+    ],
+    "values": [
+        54,
+        52,
+        51,
+        50,
+        49,
+        49,
+        49,
+        48,
+        48,
+        48,
+        47,
+        47,
+        47,
+        47,
+        47,
+        47,
+        47,
+        46,
+        45,
+        45,
+        45,
+        45,
+        44,
+        44,
+        44,
+        44,
+        44,
+        44,
+        43,
+        43,
+        42.5,
+        42.5,
+        41.5,
+        41.5,
+        41.5,
+        41.5,
+        41.5,
+        40.5,
+        40.5,
+        40.5,
+        39.5,
+        39.5,
+        39.5,
+        39.16666666666666,
+        39.166666666666664,
+        38.5,
+        38,
+        38,
+        38,
+        38,
+        38,
+        38,
+        38,
+        38,
+        37.99999999999999,
+        37.95454545454545,
+        37.95454545454545,
+        37.875,
+        37.875,
+        37.875,
+        37.833333333333336,
+        37.75,
+        37.736842105263165,
+        37.736842105263165,
+        37.71428571428571,
+        37.71428571428571,
+        37.699999999999996,
+        37.6875,
+        37.67999999999999,
+        37.67500000000001,
+        37.66666666666667,
+        37.650000000000006
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 1150369,
+    "lpBound": 37.650000000000006
+}

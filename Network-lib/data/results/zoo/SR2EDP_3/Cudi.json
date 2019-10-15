@@ -1,0 +1,1030 @@
+{
+    "pairResults": [
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27603082,
+            "t1": "42_Abilene",
+            "s1": "30_OCSE?",
+            "t2": "41_CENIC",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9125677
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30442978,
+            "t1": "31_None",
+            "s1": "45_MEX",
+            "t2": "11_UAM",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9703213
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 35647357,
+            "t1": "30_OCSE?",
+            "s1": "34_ILCE",
+            "t2": "28_VPN",
+            "s2": "31_None",
+            "dedicated_runtime": 10258798
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31583680,
+            "t1": "25_UDG",
+            "s1": "12_MILITARY",
+            "t2": "44_GDL",
+            "s2": "31_None",
+            "dedicated_runtime": 9144134
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 35116298,
+            "t1": "48_CAN",
+            "s1": "8_CUDI",
+            "t2": "45_MEX",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9528520
+        },
+        {
+            "dedicated_pathsExist": true,
+            "dedicated_runtime": 12168479,
+            "mip_pathsExist": true,
+            "mip_p1": "41_CENIC 44_GDL 10_VBNS",
+            "dedicated_p1": "41_CENIC 10_VBNS",
+            "mip_p2": "42_Abilene 2_UTEI 43_MTY",
+            "dedicated_lat": 40,
+            "dedicated_p2": "42_Abilene 43_MTY",
+            "mip_runtime": 28351459,
+            "t1": "10_VBNS",
+            "s1": "41_CENIC",
+            "t2": "43_MTY",
+            "s2": "42_Abilene",
+            "mip_lat": 40
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30469248,
+            "t1": "49_UABC",
+            "s1": "8_CUDI",
+            "t2": "50_?",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9157669
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29789417,
+            "t1": "47_TU",
+            "s1": "20_UAEH",
+            "t2": "50_?",
+            "s2": "31_None",
+            "dedicated_runtime": 9318542
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31699409,
+            "t1": "33_ITE",
+            "s1": "4_UAL",
+            "t2": "5_UNAM",
+            "s2": "0_None",
+            "dedicated_runtime": 9109472
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26800356,
+            "t1": "46_Cd.J",
+            "s1": "22_UPALP",
+            "t2": "3_UACJ",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9149867
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31039104,
+            "t1": "1_UANL",
+            "s1": "31_None",
+            "t2": "0_None",
+            "s2": "15_UDLAP",
+            "dedicated_runtime": 10810139
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 36324314,
+            "t1": "0_None",
+            "s1": "13_UV",
+            "t2": "7_UAT",
+            "s2": "31_None",
+            "dedicated_runtime": 13311931
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28146634,
+            "t1": "6_ITESM",
+            "s1": "14_CO?",
+            "t2": "0_None",
+            "s2": "23_???",
+            "dedicated_runtime": 9793618
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27774343,
+            "t1": "24_LANIA",
+            "s1": "2_UTEI",
+            "t2": "13_UV",
+            "s2": "42_Abilene",
+            "dedicated_runtime": 9019422
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 38000056,
+            "t1": "45_MEX",
+            "s1": "11_UAM",
+            "t2": "5_UNAM",
+            "s2": "31_None",
+            "dedicated_runtime": 9027795
+        },
+        {
+            "dedicated_pathsExist": true,
+            "dedicated_runtime": 14279397,
+            "mip_pathsExist": true,
+            "mip_p1": "2_UTEI 28_VPN",
+            "dedicated_p1": "2_UTEI 28_VPN",
+            "mip_p2": "42_Abilene 47_TU 45_MEX",
+            "dedicated_lat": 40,
+            "dedicated_p2": "42_Abilene 45_MEX",
+            "mip_runtime": 26874408,
+            "t1": "28_VPN",
+            "s1": "2_UTEI",
+            "t2": "45_MEX",
+            "s2": "42_Abilene",
+            "mip_lat": 40
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32388106,
+            "t1": "9_?",
+            "s1": "44_GDL",
+            "t2": "5_UNAM",
+            "s2": "47_TU",
+            "dedicated_runtime": 9352985
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 33214552,
+            "t1": "15_UDLAP",
+            "s1": "30_OCSE?",
+            "t2": "31_None",
+            "s2": "28_VPN",
+            "dedicated_runtime": 8986243
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32440383,
+            "t1": "10_VBNS",
+            "s1": "21_UaSLP",
+            "t2": "43_MTY",
+            "s2": "28_VPN",
+            "dedicated_runtime": 13747803
+        },
+        {
+            "dedicated_pathsExist": true,
+            "dedicated_runtime": 19112797,
+            "mip_pathsExist": true,
+            "mip_p1": "45_MEX 43_MTY 25_UDG",
+            "dedicated_p1": "45_MEX 25_UDG",
+            "mip_p2": "28_VPN 45_MEX 44_GDL",
+            "dedicated_lat": 30,
+            "dedicated_p2": "28_VPN 43_MTY 44_GDL",
+            "mip_runtime": 30893501,
+            "t1": "25_UDG",
+            "s1": "45_MEX",
+            "t2": "44_GDL",
+            "s2": "28_VPN",
+            "mip_lat": 30
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27598169,
+            "t1": "25_UDG",
+            "s1": "38_ULSA",
+            "t2": "44_GDL",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 10274575
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31860012,
+            "t1": "20_UAEH",
+            "s1": "10_VBNS",
+            "t2": "31_None",
+            "s2": "43_MTY",
+            "dedicated_runtime": 9200908
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27543989,
+            "t1": "44_GDL",
+            "s1": "38_ULSA",
+            "t2": "43_MTY",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9567191
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27134295,
+            "t1": "39_TAMU",
+            "s1": "46_Cd.J",
+            "t2": "5_UNAM",
+            "s2": "3_UACJ",
+            "dedicated_runtime": 12579031
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27565425,
+            "t1": "28_VPN",
+            "s1": "18_ITSEM",
+            "t2": "45_MEX",
+            "s2": "31_None",
+            "dedicated_runtime": 9488969
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 35594021,
+            "t1": "21_UaSLP",
+            "s1": "46_Cd.J",
+            "t2": "28_VPN",
+            "s2": "3_UACJ",
+            "dedicated_runtime": 9124632
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30198513,
+            "t1": "6_ITESM",
+            "s1": "10_VBNS",
+            "t2": "0_None",
+            "s2": "43_MTY",
+            "dedicated_runtime": 8955825
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27521421,
+            "t1": "38_ULSA",
+            "s1": "10_VBNS",
+            "t2": "5_UNAM",
+            "s2": "43_MTY",
+            "dedicated_runtime": 9084443
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27861779,
+            "t1": "28_VPN",
+            "s1": "34_ILCE",
+            "t2": "21_UaSLP",
+            "s2": "31_None",
+            "dedicated_runtime": 9070430
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26819957,
+            "t1": "31_None",
+            "s1": "9_?",
+            "t2": "19_UAEM",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9202611
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29858618,
+            "t1": "26_INANDO",
+            "s1": "31_None",
+            "t2": "15_UDLAP",
+            "s2": "14_CO?",
+            "dedicated_runtime": 13173551
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32924536,
+            "t1": "20_UAEH",
+            "s1": "45_MEX",
+            "t2": "31_None",
+            "s2": "48_CAN",
+            "dedicated_runtime": 12485837
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26954688,
+            "t1": "34_ILCE",
+            "s1": "36_UP",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9096657
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 34323551,
+            "t1": "25_UDG",
+            "s1": "34_ILCE",
+            "t2": "44_GDL",
+            "s2": "31_None",
+            "dedicated_runtime": 8948639
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 33425697,
+            "t1": "31_None",
+            "s1": "46_Cd.J",
+            "t2": "11_UAM",
+            "s2": "3_UACJ",
+            "dedicated_runtime": 12237710
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26961956,
+            "t1": "11_UAM",
+            "s1": "36_UP",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 10221802
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 35724670,
+            "t1": "9_?",
+            "s1": "48_CAN",
+            "t2": "5_UNAM",
+            "s2": "45_MEX",
+            "dedicated_runtime": 13015559
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28447498,
+            "t1": "16_BUAP",
+            "s1": "27_UniSod?",
+            "t2": "31_None",
+            "s2": "28_VPN",
+            "dedicated_runtime": 8909505
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30109538,
+            "t1": "4_UAL",
+            "s1": "26_INANDO",
+            "t2": "0_None",
+            "s2": "15_UDLAP",
+            "dedicated_runtime": 9130465
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32443845,
+            "t1": "26_INANDO",
+            "s1": "14_CO?",
+            "t2": "15_UDLAP",
+            "s2": "23_???",
+            "dedicated_runtime": 9114927
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27458915,
+            "t1": "6_ITESM",
+            "s1": "43_MTY",
+            "t2": "0_None",
+            "s2": "45_MEX",
+            "dedicated_runtime": 9077832
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29264033,
+            "t1": "3_UACJ",
+            "s1": "8_CUDI",
+            "t2": "46_Cd.J",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 14200415
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32098247,
+            "t1": "16_BUAP",
+            "s1": "38_ULSA",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9155142
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 33170638,
+            "t1": "35_ITAM",
+            "s1": "7_UAT",
+            "t2": "5_UNAM",
+            "s2": "0_None",
+            "dedicated_runtime": 9527411
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 34135903,
+            "t1": "13_UV",
+            "s1": "9_?",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 8976162
+        },
+        {
+            "dedicated_pathsExist": true,
+            "dedicated_runtime": 21887342,
+            "mip_pathsExist": true,
+            "mip_p1": "5_UNAM 2_UTEI",
+            "dedicated_p1": "5_UNAM 2_UTEI",
+            "mip_p2": "45_MEX 42_Abilene 46_Cd.J",
+            "dedicated_lat": 60,
+            "dedicated_p2": "45_MEX 42_Abilene 46_Cd.J",
+            "mip_runtime": 35551833,
+            "t1": "2_UTEI",
+            "s1": "5_UNAM",
+            "t2": "46_Cd.J",
+            "s2": "45_MEX",
+            "mip_lat": 59.99999999999977
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28378910,
+            "t1": "12_MILITARY",
+            "s1": "4_UAL",
+            "t2": "31_None",
+            "s2": "0_None",
+            "dedicated_runtime": 9156374
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27541650,
+            "t1": "10_VBNS",
+            "s1": "21_UaSLP",
+            "t2": "43_MTY",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9466816
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 40017975,
+            "t1": "33_ITE",
+            "s1": "45_MEX",
+            "t2": "5_UNAM",
+            "s2": "43_MTY",
+            "dedicated_runtime": 8999133
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31396721,
+            "t1": "16_BUAP",
+            "s1": "25_UDG",
+            "t2": "31_None",
+            "s2": "44_GDL",
+            "dedicated_runtime": 9260019
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32395590,
+            "t1": "24_LANIA",
+            "s1": "46_Cd.J",
+            "t2": "13_UV",
+            "s2": "2_UTEI",
+            "dedicated_runtime": 13317871
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27649937,
+            "t1": "6_ITESM",
+            "s1": "47_TU",
+            "t2": "0_None",
+            "s2": "41_CENIC",
+            "dedicated_runtime": 10021674
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26898837,
+            "t1": "45_MEX",
+            "s1": "26_INANDO",
+            "t2": "28_VPN",
+            "s2": "15_UDLAP",
+            "dedicated_runtime": 9088445
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29411372,
+            "t1": "46_Cd.J",
+            "s1": "17_IPN",
+            "t2": "3_UACJ",
+            "s2": "31_None",
+            "dedicated_runtime": 9035273
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26740977,
+            "t1": "16_BUAP",
+            "s1": "38_ULSA",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 18889293
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27524428,
+            "t1": "49_UABC",
+            "s1": "43_MTY",
+            "t2": "50_?",
+            "s2": "46_Cd.J",
+            "dedicated_runtime": 12052570
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28736356,
+            "t1": "11_UAM",
+            "s1": "23_???",
+            "t2": "31_None",
+            "s2": "14_CO?",
+            "dedicated_runtime": 12170628
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31315470,
+            "t1": "8_CUDI",
+            "s1": "0_None",
+            "t2": "5_UNAM",
+            "s2": "7_UAT",
+            "dedicated_runtime": 9105548
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26586150,
+            "t1": "19_UAEM",
+            "s1": "5_UNAM",
+            "t2": "31_None",
+            "s2": "39_TAMU",
+            "dedicated_runtime": 11713628
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29200323,
+            "t1": "24_LANIA",
+            "s1": "41_CENIC",
+            "t2": "13_UV",
+            "s2": "42_Abilene",
+            "dedicated_runtime": 9711240
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31229427,
+            "t1": "7_UAT",
+            "s1": "21_UaSLP",
+            "t2": "0_None",
+            "s2": "28_VPN",
+            "dedicated_runtime": 13812544
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 36583916,
+            "t1": "3_UACJ",
+            "s1": "29_Ucol",
+            "t2": "46_Cd.J",
+            "s2": "28_VPN",
+            "dedicated_runtime": 14349717
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 39238394,
+            "t1": "35_ITAM",
+            "s1": "20_UAEH",
+            "t2": "5_UNAM",
+            "s2": "31_None",
+            "dedicated_runtime": 9159311
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27963100,
+            "t1": "19_UAEM",
+            "s1": "45_MEX",
+            "t2": "31_None",
+            "s2": "28_VPN",
+            "dedicated_runtime": 13299143
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27925175,
+            "t1": "21_UaSLP",
+            "s1": "35_ITAM",
+            "t2": "28_VPN",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 8979870
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32791849,
+            "t1": "15_UDLAP",
+            "s1": "16_BUAP",
+            "t2": "26_INANDO",
+            "s2": "31_None",
+            "dedicated_runtime": 9087989
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31895168,
+            "t1": "33_ITE",
+            "s1": "29_Ucol",
+            "t2": "5_UNAM",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9040542
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26599042,
+            "t1": "44_GDL",
+            "s1": "13_UV",
+            "t2": "43_MTY",
+            "s2": "31_None",
+            "dedicated_runtime": 8932763
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26814680,
+            "t1": "47_TU",
+            "s1": "20_UAEH",
+            "t2": "50_?",
+            "s2": "31_None",
+            "dedicated_runtime": 13005330
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 33888080,
+            "t1": "23_???",
+            "s1": "17_IPN",
+            "t2": "14_CO?",
+            "s2": "31_None",
+            "dedicated_runtime": 9863390
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31605912,
+            "t1": "49_UABC",
+            "s1": "47_TU",
+            "t2": "50_?",
+            "s2": "44_GDL",
+            "dedicated_runtime": 9114153
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27203978,
+            "t1": "42_Abilene",
+            "s1": "49_UABC",
+            "t2": "2_UTEI",
+            "s2": "50_?",
+            "dedicated_runtime": 12906188
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27672163,
+            "t1": "8_CUDI",
+            "s1": "30_OCSE?",
+            "t2": "5_UNAM",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9750081
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 32036865,
+            "t1": "49_UABC",
+            "s1": "33_ITE",
+            "t2": "50_?",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9595409
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31637518,
+            "t1": "35_ITAM",
+            "s1": "16_BUAP",
+            "t2": "5_UNAM",
+            "s2": "31_None",
+            "dedicated_runtime": 9241824
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28779786,
+            "t1": "46_Cd.J",
+            "s1": "13_UV",
+            "t2": "2_UTEI",
+            "s2": "31_None",
+            "dedicated_runtime": 9115013
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27395099,
+            "t1": "48_CAN",
+            "s1": "41_CENIC",
+            "t2": "45_MEX",
+            "s2": "47_TU",
+            "dedicated_runtime": 51524781
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 38532175,
+            "t1": "19_UAEM",
+            "s1": "8_CUDI",
+            "t2": "31_None",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 24543542
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28066471,
+            "t1": "42_Abilene",
+            "s1": "19_UAEM",
+            "t2": "2_UTEI",
+            "s2": "31_None",
+            "dedicated_runtime": 9833351
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30296270,
+            "t1": "43_MTY",
+            "s1": "32_UASLP",
+            "t2": "44_GDL",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 10685224
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31669269,
+            "t1": "10_VBNS",
+            "s1": "27_UniSod?",
+            "t2": "43_MTY",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9155203
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29413050,
+            "t1": "3_UACJ",
+            "s1": "9_?",
+            "t2": "46_Cd.J",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9351889
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29928023,
+            "t1": "4_UAL",
+            "s1": "12_MILITARY",
+            "t2": "0_None",
+            "s2": "31_None",
+            "dedicated_runtime": 9857756
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30385321,
+            "t1": "50_?",
+            "s1": "38_ULSA",
+            "t2": "47_TU",
+            "s2": "5_UNAM",
+            "dedicated_runtime": 9034160
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26798309,
+            "t1": "6_ITESM",
+            "s1": "26_INANDO",
+            "t2": "0_None",
+            "s2": "15_UDLAP",
+            "dedicated_runtime": 9046883
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 29955474,
+            "t1": "35_ITAM",
+            "s1": "27_UniSod?",
+            "t2": "5_UNAM",
+            "s2": "28_VPN",
+            "dedicated_runtime": 8983802
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 35841045,
+            "t1": "44_GDL",
+            "s1": "18_ITSEM",
+            "t2": "25_UDG",
+            "s2": "31_None",
+            "dedicated_runtime": 9001054
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27901602,
+            "t1": "15_UDLAP",
+            "s1": "29_Ucol",
+            "t2": "31_None",
+            "s2": "28_VPN",
+            "dedicated_runtime": 8976118
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26872800,
+            "t1": "38_ULSA",
+            "s1": "28_VPN",
+            "t2": "5_UNAM",
+            "s2": "45_MEX",
+            "dedicated_runtime": 13410452
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27645554,
+            "t1": "26_INANDO",
+            "s1": "10_VBNS",
+            "t2": "15_UDLAP",
+            "s2": "43_MTY",
+            "dedicated_runtime": 9058179
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30091004,
+            "t1": "26_INANDO",
+            "s1": "0_None",
+            "t2": "15_UDLAP",
+            "s2": "7_UAT",
+            "dedicated_runtime": 9082245
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 27137082,
+            "t1": "49_UABC",
+            "s1": "41_CENIC",
+            "t2": "50_?",
+            "s2": "47_TU",
+            "dedicated_runtime": 10072580
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26488775,
+            "t1": "40_IMP",
+            "s1": "44_GDL",
+            "t2": "5_UNAM",
+            "s2": "43_MTY",
+            "dedicated_runtime": 12277982
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 26593547,
+            "t1": "9_?",
+            "s1": "29_Ucol",
+            "t2": "5_UNAM",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9033071
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30199786,
+            "t1": "23_???",
+            "s1": "27_UniSod?",
+            "t2": "14_CO?",
+            "s2": "28_VPN",
+            "dedicated_runtime": 9001070
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31835786,
+            "t1": "4_UAL",
+            "s1": "28_VPN",
+            "t2": "0_None",
+            "s2": "29_Ucol",
+            "dedicated_runtime": 15630508
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 42432679,
+            "t1": "33_ITE",
+            "s1": "48_CAN",
+            "t2": "5_UNAM",
+            "s2": "45_MEX",
+            "dedicated_runtime": 10267209
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 30688079,
+            "t1": "19_UAEM",
+            "s1": "10_VBNS",
+            "t2": "31_None",
+            "s2": "43_MTY",
+            "dedicated_runtime": 9862000
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 31760245,
+            "t1": "8_CUDI",
+            "s1": "44_GDL",
+            "t2": "5_UNAM",
+            "s2": "43_MTY",
+            "dedicated_runtime": 8989139
+        },
+        {
+            "mip_pathsExist": false,
+            "dedicated_pathsExist": false,
+            "mip_runtime": 28973157,
+            "t1": "26_INANDO",
+            "s1": "23_???",
+            "t2": "15_UDLAP",
+            "s2": "14_CO?",
+            "dedicated_runtime": 9152035
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 3
+}

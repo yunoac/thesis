@@ -1,0 +1,110 @@
+{
+    "initialCoverSize": 19,
+    "times": [
+        2029428,
+        2504649,
+        2948637,
+        3385348,
+        3826066,
+        4236253,
+        4668951,
+        5063262,
+        5479085,
+        5856510,
+        6271578
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Limerick 1_Cork 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 2_Tralee 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 3_Galway 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 4_Sligo 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 5_Letterkenny 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 6_Athlone 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 7_Dundalk 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 9_Carlow 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 10_Waterford 0_Limerick"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Limerick 2_Tralee 1_Cork 2_Tralee 1_Cork 2_Tralee 1_Cork 2_Tralee 1_Cork 0_Limerick"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Limerick 4_Sligo 3_Galway 4_Sligo 3_Galway 4_Sligo 3_Galway 4_Sligo 3_Galway 0_Limerick"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Limerick 6_Athlone 5_Letterkenny 6_Athlone 5_Letterkenny 6_Athlone 5_Letterkenny 6_Athlone 5_Letterkenny 0_Limerick"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Limerick 9_Carlow 7_Dundalk 9_Carlow 7_Dundalk 9_Carlow 7_Dundalk 9_Carlow 7_Dundalk 0_Limerick"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Limerick 10_Waterford 1_Cork 10_Waterford 1_Cork 10_Waterford 1_Cork 10_Waterford 1_Cork 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 4_Sligo 2_Tralee 4_Sligo 2_Tralee 4_Sligo 2_Tralee 4_Sligo 2_Tralee 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 3_Galway 2_Tralee 3_Galway 2_Tralee 3_Galway 2_Tralee 3_Galway 2_Tralee 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 9_Carlow 6_Athlone 9_Carlow 6_Athlone 9_Carlow 6_Athlone 9_Carlow 6_Athlone 0_Limerick"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Limerick 7_Dundalk 6_Athlone 7_Dundalk 6_Athlone 7_Dundalk 6_Athlone 7_Dundalk 6_Athlone 0_Limerick"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Limerick 10_Waterford 2_Tralee 10_Waterford 2_Tralee 10_Waterford 2_Tralee 10_Waterford 2_Tralee 0_Limerick"
+        }
+    ],
+    "values": [
+        9,
+        7.25,
+        5.5,
+        3.75,
+        2,
+        1.25,
+        1.25,
+        1.125,
+        1.125,
+        1.125,
+        1.125
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 47215,
+    "lpBound": 1.125
+}

@@ -1,0 +1,31 @@
+{
+    "nbCycles": 23,
+    "runtime": 12297824,
+    "cycles": [
+        "1_St._Polten 0_Eisenstadt 6_Krems,1_St._Polten",
+        "1_St._Polten,6_Krems 0_Eisenstadt 1_St._Polten",
+        "1_St._Polten 3_Leoben 1_St._Polten 1_St._Polten",
+        "1_St._Polten 14_Graz1 0_Eisenstadt 1_St._Polten",
+        "1_St._Polten,6_Krems 2_Graz2 1_St._Polten",
+        "1_St._Polten 3_Leoben 6_Krems,1_St._Polten",
+        "1_St._Polten,6_Krems 3_Leoben 1_St._Polten",
+        "1_St._Polten,6_Krems 5_GEANT 1_St._Polten",
+        "1_St._Polten 5_GEANT 6_Krems,1_St._Polten",
+        "1_St._Polten 0_Eisenstadt 13_Klagenfurt2 1_St._Polten",
+        "1_St._Polten 13_Klagenfurt2 0_Eisenstadt 1_St._Polten",
+        "1_St._Polten 0_Eisenstadt 15_Linz1 1_St._Polten",
+        "1_St._Polten 15_Linz1 0_Eisenstadt 1_St._Polten",
+        "1_St._Polten 0_Eisenstadt 18_Salzburg2 1_St._Polten",
+        "1_St._Polten 17_Salzburg1 6_Krems,1_St._Polten",
+        "1_St._Polten 0_Eisenstadt 19_Innsbruck1 1_St._Polten",
+        "1_St._Polten 19_Innsbruck1 0_Eisenstadt 1_St._Polten",
+        "1_St._Polten 8_Level3 1_St._Polten 1_St._Polten",
+        "1_St._Polten 9_VIX 1_St._Polten 1_St._Polten",
+        "1_St._Polten 11_SANET 1_St._Polten 1_St._Polten",
+        "1_St._Polten 12_CESNET 1_St._Polten 1_St._Polten",
+        "1_St._Polten,6_Krems 21_Dornbirn 1_St._Polten",
+        "1_St._Polten 21_Dornbirn 6_Krems,1_St._Polten"
+    ],
+    "segmentCost": 4,
+    "source": "1_St._Polten"
+}

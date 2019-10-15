@@ -1,0 +1,328 @@
+{
+    "initialCoverSize": 59,
+    "times": [
+        1488786,
+        4169115,
+        6566993,
+        9031437,
+        12688148,
+        15001600,
+        17225493,
+        19638587,
+        22083717,
+        24450818,
+        27095554,
+        29688406,
+        32019111,
+        34366573,
+        37011789,
+        39614380,
+        42129176,
+        45778335,
+        48260573,
+        50694849,
+        53244067,
+        56064682,
+        58633658,
+        62391636,
+        65262373,
+        68117154,
+        71291328,
+        75002735,
+        79176735,
+        81813600,
+        84448734,
+        87100263,
+        90128611,
+        94509726,
+        97160582,
+        99750546,
+        102269373,
+        104943982,
+        107782959,
+        111894925
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "4_Opole 1_Bialystok,0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 2_Wlocawek 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 21_Frankfurt,0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 22_Berlin,0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 14_Olszlyn 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 24_Torun 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 12_Zielona_Gora 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 19_Prague 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 20_Bratislava 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 17_Kielce 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 15_Tarnow 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 25_Gdyia 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 1_Bialystok 23_Bydgoszcz 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 24_Torun 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 27_Koszalin 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 27_Koszalin 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "4_Opole 13_Gdansk 2_Wlocawek 26_Slupsk 2_Wlocawek 26_Slupsk 2_Wlocawek 26_Slupsk 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 27_Koszalin 6_Lublin 27_Koszalin 6_Lublin 27_Koszalin 6_Lublin 1_Bialystok 4_Opole"
+        },
+        {
+            "x": 0.07422325000913255,
+            "cycle": "4_Opole 13_Gdansk 12_Zielona_Gora 2_Wlocawek 12_Zielona_Gora 2_Wlocawek 12_Zielona_Gora 2_Wlocawek 12_Zielona_Gora 4_Opole"
+        },
+        {
+            "x": 0.10088445453236228,
+            "cycle": "4_Opole 27_Koszalin 30_Gorzow_Wilkp 7_Rzeszow 2_Wlocawek 7_Rzeszow 2_Wlocawek 7_Rzeszow 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0.2020472055961155,
+            "cycle": "4_Opole 15_Tarnow 6_Lublin 15_Tarnow 6_Lublin 15_Tarnow 6_Lublin 15_Tarnow 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0.07271074315880814,
+            "cycle": "4_Opole 19_Prague 17_Kielce 19_Prague 17_Kielce 19_Prague 17_Kielce 19_Prague 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.12647769970162107,
+            "cycle": "4_Opole 21_Frankfurt 17_Kielce 21_Frankfurt 17_Kielce 21_Frankfurt 17_Kielce 21_Frankfurt 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.046698830267892566,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 20_Bratislava 30_Gorzow_Wilkp 20_Bratislava 30_Gorzow_Wilkp 20_Bratislava 30_Gorzow_Wilkp 20_Bratislava 4_Opole"
+        },
+        {
+            "x": 0.17201782483207123,
+            "cycle": "4_Opole 27_Koszalin 22_Berlin 12_Zielona_Gora 27_Koszalin 22_Berlin 12_Zielona_Gora 27_Koszalin 22_Berlin 4_Opole"
+        },
+        {
+            "x": 0.13264580499181616,
+            "cycle": "4_Opole 17_Kielce 27_Koszalin 19_Prague 17_Kielce 27_Koszalin 19_Prague 18_Radom 27_Koszalin 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 22_Berlin 4_Opole 22_Berlin 27_Koszalin 4_Opole 22_Berlin 27_Koszalin 9_Lodz 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 27_Koszalin 1_Bialystok 29_Szczecin 26_Slupsk 28_Kolobrzeg 25_Gdyia 28_Kolobrzeg 25_Gdyia 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 28_Kolobrzeg 17_Kielce 20_Bratislava 28_Kolobrzeg 17_Kielce 20_Bratislava 28_Kolobrzeg 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 2_Wlocawek 29_Szczecin 1_Bialystok 29_Szczecin 1_Bialystok 29_Szczecin 21_Frankfurt 24_Torun 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 25_Gdyia 28_Kolobrzeg 3_Plock 2_Wlocawek 22_Berlin 27_Koszalin 22_Berlin 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 13_Gdansk 6_Lublin 19_Prague 15_Tarnow 19_Prague 15_Tarnow 19_Prague 15_Tarnow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 13_Gdansk 6_Lublin 20_Bratislava 27_Koszalin 20_Bratislava 27_Koszalin 20_Bratislava 27_Koszalin 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 3_Plock 14_Olszlyn 12_Zielona_Gora 3_Plock 14_Olszlyn 12_Zielona_Gora 21_Frankfurt 13_Gdansk 4_Opole"
+        },
+        {
+            "x": 0.0991599529807951,
+            "cycle": "4_Opole 22_Berlin 24_Torun 22_Berlin 24_Torun 22_Berlin 24_Torun 22_Berlin 24_Torun 4_Opole"
+        },
+        {
+            "x": 0.03040167320485554,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 6_Lublin 19_Prague 30_Gorzow_Wilkp 6_Lublin 19_Prague 30_Gorzow_Wilkp 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 2_Wlocawek 26_Slupsk 29_Szczecin 13_Gdansk 12_Zielona_Gora 25_Gdyia 28_Kolobrzeg 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.002350284596601193,
+            "cycle": "4_Opole 15_Tarnow 17_Kielce 15_Tarnow 17_Kielce 15_Tarnow 17_Kielce 15_Tarnow 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.11811605952076527,
+            "cycle": "4_Opole 13_Gdansk 30_Gorzow_Wilkp 21_Frankfurt 27_Koszalin 30_Gorzow_Wilkp 13_Gdansk 30_Gorzow_Wilkp 13_Gdansk 4_Opole"
+        },
+        {
+            "x": 0.05110795605935358,
+            "cycle": "4_Opole 2_Wlocawek 21_Frankfurt 12_Zielona_Gora 21_Frankfurt 12_Zielona_Gora 21_Frankfurt 12_Zielona_Gora 21_Frankfurt 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 14_Olszlyn 24_Torun 30_Gorzow_Wilkp 17_Kielce 7_Rzeszow 27_Koszalin 30_Gorzow_Wilkp 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.0685824940404222,
+            "cycle": "4_Opole 12_Zielona_Gora 17_Kielce 20_Bratislava 12_Zielona_Gora 17_Kielce 20_Bratislava 12_Zielona_Gora 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 20_Bratislava 18_Radom 20_Bratislava 18_Radom 20_Bratislava 17_Kielce 28_Kolobrzeg 25_Gdyia 4_Opole"
+        },
+        {
+            "x": 0.004382489543174265,
+            "cycle": "4_Opole 24_Torun 21_Frankfurt 27_Koszalin 21_Frankfurt 27_Koszalin 21_Frankfurt 30_Gorzow_Wilkp 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 2_Wlocawek 12_Zielona_Gora 3_Plock 28_Kolobrzeg 19_Prague 27_Koszalin 21_Frankfurt 24_Torun 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 20_Bratislava 19_Prague 20_Bratislava 19_Prague 20_Bratislava 19_Prague 6_Lublin 13_Gdansk 4_Opole"
+        },
+        {
+            "x": 0.15839384880581256,
+            "cycle": "4_Opole 21_Frankfurt 27_Koszalin 6_Lublin 27_Koszalin 6_Lublin 27_Koszalin 6_Lublin 24_Torun 4_Opole"
+        },
+        {
+            "x": 0.04365335679030294,
+            "cycle": "4_Opole 22_Berlin 30_Gorzow_Wilkp 6_Lublin 30_Gorzow_Wilkp 6_Lublin 30_Gorzow_Wilkp 6_Lublin 22_Berlin 4_Opole"
+        },
+        {
+            "x": 0.06571223315256083,
+            "cycle": "4_Opole 24_Torun 17_Kielce 30_Gorzow_Wilkp 2_Wlocawek 17_Kielce 30_Gorzow_Wilkp 2_Wlocawek 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 27_Koszalin 19_Prague 6_Lublin 27_Koszalin 19_Prague 6_Lublin 27_Koszalin 4_Opole"
+        },
+        {
+            "x": 0.095765517742856,
+            "cycle": "4_Opole 27_Koszalin 19_Prague 27_Koszalin 19_Prague 27_Koszalin 19_Prague 27_Koszalin 19_Prague 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 24_Torun 6_Lublin 20_Bratislava 18_Radom 6_Lublin 22_Berlin 6_Lublin 20_Bratislava 4_Opole"
+        },
+        {
+            "x": 0.09120501961456659,
+            "cycle": "4_Opole 20_Bratislava 15_Tarnow 20_Bratislava 15_Tarnow 20_Bratislava 6_Lublin 18_Radom 24_Torun 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 17_Kielce 7_Rzeszow 17_Kielce 7_Rzeszow 17_Kielce 7_Rzeszow 17_Kielce 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0.10060615800097139,
+            "cycle": "4_Opole 20_Bratislava 18_Radom 20_Bratislava 18_Radom 20_Bratislava 18_Radom 20_Bratislava 7_Rzeszow 4_Opole"
+        }
+    ],
+    "values": [
+        17,
+        15,
+        15,
+        13.4375,
+        10.437500000000002,
+        8.020833333333332,
+        7.270833333333333,
+        4.604166666666667,
+        3.8541666666666665,
+        2.9652777777777777,
+        2.6527777777777777,
+        2.310185185185185,
+        2.310185185185185,
+        2.303240740740741,
+        2.2061838624338628,
+        2.1688826784101174,
+        2.1682994378306875,
+        2.1578076303134814,
+        2.1338154413812314,
+        2.12165379083651,
+        2.118324959484777,
+        2.1001207073086956,
+        2.099544140924462,
+        2.093021139890627,
+        2.073753742295914,
+        2.0597648100513117,
+        2.0564036614766374,
+        2.046744435084397,
+        2.0452319086752357,
+        2.0441170385606195,
+        2.032720655999804,
+        2.0221573142246623,
+        2.0165692613714037,
+        2.0126261283282747,
+        2.0116255345005025,
+        2.0081329687165304,
+        2.0070538568577674,
+        2.0039919429442037,
+        2.002805722220067,
+        2
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 417246,
+    "lpBound": 2
+}

@@ -1,0 +1,17 @@
+{
+    "nbCycles": 9,
+    "runtime": 1009036,
+    "cycles": [
+        "2_None 9_Buffalo 0_New_York 2_None",
+        "2_None 1_None 0_New_York 2_None",
+        "2_None 3_Moncton 0_New_York 2_None",
+        "2_None 5_Edmundston 0_New_York 2_None",
+        "2_None 5_Edmundston 1_None 2_None",
+        "2_None 0_New_York 5_Edmundston 2_None",
+        "2_None 8_Toronto 2_None 2_None",
+        "2_None 8_Toronto 9_Buffalo 2_None",
+        "2_None 9_Buffalo 8_Toronto 2_None"
+    ],
+    "segmentCost": 4,
+    "source": "2_None"
+}

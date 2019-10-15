@@ -1,0 +1,328 @@
+{
+    "initialCoverSize": 62,
+    "times": [
+        1560664,
+        3546786,
+        5548037,
+        7553298,
+        9493680,
+        11552816,
+        13545198,
+        15461005,
+        17333667,
+        19330800,
+        21318624,
+        23250016,
+        25248325,
+        27218278,
+        29168646,
+        31210705,
+        33305564,
+        35364620,
+        37274060,
+        39234756,
+        41118107,
+        43117197,
+        45165408,
+        47224863,
+        49271367,
+        51245274,
+        53235881,
+        55272716,
+        57321504,
+        59421576,
+        61480106,
+        63606766,
+        65694699,
+        67905878
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 1_Velocix 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 2_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 3_WADE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 4_Pipe 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 5_AARNET 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 7_Transact 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 8_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 9_PIPE 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 11_TELSTRA 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 11_TELSTRA 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 12_REACH 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 13_AKAMAI 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 14_GOOGLE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 15_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 16_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 17_Equinix 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 18_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 19_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 20_PIPE 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 22_Google 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 23_Darwin 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 19_AKAMAI 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 11_TELSTRA 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 19_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 4_Pipe 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 8_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 4_Pipe 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 8_AKAMAI 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 12_REACH 9_PIPE 5_AARNET 9_PIPE 5_AARNET 9_PIPE 5_AARNET 12_REACH 0_AKAMAI"
+        },
+        {
+            "x": 0.06615193706267791,
+            "cycle": "0_AKAMAI 13_AKAMAI 20_PIPE 4_Pipe 20_PIPE 4_Pipe 20_PIPE 13_AKAMAI 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.14977884211642845,
+            "cycle": "0_AKAMAI 14_GOOGLE 11_TELSTRA 14_GOOGLE 11_TELSTRA 14_GOOGLE 11_TELSTRA 14_GOOGLE 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.01279156393778353,
+            "cycle": "0_AKAMAI 2_AARNET 1_Velocix 2_AARNET 1_Velocix 2_AARNET 1_Velocix 2_AARNET 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.19433698833783092,
+            "cycle": "0_AKAMAI 15_PIPE 3_WADE 15_PIPE 3_WADE 15_PIPE 3_WADE 15_PIPE 3_WADE 0_AKAMAI"
+        },
+        {
+            "x": 0.09696508505852261,
+            "cycle": "0_AKAMAI 22_Google 16_PIPE 7_Transact 16_PIPE 7_Transact 16_PIPE 7_Transact 16_PIPE 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 18_AARNET 17_Equinix 4_Pipe 17_Equinix 4_Pipe 17_Equinix 4_Pipe 17_Equinix 0_AKAMAI"
+        },
+        {
+            "x": 0.06712823322909134,
+            "cycle": "0_AKAMAI 22_Google 17_Equinix 22_Google 17_Equinix 22_Google 17_Equinix 22_Google 17_Equinix 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 23_Darwin 18_AARNET 8_AKAMAI 18_AARNET 8_AKAMAI 18_AARNET 8_AKAMAI 18_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.29803507524713463,
+            "cycle": "0_AKAMAI 23_Darwin 11_TELSTRA 23_Darwin 11_TELSTRA 23_Darwin 11_TELSTRA 23_Darwin 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.02198327117422874,
+            "cycle": "0_AKAMAI 12_REACH 10_VOCUS 12_REACH 10_VOCUS 12_REACH 10_VOCUS 12_REACH 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.15530492153141065,
+            "cycle": "0_AKAMAI 13_AKAMAI 8_AKAMAI 13_AKAMAI 8_AKAMAI 13_AKAMAI 8_AKAMAI 13_AKAMAI 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.1773792466918261,
+            "cycle": "0_AKAMAI 6_Pipe 19_AKAMAI 6_Pipe 19_AKAMAI 6_Pipe 5_AARNET 19_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.02318596978324302,
+            "cycle": "0_AKAMAI 6_Pipe 9_PIPE 7_Transact 6_Pipe 9_PIPE 7_Transact 6_Pipe 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.08868962334591306,
+            "cycle": "0_AKAMAI 17_Equinix 20_PIPE 10_VOCUS 9_PIPE 6_Pipe 20_PIPE 10_VOCUS 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.016001952902183744,
+            "cycle": "0_AKAMAI 13_AKAMAI 5_AARNET 6_Pipe 1_Velocix 13_AKAMAI 5_AARNET 6_Pipe 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.11132602332433816,
+            "cycle": "0_AKAMAI 15_PIPE 9_PIPE 6_Pipe 2_AARNET 15_PIPE 9_PIPE 6_Pipe 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.20977141251387296,
+            "cycle": "0_AKAMAI 10_VOCUS 9_PIPE 6_Pipe 9_PIPE 6_Pipe 9_PIPE 10_VOCUS 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.012972152897305685,
+            "cycle": "0_AKAMAI 6_Pipe 7_Transact 9_PIPE 6_Pipe 7_Transact 6_Pipe 7_Transact 12_REACH 0_AKAMAI"
+        },
+        {
+            "x": 0.04024152692312205,
+            "cycle": "0_AKAMAI 3_WADE 2_AARNET 3_WADE 2_AARNET 3_WADE 2_AARNET 3_WADE 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.14825623313070616,
+            "cycle": "0_AKAMAI 22_Google 12_REACH 11_TELSTRA 12_REACH 11_TELSTRA 12_REACH 11_TELSTRA 12_REACH 0_AKAMAI"
+        },
+        {
+            "x": 0.15630268219561846,
+            "cycle": "0_AKAMAI 6_Pipe 5_AARNET 6_Pipe 5_AARNET 6_Pipe 5_AARNET 20_PIPE 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 8_AKAMAI 4_Pipe 8_AKAMAI 4_Pipe 8_AKAMAI 4_Pipe 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.13897094166270452,
+            "cycle": "0_AKAMAI 17_Equinix 8_AKAMAI 16_PIPE 1_Velocix 17_Equinix 8_AKAMAI 16_PIPE 12_REACH 0_AKAMAI"
+        },
+        {
+            "x": 0.10022115788357155,
+            "cycle": "0_AKAMAI 22_Google 14_GOOGLE 22_Google 14_GOOGLE 22_Google 14_GOOGLE 22_Google 14_GOOGLE 0_AKAMAI"
+        },
+        {
+            "x": 0.10723626697231703,
+            "cycle": "0_AKAMAI 13_AKAMAI 5_AARNET 4_Pipe 5_AARNET 4_Pipe 5_AARNET 4_Pipe 13_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0.15595408664150723,
+            "cycle": "0_AKAMAI 18_AARNET 19_AKAMAI 7_Transact 19_AKAMAI 7_Transact 19_AKAMAI 7_Transact 18_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.15595408664150726,
+            "cycle": "0_AKAMAI 18_AARNET 20_PIPE 18_AARNET 20_PIPE 18_AARNET 7_Transact 20_PIPE 18_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0.16709888822025026,
+            "cycle": "0_AKAMAI 16_PIPE 4_Pipe 17_Equinix 1_Velocix 16_PIPE 12_REACH 4_Pipe 17_Equinix 0_AKAMAI"
+        },
+        {
+            "x": 0.06168593895618813,
+            "cycle": "0_AKAMAI 6_Pipe 1_Velocix 6_Pipe 3_WADE 1_Velocix 6_Pipe 1_Velocix 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.05294738712929803,
+            "cycle": "0_AKAMAI 10_VOCUS 11_TELSTRA 18_AARNET 4_Pipe 11_TELSTRA 18_AARNET 4_Pipe 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.05294738712929808,
+            "cycle": "0_AKAMAI 18_AARNET 4_Pipe 18_AARNET 11_TELSTRA 4_Pipe 18_AARNET 11_TELSTRA 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.08538111736011966,
+            "cycle": "0_AKAMAI 22_Google 6_Pipe 8_AKAMAI 17_Equinix 8_AKAMAI 17_Equinix 8_AKAMAI 17_Equinix 0_AKAMAI"
+        }
+    ],
+    "values": [
+        24,
+        19.5,
+        15.5,
+        14.000000000000002,
+        13,
+        11.25,
+        10.25,
+        8.25,
+        7.75,
+        6.083333333333333,
+        4.75,
+        4.333333333333333,
+        4.229166666666667,
+        3.784722222222222,
+        3.5972222222222223,
+        3.4425505050505056,
+        3.316666666666667,
+        3.298611111111111,
+        3.285677879714577,
+        3.2621656378600825,
+        3.2567007797270957,
+        3.2334854731056146,
+        3.2117465504720406,
+        3.1798664062402184,
+        3.177692794468472,
+        3.1764350772050682,
+        3.1759529590146376,
+        3.175952959014637,
+        3.1698688404213895,
+        3.1673788754958343,
+        3.1442945259910267,
+        3.1442945259910267,
+        3.1363110599266735,
+        3.1249999999999996
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 350753,
+    "lpBound": 3.1249999999999996
+}

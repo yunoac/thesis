@@ -1,0 +1,296 @@
+{
+    "initialCoverSize": 46,
+    "times": [
+        1626904,
+        4432707,
+        7181143,
+        10002930,
+        12854328,
+        15614421,
+        18335201,
+        21103986,
+        23827820,
+        26540377,
+        29279861,
+        32008926,
+        34777328,
+        37527565,
+        40275809,
+        43036038,
+        45887659,
+        49661250,
+        52837065,
+        55635711
+    ],
+    "finalCoverSize": 14,
+    "minSegCycles": [
+        "3_Olsztyn 1_Lithuania@0_None 3_Olsztyn",
+        "3_Olsztyn 4_Bialystok 0_None 3_Olsztyn",
+        "3_Olsztyn 2_Russia 0_None@3_Olsztyn",
+        "3_Olsztyn 5_warszawa 0_None 3_Olsztyn",
+        "3_Olsztyn 8_Radom 0_None 3_Olsztyn",
+        "3_Olsztyn 9_None 0_None 3_Olsztyn",
+        "3_Olsztyn 7_Belarus 0_None 3_Olsztyn",
+        "3_Olsztyn 18_None 0_None 3_Olsztyn",
+        "3_Olsztyn 16_Slovenia 0_None 3_Olsztyn",
+        "3_Olsztyn@0_None 14_Wroclaw 3_Olsztyn",
+        "3_Olsztyn 10_Czech_Republic 0_None 3_Olsztyn",
+        "3_Olsztyn 9_None 16_Slovenia 3_Olsztyn",
+        "3_Olsztyn 8_Radom 13_Opole 3_Olsztyn",
+        "3_Olsztyn 13_Opole 8_Radom 3_Olsztyn",
+        "3_Olsztyn 15_GEANT2 0_None@3_Olsztyn",
+        "3_Olsztyn 18_None 10_Czech_Republic 3_Olsztyn",
+        "3_Olsztyn 25_Ukraine 0_None 3_Olsztyn",
+        "3_Olsztyn 24_Rzeszow 0_None 3_Olsztyn",
+        "3_Olsztyn 10_Czech_Republic 18_None 3_Olsztyn",
+        "3_Olsztyn 29_Koszalin 0_None 3_Olsztyn",
+        "3_Olsztyn 30_Szczecin 0_None 3_Olsztyn",
+        "3_Olsztyn 31_None 2_Russia 3_Olsztyn",
+        "3_Olsztyn 32_Germany 2_Russia 3_Olsztyn",
+        "3_Olsztyn 29_Koszalin 5_warszawa 3_Olsztyn",
+        "3_Olsztyn 32_Germany 10_Czech_Republic 3_Olsztyn",
+        "3_Olsztyn 10_Czech_Republic 32_Germany 3_Olsztyn",
+        "3_Olsztyn 4_Bialystok 30_Szczecin 3_Olsztyn",
+        "3_Olsztyn 25_Ukraine 16_Slovenia 3_Olsztyn",
+        "3_Olsztyn 16_Slovenia 32_Germany 3_Olsztyn",
+        "3_Olsztyn 15_GEANT2 2_Russia 3_Olsztyn",
+        "3_Olsztyn 14_Wroclaw 1_Lithuania 3_Olsztyn",
+        "3_Olsztyn 2_Russia 1_Lithuania 3_Olsztyn",
+        "3_Olsztyn 1_Lithuania 15_GEANT2 3_Olsztyn",
+        "3_Olsztyn 7_Belarus 2_Russia 3_Olsztyn",
+        "3_Olsztyn 14_Wroclaw 7_Belarus 3_Olsztyn",
+        "3_Olsztyn 32_Germany 13_Opole 3_Olsztyn",
+        "3_Olsztyn 11_Czechtochowa 2_Russia 3_Olsztyn",
+        "3_Olsztyn 31_None 7_Belarus 3_Olsztyn",
+        "3_Olsztyn 20_Pulawy 14_Wroclaw 3_Olsztyn",
+        "3_Olsztyn 29_Koszalin 22_Krakow 3_Olsztyn",
+        "3_Olsztyn 13_Opole 18_None 3_Olsztyn",
+        "3_Olsztyn 22_Krakow 29_Koszalin 3_Olsztyn",
+        "3_Olsztyn 10_Czech_Republic 25_Ukraine 3_Olsztyn",
+        "3_Olsztyn 29_Koszalin 15_GEANT2 3_Olsztyn",
+        "3_Olsztyn 15_GEANT2 29_Koszalin 3_Olsztyn",
+        "3_Olsztyn 13_Opole 2_Russia 3_Olsztyn"
+    ],
+    "values": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        9,
+        9,
+        9,
+        8.5,
+        8.5,
+        8.5,
+        8,
+        8,
+        8,
+        8,
+        8,
+        7.75,
+        7.75,
+        7.666666666666667,
+        7.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 8,
+    "runtime": 79177927,
+    "lpBound": 7.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 1_Lithuania@0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 4_Bialystok 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 2_Russia 0_None@3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 5_warszawa 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 8_Radom 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 9_None 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 7_Belarus 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 18_None 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 16_Slovenia 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn@0_None 14_Wroclaw 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 10_Czech_Republic 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 9_None 16_Slovenia 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 8_Radom 13_Opole 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 13_Opole 8_Radom 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 15_GEANT2 0_None@3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 18_None 10_Czech_Republic 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 25_Ukraine 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 24_Rzeszow 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 10_Czech_Republic 18_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 29_Koszalin 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 30_Szczecin 0_None 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 31_None 2_Russia 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 32_Germany 2_Russia 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 29_Koszalin 5_warszawa 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 32_Germany 10_Czech_Republic 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 10_Czech_Republic 32_Germany 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 4_Bialystok 30_Szczecin 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 25_Ukraine 16_Slovenia 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 16_Slovenia 32_Germany 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 15_GEANT2 2_Russia 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 14_Wroclaw 1_Lithuania 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 2_Russia 1_Lithuania 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 1_Lithuania 15_GEANT2 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 7_Belarus 2_Russia 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 14_Wroclaw 7_Belarus 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 32_Germany 13_Opole 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 11_Czechtochowa 2_Russia 3_Olsztyn"
+        },
+        {
+            "x": 1,
+            "cycle": "3_Olsztyn 31_None 7_Belarus 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 20_Pulawy 14_Wroclaw 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 29_Koszalin 22_Krakow 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 13_Opole 18_None 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 22_Krakow 29_Koszalin 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 10_Czech_Republic 25_Ukraine 3_Olsztyn"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Olsztyn 29_Koszalin 15_GEANT2 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 15_GEANT2 29_Koszalin 3_Olsztyn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_Olsztyn 13_Opole 2_Russia 3_Olsztyn"
+        }
+    ],
+    "greedySolution": [
+        "3_Olsztyn 32_Germany 10_Czech_Republic 3_Olsztyn",
+        "3_Olsztyn 25_Ukraine 16_Slovenia 3_Olsztyn",
+        "3_Olsztyn 16_Slovenia 32_Germany 3_Olsztyn",
+        "3_Olsztyn 1_Lithuania 15_GEANT2 3_Olsztyn",
+        "3_Olsztyn 31_None 7_Belarus 3_Olsztyn",
+        "3_Olsztyn 10_Czech_Republic 25_Ukraine 3_Olsztyn",
+        "3_Olsztyn 15_GEANT2 29_Koszalin 3_Olsztyn",
+        "3_Olsztyn 13_Opole 2_Russia 3_Olsztyn"
+    ]
+}

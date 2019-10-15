@@ -1,0 +1,50 @@
+{
+    "initialCoverSize": 10,
+    "times": [993248],
+    "solution": [
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 1_Jeju 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 3_Busan 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 4_Changwon 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 5_Seoul 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 6_Incheon 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 7_Suwon 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 8_Cheonan 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 9_Ochang 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 11_Pohang 0_Jeonju"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Jeonju 12_Daegu 0_Jeonju"
+        }
+    ],
+    "values": [9],
+    "initialCoverSeg": 3,
+    "runtime": 62230,
+    "lpBound": 9
+}

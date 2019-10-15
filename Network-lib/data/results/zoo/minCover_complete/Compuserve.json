@@ -1,0 +1,134 @@
+{
+    "initialCoverSize": 25,
+    "times": [
+        1308639,
+        1722480,
+        2119976,
+        2512114,
+        2881449,
+        3248558,
+        3615166,
+        3954815,
+        4335844,
+        4687963,
+        5092692
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_1 1_1 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 11_Atlanta 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 5_New_York 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 3_1 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 4_Boston 2_Washington,_DC 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 4_Boston 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 2_Washington,_DC 4_Boston 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 6_Seattle 4_Boston 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 4_Boston 7_San_Francisco 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 8_Los_Angeles 0_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 6_Seattle 9_Dallas 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 9_Dallas 6_Seattle 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 10_Houston 0_1 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 8_Los_Angeles 11_Atlanta 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 2_Washington,_DC 10_Houston 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 3_1 1_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 10_Houston 4_Boston 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 8_Los_Angeles 1_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 6_Seattle 5_New_York 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 5_New_York 6_Seattle 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 4_Boston 1_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 4_Boston 3_1 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 11_Atlanta 8_Los_Angeles 0_1"
+        },
+        {
+            "x": 0,
+            "cycle": "0_1 10_Houston 1_1 0_1"
+        },
+        {
+            "x": 1,
+            "cycle": "0_1 4_Boston 10_Houston 0_1"
+        }
+    ],
+    "values": [
+        9,
+        8,
+        8,
+        8,
+        7,
+        7,
+        7,
+        6.5,
+        6,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 84686,
+    "lpBound": 6
+}

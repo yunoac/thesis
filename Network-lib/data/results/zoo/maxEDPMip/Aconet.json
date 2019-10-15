@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "20_Innsbruck2",
+            "nbpSR": 2,
+            "runtime": 92508662,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Graz2",
+            "nbpSR": 2,
+            "runtime": 69597451,
+            "dest": "13_Klagenfurt2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 57231849,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 60997770,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Graz2",
+            "nbpSR": 2,
+            "runtime": 79018150,
+            "dest": "0_Eisenstadt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 70752062,
+            "dest": "15_Linz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 66230183,
+            "dest": "1_St._Polten",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Linz2",
+            "nbpSR": 2,
+            "runtime": 45212941,
+            "dest": "15_Linz1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 38601825,
+            "dest": "0_Eisenstadt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Innsbruck1",
+            "nbpSR": 2,
+            "runtime": 67018133,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 66655100,
+            "dest": "1_St._Polten",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 73886469,
+            "dest": "18_Salzburg2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 63294561,
+            "dest": "1_St._Polten",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 44531285,
+            "dest": "12_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Vienna1",
+            "nbpSR": 2,
+            "runtime": 73135040,
+            "dest": "3_Leoben",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 79211499,
+            "dest": "21_Dornbirn",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 90736783,
+            "dest": "3_Leoben",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 39951723,
+            "dest": "11_SANET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Salzburg1",
+            "nbpSR": 2,
+            "runtime": 85840153,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Vienna2",
+            "nbpSR": 2,
+            "runtime": 73691215,
+            "dest": "21_Dornbirn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 77416818,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Klagenfurt1",
+            "nbpSR": 2,
+            "runtime": 99232351,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Graz2",
+            "nbpSR": 2,
+            "runtime": 86636476,
+            "dest": "21_Dornbirn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Innsbruck1",
+            "nbpSR": 2,
+            "runtime": 85659394,
+            "dest": "3_Leoben",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 66876001,
+            "dest": "15_Linz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Leoben",
+            "nbpSR": 2,
+            "runtime": 83910848,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 70331447,
+            "dest": "15_Linz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Krems",
+            "nbpSR": 1,
+            "runtime": 69905862,
+            "dest": "11_SANET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Innsbruck1",
+            "nbpSR": 1,
+            "runtime": 83635012,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 50418650,
+            "dest": "20_Innsbruck2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 69654968,
+            "dest": "15_Linz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Graz2",
+            "nbpSR": 2,
+            "runtime": 66791660,
+            "dest": "1_St._Polten",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Linz1",
+            "nbpSR": 2,
+            "runtime": 63532616,
+            "dest": "17_Salzburg1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Klagenfurt1",
+            "nbpSR": 2,
+            "runtime": 86581358,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Innsbruck1",
+            "nbpSR": 2,
+            "runtime": 73214710,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Vienna2",
+            "nbpSR": 1,
+            "runtime": 71067654,
+            "dest": "8_Level3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Dornbirn",
+            "nbpSR": 2,
+            "runtime": 65223265,
+            "dest": "20_Innsbruck2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Graz1",
+            "nbpSR": 2,
+            "runtime": 88634169,
+            "dest": "15_Linz1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Linz2",
+            "nbpSR": 1,
+            "runtime": 79334703,
+            "dest": "9_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 47527833,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 103231377,
+            "dest": "21_Dornbirn",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 83339238,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_SANET",
+            "nbpSR": 1,
+            "runtime": 70802019,
+            "dest": "16_Linz2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 45754811,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 69084381,
+            "dest": "17_Salzburg1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 44273520,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Graz1",
+            "nbpSR": 2,
+            "runtime": 71949889,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Innsbruck1",
+            "nbpSR": 2,
+            "runtime": 88904772,
+            "dest": "18_Salzburg2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 65463669,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Graz1",
+            "nbpSR": 2,
+            "runtime": 74258627,
+            "dest": "17_Salzburg1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Krems",
+            "nbpSR": 2,
+            "runtime": 36586235,
+            "dest": "4_Vienna2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Leoben",
+            "nbpSR": 2,
+            "runtime": 64883768,
+            "dest": "7_Vienna1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Linz1",
+            "nbpSR": 2,
+            "runtime": 73949983,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Klagenfurt1",
+            "nbpSR": 2,
+            "runtime": 69745417,
+            "dest": "18_Salzburg2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Salzburg2",
+            "nbpSR": 2,
+            "runtime": 59206403,
+            "dest": "7_Vienna1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 38622061,
+            "dest": "0_Eisenstadt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 82205133,
+            "dest": "21_Dornbirn",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 69291614,
+            "dest": "17_Salzburg1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 87330918,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 83598734,
+            "dest": "15_Linz1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 64880808,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_SANET",
+            "nbpSR": 1,
+            "runtime": 81815947,
+            "dest": "2_Graz2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 84614016,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 1,
+            "runtime": 80002275,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Vienna2",
+            "nbpSR": 2,
+            "runtime": 60010459,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_SANET",
+            "nbpSR": 1,
+            "runtime": 80244756,
+            "dest": "14_Graz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Salzburg1",
+            "nbpSR": 2,
+            "runtime": 80569521,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 79277287,
+            "dest": "14_Graz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 69380258,
+            "dest": "15_Linz1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Salzburg1",
+            "nbpSR": 1,
+            "runtime": 78091060,
+            "dest": "9_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Linz1",
+            "nbpSR": 1,
+            "runtime": 77750273,
+            "dest": "8_Level3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Klagenfurt1",
+            "nbpSR": 2,
+            "runtime": 71450501,
+            "dest": "1_St._Polten",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 43677328,
+            "dest": "9_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 66629099,
+            "dest": "4_Vienna2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Salzburg1",
+            "nbpSR": 1,
+            "runtime": 81947172,
+            "dest": "12_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Graz1",
+            "nbpSR": 1,
+            "runtime": 85780747,
+            "dest": "12_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 89615604,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Graz1",
+            "nbpSR": 2,
+            "runtime": 92129418,
+            "dest": "15_Linz1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Vienna1",
+            "nbpSR": 2,
+            "runtime": 60146707,
+            "dest": "2_Graz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 80759459,
+            "dest": "2_Graz2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 71572225,
+            "dest": "6_Krems",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 69724319,
+            "dest": "13_Klagenfurt2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 2,
+            "runtime": 48155095,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Dornbirn",
+            "nbpSR": 2,
+            "runtime": 83671734,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Eisenstadt",
+            "nbpSR": 2,
+            "runtime": 34207321,
+            "dest": "7_Vienna1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_VIX",
+            "nbpSR": 1,
+            "runtime": 68345764,
+            "dest": "1_St._Polten",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Klagenfurt2",
+            "nbpSR": 2,
+            "runtime": 61737488,
+            "dest": "16_Linz2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_SANET",
+            "nbpSR": 1,
+            "runtime": 46129239,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Vienna1",
+            "nbpSR": 2,
+            "runtime": 53851905,
+            "dest": "19_Innsbruck1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_CESNET",
+            "nbpSR": 1,
+            "runtime": 45127417,
+            "dest": "9_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Eisenstadt",
+            "nbpSR": 1,
+            "runtime": 88998000,
+            "dest": "11_SANET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Innsbruck2",
+            "nbpSR": 1,
+            "runtime": 85611100,
+            "dest": "8_Level3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 41915841,
+            "dest": "9_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Salzburg2",
+            "nbpSR": 2,
+            "runtime": 80516578,
+            "dest": "15_Linz1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_SANET",
+            "nbpSR": 1,
+            "runtime": 80800218,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Level3",
+            "nbpSR": 1,
+            "runtime": 68380850,
+            "dest": "16_Linz2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Vienna1",
+            "nbpSR": 2,
+            "runtime": 53508764,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_St._Polten",
+            "nbpSR": 1,
+            "runtime": 73031124,
+            "dest": "11_SANET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Linz2",
+            "nbpSR": 1,
+            "runtime": 79498349,
+            "dest": "11_SANET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Salzburg2",
+            "nbpSR": 2,
+            "runtime": 61679288,
+            "dest": "22_Klagenfurt1",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

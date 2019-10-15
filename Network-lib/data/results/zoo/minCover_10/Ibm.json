@@ -1,0 +1,650 @@
+{
+    "initialCoverSize": 112,
+    "times": [
+        1191524,
+        1938506,
+        2615382,
+        3277373,
+        4061501,
+        4860215,
+        5618102,
+        6339818,
+        7036849,
+        7786030,
+        8568649,
+        9307410,
+        10030718,
+        10824577,
+        11575649,
+        12471281,
+        13309453,
+        14195926,
+        15107843,
+        16048769,
+        16981298,
+        17941738,
+        18891592,
+        19856804,
+        20846303,
+        21765850,
+        22615138,
+        23521568,
+        24477601,
+        25573891,
+        26542041,
+        27528360,
+        28518071,
+        29534844,
+        30583328,
+        31616642,
+        32701945,
+        33753261,
+        34737254,
+        35799142,
+        36796672,
+        37957425,
+        39184104,
+        40353349,
+        41491164,
+        42647658,
+        43720732,
+        44923430,
+        46053899,
+        47224048,
+        48543149,
+        49627577,
+        50733707,
+        51886379,
+        52994574,
+        54122534,
+        55198037,
+        56246181,
+        57262016,
+        58555375,
+        59683469,
+        60860851,
+        62091279,
+        62879800,
+        64080177,
+        65224979,
+        66307738,
+        67397576,
+        68535364,
+        69613201,
+        70752679,
+        71956283,
+        73169413,
+        74620335,
+        75884393,
+        77054910,
+        78175281,
+        79331015,
+        80547584,
+        81911370,
+        83167908,
+        84485751,
+        85750881,
+        86999869,
+        87843756,
+        89093438,
+        90330622,
+        91509157,
+        92733340,
+        93946520,
+        95115355,
+        96010949,
+        96847130,
+        98083089,
+        100521031
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 10_Vancouver 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 10_Vancouver 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 8_Schaumburg 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 6_New_York 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 6_New_York 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 12_Los_Angeles 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,9_St_Louis 12_Los_Angeles 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,4_Columbus 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,9_St_Louis 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 16_Tampa 13_Phoenix 10_Vancouver 13_Phoenix 10_Vancouver 13_Phoenix 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 8_Schaumburg 15_Atlanta 1_White_Plains 15_Atlanta 1_White_Plains 15_Atlanta 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 1_White_Plains 0_Montreal 1_White_Plains 0_Montreal 1_White_Plains 12_Los_Angeles 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 1_White_Plains 5_Bethesda 13_Phoenix 1_White_Plains 12_Los_Angeles 3_Toronto 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 12_Los_Angeles 6_New_York 12_Los_Angeles 6_New_York 12_Los_Angeles 6_New_York 12_Los_Angeles 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 10_Vancouver 15_Atlanta 6_New_York 10_Vancouver 15_Atlanta 6_New_York 10_Vancouver 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 0_Montreal 9_St_Louis 0_Montreal 9_St_Louis 0_Montreal 9_St_Louis 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 12_Los_Angeles 9_St_Louis 13_Phoenix 9_St_Louis 13_Phoenix 9_St_Louis 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 12_Los_Angeles 1_White_Plains 16_Tampa 2_Detroit 5_Bethesda 2_Detroit 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 2_Detroit 16_Tampa 2_Detroit 16_Tampa 2_Detroit 0_Montreal 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 9_St_Louis 0_Montreal 15_Atlanta 9_St_Louis 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 10_Vancouver 5_Bethesda 10_Vancouver 5_Bethesda 10_Vancouver 5_Bethesda 10_Vancouver 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 12_Los_Angeles 15_Atlanta 12_Los_Angeles 15_Atlanta 12_Los_Angeles 15_Atlanta 12_Los_Angeles 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 6_New_York 15_Atlanta 0_Montreal 9_St_Louis 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 10_Vancouver 13_Phoenix 1_White_Plains 12_Los_Angeles 15_Atlanta 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 1_White_Plains 15_Atlanta 2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 9_St_Louis 15_Atlanta 10_Vancouver 6_New_York 15_Atlanta 10_Vancouver 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 12_Los_Angeles 5_Bethesda 16_Tampa 13_Phoenix 16_Tampa 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 13_Phoenix 16_Tampa 13_Phoenix 16_Tampa 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 5_Bethesda 10_Vancouver 15_Atlanta 1_White_Plains 13_Phoenix 4_Columbus 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 4_Columbus 10_Vancouver 4_Columbus 10_Vancouver 4_Columbus 10_Vancouver 4_Columbus 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 6_New_York 10_Vancouver 6_New_York 10_Vancouver 6_New_York 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 14_Dallas 8_Schaumburg 14_Dallas 8_Schaumburg 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 9_St_Louis 15_Atlanta 9_St_Louis 15_Atlanta 9_St_Louis 12_Los_Angeles 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 10_Vancouver 15_Atlanta 1_White_Plains 13_Phoenix 10_Vancouver 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 1_White_Plains 13_Phoenix 1_White_Plains 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 1_White_Plains 15_Atlanta 0_Montreal 1_White_Plains 16_Tampa 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 4_Columbus 5_Bethesda 10_Vancouver 13_Phoenix 9_St_Louis 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 12_Los_Angeles 9_St_Louis 12_Los_Angeles 1_White_Plains 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 8_Schaumburg 15_Atlanta 8_Schaumburg 15_Atlanta 8_Schaumburg 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 1_White_Plains 0_Montreal 15_Atlanta 1_White_Plains 0_Montreal 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 10_Vancouver 4_Columbus 10_Vancouver 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 12_Los_Angeles 6_New_York 10_Vancouver 13_Phoenix 9_St_Louis 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 3_Toronto 7_Philadelphia 3_Toronto 7_Philadelphia 3_Toronto 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 3_Toronto 15_Atlanta 3_Toronto 15_Atlanta 3_Toronto 15_Atlanta 3_Toronto 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 7_Philadelphia 12_Los_Angeles 5_Bethesda 12_Los_Angeles 5_Bethesda 12_Los_Angeles 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 8_Schaumburg 14_Dallas 4_Columbus 10_Vancouver 7_Philadelphia 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.010876132930513649,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 1_White_Plains 16_Tampa 1_White_Plains 16_Tampa 1_White_Plains 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 14_Dallas 4_Columbus 14_Dallas 3_Toronto 15_Atlanta 9_St_Louis 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 3_Toronto 14_Dallas 3_Toronto 15_Atlanta 1_White_Plains 13_Phoenix 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0.054380664652568,
+            "cycle": "2_Detroit 15_Atlanta 1_White_Plains 15_Atlanta 1_White_Plains 15_Atlanta 1_White_Plains 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 12_Los_Angeles 7_Philadelphia 12_Los_Angeles 7_Philadelphia 12_Los_Angeles 7_Philadelphia 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 12_Los_Angeles 5_Bethesda 10_Vancouver 4_Columbus 14_Dallas 8_Schaumburg 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 1_White_Plains 13_Phoenix 10_Vancouver 5_Bethesda 10_Vancouver 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 10_Vancouver 7_Philadelphia 3_Toronto 14_Dallas 2_Detroit 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 13_Phoenix 10_Vancouver 13_Phoenix 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 4_Columbus 13_Phoenix 10_Vancouver 7_Philadelphia 3_Toronto 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 6_New_York 10_Vancouver 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0.39818731117824774,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 5_Bethesda 12_Los_Angeles 7_Philadelphia 3_Toronto 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 15_Atlanta 3_Toronto 14_Dallas 4_Columbus 14_Dallas 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 14_Dallas 4_Columbus 14_Dallas 4_Columbus 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 3_Toronto 14_Dallas 3_Toronto 14_Dallas 3_Toronto 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 13_Phoenix 4_Columbus 13_Phoenix 4_Columbus 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 7_Philadelphia 10_Vancouver 7_Philadelphia 12_Los_Angeles 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 13_Phoenix 10_Vancouver 6_New_York 12_Los_Angeles 9_St_Louis 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 0_Montreal 9_St_Louis 0_Montreal 9_St_Louis 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 1_White_Plains 0_Montreal 15_Atlanta 9_St_Louis 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.2767371601208459,
+            "cycle": "2_Detroit 14_Dallas 3_Toronto 7_Philadelphia 12_Los_Angeles 5_Bethesda 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0.06163141993957703,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 1_White_Plains 0_Montreal 1_White_Plains 0_Montreal 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.10574018126888217,
+            "cycle": "2_Detroit 0_Montreal 1_White_Plains 15_Atlanta 1_White_Plains 15_Atlanta 1_White_Plains 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 9_St_Louis 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 3_Toronto 15_Atlanta 3_Toronto 15_Atlanta 3_Toronto 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0.04652567975830804,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 10_Vancouver 5_Bethesda 12_Los_Angeles 5_Bethesda 12_Los_Angeles 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 5_Bethesda 12_Los_Angeles 6_New_York 10_Vancouver 13_Phoenix 9_St_Louis 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 8_Schaumburg 14_Dallas 8_Schaumburg 14_Dallas 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 8_Schaumburg 14_Dallas 4_Columbus 10_Vancouver 4_Columbus 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0.2000000000000001,
+            "cycle": "2_Detroit 15_Atlanta 3_Toronto 7_Philadelphia 10_Vancouver 6_New_York 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 12_Los_Angeles 15_Atlanta 12_Los_Angeles 15_Atlanta 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 12_Los_Angeles 5_Bethesda 10_Vancouver 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.0743202416918429,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 1_White_Plains 16_Tampa 13_Phoenix 10_Vancouver 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.04894259818731119,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 13_Phoenix 10_Vancouver 13_Phoenix 16_Tampa 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.12326283987915408,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 5_Bethesda 10_Vancouver 13_Phoenix 9_St_Louis 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 15_Atlanta 3_Toronto 14_Dallas 8_Schaumburg 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 12_Los_Angeles 5_Bethesda 10_Vancouver 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 14_Dallas 8_Schaumburg 14_Dallas 8_Schaumburg 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 14_Dallas 4_Columbus 14_Dallas 8_Schaumburg 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.05377643504531735,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 13_Phoenix 10_Vancouver 13_Phoenix 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 9_St_Louis 12_Los_Angeles 5_Bethesda 10_Vancouver 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.05135951661631425,
+            "cycle": "2_Detroit 15_Atlanta 12_Los_Angeles 5_Bethesda 12_Los_Angeles 5_Bethesda 10_Vancouver 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 13_Phoenix 10_Vancouver 7_Philadelphia 3_Toronto 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.027794561933534828,
+            "cycle": "2_Detroit 14_Dallas 4_Columbus 10_Vancouver 6_New_York 10_Vancouver 7_Philadelphia 3_Toronto 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.027190332326283935,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 6_New_York 12_Los_Angeles 6_New_York 12_Los_Angeles 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 1_White_Plains 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 1_White_Plains 16_Tampa 13_Phoenix 10_Vancouver 13_Phoenix 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.025377643504531734,
+            "cycle": "2_Detroit 15_Atlanta 1_White_Plains 16_Tampa 13_Phoenix 10_Vancouver 7_Philadelphia 3_Toronto 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.06042296072507547,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 1_White_Plains 16_Tampa 13_Phoenix 16_Tampa 1_White_Plains 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0.003021148036253871,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 5_Bethesda 10_Vancouver 5_Bethesda 12_Los_Angeles 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0.032628398791540864,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 1_White_Plains 16_Tampa 13_Phoenix 16_Tampa 13_Phoenix 16_Tampa 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 1_White_Plains 16_Tampa 13_Phoenix 9_St_Louis 0_Montreal 1_White_Plains 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 13_Phoenix 1_White_Plains 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0.022960725075528658,
+            "cycle": "2_Detroit 16_Tampa 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 13_Phoenix 4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0.09486404833836828,
+            "cycle": "2_Detroit 0_Montreal 9_St_Louis 13_Phoenix 10_Vancouver 6_New_York 10_Vancouver 13_Phoenix 16_Tampa 2_Detroit"
+        }
+    ],
+    "values": [
+        12,
+        9,
+        7.333333333333333,
+        6.333333333333333,
+        5.333333333333334,
+        4.15,
+        3.926829268292683,
+        3.516666666666667,
+        3.166666666666666,
+        2.739583333333333,
+        2.550843253968254,
+        2.4375,
+        2.4038461538461537,
+        2.251695736434108,
+        2.165776597959609,
+        2.119533807136808,
+        2.086154747948417,
+        2.071868689042654,
+        2.069695716239517,
+        2.064858064869164,
+        2.040381013336216,
+        2.028467289573247,
+        2.012094383473793,
+        2.0113690485511544,
+        1.9921451604547085,
+        1.9826099471026022,
+        1.9810023519312459,
+        1.9764396768781967,
+        1.9567834741835566,
+        1.9509112602326533,
+        1.9391010336908607,
+        1.9208850815292249,
+        1.9156219121236433,
+        1.9020739479646933,
+        1.9020739479646929,
+        1.8996349749959978,
+        1.895237420348057,
+        1.8918130642558146,
+        1.8914327673570825,
+        1.8888456826190856,
+        1.8879174957500582,
+        1.88688655327277,
+        1.8818665118329803,
+        1.8794217920746206,
+        1.8782194038511228,
+        1.8772988679159817,
+        1.8726893340008912,
+        1.862332563165638,
+        1.8601913129165284,
+        1.8397592061371897,
+        1.833765131975903,
+        1.8336965519183583,
+        1.8320204214365714,
+        1.830924743985832,
+        1.8293561220788839,
+        1.8291475256090122,
+        1.826665065696188,
+        1.8263156972532721,
+        1.8260567167267086,
+        1.8204217516476922,
+        1.81742677986478,
+        1.8162771590507205,
+        1.81547881992816,
+        1.8151390012074156,
+        1.8136679848611257,
+        1.8121694331833114,
+        1.8116228048220355,
+        1.811192517670855,
+        1.8104063564929624,
+        1.8101038911364271,
+        1.8100152918000174,
+        1.808476118078491,
+        1.807523418791399,
+        1.8051586192051285,
+        1.8046482170577907,
+        1.8046482170577904,
+        1.8043962692549063,
+        1.8043144410067613,
+        1.8035610677763674,
+        1.80334572928522,
+        1.8024261348689192,
+        1.8021917046951947,
+        1.801901795586358,
+        1.80161677831482,
+        1.8015759547530863,
+        1.801575954753086,
+        1.801575954753085,
+        1.80155771711698,
+        1.8010593637673016,
+        1.8008884290148783,
+        1.8007000280843362,
+        1.8005193754722786,
+        1.8005193754722801,
+        1.8000454017386198,
+        1.7999999999999998
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 170761,
+    "lpBound": 1.7999999999999998
+}

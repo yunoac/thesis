@@ -1,0 +1,156 @@
+{
+    "initialCoverSize": 29,
+    "times": [
+        1446715,
+        2277789,
+        3010591,
+        3724150,
+        4410091,
+        5131315,
+        5896937,
+        6602226,
+        7335723,
+        8049274,
+        8670460,
+        9362729,
+        10086744,
+        10820360
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Southport 1_Southport,10_Europe 10_Europe,1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 1_Southport,10_Europe 10_Europe,1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 1_Southport 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 4_Monaghan 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 2_Portadown 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 0_Drogheda 11_North_America 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 13_Omagh 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport,10_Europe 10_Europe,1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 11_North_America 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 11_North_America 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 14_Strabane 1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 13_Omagh 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 15_Letterkenny 2_Portadown 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 13_Omagh 11_North_America 13_Omagh 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 15_Letterkenny 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 15_Letterkenny 11_North_America 15_Letterkenny 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 11_North_America 3_Castleblayney 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 4_Monaghan 11_North_America 4_Monaghan 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 13_Omagh 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 3_Castleblayney 1_Southport"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Southport,10_Europe 10_Europe,1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 13_Omagh 3_Castleblayney 15_Letterkenny 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 15_Letterkenny 3_Castleblayney 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 2_Portadown 3_Castleblayney 15_Letterkenny 1_Southport"
+        }
+    ],
+    "values": [
+        9,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        5.75,
+        5.75,
+        5.5,
+        5.5,
+        5.5,
+        5.5,
+        5.5
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 146808,
+    "lpBound": 5.5
+}

@@ -1,0 +1,270 @@
+{
+    "initialCoverSize": 41,
+    "times": [
+        1322092,
+        2296231,
+        3225595,
+        4136899,
+        5108100,
+        6061779,
+        7037499,
+        7975280,
+        8865617,
+        9853537,
+        10845783,
+        11807715,
+        12775173,
+        13749444,
+        14737010,
+        15684804,
+        16619385,
+        17522183,
+        18622578
+    ],
+    "finalCoverSize": 9,
+    "minSegCycles": [
+        "0_Pittsburgh 1_Philadelphia 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago@0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 15_Cleveland@0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 9_New_York@1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 1_Philadelphia 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 9_New_York@1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 4_Raleigh 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 5_Charlotte 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 8_Atlanta 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 16_Buffalo 2_Newark 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 16_Buffalo 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 13_Stamford 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 10_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 11_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh@14_Chicago 15_Cleveland@0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh@15_Cleveland 14_Chicago@0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 10_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 10_None 17_Toronto 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 18_Montreal 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 20_Boston 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 20_Boston 14_Chicago 20_Boston 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 18_Montreal 2_Newark 0_Pittsburgh",
+        "0_Pittsburgh 8_Atlanta 14_Chicago 8_Atlanta 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 11_None 17_Toronto 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 13_Stamford 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 1_Philadelphia 2_Newark 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 2_Newark 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 16_Buffalo 2_Newark 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 15_Cleveland 14_Chicago 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 20_Boston 14_Chicago 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 16_Buffalo 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 4_Raleigh 14_Chicago 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 19_Albany 14_Chicago 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago 20_Boston 14_Chicago 0_Pittsburgh",
+        "0_Pittsburgh 4_Raleigh 2_Newark 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 18_Montreal 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 18_Montreal 2_Newark 0_Pittsburgh"
+    ],
+    "values": [
+        13,
+        12,
+        10,
+        9,
+        8,
+        7,
+        7,
+        7,
+        6.75,
+        6.75,
+        6.5,
+        6.5,
+        6.5,
+        6.5,
+        6.5,
+        6.5,
+        6.5,
+        6.5,
+        6.5
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 9,
+    "runtime": 34283344,
+    "lpBound": 6.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago@0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 15_Cleveland@0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 9_New_York@1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 2_Newark 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 2_Newark 1_Philadelphia 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 12_White_Plains 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 2_Newark 9_New_York@1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 4_Raleigh 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 5_Charlotte 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 8_Atlanta 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 16_Buffalo 2_Newark 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 16_Buffalo 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Pittsburgh 1_Philadelphia 13_Stamford 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 12_White_Plains 10_None 12_White_Plains 0_Pittsburgh"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Pittsburgh 12_White_Plains 11_None 12_White_Plains 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh@14_Chicago 15_Cleveland@0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh@15_Cleveland 14_Chicago@0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 17_Toronto 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Pittsburgh 17_Toronto 10_None 12_White_Plains 0_Pittsburgh"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Pittsburgh 12_White_Plains 10_None 17_Toronto 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 18_Montreal 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 20_Boston 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 20_Boston 14_Chicago 20_Boston 0_Pittsburgh"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Pittsburgh 2_Newark 18_Montreal 2_Newark 0_Pittsburgh"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Pittsburgh 8_Atlanta 14_Chicago 8_Atlanta 0_Pittsburgh"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Pittsburgh 17_Toronto 11_None 17_Toronto 0_Pittsburgh"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Pittsburgh 1_Philadelphia 2_Newark 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 12_White_Plains 13_Stamford 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 1_Philadelphia 2_Newark 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 2_Newark 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 16_Buffalo 2_Newark 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 15_Cleveland 14_Chicago 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 12_White_Plains 20_Boston 14_Chicago 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 1_Philadelphia 2_Newark 16_Buffalo 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 4_Raleigh 14_Chicago 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 14_Chicago 19_Albany 14_Chicago 0_Pittsburgh"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Pittsburgh 14_Chicago 20_Boston 14_Chicago 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 4_Raleigh 2_Newark 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 17_Toronto 18_Montreal 1_Philadelphia 0_Pittsburgh"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Pittsburgh 17_Toronto 18_Montreal 2_Newark 0_Pittsburgh"
+        }
+    ],
+    "greedySolution": [
+        "0_Pittsburgh 1_Philadelphia 13_Stamford 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 10_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 18_Montreal 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 20_Boston 14_Chicago 20_Boston 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 18_Montreal 2_Newark 0_Pittsburgh",
+        "0_Pittsburgh 8_Atlanta 14_Chicago 8_Atlanta 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 11_None 17_Toronto 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 16_Buffalo 0_Pittsburgh"
+    ]
+}

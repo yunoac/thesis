@@ -1,0 +1,198 @@
+{
+    "initialCoverSize": 29,
+    "times": [
+        1336625,
+        2078376,
+        2771131,
+        3452290,
+        4069698,
+        4709442,
+        5374238,
+        6023958,
+        6671581,
+        7341725,
+        7915886,
+        8563462,
+        9214058,
+        9907742
+    ],
+    "finalCoverSize": 9,
+    "minSegCycles": [
+        "1_Southport 3_Castleblayney 0_Drogheda 0_Drogheda 1_Southport",
+        "1_Southport 1_Southport@10_Europe 10_Europe@1_Southport",
+        "1_Southport 1_Southport@10_Europe 10_Europe@1_Southport",
+        "1_Southport 2_Portadown 0_Drogheda 0_Drogheda 1_Southport",
+        "1_Southport 2_Portadown 1_Southport 0_Drogheda 1_Southport",
+        "1_Southport 4_Monaghan 0_Drogheda 0_Drogheda 1_Southport",
+        "1_Southport 0_Drogheda 2_Portadown 0_Drogheda 1_Southport",
+        "1_Southport 0_Drogheda 11_North_America 0_Drogheda 1_Southport",
+        "1_Southport 0_Drogheda 13_Omagh 0_Drogheda 1_Southport",
+        "1_Southport@10_Europe 10_Europe@1_Southport 1_Southport",
+        "1_Southport 0_Drogheda 11_North_America 2_Portadown 1_Southport",
+        "1_Southport 2_Portadown 11_North_America 0_Drogheda 1_Southport",
+        "1_Southport 2_Portadown 14_Strabane 1_Southport 1_Southport",
+        "1_Southport 13_Omagh 0_Drogheda 0_Drogheda 1_Southport",
+        "1_Southport 2_Portadown 15_Letterkenny 1_Southport 1_Southport",
+        "1_Southport 15_Letterkenny 2_Portadown 0_Drogheda 1_Southport",
+        "1_Southport 13_Omagh 11_North_America 13_Omagh 1_Southport",
+        "1_Southport 3_Castleblayney 15_Letterkenny 2_Portadown 1_Southport",
+        "1_Southport 15_Letterkenny 11_North_America 15_Letterkenny 1_Southport",
+        "1_Southport 3_Castleblayney 11_North_America 3_Castleblayney 1_Southport",
+        "1_Southport 4_Monaghan 11_North_America 4_Monaghan 1_Southport",
+        "1_Southport 2_Portadown 0_Drogheda 13_Omagh 1_Southport",
+        "1_Southport 2_Portadown 15_Letterkenny 3_Castleblayney 1_Southport",
+        "1_Southport@10_Europe 10_Europe@1_Southport",
+        "1_Southport 2_Portadown 0_Drogheda 2_Portadown 1_Southport",
+        "1_Southport 2_Portadown 15_Letterkenny 2_Portadown 1_Southport",
+        "1_Southport 13_Omagh 3_Castleblayney 15_Letterkenny 1_Southport",
+        "1_Southport 15_Letterkenny 3_Castleblayney 2_Portadown 1_Southport",
+        "1_Southport 2_Portadown 3_Castleblayney 15_Letterkenny 1_Southport"
+    ],
+    "values": [
+        9,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        5.75,
+        5.75,
+        5.5,
+        5.5,
+        5.5,
+        5.5,
+        5.5
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 7,
+    "runtime": 14773309,
+    "lpBound": 5.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Southport 1_Southport@10_Europe 10_Europe@1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 1_Southport@10_Europe 10_Europe@1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 1_Southport 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 4_Monaghan 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 2_Portadown 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 0_Drogheda 11_North_America 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 13_Omagh 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport@10_Europe 10_Europe@1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 0_Drogheda 11_North_America 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 11_North_America 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 14_Strabane 1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 13_Omagh 0_Drogheda 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 1_Southport 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 15_Letterkenny 2_Portadown 0_Drogheda 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 13_Omagh 11_North_America 13_Omagh 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 15_Letterkenny 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 15_Letterkenny 11_North_America 15_Letterkenny 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 3_Castleblayney 11_North_America 3_Castleblayney 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 4_Monaghan 11_North_America 4_Monaghan 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 13_Omagh 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 3_Castleblayney 1_Southport"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Southport@10_Europe 10_Europe@1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 2_Portadown 0_Drogheda 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 2_Portadown 15_Letterkenny 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Southport 13_Omagh 3_Castleblayney 15_Letterkenny 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 15_Letterkenny 3_Castleblayney 2_Portadown 1_Southport"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Southport 2_Portadown 3_Castleblayney 15_Letterkenny 1_Southport"
+        }
+    ],
+    "greedySolution": [
+        "1_Southport 1_Southport@10_Europe 10_Europe@1_Southport",
+        "1_Southport 13_Omagh 0_Drogheda 0_Drogheda 1_Southport",
+        "1_Southport 3_Castleblayney 15_Letterkenny 2_Portadown 1_Southport",
+        "1_Southport 15_Letterkenny 11_North_America 15_Letterkenny 1_Southport",
+        "1_Southport 4_Monaghan 11_North_America 4_Monaghan 1_Southport",
+        "1_Southport 2_Portadown 0_Drogheda 13_Omagh 1_Southport",
+        "1_Southport@10_Europe 10_Europe@1_Southport"
+    ]
+}

@@ -1,0 +1,570 @@
+{
+    "initialCoverSize": 90,
+    "times": [
+        2040696,
+        4242095,
+        6548994,
+        8733543,
+        10892372,
+        13012548,
+        15256534,
+        17303977,
+        19593847,
+        21742738,
+        23863671,
+        25963304,
+        28243125,
+        30417728,
+        32655604,
+        34974361,
+        37368380,
+        39553135,
+        41742312,
+        43937694,
+        46063672,
+        48296198,
+        50562541,
+        52745055,
+        55057929,
+        57273265,
+        59640462,
+        61857140,
+        64252856,
+        66682563,
+        69522790,
+        72184212,
+        74930537,
+        77457441,
+        79953510,
+        82715499,
+        84982664,
+        87418427,
+        91142303,
+        94653981,
+        97340520,
+        99880889
+    ],
+    "finalCoverSize": 27,
+    "minSegCycles": [
+        "0_TVN 2_MidMAN 0_TVN 0_TVN 0_TVN",
+        "0_TVN 4_LMN@0_TVN 0_TVN 0_TVN",
+        "0_TVN 3_WREN 1_SWERN 4_LMN@0_TVN",
+        "0_TVN 3_WREN 1_SWERN 3_WREN 0_TVN",
+        "0_TVN 2_MidMAN 4_LMN@0_TVN 0_TVN",
+        "0_TVN 5_EastNet 0_TVN 0_TVN 0_TVN",
+        "0_TVN 5_EastNet 2_MidMAN 0_TVN 0_TVN",
+        "0_TVN 2_MidMAN 6_LeNSE 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 6_LeNSE 11_Reading@0_TVN",
+        "0_TVN 7_Kentish_MAN 4_LMN@0_TVN 0_TVN",
+        "0_TVN 7_Kentish_MAN 0_TVN 0_TVN 0_TVN",
+        "0_TVN 8_EMMAN 0_TVN 0_TVN 0_TVN",
+        "0_TVN 8_EMMAN 2_MidMAN 0_TVN 0_TVN",
+        "0_TVN 9_Dublin 20_NIRAN@9_Dublin 0_TVN",
+        "0_TVN 2_MidMAN 10_Sco-locate 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 10_Sco-locate 14_Glasgow 0_TVN",
+        "0_TVN 16_Telecity 0_TVN 0_TVN 0_TVN",
+        "0_TVN 18_Bristol 0_TVN 0_TVN 0_TVN",
+        "0_TVN 2_MidMAN 5_EastNet 0_TVN 0_TVN",
+        "0_TVN 2_MidMAN 8_EMMAN 0_TVN 0_TVN",
+        "0_TVN 5_EastNet 9_Dublin 0_TVN 0_TVN",
+        "0_TVN 2_MidMAN 22_AbMAN 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 24_EaStMAN 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 26_NorMAN 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 27_YHMAN 2_MidMAN 0_TVN",
+        "0_TVN 3_WREN 12_Leeds@2_MidMAN 0_TVN",
+        "0_TVN 14_Glasgow 0_TVN 0_TVN 0_TVN",
+        "0_TVN 19_C&NLMAN 0_TVN 0_TVN 0_TVN",
+        "0_TVN 28_NNW 0_TVN 0_TVN 0_TVN",
+        "0_TVN 14_Glasgow 10_Sco-locate 2_MidMAN 0_TVN",
+        "0_TVN 14_Glasgow 19_C&NLMAN 0_TVN 0_TVN",
+        "0_TVN 14_Glasgow 20_NIRAN@9_Dublin 0_TVN",
+        "0_TVN 21_UHIMI 0_TVN 0_TVN 0_TVN",
+        "0_TVN 25_Clydenet 0_TVN 0_TVN 0_TVN",
+        "0_TVN 14_Glasgow 26_NorMAN 2_MidMAN 0_TVN",
+        "0_TVN 14_Glasgow 27_YHMAN 2_MidMAN 0_TVN",
+        "0_TVN 5_EastNet 16_Telecity 0_TVN 0_TVN",
+        "0_TVN 16_Telecity 5_EastNet 0_TVN 0_TVN",
+        "0_TVN@4_LMN 7_Kentish_MAN 0_TVN 0_TVN",
+        "0_TVN@4_LMN 1_SWERN@3_WREN 0_TVN",
+        "0_TVN@11_Reading 6_LeNSE 2_MidMAN 0_TVN",
+        "0_TVN 19_C&NLMAN 10_Sco-locate 2_MidMAN 0_TVN",
+        "0_TVN 9_Dublin 20_NIRAN 14_Glasgow 0_TVN",
+        "0_TVN 14_Glasgow 22_AbMAN 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 22_AbMAN 14_Glasgow 0_TVN",
+        "0_TVN@4_LMN 25_Clydenet 0_TVN 0_TVN",
+        "0_TVN 14_Glasgow 24_EaStMAN 2_MidMAN 0_TVN",
+        "0_TVN 2_MidMAN 26_NorMAN 14_Glasgow 0_TVN",
+        "0_TVN 2_MidMAN 27_YHMAN 14_Glasgow 0_TVN",
+        "0_TVN 8_EMMAN 9_Dublin 5_EastNet 0_TVN",
+        "0_TVN 5_EastNet 25_Clydenet 5_EastNet 0_TVN",
+        "0_TVN 25_Clydenet 19_C&NLMAN 8_EMMAN 0_TVN",
+        "0_TVN 19_C&NLMAN 20_NIRAN 25_Clydenet 0_TVN",
+        "0_TVN 8_EMMAN 7_Kentish_MAN 8_EMMAN 0_TVN",
+        "0_TVN 28_NNW 22_AbMAN 28_NNW 0_TVN",
+        "0_TVN 3_WREN 7_Kentish_MAN 3_WREN 0_TVN",
+        "0_TVN 5_EastNet 10_Sco-locate 7_Kentish_MAN 0_TVN",
+        "0_TVN 7_Kentish_MAN 15_Telehouse 7_Kentish_MAN 0_TVN",
+        "0_TVN 3_WREN 15_Telehouse 3_WREN 0_TVN",
+        "0_TVN 5_EastNet 1_SWERN 5_EastNet 0_TVN",
+        "0_TVN 5_EastNet 22_AbMAN 8_EMMAN 0_TVN",
+        "0_TVN 8_EMMAN 25_Clydenet 16_Telecity 0_TVN",
+        "0_TVN 7_Kentish_MAN 23_FaTMAN 3_WREN 0_TVN",
+        "0_TVN 25_Clydenet 15_Telehouse 18_Bristol 0_TVN",
+        "0_TVN 21_UHIMI 10_Sco-locate 19_C&NLMAN 0_TVN",
+        "0_TVN 28_NNW 26_NorMAN 14_Glasgow 0_TVN",
+        "0_TVN 7_Kentish_MAN 8_EMMAN 2_MidMAN 0_TVN",
+        "0_TVN 11_Reading 6_LeNSE 11_Reading 0_TVN",
+        "0_TVN 21_UHIMI 23_FaTMAN 21_UHIMI 0_TVN",
+        "0_TVN 7_Kentish_MAN 10_Sco-locate 8_EMMAN 0_TVN",
+        "0_TVN 3_WREN 23_FaTMAN 25_Clydenet 0_TVN",
+        "0_TVN 21_UHIMI 23_FaTMAN 3_WREN 0_TVN",
+        "0_TVN 5_EastNet 16_Telecity 5_EastNet 0_TVN",
+        "0_TVN 28_NNW 16_Telecity 28_NNW 0_TVN",
+        "0_TVN 25_Clydenet 6_LeNSE 7_Kentish_MAN 0_TVN",
+        "0_TVN 16_Telecity 2_MidMAN 5_EastNet 0_TVN",
+        "0_TVN 5_EastNet 27_YHMAN 5_EastNet 0_TVN",
+        "0_TVN 14_Glasgow 27_YHMAN 28_NNW 0_TVN",
+        "0_TVN 16_Telecity 9_Dublin 8_EMMAN 0_TVN",
+        "0_TVN 16_Telecity 8_EMMAN 9_Dublin 0_TVN",
+        "0_TVN 9_Dublin 5_EastNet 16_Telecity 0_TVN",
+        "0_TVN 16_Telecity 0_TVN 16_Telecity 0_TVN",
+        "0_TVN 16_Telecity 5_EastNet 16_Telecity 0_TVN",
+        "0_TVN 8_EMMAN 24_EaStMAN 3_WREN 0_TVN",
+        "0_TVN 25_Clydenet 15_Telehouse 25_Clydenet 0_TVN",
+        "0_TVN 8_EMMAN 10_Sco-locate 18_Bristol 0_TVN",
+        "0_TVN 25_Clydenet 6_LeNSE 25_Clydenet 0_TVN",
+        "0_TVN 8_EMMAN 26_NorMAN 7_Kentish_MAN 0_TVN",
+        "0_TVN 3_WREN 23_FaTMAN 3_WREN 0_TVN",
+        "0_TVN 9_Dublin 5_EastNet 2_MidMAN 0_TVN"
+    ],
+    "values": [
+        27,
+        25,
+        24,
+        22,
+        22,
+        22,
+        21,
+        21,
+        21,
+        20,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        17.75,
+        17.5625,
+        17.000000000000004,
+        16.900000000000002,
+        16.900000000000002,
+        16.5,
+        16.333333333333332,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        15.999999999999998,
+        15.600000000000003,
+        15.5,
+        15.5
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 18,
+    "runtime": 142483684,
+    "lpBound": 15.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 4_LMN@0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 3_WREN 1_SWERN 4_LMN@0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 3_WREN 1_SWERN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 4_LMN@0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 2_MidMAN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 6_LeNSE 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 6_LeNSE 11_Reading@0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 7_Kentish_MAN 4_LMN@0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 7_Kentish_MAN 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 2_MidMAN 0_TVN 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 9_Dublin 20_NIRAN@9_Dublin 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 10_Sco-locate 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 10_Sco-locate 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 16_Telecity 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 18_Bristol 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 5_EastNet 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 8_EMMAN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 9_Dublin 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 22_AbMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 24_EaStMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 2_MidMAN 26_NorMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 2_MidMAN 27_YHMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 3_WREN 12_Leeds@2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 19_C&NLMAN 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 28_NNW 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 10_Sco-locate 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 19_C&NLMAN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 20_NIRAN@9_Dublin 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 21_UHIMI 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 25_Clydenet 0_TVN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 14_Glasgow 26_NorMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 27_YHMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 16_Telecity 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 16_Telecity 5_EastNet 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN@4_LMN 7_Kentish_MAN 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN@4_LMN 1_SWERN@3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN@11_Reading 6_LeNSE 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 19_C&NLMAN 10_Sco-locate 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 9_Dublin 20_NIRAN 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 22_AbMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 22_AbMAN 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN@4_LMN 25_Clydenet 0_TVN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 14_Glasgow 24_EaStMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 2_MidMAN 26_NorMAN 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 2_MidMAN 27_YHMAN 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 9_Dublin 5_EastNet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 25_Clydenet 5_EastNet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 25_Clydenet 19_C&NLMAN 8_EMMAN 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 19_C&NLMAN 20_NIRAN 25_Clydenet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 7_Kentish_MAN 8_EMMAN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 28_NNW 22_AbMAN 28_NNW 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 3_WREN 7_Kentish_MAN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 5_EastNet 10_Sco-locate 7_Kentish_MAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 7_Kentish_MAN 15_Telehouse 7_Kentish_MAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 3_WREN 15_Telehouse 3_WREN 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 5_EastNet 1_SWERN 5_EastNet 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 5_EastNet 22_AbMAN 8_EMMAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 25_Clydenet 16_Telecity 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 7_Kentish_MAN 23_FaTMAN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 25_Clydenet 15_Telehouse 18_Bristol 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 21_UHIMI 10_Sco-locate 19_C&NLMAN 0_TVN"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_TVN 28_NNW 26_NorMAN 14_Glasgow 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 7_Kentish_MAN 8_EMMAN 2_MidMAN 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 11_Reading 6_LeNSE 11_Reading 0_TVN"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_TVN 21_UHIMI 23_FaTMAN 21_UHIMI 0_TVN"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_TVN 7_Kentish_MAN 10_Sco-locate 8_EMMAN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 3_WREN 23_FaTMAN 25_Clydenet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 21_UHIMI 23_FaTMAN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 5_EastNet 16_Telecity 5_EastNet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 28_NNW 16_Telecity 28_NNW 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 25_Clydenet 6_LeNSE 7_Kentish_MAN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 16_Telecity 2_MidMAN 5_EastNet 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 5_EastNet 27_YHMAN 5_EastNet 0_TVN"
+        },
+        {
+            "x": 1,
+            "cycle": "0_TVN 14_Glasgow 27_YHMAN 28_NNW 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 16_Telecity 9_Dublin 8_EMMAN 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 16_Telecity 8_EMMAN 9_Dublin 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 9_Dublin 5_EastNet 16_Telecity 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 16_Telecity 0_TVN 16_Telecity 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 16_Telecity 5_EastNet 16_Telecity 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 24_EaStMAN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 25_Clydenet 15_Telehouse 25_Clydenet 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 8_EMMAN 10_Sco-locate 18_Bristol 0_TVN"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_TVN 25_Clydenet 6_LeNSE 25_Clydenet 0_TVN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_TVN 8_EMMAN 26_NorMAN 7_Kentish_MAN 0_TVN"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TVN 3_WREN 23_FaTMAN 3_WREN 0_TVN"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TVN 9_Dublin 5_EastNet 2_MidMAN 0_TVN"
+        }
+    ],
+    "greedySolution": [
+        "0_TVN 3_WREN 1_SWERN 3_WREN 0_TVN",
+        "0_TVN 2_MidMAN 6_LeNSE 2_MidMAN 0_TVN",
+        "0_TVN 9_Dublin 20_NIRAN@9_Dublin 0_TVN",
+        "0_TVN 2_MidMAN 27_YHMAN 2_MidMAN 0_TVN",
+        "0_TVN 19_C&NLMAN 10_Sco-locate 2_MidMAN 0_TVN",
+        "0_TVN 8_EMMAN 9_Dublin 5_EastNet 0_TVN",
+        "0_TVN 19_C&NLMAN 20_NIRAN 25_Clydenet 0_TVN",
+        "0_TVN 28_NNW 22_AbMAN 28_NNW 0_TVN",
+        "0_TVN 3_WREN 15_Telehouse 3_WREN 0_TVN",
+        "0_TVN 5_EastNet 1_SWERN 5_EastNet 0_TVN",
+        "0_TVN 5_EastNet 22_AbMAN 8_EMMAN 0_TVN",
+        "0_TVN 21_UHIMI 10_Sco-locate 19_C&NLMAN 0_TVN",
+        "0_TVN 28_NNW 26_NorMAN 14_Glasgow 0_TVN",
+        "0_TVN 11_Reading 6_LeNSE 11_Reading 0_TVN",
+        "0_TVN 7_Kentish_MAN 10_Sco-locate 8_EMMAN 0_TVN",
+        "0_TVN 14_Glasgow 27_YHMAN 28_NNW 0_TVN",
+        "0_TVN 25_Clydenet 15_Telehouse 25_Clydenet 0_TVN",
+        "0_TVN 8_EMMAN 26_NorMAN 7_Kentish_MAN 0_TVN"
+    ]
+}

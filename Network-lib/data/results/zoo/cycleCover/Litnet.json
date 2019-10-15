@@ -1,0 +1,504 @@
+{
+    "initialCoverSize": 77,
+    "times": [
+        2349876,
+        6265209,
+        10320672,
+        14265546,
+        18207021,
+        22017450,
+        25980510,
+        30017261,
+        33996465,
+        37802629,
+        41642681,
+        45435698,
+        49254467,
+        53250555,
+        57178293,
+        61038149,
+        64899729,
+        69009156,
+        76075454,
+        83076546,
+        91283497,
+        99385447,
+        106938089,
+        111502695,
+        117007702,
+        121861298,
+        128676813,
+        133622508,
+        138697549,
+        145387571,
+        150191792,
+        154214945,
+        159519417,
+        165101864,
+        169166648,
+        173217658,
+        177195501,
+        181109068
+    ],
+    "finalCoverSize": 32,
+    "minSegCycles": [
+        "0_Zarasai 1_Panevezys@0_Zarasai 0_Zarasai",
+        "0_Zarasai 10_Prienai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 38_Birzai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 2_Rokiskis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 24_Visaginas 0_Zarasai 0_Zarasai",
+        "0_Zarasai 30_Anyksciai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 3_Kupiskis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 4_Kelme 0_Zarasai 0_Zarasai",
+        "0_Zarasai 5_Siale 0_Zarasai 0_Zarasai",
+        "0_Zarasai 6_Radviliskis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 7_Plunge 0_Zarasai 0_Zarasai",
+        "0_Zarasai 8_Taurage 0_Zarasai 0_Zarasai",
+        "0_Zarasai 9_Zemaiciu_Naumiestis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 11_Trakar 0_Zarasai 0_Zarasai",
+        "0_Zarasai 12_Ignalina 0_Zarasai 0_Zarasai",
+        "0_Zarasai 13_Ukmerge 0_Zarasai 0_Zarasai",
+        "0_Zarasai 14_Sirvintos 0_Zarasai 0_Zarasai",
+        "0_Zarasai 15_Jurbarkas 0_Zarasai 0_Zarasai",
+        "0_Zarasai 16_Sakiai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 17_Vilkaviskis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 18_Marijampole 0_Zarasai 0_Zarasai",
+        "0_Zarasai 19_Alytus 0_Zarasai 0_Zarasai",
+        "0_Zarasai 20_Druskininkai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 21_Salcininkai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 22_GEANT 0_Zarasai 0_Zarasai",
+        "0_Zarasai 23_Moletai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 25_Pasvalys 0_Zarasai 0_Zarasai",
+        "0_Zarasai 10_Prienai 2_Rokiskis 0_Zarasai",
+        "0_Zarasai 27_Kedainiai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 28_Raseiniai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 31_Jonava 0_Zarasai 0_Zarasai",
+        "0_Zarasai 29_Utena 0_Zarasai 0_Zarasai",
+        "0_Zarasai 40_Skoudas 0_Zarasai 0_Zarasai",
+        "0_Zarasai 2_Rokiskis 10_Prienai 0_Zarasai",
+        "0_Zarasai 34_Telsiai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 42_Kretinga 0_Zarasai 0_Zarasai",
+        "0_Zarasai 41_Palanga 0_Zarasai 0_Zarasai",
+        "0_Zarasai 35_Mazeikiai 0_Zarasai 0_Zarasai",
+        "0_Zarasai 36_N.Akmene 0_Zarasai 0_Zarasai",
+        "0_Zarasai 37_Joniskis 0_Zarasai 0_Zarasai",
+        "0_Zarasai 15_Jurbarkas 3_Kupiskis 0_Zarasai",
+        "0_Zarasai 16_Sakiai 4_Kelme 0_Zarasai",
+        "0_Zarasai 5_Siale 11_Trakar 0_Zarasai",
+        "0_Zarasai 3_Kupiskis 2_Rokiskis 0_Zarasai",
+        "0_Zarasai 6_Radviliskis 2_Rokiskis 0_Zarasai",
+        "0_Zarasai 7_Plunge 6_Radviliskis 0_Zarasai",
+        "0_Zarasai 8_Taurage 6_Radviliskis 0_Zarasai",
+        "0_Zarasai 8_Taurage 7_Plunge 0_Zarasai",
+        "0_Zarasai 10_Prienai 9_Zemaiciu_Naumiestis 0_Zarasai",
+        "0_Zarasai 11_Trakar 9_Zemaiciu_Naumiestis 0_Zarasai",
+        "0_Zarasai 9_Zemaiciu_Naumiestis 5_Siale 0_Zarasai",
+        "0_Zarasai 13_Ukmerge 12_Ignalina 0_Zarasai",
+        "0_Zarasai 14_Sirvintos 12_Ignalina 0_Zarasai",
+        "0_Zarasai 14_Sirvintos 13_Ukmerge 0_Zarasai",
+        "0_Zarasai 16_Sakiai 15_Jurbarkas 0_Zarasai",
+        "0_Zarasai 18_Marijampole 17_Vilkaviskis 0_Zarasai",
+        "0_Zarasai 19_Alytus 17_Vilkaviskis 0_Zarasai",
+        "0_Zarasai 19_Alytus 18_Marijampole 0_Zarasai",
+        "0_Zarasai 21_Salcininkai 20_Druskininkai 0_Zarasai",
+        "0_Zarasai 22_GEANT 20_Druskininkai 0_Zarasai",
+        "0_Zarasai 22_GEANT 21_Salcininkai 0_Zarasai",
+        "0_Zarasai 24_Visaginas 23_Moletai 0_Zarasai",
+        "0_Zarasai 25_Pasvalys 24_Visaginas 0_Zarasai",
+        "0_Zarasai 25_Pasvalys 23_Moletai 0_Zarasai",
+        "0_Zarasai 28_Raseiniai 27_Kedainiai 0_Zarasai",
+        "0_Zarasai 29_Utena 27_Kedainiai 0_Zarasai",
+        "0_Zarasai 29_Utena 28_Raseiniai 0_Zarasai",
+        "0_Zarasai 31_Jonava 30_Anyksciai 0_Zarasai",
+        "0_Zarasai 34_Telsiai 30_Anyksciai 0_Zarasai",
+        "0_Zarasai 34_Telsiai 31_Jonava 0_Zarasai",
+        "0_Zarasai 36_N.Akmene 35_Mazeikiai 0_Zarasai",
+        "0_Zarasai 37_Joniskis 35_Mazeikiai 0_Zarasai",
+        "0_Zarasai 37_Joniskis 36_N.Akmene 0_Zarasai",
+        "0_Zarasai 40_Skoudas 38_Birzai 0_Zarasai",
+        "0_Zarasai 41_Palanga 38_Birzai 0_Zarasai",
+        "0_Zarasai 41_Palanga 40_Skoudas 0_Zarasai",
+        "0_Zarasai 42_Kretinga 2_Rokiskis 0_Zarasai"
+    ],
+    "values": [
+        37,
+        35,
+        34,
+        33,
+        33,
+        33,
+        32,
+        32,
+        31.5,
+        31,
+        31,
+        31,
+        30,
+        30,
+        29.5,
+        29.5,
+        28.5,
+        28.5,
+        28,
+        27,
+        27,
+        26.5,
+        25.5,
+        25.5,
+        25,
+        24,
+        24,
+        23.5,
+        22.5,
+        22.5,
+        22,
+        21,
+        21,
+        20.5,
+        19.5,
+        19.5,
+        19,
+        18.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 25,
+    "runtime": 247136813,
+    "lpBound": 18.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 1_Panevezys@0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 10_Prienai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 38_Birzai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 2_Rokiskis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 24_Visaginas 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 30_Anyksciai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 3_Kupiskis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 4_Kelme 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 5_Siale 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 6_Radviliskis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 7_Plunge 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 8_Taurage 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 9_Zemaiciu_Naumiestis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 11_Trakar 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 12_Ignalina 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 13_Ukmerge 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 14_Sirvintos 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 15_Jurbarkas 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 16_Sakiai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 17_Vilkaviskis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 18_Marijampole 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 19_Alytus 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 20_Druskininkai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 21_Salcininkai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 22_GEANT 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 23_Moletai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 25_Pasvalys 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 10_Prienai 2_Rokiskis 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 27_Kedainiai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 28_Raseiniai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 31_Jonava 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 29_Utena 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 40_Skoudas 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 2_Rokiskis 10_Prienai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 34_Telsiai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 42_Kretinga 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 41_Palanga 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 35_Mazeikiai 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 36_N.Akmene 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 37_Joniskis 0_Zarasai 0_Zarasai"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zarasai 15_Jurbarkas 3_Kupiskis 0_Zarasai"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zarasai 16_Sakiai 4_Kelme 0_Zarasai"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zarasai 5_Siale 11_Trakar 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 3_Kupiskis 2_Rokiskis 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 6_Radviliskis 2_Rokiskis 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 7_Plunge 6_Radviliskis 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 8_Taurage 6_Radviliskis 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 8_Taurage 7_Plunge 0_Zarasai"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zarasai 10_Prienai 9_Zemaiciu_Naumiestis 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 11_Trakar 9_Zemaiciu_Naumiestis 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 9_Zemaiciu_Naumiestis 5_Siale 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 13_Ukmerge 12_Ignalina 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 14_Sirvintos 12_Ignalina 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 14_Sirvintos 13_Ukmerge 0_Zarasai"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zarasai 16_Sakiai 15_Jurbarkas 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 18_Marijampole 17_Vilkaviskis 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 19_Alytus 17_Vilkaviskis 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 19_Alytus 18_Marijampole 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 21_Salcininkai 20_Druskininkai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 22_GEANT 20_Druskininkai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 22_GEANT 21_Salcininkai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 24_Visaginas 23_Moletai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 25_Pasvalys 24_Visaginas 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 25_Pasvalys 23_Moletai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 28_Raseiniai 27_Kedainiai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 29_Utena 27_Kedainiai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 29_Utena 28_Raseiniai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 31_Jonava 30_Anyksciai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 34_Telsiai 30_Anyksciai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 34_Telsiai 31_Jonava 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 36_N.Akmene 35_Mazeikiai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 37_Joniskis 35_Mazeikiai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 37_Joniskis 36_N.Akmene 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 40_Skoudas 38_Birzai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 41_Palanga 38_Birzai 0_Zarasai"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Zarasai 41_Palanga 40_Skoudas 0_Zarasai"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zarasai 42_Kretinga 2_Rokiskis 0_Zarasai"
+        }
+    ],
+    "greedySolution": [
+        "0_Zarasai 10_Prienai 2_Rokiskis 0_Zarasai",
+        "0_Zarasai 15_Jurbarkas 3_Kupiskis 0_Zarasai",
+        "0_Zarasai 16_Sakiai 4_Kelme 0_Zarasai",
+        "0_Zarasai 5_Siale 11_Trakar 0_Zarasai",
+        "0_Zarasai 8_Taurage 6_Radviliskis 0_Zarasai",
+        "0_Zarasai 8_Taurage 7_Plunge 0_Zarasai",
+        "0_Zarasai 9_Zemaiciu_Naumiestis 5_Siale 0_Zarasai",
+        "0_Zarasai 13_Ukmerge 12_Ignalina 0_Zarasai",
+        "0_Zarasai 14_Sirvintos 12_Ignalina 0_Zarasai",
+        "0_Zarasai 16_Sakiai 15_Jurbarkas 0_Zarasai",
+        "0_Zarasai 18_Marijampole 17_Vilkaviskis 0_Zarasai",
+        "0_Zarasai 19_Alytus 17_Vilkaviskis 0_Zarasai",
+        "0_Zarasai 21_Salcininkai 20_Druskininkai 0_Zarasai",
+        "0_Zarasai 22_GEANT 20_Druskininkai 0_Zarasai",
+        "0_Zarasai 24_Visaginas 23_Moletai 0_Zarasai",
+        "0_Zarasai 25_Pasvalys 24_Visaginas 0_Zarasai",
+        "0_Zarasai 28_Raseiniai 27_Kedainiai 0_Zarasai",
+        "0_Zarasai 29_Utena 27_Kedainiai 0_Zarasai",
+        "0_Zarasai 31_Jonava 30_Anyksciai 0_Zarasai",
+        "0_Zarasai 34_Telsiai 31_Jonava 0_Zarasai",
+        "0_Zarasai 36_N.Akmene 35_Mazeikiai 0_Zarasai",
+        "0_Zarasai 37_Joniskis 35_Mazeikiai 0_Zarasai",
+        "0_Zarasai 41_Palanga 38_Birzai 0_Zarasai",
+        "0_Zarasai 41_Palanga 40_Skoudas 0_Zarasai",
+        "0_Zarasai 42_Kretinga 2_Rokiskis 0_Zarasai"
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "initialCoverSize": 25,
+    "times": [
+        1373584,
+        3440950,
+        4909414,
+        6310157,
+        7722366,
+        9395910,
+        11732582,
+        13514868
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 1_Kansas_City,0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 2_San_Antonio 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 14_Raton 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 9_Raleigh 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 18_Los_Angeles 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 5_Jacksonville 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 8_Atlanta 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 2_San_Antonio 9_Raleigh 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa,1_Kansas_City 8_Atlanta 0_Tulsa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tulsa 10_New_York 4_Pensacola 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 10_New_York 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 26_Albuquerque 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 4_Pensacola 10_New_York 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 2_San_Antonio 20_Seattle 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 2_San_Antonio 14_Raton 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 21_Portland 0_Tulsa 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 20_Seattle 2_San_Antonio 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa,1_Kansas_City 18_Los_Angeles 0_Tulsa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tulsa 9_Raleigh 10_New_York 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 10_New_York 9_Raleigh 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 14_Raton 4_Pensacola 0_Tulsa"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tulsa 21_Portland 8_Atlanta 0_Tulsa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tulsa 26_Albuquerque 21_Portland 0_Tulsa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tulsa 21_Portland 26_Albuquerque 0_Tulsa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tulsa 18_Los_Angeles 9_Raleigh 0_Tulsa"
+        }
+    ],
+    "values": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        6,
+        6,
+        5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 311464,
+    "lpBound": 5
+}

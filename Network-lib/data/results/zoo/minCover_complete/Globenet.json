@@ -1,0 +1,968 @@
+{
+    "initialCoverSize": 199,
+    "times": [
+        5737296,
+        33429374,
+        60548294,
+        87961646,
+        117513041,
+        144832353,
+        172145344,
+        199430289,
+        229401985,
+        256784724,
+        287869487,
+        318366268,
+        346045722,
+        375375615,
+        402959231,
+        430488088,
+        459997222,
+        487482352,
+        514856932,
+        542443362,
+        569629871,
+        594122197,
+        618140654,
+        641429970,
+        671015777,
+        695623480,
+        721941796,
+        766372911,
+        789715835,
+        813400963,
+        838355586,
+        862408961,
+        885895747,
+        909298593,
+        933180255,
+        957776738,
+        980945979,
+        1005959992,
+        1029430187,
+        1052524616,
+        1075890781,
+        1100843295,
+        1125115661,
+        1148848886,
+        1173584147,
+        1196953599,
+        1220722030,
+        1244052679,
+        1268637460,
+        1292886577,
+        1317031366,
+        1342664904,
+        1366566682,
+        1389791730,
+        1415056225,
+        1439095409,
+        1464226718,
+        1487550528,
+        1511782613,
+        1535939380,
+        1560918881,
+        1587031916,
+        1610471766,
+        1634271106,
+        1657636424,
+        1681814028,
+        1706600006,
+        1730281609,
+        1755903523,
+        1780092473,
+        1803239540,
+        1829922102,
+        1853531318,
+        1877219254,
+        1900979987,
+        1925682511,
+        1950186577,
+        1973961948,
+        2000672061,
+        2024767826
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 2_Bogota 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 0_Santa_Elena,65_Caracas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 1_Manaus 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 58_Cali 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 4_1 12_9 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 4_1 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 7_Teresina 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 5_Belem 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 5_Belem 4_1 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 4_1 5_Belem 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 9_12 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 8_Florianopolois 63_13 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 9_12 26_Porto_Alegre 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 9_12,26_Porto_Alegre 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 12_9 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 9_12 63_13 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 10_Fortaleza,39_Rio_de_Janeiro 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 11_Natal 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 32_None 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 59_St_David's 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 50_Joao_Pessoa 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 12_9 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 14_Campo_Grande 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 9_12 30_8 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 38_6 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 14_Campo_Grande 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 23_21 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 16_Rondonopolis,23_21 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 16_Rondonopolis 18_3 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 17_19,38_6 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 20_4 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 18_3 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 22_Palmas 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 21_Goiania 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 22_Palmas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 20_4 21_Goiania 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 23_21,16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 24_Cuiaba 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 23_21,24_Cuiaba 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 24_Cuiaba,23_21 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 25_20 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 35_Rio_Branco 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 9_12 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre,9_12 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 27_Pelotas 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 63_13 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 12_9 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 30_8 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 29_16,30_8 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 30_8,29_16 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 12_9 44_7 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 4_1 52_Vitoria 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 4_1 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 32_None 31_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 32_None,53_Salvador 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 17_19 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 12_9 15_15 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 18_3 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 9_12 45_22 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 18_3 38_6 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 38_6,17_19 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 39_Rio_de_Janeiro,10_Fortaleza 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 52_Vitoria 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 39_Rio_de_Janeiro,42_6 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 39_Rio_de_Janeiro,46_Campinas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 42_6,39_Rio_de_Janeiro 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 42_6,43_Curitiba 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 8_Florianopolois 32_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 42_6,46_Campinas 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 43_Curitiba,42_6 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 63_13 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 43_Curitiba,63_13 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 12_9 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 45_22 9_12 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 46_Campinas,39_Rio_de_Janeiro 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 16_Rondonopolis 40_Sao_Paulo 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 46_Campinas,42_6 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 47_Maceio 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 47_Maceio 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 48_2,53_Salvador 0_Santa_Elena"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Santa_Elena 4_1 50_Joao_Pessoa 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 11_Natal 47_Maceio 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 31_None 56_None 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 32_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 53_Salvador,32_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 53_Salvador,48_2 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 54_Aracaju 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Santa_Elena 8_Florianopolois 47_Maceio 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 55_Miami 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 55_Miami,62_Boca_Raton 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 56_None 31_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 57_Medellin 2_Bogota 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 57_Medellin 0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 2_Bogota 57_Medellin 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 4_1 60_New_York 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 60_New_York,61_Tuckerton 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 55_Miami 59_St_David's 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 61_Tuckerton,60_New_York 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 62_Boca_Raton,55_Miami 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 63_13 8_Florianopolois 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 63_13 9_12 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 63_13 26_Porto_Alegre 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 63_13,43_Curitiba 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 64_Maiquetia,65_Caracas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 65_Caracas,0_Santa_Elena 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 65_Caracas,64_Maiquetia 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 65_Caracas,66_Cucuta 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 66_Cucuta,65_Caracas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 35_Rio_Branco 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 1_Manaus 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 52_Vitoria 5_Belem 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 27_Pelotas 16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 17_19 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 17_19 44_7 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 1_Manaus 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 52_Vitoria 1_Manaus 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 17_19 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 15_15 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 45_22 15_15 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 22_Palmas 16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 47_Maceio 9_12 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 22_Palmas 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 38_6 18_3 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 22_Palmas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 1_Manaus 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 22_Palmas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 63_13 16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 26_Porto_Alegre 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 14_Campo_Grande 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 47_Maceio 29_16 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 5_Belem 31_None 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 37_18 7_Teresina 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 5_Belem 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Santa_Elena 60_New_York 12_9 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 16_Rondonopolis 30_8 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 25_20 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 45_22 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 45_22 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 45_22 20_4 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 29_16 47_Maceio 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 5_Belem 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 15_15 22_Palmas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 63_13 22_Palmas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 14_Campo_Grande 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 16_Rondonopolis 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 45_22 35_Rio_Branco 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 30_8 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 22_Palmas 15_15 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 15_15 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 54_Aracaju 50_Joao_Pessoa 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 5_Belem 52_Vitoria 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 17_19 63_13 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 60_New_York 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 1_Manaus 65_Caracas,0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 13_14 31_None 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 40_Sao_Paulo 32_None 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 29_16 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 16_Rondonopolis 44_7 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 32_None 52_Vitoria 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 45_22 26_Porto_Alegre 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 22_Palmas 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Santa_Elena 45_22 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 47_Maceio 27_Pelotas 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 25_20 63_13 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Santa_Elena 47_Maceio 40_Sao_Paulo 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 44_7 32_None 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 50_Joao_Pessoa 54_Aracaju 0_Santa_Elena"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Santa_Elena 21_Goiania 40_Sao_Paulo 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 13_14 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 12_9 60_New_York 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 26_Porto_Alegre 30_8 0_Santa_Elena"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Santa_Elena 60_New_York 37_18 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 18_3 45_22 0_Santa_Elena"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Santa_Elena 50_Joao_Pessoa 4_1 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 44_7 35_Rio_Branco 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 14_Campo_Grande 65_Caracas,0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 52_Vitoria 32_None 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 63_13 17_19 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 37_18 40_Sao_Paulo 0_Santa_Elena"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Santa_Elena 31_None 30_8 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 13_14 60_New_York 0_Santa_Elena"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Santa_Elena 56_None 53_Salvador 0_Santa_Elena"
+        }
+    ],
+    "values": [
+        82,
+        79,
+        77,
+        75,
+        74,
+        74,
+        74,
+        73,
+        73,
+        73,
+        72.5,
+        72.5,
+        72,
+        72,
+        71.8,
+        71.8,
+        71.5,
+        71.25,
+        71.25,
+        70.66666666666666,
+        70.66666666666666,
+        70.66666666666666,
+        70.4,
+        70.39999999999999,
+        70.39999999999999,
+        70.39999999999999,
+        70.39999999999999,
+        70.39999999999999,
+        69.99999999999999,
+        69.66666666666667,
+        69.66666666666667,
+        69.5,
+        69.5,
+        69,
+        69,
+        69,
+        69,
+        68.5,
+        68.5,
+        68.5,
+        68.5,
+        68,
+        68,
+        68,
+        68,
+        68,
+        67.75,
+        67.33333333333334,
+        66.75,
+        66.33333333333334,
+        66,
+        66,
+        65.5,
+        65.5,
+        65.5,
+        65.5,
+        65.5,
+        65.5,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.25,
+        65.16666666666667,
+        65.16666666666667,
+        65,
+        65,
+        65,
+        64.8888888888889,
+        64.8888888888889,
+        64.86486486486487,
+        64.6,
+        64.5,
+        64.5,
+        64.5,
+        64.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 1846196,
+    "lpBound": 64.5
+}

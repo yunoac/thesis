@@ -1,0 +1,367 @@
+{
+    "initialCoverSize": 57,
+    "times": [
+        1581592,
+        2406474,
+        3108927,
+        3845208,
+        4540705,
+        5234847,
+        5948161,
+        6649837,
+        7300019,
+        7949930,
+        8595622,
+        9290753,
+        10052792,
+        10749479,
+        11447041,
+        12103257,
+        12804447,
+        13613579,
+        14390342,
+        15140652
+    ],
+    "finalCoverSize": 21,
+    "minSegCycles": [
+        "4_Los_Angeles 2_New_Orleans 0_Tampa 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 0_Tampa 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 1_Oklahoma_City 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 1_Oklahoma_City 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 5_Phoenix@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 0_Tampa 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 3_Jacksonville 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC@4_Los_Angeles 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 5_Phoenix 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 5_Phoenix 12_Chicago@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 6_Tucson 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 5_Phoenix 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 8_Birmingham 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 0_Tampa 12_Chicago@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 7_Atlanta 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 5_Phoenix@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 10_Salt_Lake_City 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 11_Denver 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 12_Chicago@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 13_Hartford 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 15_Washington,_DC@4_Los_Angeles 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 10_Salt_Lake_City 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 11_Denver 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles@12_Chicago 5_Phoenix@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@12_Chicago 0_Tampa 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@12_Chicago 9_San_Jose@4_Los_Angeles 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 13_Hartford 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@12_Chicago 15_Washington,_DC@4_Los_Angeles 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 13_Hartford 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 13_Hartford 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 1_Oklahoma_City@9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 3_Jacksonville@9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 5_Phoenix@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 7_Atlanta@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 9_San_Jose@4_Los_Angeles 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 12_Chicago@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 13_Hartford 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 16_Chattanooga 4_Los_Angeles 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 16_Chattanooga 6_Tucson 16_Chattanooga 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 8_Birmingham 12_Chicago 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 8_Birmingham 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 5_Phoenix 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 5_Phoenix 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 10_Salt_Lake_City 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 11_Denver 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 12_Chicago 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 13_Hartford 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 15_Washington,_DC 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 15_Washington,_DC 12_Chicago 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 15_Washington,_DC 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 15_Washington,_DC 12_Chicago 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 1_Oklahoma_City 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 3_Jacksonville 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 12_Chicago 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 9_San_Jose 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 13_Hartford 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 0_Tampa 9_San_Jose 4_Los_Angeles"
+    ],
+    "values": [
+        33,
+        30,
+        28,
+        27,
+        26,
+        26,
+        26,
+        26,
+        25,
+        24,
+        23,
+        23,
+        22,
+        22,
+        22,
+        21,
+        21,
+        21,
+        21,
+        21
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 24,
+    "runtime": 25094972,
+    "lpBound": 21,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 0_Tampa 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 0_Tampa 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 1_Oklahoma_City 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@9_San_Jose 1_Oklahoma_City 15_Washington,_DC@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 5_Phoenix@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 0_Tampa 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 3_Jacksonville 15_Washington,_DC@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 15_Washington,_DC@4_Los_Angeles 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 5_Phoenix 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 2_New_Orleans 5_Phoenix 12_Chicago@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 6_Tucson 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 5_Phoenix 15_Washington,_DC@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 8_Birmingham 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 2_New_Orleans 0_Tampa 12_Chicago@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 7_Atlanta 15_Washington,_DC@4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@9_San_Jose 5_Phoenix@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@9_San_Jose 10_Salt_Lake_City 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@9_San_Jose 11_Denver 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 12_Chicago@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 13_Hartford 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@9_San_Jose 15_Washington,_DC@4_Los_Angeles 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 2_New_Orleans 10_Salt_Lake_City 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 2_New_Orleans 11_Denver 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@12_Chicago 5_Phoenix@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@12_Chicago 0_Tampa 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@12_Chicago 9_San_Jose@4_Los_Angeles 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 13_Hartford 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@12_Chicago 15_Washington,_DC@4_Los_Angeles 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 2_New_Orleans 13_Hartford 9_San_Jose@4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 2_New_Orleans 13_Hartford 15_Washington,_DC@4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 1_Oklahoma_City@9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 3_Jacksonville@9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 5_Phoenix@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 7_Atlanta@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 9_San_Jose@4_Los_Angeles 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 12_Chicago@2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles@15_Washington,_DC 13_Hartford 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 16_Chattanooga 4_Los_Angeles 2_New_Orleans 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 16_Chattanooga 6_Tucson 16_Chattanooga 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 12_Chicago 8_Birmingham 12_Chicago 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 15_Washington,_DC 8_Birmingham 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 5_Phoenix 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 12_Chicago 5_Phoenix 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 10_Salt_Lake_City 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 11_Denver 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 9_San_Jose 12_Chicago 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 13_Hartford 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 15_Washington,_DC 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 9_San_Jose 15_Washington,_DC 12_Chicago 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 12_Chicago 15_Washington,_DC 9_San_Jose 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 12_Chicago 15_Washington,_DC 12_Chicago 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 15_Washington,_DC 1_Oklahoma_City 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 15_Washington,_DC 3_Jacksonville 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 9_San_Jose 12_Chicago 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Los_Angeles 12_Chicago 9_San_Jose 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 9_San_Jose 13_Hartford 15_Washington,_DC 4_Los_Angeles"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Los_Angeles 9_San_Jose 0_Tampa 9_San_Jose 4_Los_Angeles"
+        }
+    ],
+    "greedySolution": [
+        "4_Los_Angeles 2_New_Orleans 0_Tampa 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 1_Oklahoma_City 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 5_Phoenix 12_Chicago@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 6_Tucson 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 10_Salt_Lake_City 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles@9_San_Jose 11_Denver 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 10_Salt_Lake_City 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 11_Denver 9_San_Jose@4_Los_Angeles",
+        "4_Los_Angeles@12_Chicago 5_Phoenix@2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 2_New_Orleans 13_Hartford 15_Washington,_DC@4_Los_Angeles",
+        "4_Los_Angeles@15_Washington,_DC 13_Hartford 2_New_Orleans 4_Los_Angeles",
+        "4_Los_Angeles 16_Chattanooga 6_Tucson 16_Chattanooga 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 8_Birmingham 12_Chicago 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 8_Birmingham 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 5_Phoenix 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 10_Salt_Lake_City 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 11_Denver 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 12_Chicago 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 13_Hartford 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 15_Washington,_DC 9_San_Jose 4_Los_Angeles",
+        "4_Los_Angeles 12_Chicago 15_Washington,_DC 12_Chicago 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 1_Oklahoma_City 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 15_Washington,_DC 3_Jacksonville 15_Washington,_DC 4_Los_Angeles",
+        "4_Los_Angeles 9_San_Jose 0_Tampa 9_San_Jose 4_Los_Angeles"
+    ]
+}

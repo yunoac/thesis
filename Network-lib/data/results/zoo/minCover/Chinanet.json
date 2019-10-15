@@ -1,0 +1,718 @@
+{
+    "initialCoverSize": 143,
+    "times": [
+        3186014,
+        10148320,
+        15718535,
+        21969180,
+        27594813,
+        33234571,
+        38908986,
+        44637591,
+        49823644,
+        58040228,
+        63536233,
+        69466957,
+        77787032,
+        83150257,
+        90073678,
+        96113374,
+        102062796,
+        108286929,
+        114212017,
+        120783359,
+        128259724,
+        133612329,
+        140167296,
+        146023111,
+        151539499,
+        161657140,
+        166941039,
+        173880060,
+        179958893,
+        185384087,
+        193200118,
+        198656154,
+        204518771,
+        211482751,
+        216708871,
+        222759531,
+        228601439,
+        233891312,
+        240065042,
+        245982388,
+        251337089,
+        258027548,
+        264113097,
+        270678057,
+        277538141,
+        283986505,
+        290053328,
+        297039336,
+        302476771,
+        308620301,
+        315318882,
+        320778221,
+        326790178,
+        332600859,
+        338549739,
+        344685505,
+        350404146,
+        356592370,
+        364467520,
+        370558009,
+        377628442,
+        383877326,
+        389579320,
+        395917134,
+        403084907,
+        409570797,
+        415520403
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 0_Lhasa 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 3_Shiquanhe 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 1_Lanzhou 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 1_Lanzhou 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 2_Kashi 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 5_Qingdao 6_Taiyuan 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 6_Taiyuan 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 9_Suzhou 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 11_International_Link_2 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 24_Hangzhou 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 26_Hefei 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 31_Nandhang 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 9_Suzhou 27_Nanjing 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 10_International_Link_1 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 14_Guiyang 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 14_Guiyang 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 15_Chongqing 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 5_Qingdao 15_Chongqing 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 14_Guiyang 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 15_Chongqing 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 27_Nanjing 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 16_Chengdu 12_Nanning 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 17_Kunming 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 1_Lanzhou 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 6_Taiyuan 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 32_Xining 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 2_Kashi 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 41_Yinchuan 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 40_Hohhot 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 13_Changsha 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 27_Nanjing 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 12_Nanning 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 19_Zhengzhou 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 21_International_Link_3 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 22_Haikou 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 22_Haikou 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 12_Nanning 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 18_Xi'an 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 22_Haikou 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 27_Nanjing 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 9_Suzhou 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 14_Guiyang 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 18_Xi'an 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 13_Changsha 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 7_Shilazhuang 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 30_Fuzhou 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 16_Chengdu 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 18_Xi'an 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 20_International_Link_4 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 7_Shilazhuang 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 29_Xiamen 4_Jinan 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 5_Qingdao 32_Xining 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 2_Kashi 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 34_Harbin 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 35_Changchun 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 36_Shenyang 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 37_Dalian 0_Lhasa 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 18_Xi'an 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 20_International_Link_4 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 13_Changsha 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 27_Nanjing 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 12_Nanning 4_Jinan 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 40_Hohhot 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 5_Qingdao 41_Yinchuan 5_Qingdao 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 5_Qingdao 40_Hohhot 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 5_Qingdao 41_Yinchuan 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 30_Fuzhou 15_Chongqing 30_Fuzhou 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 10_International_Link_1 14_Guiyang 10_International_Link_1 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 19_Zhengzhou 17_Kunming 11_International_Link_2 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 21_International_Link_3 19_Zhengzhou 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 21_International_Link_3 16_Chengdu 21_International_Link_3 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 27_Nanjing 22_Haikou 27_Nanjing 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 29_Xiamen 18_Xi'an 29_Xiamen 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 34_Harbin 13_Changsha 34_Harbin 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 18_Xi'an 15_Chongqing 35_Changchun 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 36_Shenyang 18_Xi'an 36_Shenyang 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 10_International_Link_1 20_International_Link_4 10_International_Link_1 4_Jinan"
+        },
+        {
+            "x": 0.4444444444444444,
+            "cycle": "4_Jinan 11_International_Link_2 24_Hangzhou 11_International_Link_2 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 19_Zhengzhou 27_Nanjing 19_Zhengzhou 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 17_Kunming 20_International_Link_4 17_Kunming 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 13_Changsha 3_Shiquanhe 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 20_International_Link_4 22_Haikou 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 15_Chongqing 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 35_Changchun 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 16_Chengdu 22_Haikou 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 37_Dalian 24_Hangzhou 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 37_Dalian 21_International_Link_3 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 26_Hefei 31_Nandhang 26_Hefei 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 31_Nandhang 20_International_Link_4 31_Nandhang 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 37_Dalian 11_International_Link_2 37_Dalian 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 35_Changchun 29_Xiamen 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 35_Changchun 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 7_Shilazhuang 27_Nanjing 9_Suzhou 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 17_Kunming 34_Harbin 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 24_Hangzhou 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 27_Nanjing 34_Harbin 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 9_Suzhou 27_Nanjing 7_Shilazhuang 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 19_Zhengzhou 18_Xi'an 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 34_Harbin 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 36_Shenyang 13_Changsha 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 13_Changsha 18_Xi'an 34_Harbin 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 21_International_Link_3 18_Xi'an 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 9_Suzhou 27_Nanjing 9_Suzhou 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 34_Harbin 27_Nanjing 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 9_Suzhou 31_Nandhang 9_Suzhou 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 16_Chengdu 0_Lhasa 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 16_Chengdu 3_Shiquanhe 13_Changsha 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 16_Chengdu 14_Guiyang 16_Chengdu 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 37_Dalian 14_Guiyang 36_Shenyang 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 12_Nanning 16_Chengdu 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 20_International_Link_4 14_Guiyang 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "4_Jinan 24_Hangzhou 31_Nandhang 24_Hangzhou 4_Jinan"
+        },
+        {
+            "x": 0.75,
+            "cycle": "4_Jinan 18_Xi'an 27_Nanjing 36_Shenyang 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 13_Changsha 7_Shilazhuang 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 1_Lanzhou 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Jinan 18_Xi'an 2_Kashi 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 6_Taiyuan 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 32_Xining 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 40_Hohhot 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 18_Xi'an 41_Yinchuan 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 7_Shilazhuang 1_Lanzhou 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 20_International_Link_4 1_Lanzhou 37_Dalian 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 20_International_Link_4 2_Kashi 20_International_Link_4 4_Jinan"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Jinan 35_Changchun 2_Kashi 35_Changchun 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 27_Nanjing 18_Xi'an 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 7_Shilazhuang 18_Xi'an 27_Nanjing 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 13_Changsha 18_Xi'an 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 29_Xiamen 20_International_Link_4 29_Xiamen 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 35_Changchun 14_Guiyang 37_Dalian 4_Jinan"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Jinan 12_Nanning 14_Guiyang 12_Nanning 4_Jinan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Jinan 18_Xi'an 0_Lhasa 18_Xi'an 4_Jinan"
+        },
+        {
+            "x": 0.1111111111111111,
+            "cycle": "4_Jinan 31_Nandhang 11_International_Link_2 31_Nandhang 4_Jinan"
+        }
+    ],
+    "values": [
+        60,
+        58,
+        56,
+        54,
+        52.5,
+        51.5,
+        49.5,
+        47.5,
+        46,
+        44.5,
+        42.5,
+        41,
+        41,
+        40.5,
+        40,
+        39,
+        38.166666666666664,
+        37.75,
+        37.5,
+        37,
+        35.875,
+        35.74999999999999,
+        34.75,
+        34.333333333333336,
+        34.237068965517246,
+        34.0875,
+        34.025,
+        33.7,
+        33.5,
+        33.46666666666666,
+        33.449999999999996,
+        33.07954545454545,
+        32.708333333333336,
+        32.45,
+        32.25,
+        31.673684210526318,
+        31.605,
+        31.55999999999999,
+        31.130000000000003,
+        31.13,
+        31.13,
+        30.883333333333326,
+        30.85192837465565,
+        30.38541666666666,
+        30.333333333333332,
+        30.333333333333332,
+        30.333333333333332,
+        29.908333333333324,
+        29.90725806451613,
+        29.90725806451613,
+        29.90725806451613,
+        29.90725806451613,
+        29.90725806451613,
+        29.90725806451613,
+        29.90725806451613,
+        29.38333333333333,
+        29.062499999999996,
+        28.82552083333333,
+        28.5625,
+        28.544407894736842,
+        28.48569915254237,
+        28.447115384615383,
+        28.426136363636363,
+        28.374999999999996,
+        28.375,
+        28.375,
+        28.333333333333332
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 932124,
+    "lpBound": 28.333333333333332
+}

@@ -1,0 +1,52 @@
+{
+    "originalCover": {
+        "runtime": 622504,
+        "cycles": [
+            "3_Chicago 0_Seattle 3",
+            "3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago",
+            "3_Chicago 0_Seattle 12",
+            "3_Chicago 9 3_Chicago",
+            "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago",
+            "7 12",
+            "8 9"
+        ],
+        "source": 3,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        7,
+        7,
+        5,
+        7,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Seattle 1 0_Seattle",
+            "0_Seattle 2_Los_Angeles 0_Seattle 0_Seattle",
+            "0_Seattle 3_Chicago 0_Seattle 0_Seattle",
+            "0_Seattle 5_Washington_DC 0_Seattle 0_Seattle",
+            "0_Seattle 4_New_York_City 0_Seattle 0_Seattle",
+            "0_Seattle 3_Chicago 5_Washington_DC 0_Seattle",
+            "0_Seattle 4_New_York_City 5_Washington_DC 0_Seattle",
+            "0_Seattle 5_Washington_DC 3_Chicago 0_Seattle",
+            "0_Seattle 5_Washington_DC 4_New_York_City 0_Seattle"
+        ],
+        "source": 0,
+        "runetime": 686564,
+        "maxSeg": 4
+    }
+}

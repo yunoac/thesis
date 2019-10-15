@@ -1,0 +1,148 @@
+{
+    "initialCoverSize": 22,
+    "times": [1877640],
+    "finalCoverSize": 22,
+    "minSegCycles": [
+        "0_N/Western_Province 1_Northern_Province 0_N/Western_Province",
+        "0_N/Western_Province 2_Eastern_Province 0_N/Western_Province",
+        "0_N/Western_Province 3_Luapula_Province 0_N/Western_Province",
+        "0_N/Western_Province 4_NRDC 0_N/Western_Province",
+        "0_N/Western_Province 6_Solwezi 0_N/Western_Province",
+        "0_N/Western_Province 7_Livingstone 0_N/Western_Province",
+        "0_N/Western_Province 8_NIPA 0_N/Western_Province",
+        "0_N/Western_Province 9_ZICAS 0_N/Western_Province",
+        "0_N/Western_Province 10_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 11_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 12_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 27_Southern_Province 0_N/Western_Province",
+        "0_N/Western_Province 16_ZESCO_TS 0_N/Western_Province",
+        "0_N/Western_Province 17_ZAMTEL_TS 0_N/Western_Province",
+        "0_N/Western_Province 18_Chainama 0_N/Western_Province",
+        "0_N/Western_Province 19_NISR 0_N/Western_Province",
+        "0_N/Western_Province 20_Mt_Makulu 0_N/Western_Province",
+        "0_N/Western_Province 21_Evelyn_Hone_College 0_N/Western_Province",
+        "0_N/Western_Province 22_KTC 0_N/Western_Province",
+        "0_N/Western_Province 23_COSETCO 0_N/Western_Province",
+        "0_N/Western_Province 24_KABWE_TRADES 0_N/Western_Province",
+        "0_N/Western_Province 25_NKRUMAH 0_N/Western_Province"
+    ],
+    "values": [22],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 22,
+    "runtime": 17977200,
+    "lpBound": 22,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 1_Northern_Province 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 2_Eastern_Province 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 3_Luapula_Province 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 4_NRDC 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 6_Solwezi 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 7_Livingstone 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 8_NIPA 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 9_ZICAS 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 10_Gateway_Router 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 11_Gateway_Router 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 12_Gateway_Router 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 27_Southern_Province 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 16_ZESCO_TS 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 17_ZAMTEL_TS 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 18_Chainama 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 19_NISR 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 20_Mt_Makulu 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 21_Evelyn_Hone_College 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 22_KTC 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 23_COSETCO 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 24_KABWE_TRADES 0_N/Western_Province"
+        },
+        {
+            "x": 1,
+            "cycle": "0_N/Western_Province 25_NKRUMAH 0_N/Western_Province"
+        }
+    ],
+    "greedySolution": [
+        "0_N/Western_Province 1_Northern_Province 0_N/Western_Province",
+        "0_N/Western_Province 2_Eastern_Province 0_N/Western_Province",
+        "0_N/Western_Province 3_Luapula_Province 0_N/Western_Province",
+        "0_N/Western_Province 4_NRDC 0_N/Western_Province",
+        "0_N/Western_Province 6_Solwezi 0_N/Western_Province",
+        "0_N/Western_Province 7_Livingstone 0_N/Western_Province",
+        "0_N/Western_Province 8_NIPA 0_N/Western_Province",
+        "0_N/Western_Province 9_ZICAS 0_N/Western_Province",
+        "0_N/Western_Province 10_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 11_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 12_Gateway_Router 0_N/Western_Province",
+        "0_N/Western_Province 27_Southern_Province 0_N/Western_Province",
+        "0_N/Western_Province 16_ZESCO_TS 0_N/Western_Province",
+        "0_N/Western_Province 17_ZAMTEL_TS 0_N/Western_Province",
+        "0_N/Western_Province 18_Chainama 0_N/Western_Province",
+        "0_N/Western_Province 19_NISR 0_N/Western_Province",
+        "0_N/Western_Province 20_Mt_Makulu 0_N/Western_Province",
+        "0_N/Western_Province 21_Evelyn_Hone_College 0_N/Western_Province",
+        "0_N/Western_Province 22_KTC 0_N/Western_Province",
+        "0_N/Western_Province 23_COSETCO 0_N/Western_Province",
+        "0_N/Western_Province 24_KABWE_TRADES 0_N/Western_Province",
+        "0_N/Western_Province 25_NKRUMAH 0_N/Western_Province"
+    ]
+}

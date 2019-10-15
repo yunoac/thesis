@@ -1,0 +1,523 @@
+{
+    "initialCoverSize": 80,
+    "times": [
+        2082346,
+        8884978,
+        16149869,
+        23017023,
+        31214770,
+        38457294,
+        45176178,
+        54061461,
+        64528843,
+        72012216,
+        81670496,
+        88444004,
+        97906567,
+        105020296,
+        114621629,
+        121770463,
+        130450158,
+        137351398,
+        146533098,
+        153868374,
+        162099452,
+        169424517,
+        176146801,
+        183989821,
+        190664269,
+        199740707,
+        207167871,
+        217576532,
+        225387098,
+        235553549,
+        242048005,
+        248380609,
+        255033842,
+        261345600,
+        267685842,
+        274455166,
+        281139293,
+        287673202,
+        294137595,
+        300519443
+    ],
+    "finalCoverSize": 38,
+    "minSegCycles": [
+        "0_None 1_UANL@0_None 0_None",
+        "0_None 2_UTEI 0_None 0_None",
+        "0_None 4_UAL@0_None 0_None",
+        "0_None 6_ITESM@0_None 0_None",
+        "0_None 7_UAT@0_None 0_None",
+        "0_None 42_Abilene 0_None 0_None",
+        "0_None 3_UACJ 0_None 0_None",
+        "0_None 32_UASLP 0_None 0_None",
+        "0_None 33_ITE 0_None 0_None",
+        "0_None 35_ITAM 0_None 0_None",
+        "0_None 36_UP 0_None 0_None",
+        "0_None 37_CP 0_None 0_None",
+        "0_None 38_ULSA 0_None 0_None",
+        "0_None 39_TAMU 0_None 0_None",
+        "0_None 8_CUDI 0_None 0_None",
+        "0_None 9_? 0_None 0_None",
+        "0_None 40_IMP 0_None 0_None",
+        "0_None 10_VBNS 0_None 0_None",
+        "0_None 11_UAM 0_None 0_None",
+        "0_None 12_MILITARY 0_None 0_None",
+        "0_None 24_LANIA 0_None 0_None",
+        "0_None 14_CO? 0_None 0_None",
+        "0_None 23_??? 0_None 0_None",
+        "0_None 26_INANDO 0_None 0_None",
+        "0_None 16_BUAP 0_None 0_None",
+        "0_None 17_IPN 0_None 0_None",
+        "0_None 18_ITSEM 0_None 0_None",
+        "0_None 19_UAEM 0_None 0_None",
+        "0_None 20_UAEH 0_None 0_None",
+        "0_None 21_UaSLP 0_None 0_None",
+        "0_None 22_UPALP 0_None 0_None",
+        "0_None 25_UDG 0_None 0_None",
+        "0_None 27_UniSod? 0_None 0_None",
+        "0_None 29_Ucol 0_None 0_None",
+        "0_None 30_OCSE? 0_None 0_None",
+        "0_None 34_ILCE 0_None 0_None",
+        "0_None 5_UNAM 42_Abilene 0_None",
+        "0_None 41_CENIC 0_None 0_None",
+        "0_None 42_Abilene 5_UNAM 0_None",
+        "0_None 48_CAN 0_None 0_None",
+        "0_None 49_UABC 0_None 0_None",
+        "0_None 3_UACJ 1_UANL 0_None",
+        "0_None 4_UAL 1_UANL 0_None",
+        "0_None 4_UAL 3_UACJ 0_None",
+        "0_None 7_UAT 6_ITESM 0_None",
+        "0_None 8_CUDI 6_ITESM 0_None",
+        "0_None 8_CUDI 7_UAT 0_None",
+        "0_None 10_VBNS 9_? 0_None",
+        "0_None 11_UAM 9_? 0_None",
+        "0_None 11_UAM 10_VBNS 0_None",
+        "0_None 16_BUAP 12_MILITARY 0_None",
+        "0_None 17_IPN 12_MILITARY 0_None",
+        "0_None 17_IPN 16_BUAP 0_None",
+        "0_None 19_UAEM 18_ITSEM 0_None",
+        "0_None 20_UAEH 18_ITSEM 0_None",
+        "0_None 20_UAEH 19_UAEM 0_None",
+        "0_None 22_UPALP 21_UaSLP 0_None",
+        "0_None 23_??? 21_UaSLP 0_None",
+        "0_None 23_??? 22_UPALP 0_None",
+        "0_None 25_UDG 24_LANIA 0_None",
+        "0_None 26_INANDO 24_LANIA 0_None",
+        "0_None 26_INANDO 25_UDG 0_None",
+        "0_None 29_Ucol 27_UniSod? 0_None",
+        "0_None 30_OCSE? 27_UniSod? 0_None",
+        "0_None 30_OCSE? 29_Ucol 0_None",
+        "0_None 33_ITE 32_UASLP 0_None",
+        "0_None 34_ILCE 32_UASLP 0_None",
+        "0_None 34_ILCE 33_ITE 0_None",
+        "0_None 36_UP 35_ITAM 0_None",
+        "0_None 37_CP 35_ITAM 0_None",
+        "0_None 37_CP 36_UP 0_None",
+        "0_None 39_TAMU 38_ULSA 0_None",
+        "0_None 40_IMP 38_ULSA 0_None",
+        "0_None 40_IMP 39_TAMU 0_None",
+        "0_None 48_CAN 42_Abilene 0_None",
+        "0_None 49_UABC 42_Abilene 0_None",
+        "0_None 42_Abilene 48_CAN 0_None",
+        "0_None 24_LANIA 2_UTEI 0_None",
+        "0_None 42_Abilene 24_LANIA 0_None",
+        "0_None 24_LANIA 49_UABC 0_None"
+    ],
+    "values": [
+        37,
+        36,
+        36,
+        35.5,
+        34.5,
+        34.5,
+        34,
+        33,
+        33,
+        32.5,
+        31.5,
+        31.5,
+        31,
+        30,
+        30,
+        29.5,
+        28.5,
+        28.5,
+        28,
+        27,
+        27,
+        26.5,
+        25.5,
+        25.5,
+        25,
+        24,
+        24,
+        23.5,
+        22.5,
+        22.5,
+        22,
+        21,
+        21,
+        20.5,
+        19.5,
+        19.5,
+        19,
+        19,
+        18.666666666666668,
+        18.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 25,
+    "runtime": 400636644,
+    "lpBound": 18.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_None 1_UANL@0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 2_UTEI 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_UAL@0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 6_ITESM@0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 7_UAT@0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 42_Abilene 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_UACJ 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 32_UASLP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 33_ITE 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 35_ITAM 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 36_UP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 37_CP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 38_ULSA 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_TAMU 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 8_CUDI 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_? 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 40_IMP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 10_VBNS 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_UAM 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_MILITARY 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_LANIA 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_CO? 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 23_??? 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 26_INANDO 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 16_BUAP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 17_IPN 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_ITSEM 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 19_UAEM 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_UAEH 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 21_UaSLP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 22_UPALP 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 25_UDG 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 27_UniSod? 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 29_Ucol 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_OCSE? 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 34_ILCE 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_UNAM 42_Abilene 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 41_CENIC 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 42_Abilene 5_UNAM 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 48_CAN 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 49_UABC 0_None 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 3_UACJ 1_UANL 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 4_UAL 1_UANL 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 4_UAL 3_UACJ 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 7_UAT 6_ITESM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 8_CUDI 6_ITESM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 8_CUDI 7_UAT 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 10_VBNS 9_? 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 11_UAM 9_? 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 11_UAM 10_VBNS 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 16_BUAP 12_MILITARY 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 17_IPN 12_MILITARY 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 17_IPN 16_BUAP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 19_UAEM 18_ITSEM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 20_UAEH 18_ITSEM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 20_UAEH 19_UAEM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 22_UPALP 21_UaSLP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 23_??? 21_UaSLP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 23_??? 22_UPALP 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 25_UDG 24_LANIA 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 26_INANDO 24_LANIA 0_None"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_None 26_INANDO 25_UDG 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 29_Ucol 27_UniSod? 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 30_OCSE? 27_UniSod? 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 30_OCSE? 29_Ucol 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 33_ITE 32_UASLP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 34_ILCE 32_UASLP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 34_ILCE 33_ITE 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 36_UP 35_ITAM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 37_CP 35_ITAM 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 37_CP 36_UP 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 39_TAMU 38_ULSA 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 40_IMP 38_ULSA 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 40_IMP 39_TAMU 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 48_CAN 42_Abilene 0_None"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_None 49_UABC 42_Abilene 0_None"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_None 42_Abilene 48_CAN 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_LANIA 2_UTEI 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 42_Abilene 24_LANIA 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 24_LANIA 49_UABC 0_None"
+        }
+    ],
+    "greedySolution": [
+        "0_None 42_Abilene 5_UNAM 0_None",
+        "0_None 3_UACJ 1_UANL 0_None",
+        "0_None 4_UAL 3_UACJ 0_None",
+        "0_None 8_CUDI 6_ITESM 0_None",
+        "0_None 8_CUDI 7_UAT 0_None",
+        "0_None 10_VBNS 9_? 0_None",
+        "0_None 11_UAM 9_? 0_None",
+        "0_None 16_BUAP 12_MILITARY 0_None",
+        "0_None 17_IPN 12_MILITARY 0_None",
+        "0_None 19_UAEM 18_ITSEM 0_None",
+        "0_None 20_UAEH 18_ITSEM 0_None",
+        "0_None 23_??? 21_UaSLP 0_None",
+        "0_None 23_??? 22_UPALP 0_None",
+        "0_None 25_UDG 24_LANIA 0_None",
+        "0_None 26_INANDO 25_UDG 0_None",
+        "0_None 29_Ucol 27_UniSod? 0_None",
+        "0_None 30_OCSE? 27_UniSod? 0_None",
+        "0_None 34_ILCE 32_UASLP 0_None",
+        "0_None 34_ILCE 33_ITE 0_None",
+        "0_None 36_UP 35_ITAM 0_None",
+        "0_None 37_CP 35_ITAM 0_None",
+        "0_None 39_TAMU 38_ULSA 0_None",
+        "0_None 40_IMP 38_ULSA 0_None",
+        "0_None 48_CAN 42_Abilene 0_None",
+        "0_None 24_LANIA 49_UABC 0_None"
+    ]
+}

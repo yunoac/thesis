@@ -1,0 +1,178 @@
+{
+    "initialCoverSize": 33,
+    "times": [
+        1855938,
+        3016552,
+        4236158,
+        5501110,
+        6732054,
+        7860974,
+        8956238,
+        10063416,
+        11134756,
+        12384838,
+        14592162,
+        16526319,
+        17556848,
+        18782099,
+        20086560,
+        21239712,
+        22994858
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_CCU 1_NHLUE 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 3_NCKU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 10_NTTU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 11_NSYSU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 8_LA 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 12_NCHU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 7_NCNU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 5_CHI 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 6_NDHU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 9_NIU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 14_NCTU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 15_NTHU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 16_NCU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 8_LA 1_NHLUE 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 17_ASCC 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 18_NTU 0_CCU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 1_NHLUE 8_LA 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 14_NCTU 5_CHI 0_CCU"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CCU 15_NTHU 6_NDHU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 5_CHI 15_NTHU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 6_NDHU 14_NCTU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 3_NCKU 1_NHLUE 0_CCU"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CCU 5_CHI 3_NCKU 0_CCU"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CCU 7_NCNU 3_NCKU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 8_LA 7_NCNU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 7_NCNU 1_NHLUE 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 10_NTTU 9_NIU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 11_NSYSU 10_NTTU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 11_NSYSU 9_NIU 0_CCU"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CCU 14_NCTU 12_NCHU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 17_ASCC 16_NCU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 18_NTU 16_NCU 0_CCU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_CCU 18_NTU 17_ASCC 0_CCU"
+        }
+    ],
+    "values": [
+        15,
+        13,
+        12,
+        12,
+        12,
+        12,
+        12,
+        11,
+        11,
+        11,
+        10,
+        10,
+        9.5,
+        9.166666666666668,
+        8,
+        8,
+        7.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 232432,
+    "lpBound": 7.5
+}

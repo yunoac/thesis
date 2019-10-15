@@ -1,0 +1,432 @@
+{
+    "initialCoverSize": 80,
+    "times": [
+        2588657,
+        4231079,
+        5861682,
+        7301807,
+        9027431,
+        10624610,
+        13045533,
+        15036994,
+        17015009,
+        19671938,
+        22898956,
+        25049223,
+        26882018,
+        28769662,
+        30409986,
+        32122506,
+        33942037,
+        35689088,
+        37357265,
+        39032193,
+        40691611,
+        42373719,
+        44000316,
+        45849035,
+        47613386,
+        49378133,
+        51073545,
+        52910065,
+        54752893,
+        56660299,
+        58513161,
+        60365152,
+        62250835,
+        64199020,
+        66081964,
+        67323509,
+        68586714,
+        69847239,
+        71079724,
+        72336915,
+        73645889,
+        75059974,
+        76427360,
+        77748046,
+        79096702,
+        80608524,
+        82316390,
+        84095531,
+        85966980,
+        87794428
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 0_Jakarta 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 1_Perth 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 1_Perth 7_Auckland 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 2_Singapore 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 3_Kuala_Lumpur 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 2_Singapore 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 2_Singapore 17_Bangkok 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 18_Chenai 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 19_Mumbai 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 4_San_Jose 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 4_San_Jose 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 7_Auckland 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 5_Los_Angeles 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 5_Los_Angeles 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 7_Auckland 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 2_Singapore 5_Los_Angeles 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 8_London 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 9_Palo_Alto 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 12_Seoul 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 12_Seoul 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 5_Los_Angeles 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 12_Seoul 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 14_Taipei 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 16_Manila 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 14_Taipei 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 0_Jakarta 8_London 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 16_Manila 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 17_Bangkok 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 16_Manila 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 17_Bangkok 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0.17640675988808585,
+            "cycle": "10_New_Delhi 1_Perth 3_Kuala_Lumpur 4_San_Jose 3_Kuala_Lumpur 4_San_Jose 3_Kuala_Lumpur 4_San_Jose 3_Kuala_Lumpur 10_New_Delhi"
+        },
+        {
+            "x": 0.16464220944591643,
+            "cycle": "10_New_Delhi 18_Chenai 5_Los_Angeles 18_Chenai 5_Los_Angeles 18_Chenai 5_Los_Angeles 18_Chenai 5_Los_Angeles 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 9_Palo_Alto 8_London 9_Palo_Alto 8_London 9_Palo_Alto 8_London 9_Palo_Alto 8_London 10_New_Delhi"
+        },
+        {
+            "x": 0.19871654048606388,
+            "cycle": "10_New_Delhi 19_Mumbai 17_Bangkok 19_Mumbai 17_Bangkok 19_Mumbai 17_Bangkok 19_Mumbai 17_Bangkok 10_New_Delhi"
+        },
+        {
+            "x": 0.13391559690032456,
+            "cycle": "10_New_Delhi 2_Singapore 1_Perth 2_Singapore 1_Perth 2_Singapore 1_Perth 2_Singapore 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 1_Perth 6_Sydney 1_Perth 6_Sydney 1_Perth 6_Sydney 8_London 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 7_Auckland 13_Tokyo 7_Auckland 13_Tokyo 7_Auckland 13_Tokyo 7_Auckland 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0.24668630247471846,
+            "cycle": "10_New_Delhi 13_Tokyo 4_San_Jose 13_Tokyo 4_San_Jose 13_Tokyo 4_San_Jose 7_Auckland 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0.1279962837706386,
+            "cycle": "10_New_Delhi 17_Bangkok 4_San_Jose 17_Bangkok 4_San_Jose 17_Bangkok 4_San_Jose 17_Bangkok 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "10_New_Delhi 13_Tokyo 12_Seoul 13_Tokyo 12_Seoul 13_Tokyo 12_Seoul 13_Tokyo 12_Seoul 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 8_London 12_Seoul 1_Perth 12_Seoul 1_Perth 12_Seoul 1_Perth 12_Seoul 10_New_Delhi"
+        },
+        {
+            "x": 0.24362479907798673,
+            "cycle": "10_New_Delhi 14_Taipei 13_Tokyo 14_Taipei 13_Tokyo 14_Taipei 13_Tokyo 14_Taipei 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0.06748913317138905,
+            "cycle": "10_New_Delhi 14_Taipei 0_Jakarta 14_Taipei 0_Jakarta 14_Taipei 0_Jakarta 14_Taipei 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "10_New_Delhi 16_Manila 13_Tokyo 16_Manila 13_Tokyo 16_Manila 13_Tokyo 16_Manila 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0.05986358717812445,
+            "cycle": "10_New_Delhi 7_Auckland 4_San_Jose 8_London 5_Los_Angeles 8_London 5_Los_Angeles 8_London 5_Los_Angeles 10_New_Delhi"
+        },
+        {
+            "x": 0.13778068483248365,
+            "cycle": "10_New_Delhi 16_Manila 9_Palo_Alto 16_Manila 9_Palo_Alto 16_Manila 1_Perth 7_Auckland 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 4_San_Jose 7_Auckland 1_Perth 7_Auckland 0_Jakarta 13_Tokyo 14_Taipei 8_London 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 8_London 13_Tokyo 8_London 13_Tokyo 8_London 13_Tokyo 8_London 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 12_Seoul 13_Tokyo 14_Taipei 17_Bangkok 2_Singapore 10_New_Delhi 17_Bangkok 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 12_Seoul 13_Tokyo 0_Jakarta 12_Seoul 13_Tokyo 0_Jakarta 12_Seoul 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0.067709739475068,
+            "cycle": "10_New_Delhi 13_Tokyo 7_Auckland 1_Perth 13_Tokyo 7_Auckland 1_Perth 13_Tokyo 5_Los_Angeles 10_New_Delhi"
+        },
+        {
+            "x": 0.15037233723527202,
+            "cycle": "10_New_Delhi 4_San_Jose 13_Tokyo 7_Auckland 4_San_Jose 13_Tokyo 7_Auckland 4_San_Jose 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0.08535779055408359,
+            "cycle": "10_New_Delhi 5_Los_Angeles 3_Kuala_Lumpur 5_Los_Angeles 3_Kuala_Lumpur 1_Perth 0_Jakarta 5_Los_Angeles 3_Kuala_Lumpur 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 3_Kuala_Lumpur 4_San_Jose 8_London 3_Kuala_Lumpur 4_San_Jose 8_London 3_Kuala_Lumpur 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.07110270141641144,
+            "cycle": "10_New_Delhi 7_Auckland 1_Perth 7_Auckland 1_Perth 7_Auckland 1_Perth 7_Auckland 1_Perth 10_New_Delhi"
+        },
+        {
+            "x": 0.1389792333105058,
+            "cycle": "10_New_Delhi 3_Kuala_Lumpur 1_Perth 7_Auckland 9_Palo_Alto 13_Tokyo 16_Manila 1_Perth 7_Auckland 10_New_Delhi"
+        },
+        {
+            "x": 0.0555103833447471,
+            "cycle": "10_New_Delhi 4_San_Jose 13_Tokyo 16_Manila 8_London 13_Tokyo 16_Manila 1_Perth 18_Chenai 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 13_Tokyo 14_Taipei 9_Palo_Alto 13_Tokyo 14_Taipei 9_Palo_Alto 1_Perth 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0.19530996590661776,
+            "cycle": "10_New_Delhi 12_Seoul 0_Jakarta 12_Seoul 0_Jakarta 17_Bangkok 6_Sydney 1_Perth 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 8_London 4_San_Jose 8_London 4_San_Jose 8_London 4_San_Jose 8_London 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.08416448637563725,
+            "cycle": "10_New_Delhi 16_Manila 8_London 16_Manila 8_London 16_Manila 8_London 16_Manila 17_Bangkok 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 2_Singapore 8_London 2_Singapore 8_London 2_Singapore 8_London 4_San_Jose 2_Singapore 10_New_Delhi"
+        },
+        {
+            "x": 0.13685941815424574,
+            "cycle": "10_New_Delhi 14_Taipei 8_London 14_Taipei 8_London 5_Los_Angeles 13_Tokyo 8_London 14_Taipei 10_New_Delhi"
+        },
+        {
+            "x": 0.20513383805574448,
+            "cycle": "10_New_Delhi 18_Chenai 17_Bangkok 12_Seoul 9_Palo_Alto 12_Seoul 13_Tokyo 5_Los_Angeles 18_Chenai 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 19_Mumbai 5_Los_Angeles 8_London 19_Mumbai 4_San_Jose 19_Mumbai 4_San_Jose 19_Mumbai 10_New_Delhi"
+        },
+        {
+            "x": 0.016779870028555615,
+            "cycle": "10_New_Delhi 1_Perth 14_Taipei 1_Perth 14_Taipei 1_Perth 14_Taipei 1_Perth 19_Mumbai 10_New_Delhi"
+        },
+        {
+            "x": 0.04486616194425552,
+            "cycle": "10_New_Delhi 12_Seoul 13_Tokyo 5_Los_Angeles 19_Mumbai 4_San_Jose 17_Bangkok 19_Mumbai 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.1345628013830199,
+            "cycle": "10_New_Delhi 1_Perth 7_Auckland 13_Tokyo 14_Taipei 1_Perth 7_Auckland 13_Tokyo 14_Taipei 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 4_San_Jose 2_Singapore 1_Perth 6_Sydney 4_San_Jose 2_Singapore 1_Perth 12_Seoul 10_New_Delhi"
+        },
+        {
+            "x": 0.13817344700288203,
+            "cycle": "10_New_Delhi 3_Kuala_Lumpur 1_Perth 9_Palo_Alto 7_Auckland 1_Perth 9_Palo_Alto 17_Bangkok 3_Kuala_Lumpur 10_New_Delhi"
+        },
+        {
+            "x": 0.0352316208149415,
+            "cycle": "10_New_Delhi 13_Tokyo 4_San_Jose 0_Jakarta 13_Tokyo 4_San_Jose 0_Jakarta 13_Tokyo 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.10182714153123058,
+            "cycle": "10_New_Delhi 4_San_Jose 19_Mumbai 1_Perth 6_Sydney 5_Los_Angeles 8_London 4_San_Jose 19_Mumbai 10_New_Delhi"
+        },
+        {
+            "x": 2.0790640322375722E-4,
+            "cycle": "10_New_Delhi 1_Perth 0_Jakarta 1_Perth 0_Jakarta 1_Perth 0_Jakarta 1_Perth 0_Jakarta 10_New_Delhi"
+        },
+        {
+            "x": 0.019619465318741328,
+            "cycle": "10_New_Delhi 9_Palo_Alto 4_San_Jose 9_Palo_Alto 4_San_Jose 9_Palo_Alto 4_San_Jose 9_Palo_Alto 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.020439134798562835,
+            "cycle": "10_New_Delhi 2_Singapore 4_San_Jose 7_Auckland 13_Tokyo 5_Los_Angeles 13_Tokyo 5_Los_Angeles 13_Tokyo 10_New_Delhi"
+        },
+        {
+            "x": 0.15424623013102012,
+            "cycle": "10_New_Delhi 12_Seoul 1_Perth 3_Kuala_Lumpur 5_Los_Angeles 13_Tokyo 5_Los_Angeles 13_Tokyo 4_San_Jose 10_New_Delhi"
+        },
+        {
+            "x": 0.060923625901448966,
+            "cycle": "10_New_Delhi 7_Auckland 13_Tokyo 0_Jakarta 7_Auckland 0_Jakarta 7_Auckland 0_Jakarta 7_Auckland 10_New_Delhi"
+        },
+        {
+            "x": 0,
+            "cycle": "10_New_Delhi 17_Bangkok 18_Chenai 8_London 14_Taipei 13_Tokyo 5_Los_Angeles 17_Bangkok 18_Chenai 10_New_Delhi"
+        },
+        {
+            "x": 0.025500803688053065,
+            "cycle": "10_New_Delhi 14_Taipei 13_Tokyo 7_Auckland 13_Tokyo 7_Auckland 9_Palo_Alto 17_Bangkok 18_Chenai 10_New_Delhi"
+        }
+    ],
+    "values": [
+        25,
+        22,
+        19.333333333333332,
+        17.515151515151516,
+        16,
+        15.229166666666666,
+        14.875000000000002,
+        12.833333333333334,
+        12.52777777777778,
+        10.314814814814813,
+        9.284722222222221,
+        8.822222222222221,
+        8.822222222222221,
+        6.999999999999999,
+        6.375,
+        6.054166666666667,
+        4.854938271604938,
+        4.658130787037037,
+        4.628086419753086,
+        4.517361111111112,
+        4.465277777777778,
+        4.451388888888889,
+        4.345335144927535,
+        4.315304487179488,
+        4.302414021164021,
+        4.279140946502059,
+        4.256050135829855,
+        4.182546820101215,
+        4.162424506039517,
+        4.145980178855171,
+        4.13938585149362,
+        4.131989855574918,
+        4.122857157710835,
+        4.098398170473762,
+        4.074796890983776,
+        4.059514715015481,
+        4.05686279067536,
+        4.052307802592763,
+        4.048515082499372,
+        4.042151709878426,
+        4.028136770475808,
+        4.025748918129783,
+        4.020971955652664,
+        4.017761817006475,
+        4.016122222031561,
+        4.013708241573487,
+        4.009868240519703,
+        4.002186437435454,
+        4.001201630148309,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 520800,
+    "lpBound": 4
+}

@@ -1,0 +1,20 @@
+{
+    "nbCycles": 12,
+    "runtime": 761824,
+    "cycles": [
+        "0_New_York 1_Chicago,0_New_York 0_New_York",
+        "0_New_York 2_Washington_DC,0_New_York 0_New_York",
+        "0_New_York 3_Seattle 0_New_York 0_New_York",
+        "0_New_York 5_Los_Angeles 0_New_York 0_New_York",
+        "0_New_York 3_Seattle 5_Los_Angeles 0_New_York",
+        "0_New_York 5_Los_Angeles 3_Seattle 0_New_York",
+        "0_New_York 5_Los_Angeles 6_Denver 0_New_York",
+        "0_New_York 6_Denver 5_Los_Angeles 0_New_York",
+        "0_New_York 6_Denver 8_Houston 0_New_York",
+        "0_New_York 5_Los_Angeles 7_Kansas_City 0_New_York",
+        "0_New_York,2_Washington_DC 10_Indianapolis 0_New_York",
+        "0_New_York,1_Chicago 9_Atlanta 0_New_York"
+    ],
+    "segmentCost": 4,
+    "source": "0_New_York"
+}

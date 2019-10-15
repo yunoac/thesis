@@ -1,0 +1,103 @@
+{
+    "initialCoverSize": 15,
+    "times": [2093465],
+    "finalCoverSize": 12,
+    "minSegCycles": [
+        "0_Bordeaux 1_Toulouse 0_Bordeaux",
+        "0_Bordeaux 6_Montpellier 0_Bordeaux",
+        "0_Bordeaux 3_Limoges 0_Bordeaux",
+        "0_Bordeaux 4_Dijon 0_Bordeaux",
+        "0_Bordeaux 5_Besancon 0_Bordeaux",
+        "0_Bordeaux 7_Clermont-Ferrand 0_Bordeaux",
+        "0_Bordeaux 8_Grenoble 0_Bordeaux",
+        "0_Bordeaux 12_Corte 0_Bordeaux",
+        "0_Bordeaux 16_Strasbourg 0_Bordeaux",
+        "0_Bordeaux 18_Reims 0_Bordeaux",
+        "0_Bordeaux 19_Compiegne 0_Bordeaux",
+        "0_Bordeaux 20_Lille 0_Bordeaux",
+        "0_Bordeaux 21_Rouen 0_Bordeaux",
+        "0_Bordeaux 14_Nantes 0_Bordeaux",
+        "0_Bordeaux 22_Caen 0_Bordeaux"
+    ],
+    "values": [12],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 12,
+    "runtime": 10520891,
+    "lpBound": 12,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 1_Toulouse 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 6_Montpellier 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 3_Limoges 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 4_Dijon 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 5_Besancon 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 7_Clermont-Ferrand 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 8_Grenoble 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 12_Corte 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 16_Strasbourg 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 18_Reims 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 19_Compiegne 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 20_Lille 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 21_Rouen 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 14_Nantes 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 22_Caen 0_Bordeaux"
+        }
+    ],
+    "greedySolution": [
+        "0_Bordeaux 6_Montpellier 0_Bordeaux",
+        "0_Bordeaux 3_Limoges 0_Bordeaux",
+        "0_Bordeaux 5_Besancon 0_Bordeaux",
+        "0_Bordeaux 7_Clermont-Ferrand 0_Bordeaux",
+        "0_Bordeaux 8_Grenoble 0_Bordeaux",
+        "0_Bordeaux 12_Corte 0_Bordeaux",
+        "0_Bordeaux 16_Strasbourg 0_Bordeaux",
+        "0_Bordeaux 18_Reims 0_Bordeaux",
+        "0_Bordeaux 19_Compiegne 0_Bordeaux",
+        "0_Bordeaux 20_Lille 0_Bordeaux",
+        "0_Bordeaux 14_Nantes 0_Bordeaux",
+        "0_Bordeaux 22_Caen 0_Bordeaux"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        1852056,
+        2897407,
+        3924704
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 2_Portadown 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 1_Southport 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 10_Europe 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 1_Southport,10_Europe 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 8_Ballymena 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 9_Belfast 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 11_North_America 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 13_Omagh 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 1_Southport 2_Portadown 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 2_Portadown 1_Southport 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 10_Europe,1_Southport 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 11_North_America 2_Portadown 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 2_Portadown 11_North_America 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 14_Strabane 0_Drogheda 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 3_Castleblayney 16_Londonderry 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 2_Portadown 15_Letterkenny 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 15_Letterkenny 2_Portadown 0_Drogheda"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Drogheda 1_Southport 13_Omagh 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 13_Omagh 11_North_America 0_Drogheda"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Drogheda 11_North_America 13_Omagh 0_Drogheda"
+        }
+    ],
+    "values": [
+        8,
+        8,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 210122,
+    "lpBound": 8
+}

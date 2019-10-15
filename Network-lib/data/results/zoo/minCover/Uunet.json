@@ -1,0 +1,828 @@
+{
+    "initialCoverSize": 166,
+    "times": [
+        4025567,
+        12904055,
+        21590282,
+        30294744,
+        39004532,
+        47874897,
+        56571304,
+        65201881,
+        73795121,
+        82657785,
+        91313608,
+        100236508,
+        109673512,
+        122086414,
+        131503240,
+        140493845,
+        149244445,
+        158426635,
+        168503233,
+        178658516,
+        187476713,
+        196234775,
+        205797592,
+        214645925,
+        226871789,
+        236002958,
+        245108267,
+        254125829,
+        264446117,
+        276175666,
+        285135992,
+        294116547,
+        302587051,
+        311231402,
+        319898461,
+        328525549,
+        337258103,
+        345930431,
+        354509107,
+        363343425,
+        372969883,
+        383017879,
+        392024331,
+        400957550,
+        409989383,
+        419348360,
+        431501708,
+        440809484,
+        449731793,
+        458545335,
+        467207703,
+        475932681,
+        484704833,
+        493501492,
+        502162227,
+        511023664,
+        520603906,
+        530982792,
+        541050187,
+        549897080,
+        558754920,
+        567787693,
+        577618413,
+        589477553,
+        600771550,
+        610879169,
+        619647589,
+        628725567,
+        637723963,
+        646820014,
+        656218871,
+        665130018,
+        674307277,
+        684323551,
+        694260843,
+        703260571
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "12_Austin 1_Halifax,0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 3_Ottawa,0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 35_Hawaii 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 22_Cologne 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 25_Chicago 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 8_Baltimore 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 14_Houston,12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 7_Hartford 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 20_Buffalo 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 9_Washington,_DC 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,14_Houston 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 34_Raleigh 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 10_Stockholm 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 11_London 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 0_Montreal 8_Baltimore 13_Dallas,12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 8_Baltimore 35_Hawaii 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,13_Dallas 23_Pittsburgh 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 8_Baltimore 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 6_Boston 31_Los_Angeles 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 14_Houston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 31_Los_Angeles 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 37_Phoenix 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 18_Miami 12_Austin 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 16_Jacksonville 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 18_Miami 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 15_New_Orleans 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 17_Orlando 18_Miami 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 18_Miami 15_New_Orleans 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 18_Miami 17_Orlando,15_New_Orleans 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 19_Monaco 12_Austin 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 33_Atlanta 12_Austin 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 3_Ottawa 7_Hartford 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 24_Detroit 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 48_Minneapolis 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 23_Pittsburgh 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 21_Cleveland 9_Washington,_DC 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 8_Baltimore 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 16_Jacksonville 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 30_Tokyo 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 35_Hawaii 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 48_Minneapolis 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 26_Indianapolis 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 27_Kansas_City 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 26_Indianapolis 28_St_Louis 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 24_Detroit 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 35_Hawaii 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 47_Denver 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 28_St_Louis 2_London 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 28_St_Louis 26_Indianapolis 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,13_Dallas 32_Las_Vegas 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 36_Hawaii 6_Boston 0_Montreal 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin,13_Dallas 38_San_Diego 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 31_Los_Angeles 35_Hawaii 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 31_Los_Angeles 47_Denver 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 46_Salt_Lake_City 37_Phoenix 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 18_Miami 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 24_Detroit 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 34_Raleigh 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 34_Raleigh 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,14_Houston 32_Las_Vegas 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,14_Houston 38_San_Diego 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin,13_Dallas 38_San_Diego 14_Houston,12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 40_Kitchener 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 29_Edmonton 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 3_Ottawa 42_Vancouver 3_Ottawa 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 12_Austin 0_Montreal 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 29_Edmonton 25_Chicago 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 27_Kansas_City 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 44_Portland 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 35_Hawaii 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 0_Montreal 44_Portland 29_Edmonton 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 8_Baltimore 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 24_Detroit 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 27_Kansas_City 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 31_Los_Angeles 12_Austin 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 29_Edmonton 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 46_Salt_Lake_City 0_Montreal 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 37_Phoenix 46_Salt_Lake_City 0_Montreal 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 19_Monaco 34_Raleigh 19_Monaco 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 47_Denver 23_Pittsburgh 36_Hawaii 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 48_Minneapolis 10_Stockholm 48_Minneapolis 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 7_Hartford 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 1_Halifax 40_Kitchener 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 1_Halifax 7_Hartford 1_Halifax 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 40_Kitchener 48_Minneapolis 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 3_Ottawa 14_Houston 3_Ottawa 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 13_Dallas 11_London 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 22_Cologne 23_Pittsburgh 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 14_Houston 7_Hartford 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 11_London 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 22_Cologne 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 32_Las_Vegas 14_Houston 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 46_Salt_Lake_City 34_Raleigh 46_Salt_Lake_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 5_Philadelphia 7_Hartford 5_Philadelphia 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 16_Jacksonville 7_Hartford 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 48_Minneapolis 23_Pittsburgh 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 14_Houston 23_Pittsburgh 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 31_Los_Angeles 6_Boston 29_Edmonton 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 48_Minneapolis 7_Hartford 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 35_Hawaii 32_Las_Vegas 35_Hawaii 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 46_Salt_Lake_City 32_Las_Vegas 13_Dallas 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 25_Chicago 29_Edmonton 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 30_Tokyo 27_Kansas_City 30_Tokyo 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 22_Cologne 25_Chicago 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 30_Tokyo 35_Hawaii 30_Tokyo 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 21_Cleveland 6_Boston 21_Cleveland 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 1_Halifax 25_Chicago 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 14_Houston 38_San_Diego 14_Houston 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 15_New_Orleans 16_Jacksonville 15_New_Orleans 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 15_New_Orleans 18_Miami 15_New_Orleans 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 18_Miami 17_Orlando 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 24_Detroit 16_Jacksonville 15_New_Orleans 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 22_Cologne 8_Baltimore 22_Cologne 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 13_Dallas 8_Baltimore 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 15_New_Orleans 18_Miami 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 24_Detroit 16_Jacksonville 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 17_Orlando 18_Miami 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 27_Kansas_City 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 27_Kansas_City 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 16_Jacksonville 48_Minneapolis 20_Buffalo 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 27_Kansas_City 23_Pittsburgh 48_Minneapolis 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 25_Chicago 29_Edmonton 20_Buffalo 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 35_Hawaii 30_Tokyo 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 35_Hawaii 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 35_Hawaii 24_Detroit 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 26_Indianapolis 28_St_Louis 26_Indianapolis 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 28_St_Louis 35_Hawaii 28_St_Louis 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 35_Hawaii 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 26_Indianapolis 28_St_Louis 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 26_Indianapolis 46_Salt_Lake_City 37_Phoenix 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 37_Phoenix 46_Salt_Lake_City 24_Detroit 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 29_Edmonton 44_Portland 29_Edmonton 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 3_Ottawa 20_Buffalo 35_Hawaii 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 36_Hawaii 6_Boston 36_Hawaii 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 23_Pittsburgh 0_Montreal 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 27_Kansas_City 30_Tokyo 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 29_Edmonton 23_Pittsburgh 13_Dallas 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 18_Miami 17_Orlando 18_Miami 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 15_New_Orleans 16_Jacksonville 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 3_Ottawa 7_Hartford 48_Minneapolis 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 14_Houston 8_Baltimore 1_Halifax 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 24_Detroit 2_London 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 0_Montreal 7_Hartford 3_Ottawa 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 3_Ottawa 20_Buffalo 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 20_Buffalo 24_Detroit 35_Hawaii 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 24_Detroit 47_Denver 31_Los_Angeles 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 27_Kansas_City 40_Kitchener 24_Detroit 12_Austin"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_Austin 14_Houston 11_London 27_Kansas_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 13_Dallas 32_Las_Vegas 46_Salt_Lake_City 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 31_Los_Angeles 44_Portland 3_Ottawa 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 47_Denver 25_Chicago 29_Edmonton 12_Austin"
+        },
+        {
+            "x": 0,
+            "cycle": "12_Austin 14_Houston 3_Ottawa 20_Buffalo 12_Austin"
+        },
+        {
+            "x": 1,
+            "cycle": "12_Austin 20_Buffalo 44_Portland 20_Buffalo 12_Austin"
+        }
+    ],
+    "values": [
+        63,
+        62,
+        61,
+        59,
+        58,
+        55,
+        55,
+        54,
+        54,
+        52,
+        52,
+        50,
+        49,
+        49,
+        49,
+        48,
+        48,
+        47,
+        47,
+        46,
+        46,
+        46,
+        44,
+        44,
+        44,
+        43.57142857142858,
+        42.5,
+        41.5,
+        41.2,
+        41.2,
+        41.2,
+        40.2,
+        39.2,
+        39.2,
+        38.5,
+        38.400000000000006,
+        38,
+        38,
+        38,
+        37.5,
+        37.5,
+        37,
+        36.833333333333336,
+        36.7,
+        36.70000000000001,
+        36.699999999999996,
+        35.7,
+        35.699999999999996,
+        34.83333333333333,
+        33.7,
+        33.7,
+        33.7,
+        33.7,
+        33.1875,
+        33.1875,
+        33.166666666666664,
+        33,
+        33,
+        33.00000000000001,
+        33,
+        33,
+        32.5,
+        32.5,
+        32.33333333333334,
+        32.33333333333333,
+        32.25,
+        32.23076923076923,
+        32.22784810126581,
+        32.227848101265806,
+        32.166666666666664,
+        32.11764705882353,
+        32.11764705882353,
+        32.11764705882352,
+        32,
+        32,
+        32
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 1070750,
+    "lpBound": 32
+}

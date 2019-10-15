@@ -1,0 +1,550 @@
+{
+    "initialCoverSize": 99,
+    "times": [
+        1383322,
+        2334121,
+        3227255,
+        4087042,
+        4995261,
+        5962649,
+        6872235,
+        7769218,
+        8671785,
+        9738986,
+        10738609,
+        11768907,
+        12685716,
+        13612787,
+        14585853,
+        15615895,
+        16554123,
+        17564781,
+        18555413,
+        19499081,
+        20479955,
+        21420477,
+        22493176,
+        23526952,
+        24544236,
+        25582457,
+        26748898,
+        27810382,
+        28977355,
+        30169564,
+        31469114,
+        32616595,
+        33826795,
+        35084657,
+        36476575,
+        37853888,
+        39276047,
+        40729977,
+        42217715,
+        43470983,
+        44800847,
+        46276516,
+        47655594,
+        48904611,
+        50291747,
+        51584753,
+        53065286,
+        54609644,
+        56034445,
+        57541684,
+        58936114,
+        60432722,
+        61968741,
+        63480333,
+        65083236,
+        66483717,
+        68155789,
+        69796808,
+        71435995,
+        73033026,
+        74523862,
+        76136331,
+        77523932,
+        79107772,
+        80394915,
+        81892199,
+        83247287,
+        84960173,
+        86418358,
+        88552870,
+        90165276
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 1_Rioja 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 2_Cantabria 10_Asturias 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 9_Galacia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,4_Baleares 5_Valencia,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,4_Baleares 6_Aragon,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 4_Baleares,7_Cataluna 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 5_Valencia,12_Andalucia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,5_Valencia 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,6_Aragon 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 7_Cataluna,4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 11_Extremadura 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 9_Galacia 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 10_Asturias 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 10_Asturias 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 11_Extremadura 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 12_Andalucia,5_Valencia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 15_Castilla_La_Mancha 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 15_Castilla_La_Mancha 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 5_Valencia,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 2_Cantabria 6_Aragon,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 17_Madrid 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 1_Rioja 9_Galacia 7_Cataluna"
+        },
+        {
+            "x": 0.017253832544858776,
+            "cycle": "7_Cataluna 11_Extremadura 5_Valencia 11_Extremadura 5_Valencia 11_Extremadura 5_Valencia 11_Extremadura 5_Valencia 7_Cataluna"
+        },
+        {
+            "x": 0.02712405507354712,
+            "cycle": "7_Cataluna 17_Madrid 6_Aragon 17_Madrid 6_Aragon 17_Madrid 6_Aragon 17_Madrid 6_Aragon 7_Cataluna"
+        },
+        {
+            "x": 0.05484108583642098,
+            "cycle": "7_Cataluna 5_Valencia 4_Baleares 5_Valencia 4_Baleares 5_Valencia 4_Baleares 5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 1_Rioja 0_Navarra 1_Rioja 0_Navarra 1_Rioja 0_Navarra 6_Aragon 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 1_Rioja 11_Extremadura 8_Murcia 11_Extremadura 12_Andalucia,5_Valencia 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 9_Galacia 0_Navarra 9_Galacia 0_Navarra 9_Galacia 0_Navarra 9_Galacia 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 9_Galacia 1_Rioja 9_Galacia 1_Rioja 9_Galacia 1_Rioja 9_Galacia 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0.20513327940431272,
+            "cycle": "7_Cataluna 10_Asturias 2_Cantabria 10_Asturias 2_Cantabria 10_Asturias 2_Cantabria 10_Asturias 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 10_Asturias 12_Andalucia 15_Castilla_La_Mancha 8_Murcia 15_Castilla_La_Mancha 12_Andalucia,5_Valencia 10_Asturias 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 15_Castilla_La_Mancha 2_Cantabria 15_Castilla_La_Mancha 2_Cantabria 15_Castilla_La_Mancha 2_Cantabria 15_Castilla_La_Mancha 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 7_Cataluna 8_Murcia 7_Cataluna 8_Murcia 7_Cataluna,4_Baleares 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0.23129914271530552,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 6_Aragon 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 14_Canarias_(tenerife) 1_Rioja 14_Canarias_(tenerife) 1_Rioja 14_Canarias_(tenerife) 1_Rioja 14_Canarias_(tenerife) 6_Aragon 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 11_Extremadura 13_Canarias_(las_palmas) 11_Extremadura 13_Canarias_(las_palmas) 11_Extremadura 13_Canarias_(las_palmas) 11_Extremadura 7_Cataluna"
+        },
+        {
+            "x": 0.02933976308564043,
+            "cycle": "7_Cataluna 6_Aragon 13_Canarias_(las_palmas) 7_Cataluna,4_Baleares 6_Aragon 13_Canarias_(las_palmas) 5_Valencia,12_Andalucia 7_Cataluna"
+        },
+        {
+            "x": 0.02539986773519227,
+            "cycle": "7_Cataluna 4_Baleares 5_Valencia,12_Andalucia 11_Extremadura 6_Aragon 4_Baleares 6_Aragon 4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 4_Baleares,7_Cataluna 8_Murcia 11_Extremadura 7_Cataluna,4_Baleares 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 5_Valencia,12_Andalucia 12_Andalucia,5_Valencia 5_Valencia,12_Andalucia 12_Andalucia,5_Valencia 7_Cataluna"
+        },
+        {
+            "x": 0.14526378449648725,
+            "cycle": "7_Cataluna 11_Extremadura 8_Murcia 11_Extremadura 8_Murcia 11_Extremadura 8_Murcia 11_Extremadura 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0.0676731013641695,
+            "cycle": "7_Cataluna 1_Rioja 10_Asturias 11_Extremadura 1_Rioja 10_Asturias 11_Extremadura 1_Rioja 10_Asturias 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna,4_Baleares 5_Valencia 7_Cataluna,4_Baleares 5_Valencia 7_Cataluna,4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 15_Castilla_La_Mancha 14_Canarias_(tenerife) 5_Valencia 14_Canarias_(tenerife) 5_Valencia 1_Rioja 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 4_Baleares 6_Aragon 0_Navarra 9_Galacia 11_Extremadura 8_Murcia 4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0.09063884305794286,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 15_Castilla_La_Mancha 5_Valencia,12_Andalucia 15_Castilla_La_Mancha 5_Valencia,12_Andalucia 15_Castilla_La_Mancha 7_Cataluna"
+        },
+        {
+            "x": 0.038204138255884035,
+            "cycle": "7_Cataluna 15_Castilla_La_Mancha 13_Canarias_(las_palmas) 15_Castilla_La_Mancha 13_Canarias_(las_palmas) 15_Castilla_La_Mancha 13_Canarias_(las_palmas) 15_Castilla_La_Mancha 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0.02060256291531367,
+            "cycle": "7_Cataluna 2_Cantabria 10_Asturias 13_Canarias_(las_palmas) 2_Cantabria 10_Asturias 13_Canarias_(las_palmas) 2_Cantabria 10_Asturias 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 11_Extremadura 12_Andalucia 2_Cantabria 11_Extremadura 12_Andalucia 14_Canarias_(tenerife) 11_Extremadura 12_Andalucia 7_Cataluna"
+        },
+        {
+            "x": 0.011549300600892745,
+            "cycle": "7_Cataluna 4_Baleares 8_Murcia 11_Extremadura 2_Cantabria 14_Canarias_(tenerife) 2_Cantabria 14_Canarias_(tenerife) 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 10_Asturias 1_Rioja 17_Madrid 10_Asturias 1_Rioja 17_Madrid 10_Asturias 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0.1146124147676521,
+            "cycle": "7_Cataluna 4_Baleares 8_Murcia 15_Castilla_La_Mancha 6_Aragon 15_Castilla_La_Mancha 1_Rioja 0_Navarra 9_Galacia 7_Cataluna"
+        },
+        {
+            "x": 0.0729925520571391,
+            "cycle": "7_Cataluna 6_Aragon 11_Extremadura 17_Madrid 11_Extremadura 17_Madrid 11_Extremadura 17_Madrid 11_Extremadura 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 12_Andalucia 17_Madrid 12_Andalucia,5_Valencia 17_Madrid 12_Andalucia,5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 4_Baleares 6_Aragon 9_Galacia 0_Navarra 6_Aragon 11_Extremadura 8_Murcia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 8_Murcia 15_Castilla_La_Mancha 8_Murcia 15_Castilla_La_Mancha 8_Murcia 12_Andalucia,5_Valencia 4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 15_Castilla_La_Mancha 8_Murcia 4_Baleares 8_Murcia 11_Extremadura 5_Valencia,12_Andalucia 11_Extremadura 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 1_Rioja 10_Asturias 17_Madrid 14_Canarias_(tenerife) 17_Madrid 14_Canarias_(tenerife) 17_Madrid 7_Cataluna"
+        },
+        {
+            "x": 0.08936619660387428,
+            "cycle": "7_Cataluna 4_Baleares 5_Valencia,12_Andalucia 2_Cantabria 5_Valencia,12_Andalucia 5_Valencia 2_Cantabria 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 1_Rioja 10_Asturias 1_Rioja 10_Asturias 1_Rioja 10_Asturias 5_Valencia 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 0_Navarra 14_Canarias_(tenerife) 6_Aragon 0_Navarra 14_Canarias_(tenerife) 6_Aragon 0_Navarra 7_Cataluna"
+        },
+        {
+            "x": 0.11476751715110992,
+            "cycle": "7_Cataluna 5_Valencia 15_Castilla_La_Mancha 12_Andalucia,5_Valencia 15_Castilla_La_Mancha 12_Andalucia,5_Valencia 14_Canarias_(tenerife) 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 10_Asturias 1_Rioja 0_Navarra 1_Rioja 0_Navarra 5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.3807407237581672,
+            "cycle": "7_Cataluna 1_Rioja 0_Navarra 9_Galacia 1_Rioja 0_Navarra 9_Galacia 15_Castilla_La_Mancha 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0.06298938740450238,
+            "cycle": "7_Cataluna 11_Extremadura 12_Andalucia,5_Valencia 4_Baleares 8_Murcia 4_Baleares 8_Murcia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 5_Valencia,12_Andalucia 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 6_Aragon 1_Rioja 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 7_Cataluna"
+        },
+        {
+            "x": 0.042516294167175846,
+            "cycle": "7_Cataluna 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 15_Castilla_La_Mancha 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 15_Castilla_La_Mancha 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 7_Cataluna"
+        },
+        {
+            "x": 0.10184243355220716,
+            "cycle": "7_Cataluna 5_Valencia,12_Andalucia 2_Cantabria 5_Valencia,12_Andalucia 11_Extremadura 12_Andalucia,5_Valencia 7_Cataluna"
+        },
+        {
+            "x": 0.4380469311419932,
+            "cycle": "7_Cataluna 8_Murcia 15_Castilla_La_Mancha 9_Galacia 0_Navarra 1_Rioja 9_Galacia 0_Navarra 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 9_Galacia 6_Aragon 0_Navarra 9_Galacia 11_Extremadura 13_Canarias_(las_palmas) 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.2001375172112475,
+            "cycle": "7_Cataluna,4_Baleares 6_Aragon 7_Cataluna,4_Baleares 6_Aragon 7_Cataluna,4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 4_Baleares,7_Cataluna 6_Aragon 4_Baleares,7_Cataluna 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.2603255114763345,
+            "cycle": "7_Cataluna 1_Rioja 17_Madrid 2_Cantabria 10_Asturias 1_Rioja 17_Madrid 5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.22969032216939372,
+            "cycle": "7_Cataluna 5_Valencia,12_Andalucia 11_Extremadura 14_Canarias_(tenerife) 6_Aragon 14_Canarias_(tenerife) 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.06081171014887413,
+            "cycle": "7_Cataluna 5_Valencia 2_Cantabria 11_Extremadura 13_Canarias_(las_palmas) 15_Castilla_La_Mancha 2_Cantabria 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 4_Baleares 6_Aragon 1_Rioja 10_Asturias 7_Cataluna,4_Baleares 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 4_Baleares 8_Murcia 15_Castilla_La_Mancha 12_Andalucia,5_Valencia 1_Rioja 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.17855368935255586,
+            "cycle": "7_Cataluna 6_Aragon 12_Andalucia,5_Valencia 2_Cantabria 12_Andalucia,5_Valencia 13_Canarias_(las_palmas) 14_Canarias_(tenerife) 7_Cataluna"
+        },
+        {
+            "x": 0.03679194980041031,
+            "cycle": "7_Cataluna 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 10_Asturias 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 10_Asturias 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 4_Baleares 8_Murcia 13_Canarias_(las_palmas) 17_Madrid 13_Canarias_(las_palmas) 17_Madrid 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.17946688238274913,
+            "cycle": "7_Cataluna 10_Asturias 1_Rioja 10_Asturias 1_Rioja 10_Asturias 2_Cantabria 5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.09665066545423376,
+            "cycle": "7_Cataluna 14_Canarias_(tenerife) 11_Extremadura 12_Andalucia,5_Valencia 11_Extremadura 13_Canarias_(las_palmas) 7_Cataluna,4_Baleares 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 2_Cantabria 10_Asturias 1_Rioja 10_Asturias 1_Rioja 10_Asturias 1_Rioja 10_Asturias 7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 17_Madrid 5_Valencia 17_Madrid 5_Valencia 17_Madrid 5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 6_Aragon 0_Navarra 1_Rioja 0_Navarra 1_Rioja 0_Navarra 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Cataluna 0_Navarra 9_Galacia 0_Navarra 9_Galacia 0_Navarra 9_Galacia 6_Aragon 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.15187510058172526,
+            "cycle": "7_Cataluna 4_Baleares 5_Valencia,12_Andalucia 17_Madrid 15_Castilla_La_Mancha 12_Andalucia,5_Valencia 4_Baleares,7_Cataluna"
+        },
+        {
+            "x": 0.04130204590533785,
+            "cycle": "7_Cataluna 6_Aragon 9_Galacia 0_Navarra 9_Galacia 0_Navarra 9_Galacia 0_Navarra 9_Galacia 7_Cataluna"
+        },
+        {
+            "x": 0.06246696156478629,
+            "cycle": "7_Cataluna 4_Baleares 6_Aragon 2_Cantabria 10_Asturias 7_Cataluna,4_Baleares 6_Aragon 9_Galacia 7_Cataluna"
+        },
+        {
+            "x": 0.041302045905337835,
+            "cycle": "7_Cataluna 11_Extremadura 1_Rioja 0_Navarra 1_Rioja 0_Navarra 1_Rioja 0_Navarra 1_Rioja 7_Cataluna"
+        },
+        {
+            "x": 0.10556502913079853,
+            "cycle": "7_Cataluna 4_Baleares 8_Murcia 7_Cataluna,4_Baleares 8_Murcia 7_Cataluna,4_Baleares 8_Murcia 7_Cataluna"
+        },
+        {
+            "x": 0.09786336122642623,
+            "cycle": "7_Cataluna 4_Baleares 6_Aragon 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 11_Extremadura 14_Canarias_(tenerife) 13_Canarias_(las_palmas) 11_Extremadura 7_Cataluna"
+        }
+    ],
+    "values": [
+        25,
+        23.333333333333332,
+        21.583333333333332,
+        19.583333333333332,
+        17.91666666666666,
+        15.250000000000002,
+        13.583333333333336,
+        11.91666666666667,
+        11.91666666666667,
+        11.375000000000002,
+        10.625,
+        8.999999999999998,
+        8.999999999999998,
+        8.166666666666664,
+        7.333333333333332,
+        6.260416666666667,
+        5.901041666666667,
+        5.331845238095239,
+        5.194444444444445,
+        5.072916666666667,
+        5.059523809523809,
+        4.952932098765432,
+        4.923693267369326,
+        4.875542768187251,
+        4.875022334190965,
+        4.790010410272669,
+        4.665309166391729,
+        4.645633557628765,
+        4.616116694041478,
+        4.593327528934654,
+        4.559932170542636,
+        4.518347746253717,
+        4.496226824678652,
+        4.489165552571719,
+        4.482646471752903,
+        4.464991492107083,
+        4.443200024731765,
+        4.421505680603547,
+        4.413184445233852,
+        4.405521512748354,
+        4.388151257905543,
+        4.358596761895809,
+        4.32717145464084,
+        4.315317755091917,
+        4.315317755091918,
+        4.303753711098305,
+        4.287983320194705,
+        4.273983550223284,
+        4.266530656592928,
+        4.244027242098203,
+        4.24253804660723,
+        4.228930713571975,
+        4.189148648715999,
+        4.183357903881676,
+        4.16395016476164,
+        4.162292733383874,
+        4.1591966039035215,
+        4.153312094067618,
+        4.151474093367288,
+        4.146292239345968,
+        4.142516871864949,
+        4.140052228683557,
+        4.136932103230475,
+        4.136810105262075,
+        4.136638296062389,
+        4.135377362751247,
+        4.135377362751247,
+        4.134845424799792,
+        4.133998255428711,
+        4.1273007767239696,
+        4.124999999999999
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 167932,
+    "lpBound": 4.124999999999999
+}

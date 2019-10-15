@@ -1,0 +1,50 @@
+{
+    "originalCover": {
+        "runtime": 913165,
+        "cycles": [
+            "2 1_San_Jose 1_San_Jose",
+            "2 2_Minneapolis 1_San_Jose",
+            "1_San_Jose 2_Minneapolis 0_Seattle 1_San_Jose",
+            "1_San_Jose 11 1_San_Jose",
+            "1_San_Jose 2_Minneapolis 11",
+            "1_San_Jose 5_Dallas 0_Seattle 1_San_Jose",
+            "4 2_Minneapolis 1_San_Jose"
+        ],
+        "source": 1,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        7,
+        7,
+        5,
+        7,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        5,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Seattle 2 0_Seattle",
+            "0_Seattle 2_Minneapolis 0_Seattle 0_Seattle",
+            "0 2_Minneapolis 0_Seattle",
+            "0_Seattle 4_Vienna 0_Seattle 0_Seattle",
+            "0_Seattle 2_Minneapolis 2",
+            "0_Seattle 2_Minneapolis 4_Vienna 0_Seattle",
+            "0_Seattle 5_Dallas 0_Seattle 0_Seattle",
+            "0_Seattle 4_Vienna 2_Minneapolis 0_Seattle"
+        ],
+        "source": 0,
+        "runetime": 476003,
+        "maxSeg": 4
+    }
+}

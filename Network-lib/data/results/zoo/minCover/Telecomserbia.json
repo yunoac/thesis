@@ -1,0 +1,30 @@
+{
+    "initialCoverSize": 5,
+    "times": [992415],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 1_Belgrade,0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 4_Krusevac 0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 2_Kragujevac 0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Novi_Sad 4_Krusevac 2_Kragujevac 0_Novi_Sad"
+        }
+    ],
+    "values": [2],
+    "initialCoverSeg": 4,
+    "runtime": 14254,
+    "lpBound": 2
+}

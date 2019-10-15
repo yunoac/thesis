@@ -1,0 +1,26 @@
+{
+    "nbCycles": 18,
+    "runtime": 6469821,
+    "cycles": [
+        "8_Worcester 3_Sanford,0_Portsmouth 8_Worcester",
+        "8_Worcester 0_Portsmouth 1_Dover 8_Worcester",
+        "8_Worcester 1_Dover 0_Portsmouth 8_Worcester",
+        "8_Worcester 2_Biddeford 3_Sanford 8_Worcester",
+        "8_Worcester 3_Sanford 2_Biddeford 8_Worcester",
+        "8_Worcester 10_Bangor 0_Portsmouth 8_Worcester",
+        "8_Worcester 10_Bangor 19_Augusta 8_Worcester",
+        "8_Worcester 19_Augusta 10_Bangor 8_Worcester",
+        "8_Worcester 13_Bethel 0_Portsmouth 8_Worcester",
+        "8_Worcester 12_Turner 0_Portsmouth 8_Worcester",
+        "8_Worcester 12_Turner 13_Bethel 8_Worcester",
+        "8_Worcester 13_Bethel 12_Turner 8_Worcester",
+        "8_Worcester 13_Bethel 16_Buckfield 8_Worcester",
+        "8_Worcester 16_Buckfield 13_Bethel 8_Worcester",
+        "8_Worcester 14_Norway 17_Augusta 8_Worcester",
+        "8_Worcester 12_Turner 16_Buckfield 8_Worcester",
+        "8_Worcester 12_Turner 19_Augusta 8_Worcester",
+        "8_Worcester 19_Augusta 12_Turner 8_Worcester"
+    ],
+    "segmentCost": 4,
+    "source": "8_Worcester"
+}

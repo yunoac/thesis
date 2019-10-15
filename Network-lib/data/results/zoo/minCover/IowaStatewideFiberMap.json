@@ -1,0 +1,172 @@
+{
+    "initialCoverSize": 35,
+    "times": [
+        1559876,
+        3797746,
+        5945415,
+        8059034,
+        10261935,
+        12477697,
+        14654523,
+        16776024,
+        18959696,
+        21140258
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 2_Oskaloosa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 15_Dubuque 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 1_Omaha 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 14_Kansas_City,1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa,0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 6_Stanton 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 7_Harlan 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 6_Stanton 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 9_Sioux_City 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 0_Bloomfield 11_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 26_Sioux_Falls 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 10_None 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 11_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 25_Spencer,10_None 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 11_None 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 12_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 13_Minneapolis 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 17_Iowa_City 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 19_Chicago 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 15_Dubuque 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 12_None 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 2_Oskaloosa 12_None 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 3_Ottumwa 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 14_Kansas_City 13_Minneapolis 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 6_Stanton 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 26_Sioux_Falls 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 19_Chicago 15_Dubuque"
+        },
+        {
+            "x": 1,
+            "cycle": "15_Dubuque 26_Sioux_Falls 19_Chicago 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 19_Chicago 17_Iowa_City 15_Dubuque"
+        }
+    ],
+    "values": [
+        19,
+        18,
+        17,
+        16,
+        16,
+        16,
+        15,
+        15,
+        15,
+        15
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 448928,
+    "lpBound": 15
+}

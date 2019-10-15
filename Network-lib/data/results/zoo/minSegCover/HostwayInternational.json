@@ -1,0 +1,26 @@
+{
+    "nbCycles": 18,
+    "runtime": 2157764,
+    "cycles": [
+        "4_Miami 0_Seattle 1_Tampa,4_Miami",
+        "4_Miami 3_Vancouver,0_Seattle 4_Miami",
+        "4_Miami 0_Seattle 5_Austin 4_Miami",
+        "4_Miami 5_Austin 0_Seattle 4_Miami",
+        "4_Miami 1_Tampa 0_Seattle 4_Miami",
+        "4_Miami 8_Bucharest 1_Tampa 4_Miami",
+        "4_Miami 6_New_York 0_Seattle 4_Miami",
+        "4_Miami,6_New_York 4_Miami 4_Miami",
+        "4_Miami,6_New_York 8_Bucharest 4_Miami",
+        "4_Miami 8_Bucharest 6_New_York,4_Miami",
+        "4_Miami 11_Hannover 0_Seattle 4_Miami",
+        "4_Miami 0_Seattle 6_New_York,4_Miami",
+        "4_Miami 14_Frankfurt 1_Tampa 4_Miami",
+        "4_Miami 11_Hannover 8_Bucharest 4_Miami",
+        "4_Miami 8_Bucharest 11_Hannover 4_Miami",
+        "4_Miami 13_Antwerp 0_Seattle 4_Miami",
+        "4_Miami 13_Antwerp 8_Bucharest 4_Miami",
+        "4_Miami 8_Bucharest 13_Antwerp 4_Miami"
+    ],
+    "segmentCost": 4,
+    "source": "4_Miami"
+}

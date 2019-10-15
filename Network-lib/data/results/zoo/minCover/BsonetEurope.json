@@ -1,0 +1,144 @@
+{
+    "initialCoverSize": 29,
+    "times": [
+        1207210,
+        1894452,
+        2484685,
+        3085301,
+        3654761,
+        4281910,
+        4887452,
+        5455726
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 1_Frankfurt,0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 0_Prague 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 2_Hamburg 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 2_Hamburg 3_Copenhagen,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,3_Copenhagen 2_Hamburg 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 6_Geneva 4_Dubai 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan,6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_Stockholm 8_Brussels 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,9_Amsterdam 4_Dubai 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,13_Oslo 3_Copenhagen 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 4_Dubai 9_Amsterdam,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 13_Oslo 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 15_New_York 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_Stockholm 0_Prague 16_New_York 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan,6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 13_Oslo 7_Milan 13_Oslo 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 9_Amsterdam 15_New_York 9_Amsterdam 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm 8_Brussels 2_Hamburg 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_Stockholm 0_Prague 5_Madrid 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_Stockholm 8_Brussels 16_New_York 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        }
+    ],
+    "values": [
+        13,
+        13,
+        12,
+        12,
+        12,
+        11.5,
+        11,
+        10
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 159803,
+    "lpBound": 10
+}

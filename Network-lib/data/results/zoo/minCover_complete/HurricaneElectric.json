@@ -1,0 +1,398 @@
+{
+    "initialCoverSize": 78,
+    "times": [
+        1625891,
+        3004357,
+        4336876,
+        5556192,
+        6770368,
+        8038723,
+        9318257,
+        10634753,
+        11933609,
+        13234501,
+        14491947,
+        15783419,
+        17126962,
+        18453626,
+        19856555,
+        21393027,
+        22921173,
+        24409571,
+        25786162,
+        27190804,
+        28572418,
+        29852572,
+        31128386,
+        32498166,
+        33901203,
+        35214915,
+        36615761,
+        38055132,
+        39437302,
+        40744541,
+        42038241,
+        43430406,
+        44935328,
+        46453728,
+        47947026,
+        49250909,
+        50732684
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 1_Frankfurt,0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London,0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 3_Paris,0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,1_Frankfurt 3_Paris,0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,2_London 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 4_Palo_Alto 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,3_Paris 1_Frankfurt,0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,1_Frankfurt 4_Palo_Alto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,3_Paris 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam,3_Paris 8_Fremont_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 4_Palo_Alto 9_San_Jose_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam,3_Paris 13_San_Jose_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 4_Palo_Alto 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 5_Fremont_1 3_Paris,0_Amsterdam"
+        },
+        {
+            "x": 0.2500000000000001,
+            "cycle": "0_Amsterdam 8_Fremont_2 3_Paris,0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 13_San_Jose_1 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 4_Palo_Alto 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 10_New_York_3 11_New_York_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 11_New_York_2 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 22_Toronto 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 2_London,0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 21_Chicago 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 14_Atlanta 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 13_San_Jose_1 3_Paris,0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 16_Hong_Kong 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 14_Atlanta 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 15_Miami 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 4_Palo_Alto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 4_Palo_Alto 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 14_Atlanta 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 14_Atlanta 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 20_Dallas 9_San_Jose_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 9_San_Jose_2 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 14_Atlanta 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0.7499999999999999,
+            "cycle": "0_Amsterdam 20_Dallas 16_Hong_Kong 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 21_Chicago 4_Palo_Alto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0.4999999999999999,
+            "cycle": "0_Amsterdam 15_Miami 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 21_Chicago 14_Atlanta 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 19_Los_Angeles 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.4999999999999999,
+            "cycle": "0_Amsterdam 7_Stockholm 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.7499999999999999,
+            "cycle": "0_Amsterdam 8_Fremont_2 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 8_Fremont_2 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 22_Toronto 15_Miami 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 18_Seattle 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 16_Hong_Kong 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 22_Toronto 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.5000000000000001,
+            "cycle": "0_Amsterdam 3_Paris 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0.4999999999999999,
+            "cycle": "0_Amsterdam 7_Stockholm 4_Palo_Alto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 22_Toronto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 22_Toronto 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 17_Tokyo 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 20_Dallas 18_Seattle 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London 17_Tokyo 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 2_London 18_Seattle 0_Amsterdam"
+        },
+        {
+            "x": 0.2500000000000001,
+            "cycle": "0_Amsterdam 3_Paris 17_Tokyo 0_Amsterdam"
+        },
+        {
+            "x": 0.2500000000000001,
+            "cycle": "0_Amsterdam 20_Dallas 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Amsterdam 5_Fremont_1 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Amsterdam 17_Tokyo 8_Fremont_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 20_Dallas 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 13_San_Jose_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 6_Zurich 0_Amsterdam"
+        }
+    ],
+    "values": [
+        30,
+        28,
+        26,
+        24,
+        22,
+        21,
+        21,
+        21,
+        20.5,
+        20.5,
+        19.5,
+        19.5,
+        19.5,
+        18.5,
+        18.25,
+        18,
+        18,
+        17.400000000000002,
+        17.400000000000002,
+        17.4,
+        16.9,
+        16.9,
+        16.9,
+        16.9,
+        16.9,
+        16.833333333333332,
+        16.833333333333332,
+        16.7,
+        16.7,
+        16.666666666666668,
+        16.642857142857142,
+        16.583333333333336,
+        16.583333333333336,
+        16.5,
+        16.5,
+        16.5,
+        16.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 235852,
+    "lpBound": 16.5
+}

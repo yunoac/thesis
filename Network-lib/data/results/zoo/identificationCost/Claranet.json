@@ -1,0 +1,76 @@
+{
+    "originalCover": {
+        "runtime": 1859537,
+        "cycles": [
+            "0_Faro 1_Madrid 0_Faro 0_Faro",
+            "0_Faro 4_Barcelona 0_Faro 0_Faro",
+            "0_Faro 2_Porto 0_Faro 0_Faro",
+            "0_Faro 5_Manchester 0_Faro 0_Faro",
+            "0_Faro 1_Madrid 12_Paris 0_Faro",
+            "0_Faro 6_New_York 0_Faro 0_Faro",
+            "0_Faro 8_Eindhoven 0_Faro 0_Faro",
+            "0_Faro 7_Amsterdam 9_Berlin 0_Faro",
+            "0_Faro 9_Berlin 11_Munich 0_Faro",
+            "0_Faro 9_Berlin 7_Amsterdam 0_Faro",
+            "0_Faro 11_Munich 0_Faro 0_Faro",
+            "0_Faro 9_Berlin 4_Barcelona 0_Faro",
+            "0_Faro 11_Munich 9_Berlin 0_Faro",
+            "0_Faro 4_Barcelona 9_Berlin 0_Faro",
+            "0_Faro 13_Rennes 0_Faro 0_Faro"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        7,
+        7,
+        7,
+        5,
+        7,
+        7,
+        7,
+        5
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        7,
+        7,
+        7,
+        5,
+        7,
+        5
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Faro 1_Madrid 0_Faro 0_Faro",
+            "0_Faro 4_Barcelona 0_Faro 0_Faro",
+            "0_Faro 2_Porto 0_Faro 0_Faro",
+            "0_Faro 5_Manchester 0_Faro 0_Faro",
+            "0_Faro 1_Madrid 9_Berlin 0_Faro",
+            "0_Faro 6_New_York 0_Faro 0_Faro",
+            "0_Faro 8_Eindhoven 0_Faro 0_Faro",
+            "0_Faro 7_Amsterdam 4_Barcelona 0_Faro",
+            "0_Faro 9_Berlin 11_Munich 0_Faro",
+            "0_Faro 4_Barcelona 7_Amsterdam 0_Faro",
+            "0_Faro 11_Munich 0_Faro 0_Faro",
+            "0_Faro 11_Munich 9_Berlin 0_Faro",
+            "0_Faro 13_Rennes 0_Faro 0_Faro"
+        ],
+        "source": 0,
+        "runetime": 1643347,
+        "maxSeg": 4
+    }
+}

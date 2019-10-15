@@ -1,0 +1,114 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        998847,
+        1343378,
+        1660574,
+        1965457,
+        2284623,
+        2592583,
+        2891831,
+        3202017,
+        3537933,
+        3854819,
+        4169920
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 1_Jeju 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 3_Busan 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 4_Changwon 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 5_Seoul 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 6_Incheon 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 7_Suwon 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 8_Cheonan 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 9_Ochang 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 11_Pohang 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 12_Daegu 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 3_Busan 1_Jeju 3_Busan 1_Jeju 3_Busan 1_Jeju 3_Busan 1_Jeju 0_Jeonju"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Jeonju 6_Incheon 4_Changwon 6_Incheon 4_Changwon 6_Incheon 4_Changwon 6_Incheon 4_Changwon 0_Jeonju"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Jeonju 8_Cheonan 7_Suwon 8_Cheonan 7_Suwon 8_Cheonan 7_Suwon 8_Cheonan 7_Suwon 0_Jeonju"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Jeonju 11_Pohang 9_Ochang 11_Pohang 9_Ochang 11_Pohang 9_Ochang 11_Pohang 9_Ochang 0_Jeonju"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Jeonju 12_Daegu 3_Busan 12_Daegu 3_Busan 12_Daegu 3_Busan 12_Daegu 3_Busan 0_Jeonju"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Jeonju 6_Incheon 1_Jeju 6_Incheon 1_Jeju 6_Incheon 1_Jeju 6_Incheon 1_Jeju 0_Jeonju"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Jeonju 4_Changwon 1_Jeju 4_Changwon 1_Jeju 4_Changwon 1_Jeju 4_Changwon 1_Jeju 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 11_Pohang 8_Cheonan 11_Pohang 8_Cheonan 11_Pohang 8_Cheonan 11_Pohang 8_Cheonan 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 9_Ochang 8_Cheonan 9_Ochang 8_Cheonan 9_Ochang 8_Cheonan 9_Ochang 8_Cheonan 0_Jeonju"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Jeonju 12_Daegu 1_Jeju 12_Daegu 1_Jeju 12_Daegu 1_Jeju 12_Daegu 1_Jeju 0_Jeonju"
+        }
+    ],
+    "values": [
+        9,
+        7.25,
+        5.5,
+        3.75,
+        2,
+        1.25,
+        1.25,
+        1.125,
+        1.125,
+        1.125,
+        1.125
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 61766,
+    "lpBound": 1.125
+}

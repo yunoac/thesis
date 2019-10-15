@@ -1,0 +1,40 @@
+{
+    "originalCover": {
+        "runtime": 377274,
+        "cycles": [
+            "3_PPU 7_GEANT 3_PPU",
+            "3_PPU 10_BZU 3_PPU",
+            "3_PPU 12_QOU 3_PPU",
+            "3_PPU 13_AQU 3_PPU",
+            "3_PPU 14_BU 3_PPU"
+        ],
+        "source": 0,
+        "maxSeg": 3
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "newCover": {
+        "cycles": [
+            "3_PPU 7_GEANT 3_PPU",
+            "3_PPU 10_BZU 3_PPU",
+            "3_PPU 12_QOU 3_PPU",
+            "3_PPU 13_AQU 3_PPU",
+            "3_PPU 14_BU 3_PPU"
+        ],
+        "source": 0,
+        "runetime": 242283,
+        "maxSeg": 3
+    }
+}

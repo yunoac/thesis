@@ -1,0 +1,52 @@
+{
+    "initialCoverSize": 9,
+    "times": [
+        1314500,
+        1930365
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_London 3_None,0_London 0_London"
+        },
+        {
+            "x": 0,
+            "cycle": "0_London 1_Southport 0_London 0_London"
+        },
+        {
+            "x": 0,
+            "cycle": "0_London 5_Peterborough 0_London 0_London"
+        },
+        {
+            "x": 1,
+            "cycle": "0_London 1_Southport 5_Peterborough 0_London"
+        },
+        {
+            "x": 0,
+            "cycle": "0_London 2_None 0_London 0_London"
+        },
+        {
+            "x": 0,
+            "cycle": "0_London 7_Sheffield 0_London 0_London"
+        },
+        {
+            "x": 0,
+            "cycle": "0_London 9_Bracewell 0_London 0_London"
+        },
+        {
+            "x": 1,
+            "cycle": "0_London 5_Peterborough 1_Southport 0_London"
+        },
+        {
+            "x": 1,
+            "cycle": "0_London 3_None 2_None 0_London"
+        }
+    ],
+    "values": [
+        4,
+        3
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 77326,
+    "lpBound": 3
+}

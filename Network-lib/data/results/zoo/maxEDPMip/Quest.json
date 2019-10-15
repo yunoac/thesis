@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Korea",
+            "nbpSR": 2,
+            "runtime": 76711636,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 2,
+            "runtime": 81041365,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 73280683,
+            "dest": "9_Philippines_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 2,
+            "runtime": 67759105,
+            "dest": "19_Perth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Hong_Kong",
+            "nbpSR": 2,
+            "runtime": 59324036,
+            "dest": "0_Auckland_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Sydney_2",
+            "nbpSR": 2,
+            "runtime": 102621113,
+            "dest": "19_Perth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Perth",
+            "nbpSR": 2,
+            "runtime": 97138239,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Guam",
+            "nbpSR": 2,
+            "runtime": 79216930,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 3,
+            "runtime": 110680760,
+            "dest": "4_Sacramento",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 2,
+            "runtime": 116839529,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 2,
+            "runtime": 60947425,
+            "dest": "11_Sydney_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Perth",
+            "nbpSR": 1,
+            "runtime": 74997553,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Sydney_2",
+            "nbpSR": 2,
+            "runtime": 76021519,
+            "dest": "9_Philippines_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 2,
+            "runtime": 63353734,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Taiwan",
+            "nbpSR": 3,
+            "runtime": 64073571,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 1,
+            "runtime": 44626241,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 77609538,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 49194477,
+            "dest": "4_Sacramento",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Melbourne",
+            "nbpSR": 2,
+            "runtime": 50236114,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 1,
+            "runtime": 51783231,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Auckland_2",
+            "nbpSR": 2,
+            "runtime": 70207807,
+            "dest": "14_Guam",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 3,
+            "runtime": 51002159,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "16_Hong_Kong",
+            "nbpSR": 2,
+            "runtime": 55490965,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 91130165,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Hawaii_1",
+            "nbpSR": 2,
+            "runtime": 53960067,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 49953572,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 2,
+            "runtime": 79300260,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Hawaii_1",
+            "nbpSR": 5,
+            "runtime": 59394208,
+            "dest": "14_Guam",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 2,
+            "runtime": 61834362,
+            "dest": "11_Sydney_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 3,
+            "runtime": 57277763,
+            "dest": "14_Guam",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Guam",
+            "nbpSR": 4,
+            "runtime": 71478160,
+            "dest": "2_Sydney_1",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "10_Melbourne",
+            "nbpSR": 2,
+            "runtime": 61306344,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 67993296,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "12_Korea",
+            "nbpSR": 1,
+            "runtime": 95324030,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 3,
+            "runtime": 43452391,
+            "dest": "9_Philippines_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 40750991,
+            "dest": "11_Sydney_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 60880313,
+            "dest": "3_Auckland_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 65853099,
+            "dest": "4_Sacramento",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 38054068,
+            "dest": "13_Japan",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 4,
+            "runtime": 30742195,
+            "dest": "13_Japan",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 4,
+            "runtime": 48323926,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 2,
+            "runtime": 76661340,
+            "dest": "0_Auckland_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Singapore/Malaysia",
+            "nbpSR": 2,
+            "runtime": 48789044,
+            "dest": "19_Perth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Korea",
+            "nbpSR": 2,
+            "runtime": 70645213,
+            "dest": "13_Japan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 40991522,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 66872713,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Japan",
+            "nbpSR": 3,
+            "runtime": 37496008,
+            "dest": "9_Philippines_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 3,
+            "runtime": 37959289,
+            "dest": "9_Philippines_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 3,
+            "runtime": 36255992,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 61213008,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 3,
+            "runtime": 31703272,
+            "dest": "2_Sydney_1",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "16_Hong_Kong",
+            "nbpSR": 3,
+            "runtime": 52170490,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 2,
+            "runtime": 61021196,
+            "dest": "0_Auckland_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 2,
+            "runtime": 48950921,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 62969349,
+            "dest": "6_Hawaii_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Hawaii_1",
+            "nbpSR": 3,
+            "runtime": 46724136,
+            "dest": "8_Taiwan",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 39125391,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_Melbourne",
+            "nbpSR": 2,
+            "runtime": 65815892,
+            "dest": "4_Sacramento",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 68978993,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Singapore/Malaysia",
+            "nbpSR": 2,
+            "runtime": 43677447,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Japan",
+            "nbpSR": 2,
+            "runtime": 41610108,
+            "dest": "10_Melbourne",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Hong_Kong",
+            "nbpSR": 2,
+            "runtime": 43344176,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Korea",
+            "nbpSR": 2,
+            "runtime": 39151671,
+            "dest": "8_Taiwan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 42849229,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 62100543,
+            "dest": "4_Sacramento",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 4,
+            "runtime": 38721339,
+            "dest": "6_Hawaii_1",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "0_Auckland_2",
+            "nbpSR": 2,
+            "runtime": 54215323,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 2,
+            "runtime": 47109883,
+            "dest": "1_Fiji",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 39365247,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Japan",
+            "nbpSR": 5,
+            "runtime": 35252638,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 2,
+            "runtime": 34236535,
+            "dest": "11_Sydney_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Perth",
+            "nbpSR": 2,
+            "runtime": 41841755,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 3,
+            "runtime": 41134180,
+            "dest": "8_Taiwan",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 3,
+            "runtime": 60691566,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Guam",
+            "nbpSR": 1,
+            "runtime": 36246295,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Korea",
+            "nbpSR": 2,
+            "runtime": 71137961,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Auckland_1",
+            "nbpSR": 2,
+            "runtime": 59296981,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 80472280,
+            "dest": "0_Auckland_2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 3,
+            "runtime": 98962103,
+            "dest": "17_Singapore/Malaysia",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "13_Japan",
+            "nbpSR": 4,
+            "runtime": 38146646,
+            "dest": "2_Sydney_1",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "13_Japan",
+            "nbpSR": 5,
+            "runtime": 33055138,
+            "dest": "6_Hawaii_1",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "18_Thailand",
+            "nbpSR": 1,
+            "runtime": 54857227,
+            "dest": "3_Auckland_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Perth",
+            "nbpSR": 2,
+            "runtime": 68618256,
+            "dest": "8_Taiwan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 45587786,
+            "dest": "19_Perth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Auckland_2",
+            "nbpSR": 2,
+            "runtime": 76701333,
+            "dest": "1_Fiji",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Philippines_1",
+            "nbpSR": 1,
+            "runtime": 74235683,
+            "dest": "18_Thailand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Fiji",
+            "nbpSR": 2,
+            "runtime": 91293618,
+            "dest": "12_Korea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 85138905,
+            "dest": "14_Guam",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Taiwan",
+            "nbpSR": 3,
+            "runtime": 97287610,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Guam",
+            "nbpSR": 5,
+            "runtime": 47073569,
+            "dest": "13_Japan",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "2_Sydney_1",
+            "nbpSR": 4,
+            "runtime": 51444667,
+            "dest": "16_Hong_Kong",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "18_Thailand",
+            "nbpSR": 1,
+            "runtime": 39530603,
+            "dest": "6_Hawaii_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Perth",
+            "nbpSR": 2,
+            "runtime": 56078160,
+            "dest": "15_Philippines_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 3,
+            "runtime": 76598882,
+            "dest": "2_Sydney_1",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 36739851,
+            "dest": "6_Hawaii_1",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "18_Thailand",
+            "nbpSR": 1,
+            "runtime": 40395595,
+            "dest": "1_Fiji",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Sacramento",
+            "nbpSR": 3,
+            "runtime": 66503397,
+            "dest": "7_Hawaii_2",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Hawaii_2",
+            "nbpSR": 2,
+            "runtime": 79103303,
+            "dest": "3_Auckland_1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Korea",
+            "nbpSR": 2,
+            "runtime": 84535287,
+            "dest": "5_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Philippines_2",
+            "nbpSR": 3,
+            "runtime": 48256520,
+            "dest": "2_Sydney_1",
+            "nbpFlow": 3
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

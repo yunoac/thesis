@@ -1,0 +1,19 @@
+{
+    "nbCycles": 11,
+    "runtime": 3957699,
+    "cycles": [
+        "10_Adelaide,7_Geelong 1_Moree 7_Geelong,10_Adelaide 10_Adelaide",
+        "10_Adelaide,7_Geelong 0_Dubbo 5_Newcastle 7_Geelong,10_Adelaide",
+        "10_Adelaide,7_Geelong 5_Newcastle 0_Dubbo 7_Geelong,10_Adelaide",
+        "10_Adelaide,7_Geelong 0_Dubbo 4_Albury 7_Geelong,10_Adelaide",
+        "10_Adelaide,7_Geelong 4_Albury 0_Dubbo 7_Geelong,10_Adelaide",
+        "10_Adelaide,7_Geelong 7_Geelong,10_Adelaide 9_Perth,10_Adelaide",
+        "10_Adelaide 10_Adelaide,7_Geelong 0_Dubbo 7_Geelong,10_Adelaide",
+        "10_Adelaide,9_Perth 15_Kalgoorlie,9_Perth 9_Perth 10_Adelaide",
+        "10_Adelaide 16_Port_Augusta,10_Adelaide 9_Perth 9_Perth 10_Adelaide",
+        "10_Adelaide,9_Perth 15_Kalgoorlie 16_Port_Augusta,10_Adelaide 10_Adelaide",
+        "10_Adelaide,16_Port_Augusta 15_Kalgoorlie,9_Perth 9_Perth 10_Adelaide"
+    ],
+    "segmentCost": 6,
+    "source": "10_Adelaide"
+}

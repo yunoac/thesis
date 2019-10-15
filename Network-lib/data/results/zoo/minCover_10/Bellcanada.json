@@ -1,0 +1,820 @@
+{
+    "initialCoverSize": 151,
+    "times": [
+        2588537,
+        10272627,
+        17480745,
+        25071384,
+        33648080,
+        41218802,
+        48571609,
+        56106779,
+        65481603,
+        72691058,
+        80317420,
+        87647109,
+        95086203,
+        102512771,
+        109831691,
+        117506105,
+        124680467,
+        134352842,
+        142131222,
+        149380868,
+        156631391,
+        164299931,
+        171842417,
+        179440146,
+        187817236,
+        195199805,
+        202455606,
+        209890111,
+        217455456,
+        225349586,
+        233134576,
+        241822784,
+        249331103,
+        256650675,
+        263947863,
+        271795019,
+        279188625,
+        289400900,
+        296887270,
+        304185250,
+        311663568,
+        319291211,
+        327578506,
+        335637882,
+        344967282,
+        352612991,
+        360387750,
+        367904423,
+        375832967,
+        383512256,
+        391258921,
+        398968642,
+        406633493,
+        414273563,
+        422625733,
+        430536484,
+        439229388,
+        448003203,
+        455757737,
+        463537340,
+        471286246,
+        479051220,
+        486817163,
+        494757787,
+        502623211,
+        510368811,
+        518245711,
+        527931120,
+        537593261,
+        547157483,
+        555559564,
+        563509728,
+        571297662,
+        579448437,
+        588066648,
+        598729787,
+        606815816,
+        615008021,
+        622772980,
+        630790984,
+        638956920,
+        646963257,
+        655108834,
+        663261289,
+        670996254,
+        678872333,
+        687081272,
+        695815154,
+        708992825,
+        718496253,
+        726504017,
+        734297132,
+        742563183,
+        753243262,
+        761509752,
+        769418584,
+        776613314,
+        784614078,
+        792007523,
+        801234850,
+        809848462,
+        818376808
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 1_Grande_Prairie 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 3_Fort_McMurray 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 4_Kamloops 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 7_Prince_George 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 8_Kelowna,5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 1_Grande_Prairie 7_Prince_George 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 4_Kamloops 6_Dawson_Creek 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 9_Penticton? 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 26_Lethbridge 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 8_Kelowna 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 11_Charlottetown 22_Halifax 11_Charlottetown 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 4_Kamloops 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 28_Buffalo 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 15_Sherbrooke 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 15_Sherbrooke,16_Quebec_City 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 15_Sherbrooke,16_Quebec_City 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 16_Quebec_City,15_Sherbrooke 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 16_Quebec_City,15_Sherbrooke 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 11_Charlottetown 20_Saint_John 11_Charlottetown 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 22_Halifax 11_Charlottetown 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 23_Fredericton 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 24_St_John's 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 5_Vernon 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 4_Kamloops 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 38_Medicine_Hat 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 28_Buffalo 8_Kelowna,5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 43_Sudbury 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 32_Courtenay 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 10_Sept_-Iles 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 30_Victoria 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 37_San_Francisco 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 4_Kamloops 26_Lethbridge 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 36_Palo_Alto 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 10_Sept_-Iles 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 37_San_Francisco 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 37_San_Francisco 36_Palo_Alto 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 47_Regina 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 4_Kamloops 41_Atlanta 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 34_Chicago 31_Seattle 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 43_Sudbury 10_Sept_-Iles 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 47_Regina 0_Cold_Lake 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 38_Medicine_Hat 0_Cold_Lake 0_Cold_Lake"
+        },
+        {
+            "x": 0.23333333333333334,
+            "cycle": "0_Cold_Lake 43_Sudbury 36_Palo_Alto 43_Sudbury 36_Palo_Alto 43_Sudbury 36_Palo_Alto 43_Sudbury 36_Palo_Alto 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 43_Sudbury 9_Penticton? 43_Sudbury 9_Penticton? 43_Sudbury 9_Penticton? 43_Sudbury 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 32_Courtenay 41_Atlanta 32_Courtenay 41_Atlanta 32_Courtenay 41_Atlanta 32_Courtenay 41_Atlanta 0_Cold_Lake"
+        },
+        {
+            "x": 0.06290751642397081,
+            "cycle": "0_Cold_Lake 5_Vernon 6_Dawson_Creek 5_Vernon 6_Dawson_Creek 5_Vernon 6_Dawson_Creek 5_Vernon 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 26_Lethbridge 10_Sept_-Iles 26_Lethbridge 10_Sept_-Iles 26_Lethbridge 30_Victoria 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0.07534176394756731,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 30_Victoria 9_Penticton? 30_Victoria 9_Penticton? 30_Victoria 9_Penticton? 30_Victoria 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 42_Dallas 6_Dawson_Creek 42_Dallas 6_Dawson_Creek 42_Dallas 6_Dawson_Creek 42_Dallas 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 11_Charlottetown 22_Halifax 23_Fredericton 24_St_John's 23_Fredericton 24_St_John's 23_Fredericton 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 3_Fort_McMurray 24_St_John's 3_Fort_McMurray 24_St_John's 3_Fort_McMurray 24_St_John's 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 36_Palo_Alto 37_San_Francisco 36_Palo_Alto 37_San_Francisco 36_Palo_Alto 34_Chicago 23_Fredericton 0_Cold_Lake"
+        },
+        {
+            "x": 0.0743714569616905,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 39_Red_Deer 36_Palo_Alto 39_Red_Deer 36_Palo_Alto 39_Red_Deer 36_Palo_Alto 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 38_Medicine_Hat 41_Atlanta 1_Grande_Prairie 38_Medicine_Hat 41_Atlanta 42_Dallas 30_Victoria 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 37_San_Francisco 39_Red_Deer 7_Prince_George 37_San_Francisco 39_Red_Deer 7_Prince_George 37_San_Francisco 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0.04637385890039821,
+            "cycle": "0_Cold_Lake 38_Medicine_Hat 5_Vernon 38_Medicine_Hat 5_Vernon 38_Medicine_Hat 5_Vernon 6_Dawson_Creek 39_Red_Deer 0_Cold_Lake"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Cold_Lake 15_Sherbrooke,16_Quebec_City 16_Quebec_City,15_Sherbrooke 15_Sherbrooke,16_Quebec_City 16_Quebec_City,15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Cold_Lake 15_Sherbrooke,16_Quebec_City 16_Quebec_City,15_Sherbrooke 15_Sherbrooke,16_Quebec_City 16_Quebec_City,15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 24_St_John's 28_Buffalo 24_St_John's 28_Buffalo 24_St_John's 28_Buffalo 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 20_Saint_John 24_St_John's 30_Victoria 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 8_Kelowna 28_Buffalo 6_Dawson_Creek 5_Vernon 8_Kelowna 36_Palo_Alto 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 37_San_Francisco 36_Palo_Alto 6_Dawson_Creek 47_Regina 37_San_Francisco 36_Palo_Alto 6_Dawson_Creek 47_Regina 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 37_San_Francisco 8_Kelowna 36_Palo_Alto 37_San_Francisco 8_Kelowna 36_Palo_Alto 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 43_Sudbury 26_Lethbridge 23_Fredericton 22_Halifax 11_Charlottetown 43_Sudbury 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 37_San_Francisco 47_Regina 6_Dawson_Creek 37_San_Francisco 47_Regina 6_Dawson_Creek 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0.0699198281470044,
+            "cycle": "0_Cold_Lake 26_Lethbridge 23_Fredericton 10_Sept_-Iles 23_Fredericton 10_Sept_-Iles 23_Fredericton 10_Sept_-Iles 23_Fredericton 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 39_Red_Deer 28_Buffalo 39_Red_Deer 28_Buffalo 39_Red_Deer 28_Buffalo 39_Red_Deer 28_Buffalo 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 8_Kelowna 43_Sudbury 10_Sept_-Iles 8_Kelowna 10_Sept_-Iles 8_Kelowna 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.06737205744636741,
+            "cycle": "0_Cold_Lake 26_Lethbridge 3_Fort_McMurray 26_Lethbridge 3_Fort_McMurray 26_Lethbridge 3_Fort_McMurray 26_Lethbridge 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 32_Courtenay 9_Penticton? 5_Vernon 42_Dallas 32_Courtenay 9_Penticton? 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 32_Courtenay 39_Red_Deer 32_Courtenay 39_Red_Deer 32_Courtenay 39_Red_Deer 32_Courtenay 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 36_Palo_Alto 16_Quebec_City,15_Sherbrooke 30_Victoria 36_Palo_Alto 16_Quebec_City,15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 15_Sherbrooke 9_Penticton? 15_Sherbrooke 9_Penticton? 15_Sherbrooke 9_Penticton? 15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 34_Chicago 9_Penticton? 36_Palo_Alto 34_Chicago 9_Penticton? 36_Palo_Alto 41_Atlanta 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 15_Sherbrooke,16_Quebec_City 3_Fort_McMurray 30_Victoria 36_Palo_Alto 15_Sherbrooke,16_Quebec_City 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 28_Buffalo 9_Penticton? 16_Quebec_City,15_Sherbrooke 9_Penticton? 23_Fredericton 22_Halifax 11_Charlottetown 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 32_Courtenay 15_Sherbrooke,16_Quebec_City 9_Penticton? 32_Courtenay 29_Toronto 15_Sherbrooke,16_Quebec_City 0_Cold_Lake"
+        },
+        {
+            "x": 0.06666666666666665,
+            "cycle": "0_Cold_Lake 43_Sudbury 6_Dawson_Creek 43_Sudbury 6_Dawson_Creek 43_Sudbury 6_Dawson_Creek 43_Sudbury 36_Palo_Alto 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 20_Saint_John 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 24_St_John's 41_Atlanta 23_Fredericton 24_St_John's 41_Atlanta 23_Fredericton 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 22_Halifax 11_Charlottetown 41_Atlanta 24_St_John's 22_Halifax 11_Charlottetown 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 9_Penticton? 43_Sudbury 24_St_John's 26_Lethbridge 43_Sudbury 24_St_John's 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 32_Courtenay 29_Toronto 32_Courtenay 29_Toronto 32_Courtenay 28_Buffalo 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 47_Regina 32_Courtenay 42_Dallas 5_Vernon 47_Regina 32_Courtenay 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 28_Buffalo 42_Dallas 12_New_York 44_Thunder_Bay 12_New_York 44_Thunder_Bay 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 44_Thunder_Bay 41_Atlanta 44_Thunder_Bay 41_Atlanta 44_Thunder_Bay 41_Atlanta 44_Thunder_Bay 41_Atlanta 0_Cold_Lake"
+        },
+        {
+            "x": 0.11177646957901724,
+            "cycle": "0_Cold_Lake 37_San_Francisco 36_Palo_Alto 43_Sudbury 39_Red_Deer 37_San_Francisco 36_Palo_Alto 43_Sudbury 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.021546408887173164,
+            "cycle": "0_Cold_Lake 24_St_John's 10_Sept_-Iles 24_St_John's 10_Sept_-Iles 24_St_John's 10_Sept_-Iles 24_St_John's 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 0_Cold_Lake"
+        },
+        {
+            "x": 0.09035592120783204,
+            "cycle": "0_Cold_Lake 37_San_Francisco 30_Victoria 37_San_Francisco 30_Victoria 37_San_Francisco 30_Victoria 37_San_Francisco 30_Victoria 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 22_Halifax 11_Charlottetown 20_Saint_John 23_Fredericton 22_Halifax 11_Charlottetown 32_Courtenay 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 30_Victoria 47_Regina 5_Vernon 9_Penticton? 10_Sept_-Iles 30_Victoria 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 47_Regina 5_Vernon 43_Sudbury 9_Penticton? 37_San_Francisco 36_Palo_Alto 47_Regina 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 9_Penticton? 5_Vernon 9_Penticton? 5_Vernon 9_Penticton? 5_Vernon 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 36_Palo_Alto 43_Sudbury 41_Atlanta 9_Penticton? 36_Palo_Alto 43_Sudbury 41_Atlanta 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 26_Lethbridge 3_Fort_McMurray 41_Atlanta 26_Lethbridge 3_Fort_McMurray 41_Atlanta 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0.01860839761140541,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 6_Dawson_Creek 32_Courtenay 36_Palo_Alto 6_Dawson_Creek 36_Palo_Alto 6_Dawson_Creek 36_Palo_Alto 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 15_Sherbrooke,16_Quebec_City 8_Kelowna 15_Sherbrooke,16_Quebec_City 8_Kelowna 15_Sherbrooke,16_Quebec_City 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 43_Sudbury 40_Washington 47_Regina 37_San_Francisco 6_Dawson_Creek 40_Washington 47_Regina 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 30_Victoria 42_Dallas 30_Victoria 42_Dallas 30_Victoria 42_Dallas 30_Victoria 0_Cold_Lake"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Cold_Lake 25_Onslow 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0.19349367703932452,
+            "cycle": "0_Cold_Lake 24_St_John's 23_Fredericton 9_Penticton? 24_St_John's 23_Fredericton 9_Penticton? 24_St_John's 23_Fredericton 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 43_Sudbury 41_Atlanta 43_Sudbury 41_Atlanta 43_Sudbury 41_Atlanta 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0.2588156869473219,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 36_Palo_Alto 37_San_Francisco 36_Palo_Alto 37_San_Francisco 36_Palo_Alto 37_San_Francisco 36_Palo_Alto 0_Cold_Lake"
+        },
+        {
+            "x": 0.19349367703932452,
+            "cycle": "0_Cold_Lake 23_Fredericton 24_St_John's 9_Penticton? 23_Fredericton 24_St_John's 9_Penticton? 23_Fredericton 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 23_Fredericton 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0.07756701986841762,
+            "cycle": "0_Cold_Lake 37_San_Francisco 6_Dawson_Creek 3_Fort_McMurray 37_San_Francisco 6_Dawson_Creek 3_Fort_McMurray 37_San_Francisco 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 34_Chicago 36_Palo_Alto 34_Chicago 36_Palo_Alto 34_Chicago 36_Palo_Alto 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0.09012971183884134,
+            "cycle": "0_Cold_Lake 3_Fort_McMurray 6_Dawson_Creek 3_Fort_McMurray 6_Dawson_Creek 3_Fort_McMurray 6_Dawson_Creek 3_Fort_McMurray 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0.1398396562940088,
+            "cycle": "0_Cold_Lake 23_Fredericton 24_St_John's 23_Fredericton 24_St_John's 23_Fredericton 24_St_John's 23_Fredericton 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 28_Buffalo 10_Sept_-Iles 43_Sudbury 6_Dawson_Creek 30_Victoria 28_Buffalo 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 28_Buffalo 6_Dawson_Creek 30_Victoria 10_Sept_-Iles 43_Sudbury 6_Dawson_Creek 30_Victoria 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 15_Sherbrooke,16_Quebec_City 44_Thunder_Bay 41_Atlanta 32_Courtenay 15_Sherbrooke,16_Quebec_City 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 16_Quebec_City,15_Sherbrooke 43_Sudbury 3_Fort_McMurray 26_Lethbridge 16_Quebec_City,15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 41_Atlanta 10_Sept_-Iles 3_Fort_McMurray 41_Atlanta 10_Sept_-Iles 3_Fort_McMurray 41_Atlanta 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 47_Regina 5_Vernon 47_Regina 36_Palo_Alto 43_Sudbury 26_Lethbridge 24_St_John's 38_Medicine_Hat 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 16_Quebec_City,15_Sherbrooke 3_Fort_McMurray 16_Quebec_City,15_Sherbrooke 3_Fort_McMurray 16_Quebec_City,15_Sherbrooke 0_Cold_Lake"
+        },
+        {
+            "x": 0.09021960582470134,
+            "cycle": "0_Cold_Lake 26_Lethbridge 5_Vernon 47_Regina 5_Vernon 47_Regina 5_Vernon 47_Regina 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.10532370174974552,
+            "cycle": "0_Cold_Lake 6_Dawson_Creek 32_Courtenay 6_Dawson_Creek 32_Courtenay 6_Dawson_Creek 32_Courtenay 6_Dawson_Creek 32_Courtenay 0_Cold_Lake"
+        },
+        {
+            "x": 0.17601372000257354,
+            "cycle": "0_Cold_Lake 26_Lethbridge 10_Sept_-Iles 32_Courtenay 10_Sept_-Iles 32_Courtenay 10_Sept_-Iles 32_Courtenay 10_Sept_-Iles 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 43_Sudbury 9_Penticton? 36_Palo_Alto 43_Sudbury 9_Penticton? 36_Palo_Alto 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 5_Vernon 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 40_Washington 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 26_Lethbridge 36_Palo_Alto 30_Victoria 3_Fort_McMurray 26_Lethbridge 36_Palo_Alto 29_Toronto 30_Victoria 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 43_Sudbury 24_St_John's 44_Thunder_Bay 24_St_John's 44_Thunder_Bay 24_St_John's 44_Thunder_Bay 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 43_Sudbury 40_Washington 47_Regina 36_Palo_Alto 34_Chicago 40_Washington 47_Regina 32_Courtenay 0_Cold_Lake"
+        },
+        {
+            "x": 0.009809398240484638,
+            "cycle": "0_Cold_Lake 26_Lethbridge 37_San_Francisco 3_Fort_McMurray 26_Lethbridge 37_San_Francisco 3_Fort_McMurray 26_Lethbridge 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 32_Courtenay 37_San_Francisco 39_Red_Deer 6_Dawson_Creek 32_Courtenay 37_San_Francisco 9_Penticton? 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.045531154908366546,
+            "cycle": "0_Cold_Lake 5_Vernon 26_Lethbridge 3_Fort_McMurray 5_Vernon 26_Lethbridge 3_Fort_McMurray 5_Vernon 26_Lethbridge 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 9_Penticton? 5_Vernon 6_Dawson_Creek 39_Red_Deer 36_Palo_Alto 9_Penticton? 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.07644706084196533,
+            "cycle": "0_Cold_Lake 37_San_Francisco 47_Regina 30_Victoria 47_Regina 37_San_Francisco 47_Regina 36_Palo_Alto 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0.09114133937868892,
+            "cycle": "0_Cold_Lake 30_Victoria 36_Palo_Alto 37_San_Francisco 6_Dawson_Creek 39_Red_Deer 30_Victoria 36_Palo_Alto 37_San_Francisco 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 32_Courtenay 9_Penticton? 43_Sudbury 3_Fort_McMurray 32_Courtenay 9_Penticton? 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0.020635130200328325,
+            "cycle": "0_Cold_Lake 36_Palo_Alto 37_San_Francisco 32_Courtenay 3_Fort_McMurray 36_Palo_Alto 37_San_Francisco 32_Courtenay 3_Fort_McMurray 0_Cold_Lake"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Cold_Lake 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0.034632447380147306,
+            "cycle": "0_Cold_Lake 26_Lethbridge 36_Palo_Alto 30_Victoria 6_Dawson_Creek 39_Red_Deer 36_Palo_Alto 30_Victoria 6_Dawson_Creek 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 10_Sept_-Iles 24_St_John's 20_Saint_John 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Cold_Lake 43_Sudbury 5_Vernon 47_Regina 40_Washington 47_Regina 40_Washington 47_Regina 5_Vernon 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 24_St_John's 20_Saint_John 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 22_Halifax 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 11_Charlottetown 43_Sudbury 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 23_Fredericton 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 22_Halifax 11_Charlottetown 24_St_John's 0_Cold_Lake"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cold_Lake 30_Victoria 24_St_John's 22_Halifax 11_Charlottetown 20_Saint_John 11_Charlottetown 20_Saint_John 24_St_John's 0_Cold_Lake"
+        }
+    ],
+    "values": [
+        31,
+        28,
+        22.333333333333332,
+        20.333333333333332,
+        19.333333333333332,
+        17.25,
+        16.055555555555557,
+        15.41666666666667,
+        15.250000000000004,
+        14.16666666666667,
+        13.722222222222225,
+        13.16666666666667,
+        12.25,
+        11.416666666666668,
+        10.462962962962962,
+        8.962962962962964,
+        7.462962962962964,
+        6.861111111111112,
+        6.7636752136752145,
+        6.048611111111111,
+        5.965277777777777,
+        5.829282407407407,
+        5.787117719379131,
+        5.608590351917753,
+        5.493409207818929,
+        5.4409722222222205,
+        5.415535563973064,
+        5.291901730423786,
+        5.256847183317772,
+        5.248920086485614,
+        5.230464662610525,
+        5.2275289660455595,
+        5.227446026768798,
+        5.2258385747960245,
+        5.2077928783948515,
+        5.192139529359375,
+        5.174612696912117,
+        5.154170330620293,
+        5.154170330620292,
+        5.15417033062029,
+        5.145535670522438,
+        5.138695140330133,
+        5.127361714981735,
+        5.080149584154218,
+        5.057828085962366,
+        5.051418941251433,
+        5.031372454686371,
+        5.028130586679925,
+        5.002086316716911,
+        4.997136799643269,
+        4.986863977463608,
+        4.970784576611523,
+        4.964788298560683,
+        4.958892901229852,
+        4.942100918258138,
+        4.935592943066972,
+        4.931448010382068,
+        4.931448010382068,
+        4.9289748852537985,
+        4.928939126144478,
+        4.9251909024241876,
+        4.911147756639955,
+        4.906241701126459,
+        4.895565020448686,
+        4.870376201892105,
+        4.860356308916512,
+        4.826471602013998,
+        4.818683117144218,
+        4.805462855076701,
+        4.794841003220854,
+        4.794841003220854,
+        4.793264147915157,
+        4.792022057541326,
+        4.780815130755772,
+        4.7766836395230605,
+        4.77640659891937,
+        4.77640659891937,
+        4.768355121730091,
+        4.7637491085360955,
+        4.759898096029708,
+        4.752678571428572,
+        4.750074787244213,
+        4.749336222495442,
+        4.749209401307927,
+        4.7457167337768595,
+        4.744795015528952,
+        4.7436809951057315,
+        4.742119183513085,
+        4.739980882864096,
+        4.739285714285715,
+        4.737543367461179,
+        4.735772794937883,
+        4.735772794937884,
+        4.734328362989022,
+        4.72108289921743,
+        4.720833333333334,
+        4.720833333333332,
+        4.708333333333332,
+        4.708333333333334,
+        4.708333333333332,
+        4.708333333333334,
+        4.708333333333333
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 882994,
+    "lpBound": 4.708333333333333
+}

@@ -1,0 +1,108 @@
+{
+    "initialCoverSize": 18,
+    "times": [
+        2899824,
+        3373314,
+        3686945,
+        3980170,
+        4175166,
+        4321807,
+        4487508,
+        4650489,
+        4812739,
+        4997563,
+        5158891,
+        5455778
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_San_Jose,0_Seattle 1_San_Jose 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose,0_Seattle 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 2_Minneapolis 0_Seattle 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 4_Vienna,1_San_Jose 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 2_Minneapolis 4_Vienna,1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 5_Dallas 0_Seattle 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose,4_Vienna 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0.2,
+            "cycle": "1_San_Jose 5_Dallas 4_Vienna 5_Dallas 4_Vienna 5_Dallas 4_Vienna 5_Dallas 4_Vienna 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose"
+        },
+        {
+            "x": 0.18888888888888888,
+            "cycle": "1_San_Jose 2_Minneapolis 0_Seattle 2_Minneapolis 0_Seattle 2_Minneapolis 0_Seattle 2_Minneapolis 0_Seattle 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 2_Minneapolis 1_San_Jose 2_Minneapolis 1_San_Jose 2_Minneapolis 1_San_Jose 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 4_Vienna 1_San_Jose 4_Vienna 1_San_Jose 4_Vienna 1_San_Jose 4_Vienna 1_San_Jose"
+        },
+        {
+            "x": 0.1444444444444444,
+            "cycle": "1_San_Jose 0_Seattle 2_Minneapolis 1_San_Jose 0_Seattle 2_Minneapolis 1_San_Jose 0_Seattle 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0.1333333333333334,
+            "cycle": "1_San_Jose 4_Vienna 2_Minneapolis 1_San_Jose 4_Vienna 2_Minneapolis 1_San_Jose 4_Vienna 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0.1888888888888889,
+            "cycle": "1_San_Jose 2_Minneapolis 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose 0_Seattle 1_San_Jose"
+        },
+        {
+            "x": 0,
+            "cycle": "1_San_Jose 2_Minneapolis 4_Vienna 1_San_Jose 2_Minneapolis 1_San_Jose 2_Minneapolis 1_San_Jose 2_Minneapolis 1_San_Jose"
+        },
+        {
+            "x": 0.05555555555555556,
+            "cycle": "1_San_Jose 5_Dallas 1_San_Jose 5_Dallas 1_San_Jose 5_Dallas 0_Seattle 1_San_Jose 5_Dallas 1_San_Jose"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "1_San_Jose 4_Vienna 1_San_Jose 4_Vienna 1_San_Jose 4_Vienna 1_San_Jose 5_Dallas 4_Vienna 1_San_Jose"
+        }
+    ],
+    "values": [
+        4,
+        3.25,
+        3.25,
+        2.4375,
+        2.020833333333333,
+        1.4166666666666665,
+        1.2916666666666665,
+        1.1666666666666665,
+        1.1416666666666668,
+        1.1416666666666666,
+        1.1303763440860215,
+        1.1111111111111112
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 35892,
+    "lpBound": 1.1111111111111112
+}

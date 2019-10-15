@@ -1,0 +1,66 @@
+{
+    "initialCoverSize": 12,
+    "times": [
+        1110117,
+        1493539,
+        1861794
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 1_Jon_Von_Neumann_Center,_Princeton,_NJ 0_SEQSUINET,_Rice_University,_Houston 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 3_Pittsburgh_Supercomputer_Center 0_SEQSUINET,_Rice_University,_Houston 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 5_NorthWestNet,_Seattle 0_SEQSUINET,_Rice_University,_Houston 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 4_Cornell_Theory_Center,_Ithaca_NY 0_SEQSUINET,_Rice_University,_Houston 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 1_Jon_Von_Neumann_Center,_Princeton,_NJ 3_Pittsburgh_Supercomputer_Center 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 5_NorthWestNet,_Seattle 8_Westnet,_Salt_Lake_City 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 5_NorthWestNet,_Seattle 1_Jon_Von_Neumann_Center,_Princeton,_NJ 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 8_Westnet,_Salt_Lake_City 5_NorthWestNet,_Seattle 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 10_MIDnet,_Lincoln,_NE 0_SEQSUINET,_Rice_University,_Houston 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 1_Jon_Von_Neumann_Center,_Princeton,_NJ 5_NorthWestNet,_Seattle 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 10_MIDnet,_Lincoln,_NE 6_BARRnet,_Palo_Alto 0_SEQSUINET,_Rice_University,_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SEQSUINET,_Rice_University,_Houston 6_BARRnet,_Palo_Alto 10_MIDnet,_Lincoln,_NE 0_SEQSUINET,_Rice_University,_Houston"
+        }
+    ],
+    "values": [
+        6,
+        5,
+        5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 73064,
+    "lpBound": 5
+}

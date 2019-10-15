@@ -1,0 +1,86 @@
+{
+    "initialCoverSize": 14,
+    "times": [
+        1004227,
+        1317329,
+        1604284,
+        1882766,
+        2135292,
+        2367898,
+        2599141,
+        2809615,
+        3019836
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 1_NAIST 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 3_IOIT 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 4_ASTI 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 5_TU 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 8_TP 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 9_USM 0_UNIBRAW"
+        },
+        {
+            "x": 0.21296296296296297,
+            "cycle": "0_UNIBRAW 3_IOIT 1_NAIST 3_IOIT 1_NAIST 3_IOIT 1_NAIST 3_IOIT 1_NAIST 0_UNIBRAW"
+        },
+        {
+            "x": 0.2314814814814815,
+            "cycle": "0_UNIBRAW 5_TU 4_ASTI 5_TU 4_ASTI 5_TU 4_ASTI 5_TU 4_ASTI 0_UNIBRAW"
+        },
+        {
+            "x": 0.24074074074074076,
+            "cycle": "0_UNIBRAW 9_USM 8_TP 9_USM 8_TP 9_USM 8_TP 9_USM 8_TP 0_UNIBRAW"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UNIBRAW 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW"
+        },
+        {
+            "x": 0.037037037037037035,
+            "cycle": "0_UNIBRAW 5_TU 3_IOIT 0_UNIBRAW 3_IOIT 0_UNIBRAW 3_IOIT 0_UNIBRAW 3_IOIT 0_UNIBRAW"
+        },
+        {
+            "x": 0.009259259259259245,
+            "cycle": "0_UNIBRAW 8_TP 4_ASTI 8_TP 4_ASTI 8_TP 4_ASTI 8_TP 4_ASTI 0_UNIBRAW"
+        },
+        {
+            "x": 0.009259259259259245,
+            "cycle": "0_UNIBRAW 9_USM 4_ASTI 9_USM 4_ASTI 9_USM 4_ASTI 9_USM 4_ASTI 0_UNIBRAW"
+        },
+        {
+            "x": 0.037037037037037035,
+            "cycle": "0_UNIBRAW 5_TU 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW 1_NAIST 0_UNIBRAW"
+        }
+    ],
+    "values": [
+        6,
+        4.25,
+        2.5,
+        1,
+        0.8125,
+        0.7857142857142857,
+        0.7857142857142857,
+        0.7818181818181817,
+        0.7777777777777779
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 33302,
+    "lpBound": 0.7777777777777779
+}

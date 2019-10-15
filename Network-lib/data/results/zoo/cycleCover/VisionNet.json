@@ -1,0 +1,84 @@
+{
+    "initialCoverSize": 12,
+    "times": [1369245],
+    "finalCoverSize": 8,
+    "minSegCycles": [
+        "0_Glasgow 1_Bainville 0_Glasgow",
+        "0_Glasgow 2_Glendive 0_Glasgow",
+        "0_Glasgow 10_DCN_Network 0_Glasgow",
+        "0_Glasgow 4_Lincoln 0_Glasgow",
+        "0_Glasgow 5_Helena 0_Glasgow",
+        "0_Glasgow 7_Missoula 0_Glasgow",
+        "0_Glasgow 8_Bozeman 0_Glasgow",
+        "0_Glasgow 6_Dillion 0_Glasgow",
+        "0_Glasgow 12_Seattle 0_Glasgow",
+        "0_Glasgow 9_Sheridan 0_Glasgow",
+        "0_Glasgow 18_N_Cutbank 0_Glasgow",
+        "0_Glasgow 17_Kalispell 0_Glasgow"
+    ],
+    "values": [8],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 8,
+    "runtime": 6450580,
+    "lpBound": 8,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Glasgow 1_Bainville 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 2_Glendive 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 10_DCN_Network 0_Glasgow"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Glasgow 4_Lincoln 0_Glasgow"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Glasgow 5_Helena 0_Glasgow"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Glasgow 7_Missoula 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 8_Bozeman 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 6_Dillion 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 12_Seattle 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 9_Sheridan 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 18_N_Cutbank 0_Glasgow"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Glasgow 17_Kalispell 0_Glasgow"
+        }
+    ],
+    "greedySolution": [
+        "0_Glasgow 2_Glendive 0_Glasgow",
+        "0_Glasgow 10_DCN_Network 0_Glasgow",
+        "0_Glasgow 8_Bozeman 0_Glasgow",
+        "0_Glasgow 6_Dillion 0_Glasgow",
+        "0_Glasgow 12_Seattle 0_Glasgow",
+        "0_Glasgow 9_Sheridan 0_Glasgow",
+        "0_Glasgow 18_N_Cutbank 0_Glasgow",
+        "0_Glasgow 17_Kalispell 0_Glasgow"
+    ]
+}

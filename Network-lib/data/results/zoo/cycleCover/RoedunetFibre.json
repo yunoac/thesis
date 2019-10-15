@@ -1,0 +1,391 @@
+{
+    "initialCoverSize": 60,
+    "times": [
+        1821208,
+        8008417,
+        14196944,
+        21988282,
+        28177975,
+        34184266,
+        40382288,
+        46387602,
+        52328571,
+        58398181,
+        64480823,
+        71925937,
+        82004790,
+        90145194,
+        96437151,
+        102632106,
+        108901075,
+        115073892,
+        121389990,
+        127584409,
+        133710410,
+        139990462,
+        146309919,
+        152435044,
+        159014336,
+        165407335,
+        174451642,
+        185769176
+    ],
+    "finalCoverSize": 22,
+    "minSegCycles": [
+        "4_Bucaresti 1_Olt@0_Dolj 4_Bucaresti",
+        "4_Bucaresti 2_Gorj@0_Dolj 4_Bucaresti",
+        "4_Bucaresti 3_Valcea@0_Dolj 4_Bucaresti",
+        "4_Bucaresti 39_Mehedinti@0_Dolj 4_Bucaresti",
+        "4_Bucaresti 12_Alba 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 6_Teleorman 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 7_Giurgiu 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 10_Harghita 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 26_GEANT 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 5_Ialomita 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 8_Calarasi 0_Dolj@4_Bucaresti",
+        "4_Bucaresti 9_Constanta 0_Dolj@4_Bucaresti",
+        "4_Bucaresti@0_Dolj 25_None 4_Bucaresti",
+        "4_Bucaresti 22_None 4_Bucaresti 4_Bucaresti",
+        "4_Bucaresti 21_Sibiu 2_Gorj 4_Bucaresti",
+        "4_Bucaresti 12_Alba 15_Dambovita 4_Bucaresti",
+        "4_Bucaresti 17_Buzau 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 18_Vrancea 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 19_Bacau 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 23_None 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 20_Chisinau_RENAM 0_Dolj@4_Bucaresti",
+        "4_Bucaresti 18_Vrancea 40_Satu_Mare 4_Bucaresti",
+        "4_Bucaresti 10_Harghita 35_Suceava 4_Bucaresti",
+        "4_Bucaresti 36_Botosani 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 28_Mures 4_Bucaresti 4_Bucaresti",
+        "4_Bucaresti 29_Bistrita-Nasaud 4_Bucaresti 4_Bucaresti",
+        "4_Bucaresti 32_Tulcea 0_Dolj 4_Bucaresti",
+        "4_Bucaresti 34_Neamt 0_Dolj@4_Bucaresti",
+        "4_Bucaresti 38_Caras-Severin 0_Dolj@4_Bucaresti",
+        "4_Bucaresti 40_Satu_Mare 18_Vrancea 4_Bucaresti",
+        "4_Bucaresti 43_Salaj 4_Bucaresti 4_Bucaresti",
+        "4_Bucaresti 10_Harghita 40_Satu_Mare 4_Bucaresti",
+        "4_Bucaresti 38_Caras-Severin 19_Bacau 4_Bucaresti",
+        "4_Bucaresti 21_Sibiu 5_Ialomita 4_Bucaresti",
+        "4_Bucaresti 36_Botosani 12_Alba 4_Bucaresti",
+        "4_Bucaresti 3_Valcea 1_Olt 4_Bucaresti",
+        "4_Bucaresti 5_Ialomita 1_Olt 4_Bucaresti",
+        "4_Bucaresti 5_Ialomita 3_Valcea 4_Bucaresti",
+        "4_Bucaresti 7_Giurgiu 6_Teleorman 4_Bucaresti",
+        "4_Bucaresti 8_Calarasi 6_Teleorman 4_Bucaresti",
+        "4_Bucaresti 8_Calarasi 7_Giurgiu 4_Bucaresti",
+        "4_Bucaresti 20_Chisinau_RENAM 9_Constanta 4_Bucaresti",
+        "4_Bucaresti 22_None 9_Constanta 4_Bucaresti",
+        "4_Bucaresti 22_None 20_Chisinau_RENAM 4_Bucaresti",
+        "4_Bucaresti 39_Mehedinti 25_None 4_Bucaresti",
+        "4_Bucaresti 28_Mures 14_Arges 4_Bucaresti",
+        "4_Bucaresti 29_Bistrita-Nasaud 14_Arges 4_Bucaresti",
+        "4_Bucaresti 28_Mures 26_GEANT 4_Bucaresti",
+        "4_Bucaresti 29_Bistrita-Nasaud 26_GEANT 4_Bucaresti",
+        "4_Bucaresti 40_Satu_Mare 14_Arges 4_Bucaresti",
+        "4_Bucaresti 36_Botosani 38_Caras-Severin 4_Bucaresti",
+        "4_Bucaresti 21_Sibiu 10_Harghita 4_Bucaresti",
+        "4_Bucaresti 29_Bistrita-Nasaud 28_Mures 4_Bucaresti",
+        "4_Bucaresti 34_Neamt 32_Tulcea 4_Bucaresti",
+        "4_Bucaresti 39_Mehedinti 32_Tulcea 4_Bucaresti",
+        "4_Bucaresti 39_Mehedinti 34_Neamt 4_Bucaresti",
+        "4_Bucaresti 43_Salaj 36_Botosani 4_Bucaresti",
+        "4_Bucaresti 38_Caras-Severin 43_Salaj 4_Bucaresti",
+        "4_Bucaresti 22_None 40_Satu_Mare 4_Bucaresti",
+        "4_Bucaresti 40_Satu_Mare 22_None 4_Bucaresti"
+    ],
+    "values": [
+        23,
+        23,
+        22,
+        21,
+        21,
+        20.5,
+        19.5,
+        19.5,
+        19,
+        18,
+        18,
+        18,
+        18,
+        17,
+        17,
+        16,
+        16,
+        16,
+        16,
+        15.5,
+        15.5,
+        14.5,
+        14.5,
+        14.5,
+        14.25,
+        13.785714285714288,
+        13.5,
+        13.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 17,
+    "runtime": 250959035,
+    "lpBound": 13.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 1_Olt@0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 2_Gorj@0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 3_Valcea@0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 39_Mehedinti@0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 12_Alba 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 6_Teleorman 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 7_Giurgiu 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 10_Harghita 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 26_GEANT 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 5_Ialomita 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 8_Calarasi 0_Dolj@4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 9_Constanta 0_Dolj@4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti@0_Dolj 25_None 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 22_None 4_Bucaresti 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 21_Sibiu 2_Gorj 4_Bucaresti"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Bucaresti 12_Alba 15_Dambovita 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 17_Buzau 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 18_Vrancea 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 19_Bacau 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 23_None 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 20_Chisinau_RENAM 0_Dolj@4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 18_Vrancea 40_Satu_Mare 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 10_Harghita 35_Suceava 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 36_Botosani 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 28_Mures 4_Bucaresti 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 29_Bistrita-Nasaud 4_Bucaresti 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 32_Tulcea 0_Dolj 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 34_Neamt 0_Dolj@4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 38_Caras-Severin 0_Dolj@4_Bucaresti"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Bucaresti 40_Satu_Mare 18_Vrancea 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 43_Salaj 4_Bucaresti 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 10_Harghita 40_Satu_Mare 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 38_Caras-Severin 19_Bacau 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 21_Sibiu 5_Ialomita 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 36_Botosani 12_Alba 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 3_Valcea 1_Olt 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 5_Ialomita 1_Olt 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 5_Ialomita 3_Valcea 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 7_Giurgiu 6_Teleorman 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 8_Calarasi 6_Teleorman 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 8_Calarasi 7_Giurgiu 4_Bucaresti"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Bucaresti 20_Chisinau_RENAM 9_Constanta 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 22_None 9_Constanta 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 22_None 20_Chisinau_RENAM 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 39_Mehedinti 25_None 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 28_Mures 14_Arges 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 29_Bistrita-Nasaud 14_Arges 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 28_Mures 26_GEANT 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 29_Bistrita-Nasaud 26_GEANT 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 40_Satu_Mare 14_Arges 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 36_Botosani 38_Caras-Severin 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 21_Sibiu 10_Harghita 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 29_Bistrita-Nasaud 28_Mures 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 34_Neamt 32_Tulcea 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 39_Mehedinti 32_Tulcea 4_Bucaresti"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Bucaresti 39_Mehedinti 34_Neamt 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 43_Salaj 36_Botosani 4_Bucaresti"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Bucaresti 38_Caras-Severin 43_Salaj 4_Bucaresti"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Bucaresti 22_None 40_Satu_Mare 4_Bucaresti"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Bucaresti 40_Satu_Mare 22_None 4_Bucaresti"
+        }
+    ],
+    "greedySolution": [
+        "4_Bucaresti 9_Constanta 0_Dolj@4_Bucaresti",
+        "4_Bucaresti 21_Sibiu 2_Gorj 4_Bucaresti",
+        "4_Bucaresti 18_Vrancea 40_Satu_Mare 4_Bucaresti",
+        "4_Bucaresti 40_Satu_Mare 18_Vrancea 4_Bucaresti",
+        "4_Bucaresti 5_Ialomita 1_Olt 4_Bucaresti",
+        "4_Bucaresti 5_Ialomita 3_Valcea 4_Bucaresti",
+        "4_Bucaresti 8_Calarasi 6_Teleorman 4_Bucaresti",
+        "4_Bucaresti 8_Calarasi 7_Giurgiu 4_Bucaresti",
+        "4_Bucaresti 22_None 20_Chisinau_RENAM 4_Bucaresti",
+        "4_Bucaresti 39_Mehedinti 25_None 4_Bucaresti",
+        "4_Bucaresti 28_Mures 26_GEANT 4_Bucaresti",
+        "4_Bucaresti 29_Bistrita-Nasaud 26_GEANT 4_Bucaresti",
+        "4_Bucaresti 40_Satu_Mare 14_Arges 4_Bucaresti",
+        "4_Bucaresti 36_Botosani 38_Caras-Severin 4_Bucaresti",
+        "4_Bucaresti 21_Sibiu 10_Harghita 4_Bucaresti",
+        "4_Bucaresti 34_Neamt 32_Tulcea 4_Bucaresti",
+        "4_Bucaresti 38_Caras-Severin 43_Salaj 4_Bucaresti"
+    ]
+}

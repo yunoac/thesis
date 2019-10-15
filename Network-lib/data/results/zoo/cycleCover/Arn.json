@@ -1,0 +1,166 @@
+{
+    "initialCoverSize": 25,
+    "times": [1322662],
+    "finalCoverSize": 25,
+    "minSegCycles": [
+        "0_Djelfa 1_Medea 0_Djelfa",
+        "0_Djelfa 2_Internet 0_Djelfa",
+        "0_Djelfa 3_Blida 0_Djelfa",
+        "0_Djelfa 4_ElOued 0_Djelfa",
+        "0_Djelfa 5_Msila 0_Djelfa",
+        "0_Djelfa 6_Laghouat 0_Djelfa",
+        "0_Djelfa 9_Biskra 0_Djelfa",
+        "0_Djelfa 10_Batna 0_Djelfa",
+        "0_Djelfa 12_Annaba 0_Djelfa",
+        "0_Djelfa 13_Guelma 0_Djelfa",
+        "0_Djelfa 14_Tebessa 0_Djelfa",
+        "0_Djelfa 15_Oum_el_Bouaghi 0_Djelfa",
+        "0_Djelfa 18_Skikda 0_Djelfa",
+        "0_Djelfa 19_Jijel 0_Djelfa",
+        "0_Djelfa 11_Tizi_Ouzou 0_Djelfa",
+        "0_Djelfa 16_Bejaia 0_Djelfa",
+        "0_Djelfa 17_Setif 0_Djelfa",
+        "0_Djelfa 20_Tiaret 0_Djelfa",
+        "0_Djelfa 21_GEANT 0_Djelfa",
+        "0_Djelfa 23_Chlef 0_Djelfa",
+        "0_Djelfa 25_Mostaganem 0_Djelfa",
+        "0_Djelfa 26_Tlemcen 0_Djelfa",
+        "0_Djelfa 27_Sidi_Bel_Abbes 0_Djelfa",
+        "0_Djelfa 28_Saida 0_Djelfa",
+        "0_Djelfa 29_Mascara 0_Djelfa"
+    ],
+    "values": [25],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 25,
+    "runtime": 10832265,
+    "lpBound": 25,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 1_Medea 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 2_Internet 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 3_Blida 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 4_ElOued 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 5_Msila 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 6_Laghouat 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 9_Biskra 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 10_Batna 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 12_Annaba 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 13_Guelma 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 14_Tebessa 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 15_Oum_el_Bouaghi 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 18_Skikda 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 19_Jijel 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 11_Tizi_Ouzou 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 16_Bejaia 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 17_Setif 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 20_Tiaret 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 21_GEANT 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 23_Chlef 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 25_Mostaganem 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 26_Tlemcen 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 27_Sidi_Bel_Abbes 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 28_Saida 0_Djelfa"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Djelfa 29_Mascara 0_Djelfa"
+        }
+    ],
+    "greedySolution": [
+        "0_Djelfa 1_Medea 0_Djelfa",
+        "0_Djelfa 2_Internet 0_Djelfa",
+        "0_Djelfa 3_Blida 0_Djelfa",
+        "0_Djelfa 4_ElOued 0_Djelfa",
+        "0_Djelfa 5_Msila 0_Djelfa",
+        "0_Djelfa 6_Laghouat 0_Djelfa",
+        "0_Djelfa 9_Biskra 0_Djelfa",
+        "0_Djelfa 10_Batna 0_Djelfa",
+        "0_Djelfa 12_Annaba 0_Djelfa",
+        "0_Djelfa 13_Guelma 0_Djelfa",
+        "0_Djelfa 14_Tebessa 0_Djelfa",
+        "0_Djelfa 15_Oum_el_Bouaghi 0_Djelfa",
+        "0_Djelfa 18_Skikda 0_Djelfa",
+        "0_Djelfa 19_Jijel 0_Djelfa",
+        "0_Djelfa 11_Tizi_Ouzou 0_Djelfa",
+        "0_Djelfa 16_Bejaia 0_Djelfa",
+        "0_Djelfa 17_Setif 0_Djelfa",
+        "0_Djelfa 20_Tiaret 0_Djelfa",
+        "0_Djelfa 21_GEANT 0_Djelfa",
+        "0_Djelfa 23_Chlef 0_Djelfa",
+        "0_Djelfa 25_Mostaganem 0_Djelfa",
+        "0_Djelfa 26_Tlemcen 0_Djelfa",
+        "0_Djelfa 27_Sidi_Bel_Abbes 0_Djelfa",
+        "0_Djelfa 28_Saida 0_Djelfa",
+        "0_Djelfa 29_Mascara 0_Djelfa"
+    ]
+}

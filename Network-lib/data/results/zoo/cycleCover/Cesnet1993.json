@@ -1,0 +1,58 @@
+{
+    "initialCoverSize": 7,
+    "times": [995162],
+    "finalCoverSize": 7,
+    "minSegCycles": [
+        "0_Ostrava 1_Ebone 0_Ostrava",
+        "0_Ostrava 2_Plzen 0_Ostrava",
+        "0_Ostrava 4_Liberec 0_Ostrava",
+        "0_Ostrava 5_Ceske_Budejovice 0_Ostrava",
+        "0_Ostrava 6_Pardubice 0_Ostrava",
+        "0_Ostrava 7_Hradec_Kralove 0_Ostrava",
+        "0_Ostrava 8_Olomouc 0_Ostrava"
+    ],
+    "values": [7],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 7,
+    "runtime": 1727936,
+    "lpBound": 7,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 1_Ebone 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 2_Plzen 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 4_Liberec 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 5_Ceske_Budejovice 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 6_Pardubice 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 7_Hradec_Kralove 0_Ostrava"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ostrava 8_Olomouc 0_Ostrava"
+        }
+    ],
+    "greedySolution": [
+        "0_Ostrava 1_Ebone 0_Ostrava",
+        "0_Ostrava 2_Plzen 0_Ostrava",
+        "0_Ostrava 4_Liberec 0_Ostrava",
+        "0_Ostrava 5_Ceske_Budejovice 0_Ostrava",
+        "0_Ostrava 6_Pardubice 0_Ostrava",
+        "0_Ostrava 7_Hradec_Kralove 0_Ostrava",
+        "0_Ostrava 8_Olomouc 0_Ostrava"
+    ]
+}

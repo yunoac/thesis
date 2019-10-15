@@ -1,0 +1,34 @@
+{
+    "initialCoverSize": 6,
+    "times": [923762],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 0_HARVARD 0_HARVARD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_HARVARD 1_SRI 2_UCSB 0_HARVARD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_HARVARD 2_UCSB 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 5_SDC 0_HARVARD 0_HARVARD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_HARVARD 1_SRI 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 0_HARVARD"
+        }
+    ],
+    "values": [4],
+    "initialCoverSeg": 4,
+    "runtime": 31334,
+    "lpBound": 4
+}

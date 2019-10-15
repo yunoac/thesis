@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "64_LANL",
+            "nbpSR": 1,
+            "runtime": 226158391,
+            "dest": "48_OSTI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_DOE-A",
+            "nbpSR": 1,
+            "runtime": 475741333,
+            "dest": "26_PANTEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_ATLA",
+            "nbpSR": 2,
+            "runtime": 1172406373,
+            "dest": "61_SUNN",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_AMES",
+            "nbpSR": 1,
+            "runtime": 326342106,
+            "dest": "31_GA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "48_OSTI",
+            "nbpSR": 1,
+            "runtime": 195235071,
+            "dest": "32_MAXGPOP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_WASH",
+            "nbpSR": 4,
+            "runtime": 10771777589,
+            "dest": "11_ATLA",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "35_Equinix",
+            "nbpSR": 1,
+            "runtime": 187214502,
+            "dest": "25_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_AMPATH",
+            "nbpSR": 1,
+            "runtime": 184271961,
+            "dest": "10_NASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_DOE_GTN",
+            "nbpSR": 1,
+            "runtime": 183528313,
+            "dest": "64_LANL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_DOE-A",
+            "nbpSR": 1,
+            "runtime": 475266807,
+            "dest": "24_PSFC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "59_INL",
+            "nbpSR": 1,
+            "runtime": 181137665,
+            "dest": "55_SRS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_GA",
+            "nbpSR": 1,
+            "runtime": 188939640,
+            "dest": "10_NASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_FNAL",
+            "nbpSR": 2,
+            "runtime": 251323726,
+            "dest": "61_SUNN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_NREL",
+            "nbpSR": 1,
+            "runtime": 184605514,
+            "dest": "57_SInet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_DOE-A",
+            "nbpSR": 1,
+            "runtime": 453318085,
+            "dest": "35_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "66_AU",
+            "nbpSR": 1,
+            "runtime": 194261567,
+            "dest": "26_PANTEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NOAA",
+            "nbpSR": 1,
+            "runtime": 200062748,
+            "dest": "1_CHI-SL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_ELPA",
+            "nbpSR": 2,
+            "runtime": 376909079,
+            "dest": "25_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "64_LANL",
+            "nbpSR": 1,
+            "runtime": 247010151,
+            "dest": "22_PPPL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_SRS",
+            "nbpSR": 1,
+            "runtime": 191558486,
+            "dest": "13_PacificWave",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_CERN",
+            "nbpSR": 1,
+            "runtime": 299261049,
+            "dest": "26_PANTEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "56_PNNL",
+            "nbpSR": 1,
+            "runtime": 283994630,
+            "dest": "50_ORNL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_NREL",
+            "nbpSR": 1,
+            "runtime": 192622861,
+            "dest": "0_ELPA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Abilene",
+            "nbpSR": 1,
+            "runtime": 195734345,
+            "dest": "54_JLAB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_GA",
+            "nbpSR": 1,
+            "runtime": 191228642,
+            "dest": "64_LANL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_DOE_GTN",
+            "nbpSR": 1,
+            "runtime": 196482692,
+            "dest": "14_AU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_CHI-SL",
+            "nbpSR": 1,
+            "runtime": 580433936,
+            "dest": "35_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_AMPATH",
+            "nbpSR": 1,
+            "runtime": 229353731,
+            "dest": "4_ANL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Starlight",
+            "nbpSR": 1,
+            "runtime": 189604100,
+            "dest": "2_Denv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_GA",
+            "nbpSR": 1,
+            "runtime": 184644723,
+            "dest": "59_INL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_BNL",
+            "nbpSR": 1,
+            "runtime": 234709153,
+            "dest": "58_Salt_Lake",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Denv",
+            "nbpSR": 3,
+            "runtime": 604987020,
+            "dest": "18_NETL",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "58_Salt_Lake",
+            "nbpSR": 1,
+            "runtime": 1119129095,
+            "dest": "53_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "45_YUCCA_MT",
+            "nbpSR": 1,
+            "runtime": 185434185,
+            "dest": "19_DOE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_GEANT",
+            "nbpSR": 1,
+            "runtime": 193357251,
+            "dest": "54_JLAB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_DOE",
+            "nbpSR": 1,
+            "runtime": 177070055,
+            "dest": "29_SNLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_ATLA",
+            "nbpSR": 2,
+            "runtime": 1325394878,
+            "dest": "39_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "61_SUNN",
+            "nbpSR": 1,
+            "runtime": 2426772898,
+            "dest": "47_NNSA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Allied_Signal",
+            "nbpSR": 1,
+            "runtime": 178299839,
+            "dest": "36_ARM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_PacificWave",
+            "nbpSR": 1,
+            "runtime": 193809030,
+            "dest": "37_NOAA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "66_AU",
+            "nbpSR": 1,
+            "runtime": 182975009,
+            "dest": "61_SUNN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_None",
+            "nbpSR": 2,
+            "runtime": 302319693,
+            "dest": "4_ANL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_NREL",
+            "nbpSR": 1,
+            "runtime": 254039016,
+            "dest": "48_OSTI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "45_YUCCA_MT",
+            "nbpSR": 1,
+            "runtime": 195040782,
+            "dest": "51_WASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_DOE-A",
+            "nbpSR": 1,
+            "runtime": 451149271,
+            "dest": "45_YUCCA_MT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_SRS",
+            "nbpSR": 1,
+            "runtime": 186834869,
+            "dest": "25_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "59_INL",
+            "nbpSR": 1,
+            "runtime": 207040305,
+            "dest": "51_WASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "61_SUNN",
+            "nbpSR": 1,
+            "runtime": 2656391343,
+            "dest": "9_Allied_Signal",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ALBU",
+            "nbpSR": 2,
+            "runtime": 958896308,
+            "dest": "11_ATLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_None",
+            "nbpSR": 1,
+            "runtime": 205637542,
+            "dest": "66_AU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "61_SUNN",
+            "nbpSR": 2,
+            "runtime": 2812198244,
+            "dest": "29_SNLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "46_DOE_GTN",
+            "nbpSR": 1,
+            "runtime": 189450024,
+            "dest": "63_Pacwave",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_PPPL",
+            "nbpSR": 1,
+            "runtime": 190434659,
+            "dest": "0_ELPA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Equinix",
+            "nbpSR": 1,
+            "runtime": 184982799,
+            "dest": "0_ELPA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_GEANT",
+            "nbpSR": 1,
+            "runtime": 190907684,
+            "dest": "55_SRS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_SNLA",
+            "nbpSR": 2,
+            "runtime": 430432431,
+            "dest": "51_WASH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "46_DOE_GTN",
+            "nbpSR": 1,
+            "runtime": 199889624,
+            "dest": "38_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_MAXGPOP",
+            "nbpSR": 1,
+            "runtime": 198520322,
+            "dest": "61_SUNN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "57_SInet",
+            "nbpSR": 1,
+            "runtime": 185546651,
+            "dest": "6_CHIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_BECHTEL-NV",
+            "nbpSR": 1,
+            "runtime": 180135048,
+            "dest": "61_SUNN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_None",
+            "nbpSR": 2,
+            "runtime": 277602226,
+            "dest": "4_ANL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_PacificWave",
+            "nbpSR": 1,
+            "runtime": 202162517,
+            "dest": "0_ELPA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "45_YUCCA_MT",
+            "nbpSR": 1,
+            "runtime": 184506846,
+            "dest": "62_SNV1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 2,
+            "runtime": 274521433,
+            "dest": "60_SEA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_GEANT",
+            "nbpSR": 1,
+            "runtime": 208197576,
+            "dest": "56_PNNL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "57_SInet",
+            "nbpSR": 1,
+            "runtime": 177820287,
+            "dest": "47_NNSA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "65_LIGO",
+            "nbpSR": 1,
+            "runtime": 198726179,
+            "dest": "8_DOE-A",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_GA",
+            "nbpSR": 1,
+            "runtime": 182287531,
+            "dest": "51_WASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_PANTEX",
+            "nbpSR": 1,
+            "runtime": 179862125,
+            "dest": "44_BECHTEL-NV",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_ATLA",
+            "nbpSR": 4,
+            "runtime": 1318767363,
+            "dest": "51_WASH",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "37_NOAA",
+            "nbpSR": 1,
+            "runtime": 181827907,
+            "dest": "3_ALBU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_Equinix",
+            "nbpSR": 1,
+            "runtime": 186167977,
+            "dest": "21_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_ANL",
+            "nbpSR": 2,
+            "runtime": 318789110,
+            "dest": "7_FNAL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "51_WASH",
+            "nbpSR": 2,
+            "runtime": 12078829441,
+            "dest": "39_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "51_WASH",
+            "nbpSR": 2,
+            "runtime": 12535964182,
+            "dest": "50_ORNL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_DOE-A",
+            "nbpSR": 1,
+            "runtime": 437889250,
+            "dest": "64_LANL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Abilene",
+            "nbpSR": 1,
+            "runtime": 219084461,
+            "dest": "2_Denv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_AU",
+            "nbpSR": 1,
+            "runtime": 193825675,
+            "dest": "12_Abilene",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_DOE",
+            "nbpSR": 1,
+            "runtime": 178335142,
+            "dest": "45_YUCCA_MT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_Equinix",
+            "nbpSR": 1,
+            "runtime": 189917532,
+            "dest": "48_OSTI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_None",
+            "nbpSR": 1,
+            "runtime": 181878644,
+            "dest": "9_Allied_Signal",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "57_SInet",
+            "nbpSR": 1,
+            "runtime": 201517045,
+            "dest": "10_NASH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_AMES",
+            "nbpSR": 2,
+            "runtime": 310098552,
+            "dest": "50_ORNL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "46_DOE_GTN",
+            "nbpSR": 1,
+            "runtime": 196326244,
+            "dest": "26_PANTEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_SRS",
+            "nbpSR": 1,
+            "runtime": 189102383,
+            "dest": "60_SEA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "65_LIGO",
+            "nbpSR": 1,
+            "runtime": 175613478,
+            "dest": "55_SRS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "60_SEA",
+            "nbpSR": 2,
+            "runtime": 2548214190,
+            "dest": "1_CHI-SL",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "43_None",
+            "nbpSR": 1,
+            "runtime": 180029188,
+            "dest": "62_SNV1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "57_SInet",
+            "nbpSR": 1,
+            "runtime": 190726287,
+            "dest": "4_ANL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_None",
+            "nbpSR": 1,
+            "runtime": 276025358,
+            "dest": "22_PPPL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_None",
+            "nbpSR": 1,
+            "runtime": 211512198,
+            "dest": "44_BECHTEL-NV",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_None",
+            "nbpSR": 1,
+            "runtime": 297848044,
+            "dest": "57_SInet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "50_ORNL",
+            "nbpSR": 2,
+            "runtime": 882977575,
+            "dest": "52_NEWY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "58_Salt_Lake",
+            "nbpSR": 2,
+            "runtime": 1127971864,
+            "dest": "50_ORNL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "35_Equinix",
+            "nbpSR": 1,
+            "runtime": 201223845,
+            "dest": "59_INL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "60_SEA",
+            "nbpSR": 1,
+            "runtime": 2995094548,
+            "dest": "34_Starlight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_PacificWave",
+            "nbpSR": 1,
+            "runtime": 220342505,
+            "dest": "18_NETL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_PPPL",
+            "nbpSR": 1,
+            "runtime": 343592929,
+            "dest": "41_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "52_NEWY",
+            "nbpSR": 1,
+            "runtime": 6710574329,
+            "dest": "19_DOE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_NASA",
+            "nbpSR": 1,
+            "runtime": 186689189,
+            "dest": "43_None",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

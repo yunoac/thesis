@@ -1,0 +1,966 @@
+{
+    "initialCoverSize": 152,
+    "times": [
+        3598918,
+        17480802,
+        33204762,
+        45664556,
+        58260376,
+        70821792,
+        83642506,
+        98508296,
+        110965771,
+        123477504,
+        135663416,
+        147865518,
+        160173150,
+        173546289,
+        191741889,
+        206832611,
+        219335344,
+        231863329,
+        244186715,
+        256665093,
+        269162990,
+        284437387,
+        298089764,
+        310397167,
+        322561308,
+        335120745,
+        347411846,
+        359642730,
+        371796933,
+        385054338,
+        399501453,
+        411800570,
+        424464893,
+        437044843,
+        451440013,
+        464669858,
+        477448526,
+        490942878,
+        503484150,
+        516038189,
+        528530871,
+        540880997,
+        554252168,
+        569199686,
+        581757362,
+        594571457,
+        607183672,
+        619591946,
+        632154099,
+        644645021,
+        657949034,
+        672848159,
+        686102792,
+        698726723,
+        713776610,
+        728861791,
+        741698004,
+        754610524,
+        767773639,
+        780745580,
+        795719477,
+        808953572,
+        821578099,
+        834340620,
+        847741604,
+        860540592,
+        874079193,
+        887639094,
+        901538259,
+        913971459,
+        931443647,
+        945572854,
+        958724911,
+        971236495,
+        984579351,
+        999558837,
+        1017582787,
+        1030922413
+    ],
+    "finalCoverSize": 69,
+    "minSegCycles": [
+        "1_CA 3_GEANT 0_Svizzera 2_Global_Crossing 3_GEANT 1_CA",
+        "1_CA 8_PA-2 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 7_SS 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 5_NAMEX 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 6_AQ-1 41_AQ 1_CA 1_CA 1_CA",
+        "1_CA 6_AQ-1 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 8_PA-2 40_FRA 3_GEANT 1_CA 1_CA",
+        "1_CA 41_AQ 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 10_PG 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 9_RM-1@51_RM-2 1_CA 1_CA 1_CA",
+        "1_CA 9_RM-1@51_RM-2 1_CA 1_CA 1_CA",
+        "1_CA 42_AN 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 11_CZ 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 12_TIX 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 5_NAMEX 42_AN 1_CA 1_CA 1_CA",
+        "1_CA 38_PZ 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 15_VSIX 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA",
+        "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA",
+        "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 49_BS 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 14_MI-3 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 54_Pv 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 16_TS-1 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 16_TS-1 15_VSIX 1_CA 1_CA 1_CA",
+        "1_CA 39_CB 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 17_NA 8_PA-2 1_CA 1_CA 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 8_PA-2 38_PZ 1_CA 1_CA 1_CA",
+        "1_CA 18_ME 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 22_EUMED_CONNECT 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 23_MIX 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 24_TELIA 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 25_FUC 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 27_Fi 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 12_TIX 35_GE 1_CA 1_CA 1_CA",
+        "1_CA 28_PD-2 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 29_VE 0_Svizzera 3_GEANT 1_CA 1_CA",
+        "1_CA 15_VSIX 16_TS-1 1_CA 1_CA 1_CA",
+        "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA",
+        "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA",
+        "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA",
+        "1_CA 15_VSIX 14_MI-3 1_CA 1_CA 1_CA",
+        "1_CA 3_GEANT 15_VSIX 1_CA 1_CA 1_CA",
+        "1_CA 3_GEANT 48_GEANT 3_GEANT 1_CA 1_CA",
+        "1_CA 14_MI-3 16_TS-1 1_CA 1_CA 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 35_GE 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 34_MI-4 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 36_TO 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 47_Google 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 34_MI-4 16_TS-1 1_CA 1_CA 1_CA",
+        "1_CA 35_GE 12_TIX 1_CA 1_CA 1_CA",
+        "1_CA 50_TO-PIX 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 36_TO 12_TIX 1_CA 1_CA 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 3_GEANT 40_FRA 8_PA-2 1_CA 1_CA",
+        "1_CA 41_AQ 6_AQ-1 1_CA 1_CA 1_CA",
+        "1_CA 42_AN 5_NAMEX 1_CA 1_CA 1_CA",
+        "1_CA 56_Ur 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 43_MT 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 44_LE 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 38_PZ 8_PA-2 1_CA 1_CA 1_CA",
+        "1_CA 46_FG 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 51_RM-2@9_RM-1 1_CA 1_CA 1_CA",
+        "1_CA 51_RM-2@9_RM-1 1_CA 1_CA 1_CA",
+        "1_CA 55_PI 1_CA 1_CA 1_CA 1_CA",
+        "1_CA 16_TS-1 34_MI-4 1_CA 1_CA 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 12_TIX 36_TO 1_CA 1_CA 1_CA",
+        "1_CA 43_MT 11_CZ 43_MT 11_CZ 1_CA",
+        "1_CA 56_Ur 25_FUC 56_Ur 25_FUC 1_CA",
+        "1_CA 50_TO-PIX 27_Fi 50_TO-PIX 27_Fi 1_CA",
+        "1_CA 28_PD-2 16_TS-1 49_BS 28_PD-2 1_CA",
+        "1_CA 10_PG 40_FRA 10_PG 7_SS 1_CA",
+        "1_CA 15_VSIX 40_FRA 15_VSIX 7_SS 1_CA",
+        "1_CA 54_Pv 16_TS-1 2_Global_Crossing 16_TS-1 1_CA",
+        "1_CA 23_MIX 15_VSIX 23_MIX 15_VSIX 1_CA",
+        "1_CA 29_VE 54_Pv 29_VE 54_Pv 1_CA",
+        "1_CA 24_TELIA 55_PI 35_GE 12_TIX 1_CA",
+        "1_CA 38_PZ 12_TIX 38_PZ 12_TIX 1_CA",
+        "1_CA 18_ME 44_LE 18_ME 44_LE 1_CA",
+        "1_CA 39_CB 22_EUMED_CONNECT 39_CB 22_EUMED_CONNECT 1_CA",
+        "1_CA 35_GE 24_TELIA 2_Global_Crossing 24_TELIA 1_CA",
+        "1_CA 35_GE 48_GEANT 16_TS-1 29_VE 1_CA",
+        "1_CA 47_Google 36_TO 2_Global_Crossing 36_TO 1_CA",
+        "1_CA 55_PI 46_FG 40_FRA 42_AN 1_CA",
+        "1_CA 47_Google 5_NAMEX 47_Google 5_NAMEX 1_CA",
+        "1_CA 35_GE 12_TIX 55_PI 42_AN 1_CA",
+        "1_CA 46_FG 42_AN 46_FG 42_AN 1_CA",
+        "1_CA 49_BS 48_GEANT 2_Global_Crossing 49_BS 1_CA",
+        "1_CA 41_AQ 6_AQ-1 41_AQ 6_AQ-1 1_CA",
+        "1_CA 7_SS 6_AQ-1 7_SS 6_AQ-1 1_CA",
+        "1_CA 41_AQ 8_PA-2 41_AQ 8_PA-2 1_CA",
+        "1_CA 55_PI 40_FRA 55_PI 5_NAMEX 1_CA",
+        "1_CA 42_AN 40_FRA 6_AQ-1 42_AN 1_CA",
+        "1_CA 16_TS-1 15_VSIX 16_TS-1 15_VSIX 1_CA",
+        "1_CA 15_VSIX 16_TS-1 34_MI-4 16_TS-1 1_CA",
+        "1_CA 34_MI-4 40_FRA 35_GE 34_MI-4 1_CA",
+        "1_CA 16_TS-1 5_NAMEX 16_TS-1 5_NAMEX 1_CA",
+        "1_CA 16_TS-1 48_GEANT 23_MIX 7_SS 1_CA",
+        "1_CA 16_TS-1 28_PD-2 35_GE 6_AQ-1 1_CA",
+        "1_CA 16_TS-1 29_VE 2_Global_Crossing 29_VE 1_CA",
+        "1_CA 13_BO@31_MI-1 16_TS-1 34_MI-4 1_CA",
+        "1_CA 34_MI-4 16_TS-1 28_PD-2 7_SS 1_CA",
+        "1_CA 8_PA-2 40_FRA 18_ME 8_PA-2 1_CA",
+        "1_CA 41_AQ 40_FRA 35_GE 23_MIX 1_CA",
+        "1_CA 16_TS-1 51_RM-2@9_RM-1 8_PA-2 1_CA",
+        "1_CA 34_MI-4 16_TS-1 31_MI-1@13_BO 1_CA",
+        "1_CA 6_AQ-1 5_NAMEX 6_AQ-1 5_NAMEX 1_CA",
+        "1_CA 6_AQ-1 40_FRA 23_MIX 6_AQ-1 1_CA",
+        "1_CA 15_VSIX 16_TS-1 51_RM-2@9_RM-1 1_CA",
+        "1_CA 25_FUC 40_FRA 12_TIX 36_TO 1_CA",
+        "1_CA 56_Ur 9_RM-1@51_RM-2 56_Ur 1_CA",
+        "1_CA 12_TIX 35_GE 51_RM-2@9_RM-1 1_CA",
+        "1_CA 35_GE 12_TIX 36_TO 28_PD-2 1_CA",
+        "1_CA 47_Google 48_GEANT 35_GE 27_Fi 1_CA",
+        "1_CA 50_TO-PIX 25_FUC 50_TO-PIX 25_FUC 1_CA",
+        "1_CA 23_MIX 2_Global_Crossing 31_MI-1@13_BO 1_CA",
+        "1_CA 24_TELIA 40_FRA 9_RM-1@51_RM-2 1_CA",
+        "1_CA 51_RM-2@9_RM-1 40_FRA 38_PZ 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 34_MI-4 0_Svizzera 48_GEANT 34_MI-4 1_CA",
+        "1_CA 54_Pv 0_Svizzera 54_Pv 39_CB 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 38_PZ 22_EUMED_CONNECT 38_PZ 22_EUMED_CONNECT 1_CA",
+        "1_CA 39_CB 38_PZ 39_CB 38_PZ 1_CA",
+        "1_CA 44_LE 43_MT 6_AQ-1 41_AQ 1_CA",
+        "1_CA 18_ME 11_CZ 18_ME 11_CZ 1_CA",
+        "1_CA 44_LE 11_CZ 44_LE 11_CZ 1_CA",
+        "1_CA 9_RM-1@51_RM-2 36_TO 55_PI 1_CA",
+        "1_CA 9_RM-1@51_RM-2 27_Fi 50_TO-PIX 1_CA",
+        "1_CA 25_FUC 46_FG 25_FUC 46_FG 1_CA",
+        "1_CA 42_AN 46_FG 40_FRA 36_TO 1_CA",
+        "1_CA 9_RM-1@51_RM-2 55_PI 23_MIX 1_CA",
+        "1_CA 49_BS 0_Svizzera 29_VE 49_BS 1_CA",
+        "1_CA 3_GEANT 28_PD-2 16_TS-1 34_MI-4 1_CA",
+        "1_CA 23_MIX 51_RM-2@9_RM-1 10_PG 1_CA",
+        "1_CA 42_AN 12_TIX 35_GE 55_PI 1_CA",
+        "1_CA 35_GE 40_FRA 35_GE 5_NAMEX 1_CA",
+        "1_CA 51_RM-2@9_RM-1 7_SS 3_GEANT 1_CA"
+    ],
+    "values": [
+        59,
+        56.5,
+        54.25,
+        51.75,
+        46.75,
+        45.75,
+        44.75,
+        42.75,
+        42.25,
+        41.75,
+        41.25,
+        40.5,
+        38.75,
+        37.25,
+        36.75,
+        35,
+        33.75,
+        32.25,
+        31.75,
+        31.75,
+        31.625,
+        31.625,
+        31.625,
+        31.25,
+        30.875,
+        30.5,
+        30.3125,
+        30.250000000000007,
+        30.0625,
+        29.6875,
+        29.487500000000004,
+        29.21875,
+        28.928030303030305,
+        28.859186746987955,
+        28.66370967741936,
+        28.51388888888889,
+        28.457167832167833,
+        28.360588972431085,
+        27.971171586715865,
+        27.424999999999997,
+        27.38392857142857,
+        27.28333333333333,
+        27.22619047619047,
+        27.086521352313174,
+        26.83333333333332,
+        26.71141975308643,
+        26.417708333333344,
+        26.31282051282051,
+        26.247368421052627,
+        26.111762734584445,
+        25.765165441176475,
+        25.557144840994308,
+        25.471700475832712,
+        24.55714484099431,
+        24.471700475832712,
+        24.471700475832712,
+        24.267140058765918,
+        24.157196969696965,
+        24.117021276595736,
+        24.11702127659574,
+        24.117021276595743,
+        24.11702127659574,
+        24.062314851042427,
+        24.008231178129744,
+        23.986851585014417,
+        23.758231178129748,
+        23.75683492999263,
+        23.546304431507718,
+        23.142857142857146,
+        23.12251001573123,
+        22.982746697932615,
+        22.933747731747808,
+        22.8285649265111,
+        22.7947127903145,
+        22.763652578013563,
+        22.750004471567696,
+        22.749999999999996,
+        22.75
+    ],
+    "initialCoverSeg": 6,
+    "greedyCoverSize": 32,
+    "runtime": 1423654616,
+    "lpBound": 22.75,
+    "lpSolution": [
+        {
+            "x": 0.06249888798021436,
+            "cycle": "1_CA 3_GEANT 0_Svizzera 2_Global_Crossing 3_GEANT 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 8_PA-2 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 7_SS 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 5_NAMEX 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 6_AQ-1 41_AQ 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 6_AQ-1 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 8_PA-2 40_FRA 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 41_AQ 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 10_PG 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 9_RM-1@51_RM-2 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 9_RM-1@51_RM-2 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 42_AN 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 11_CZ 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 12_TIX 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 5_NAMEX 42_AN 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 38_PZ 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 15_VSIX 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0.3766830048795649,
+            "cycle": "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@31_MI-1 0_Svizzera 3_GEANT 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 49_BS 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 14_MI-3 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 54_Pv 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 16_TS-1 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 16_TS-1 15_VSIX 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 39_CB 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 17_NA 8_PA-2 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 8_PA-2 38_PZ 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 18_ME 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 22_EUMED_CONNECT 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 23_MIX 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 24_TELIA 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 25_FUC 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 27_Fi 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 12_TIX 35_GE 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 28_PD-2 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 29_VE 0_Svizzera 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 15_VSIX 16_TS-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 31_MI-1@13_BO 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 15_VSIX 14_MI-3 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 15_VSIX 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 48_GEANT 3_GEANT 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 14_MI-3 16_TS-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 35_GE 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 34_MI-4 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 36_TO 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 47_Google 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 34_MI-4 16_TS-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 35_GE 12_TIX 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 50_TO-PIX 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 36_TO 12_TIX 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 3_GEANT 40_FRA 8_PA-2 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 41_AQ 6_AQ-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 42_AN 5_NAMEX 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 56_Ur 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 43_MT 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 44_LE 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 38_PZ 8_PA-2 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 46_FG 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 51_RM-2@9_RM-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 51_RM-2@9_RM-1 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 55_PI 1_CA 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 16_TS-1 34_MI-4 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 12_TIX 36_TO 1_CA 1_CA 1_CA"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_CA 43_MT 11_CZ 43_MT 11_CZ 1_CA"
+        },
+        {
+            "x": 0.25402001425757637,
+            "cycle": "1_CA 56_Ur 25_FUC 56_Ur 25_FUC 1_CA"
+        },
+        {
+            "x": 0.2479730217384699,
+            "cycle": "1_CA 50_TO-PIX 27_Fi 50_TO-PIX 27_Fi 1_CA"
+        },
+        {
+            "x": 0.03514721590848442,
+            "cycle": "1_CA 28_PD-2 16_TS-1 49_BS 28_PD-2 1_CA"
+        },
+        {
+            "x": 0.38604655364196405,
+            "cycle": "1_CA 10_PG 40_FRA 10_PG 7_SS 1_CA"
+        },
+        {
+            "x": 0.07204670127257012,
+            "cycle": "1_CA 15_VSIX 40_FRA 15_VSIX 7_SS 1_CA"
+        },
+        {
+            "x": 0.07055483833764249,
+            "cycle": "1_CA 54_Pv 16_TS-1 2_Global_Crossing 16_TS-1 1_CA"
+        },
+        {
+            "x": 0.06233955550413542,
+            "cycle": "1_CA 23_MIX 15_VSIX 23_MIX 15_VSIX 1_CA"
+        },
+        {
+            "x": 0.08953189509978635,
+            "cycle": "1_CA 29_VE 54_Pv 29_VE 54_Pv 1_CA"
+        },
+        {
+            "x": 0.5847412226168264,
+            "cycle": "1_CA 24_TELIA 55_PI 35_GE 12_TIX 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 38_PZ 12_TIX 38_PZ 12_TIX 1_CA"
+        },
+        {
+            "x": 0.2058920374091212,
+            "cycle": "1_CA 18_ME 44_LE 18_ME 44_LE 1_CA"
+        },
+        {
+            "x": 0.26558272756578205,
+            "cycle": "1_CA 39_CB 22_EUMED_CONNECT 39_CB 22_EUMED_CONNECT 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 35_GE 24_TELIA 2_Global_Crossing 24_TELIA 1_CA"
+        },
+        {
+            "x": 0.23557332820427992,
+            "cycle": "1_CA 35_GE 48_GEANT 16_TS-1 29_VE 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 47_Google 36_TO 2_Global_Crossing 36_TO 1_CA"
+        },
+        {
+            "x": 0.022262818611347157,
+            "cycle": "1_CA 55_PI 46_FG 40_FRA 42_AN 1_CA"
+        },
+        {
+            "x": 0.41635712217764814,
+            "cycle": "1_CA 47_Google 5_NAMEX 47_Google 5_NAMEX 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 35_GE 12_TIX 55_PI 42_AN 1_CA"
+        },
+        {
+            "x": 0.1714075966987314,
+            "cycle": "1_CA 46_FG 42_AN 46_FG 42_AN 1_CA"
+        },
+        {
+            "x": 0.3683278242542484,
+            "cycle": "1_CA 49_BS 48_GEANT 2_Global_Crossing 49_BS 1_CA"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_CA 41_AQ 6_AQ-1 41_AQ 6_AQ-1 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 7_SS 6_AQ-1 7_SS 6_AQ-1 1_CA"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_CA 41_AQ 8_PA-2 41_AQ 8_PA-2 1_CA"
+        },
+        {
+            "x": 0.10570976424998044,
+            "cycle": "1_CA 55_PI 40_FRA 55_PI 5_NAMEX 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 42_AN 40_FRA 6_AQ-1 42_AN 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 16_TS-1 15_VSIX 16_TS-1 15_VSIX 1_CA"
+        },
+        {
+            "x": 0.14305770723463823,
+            "cycle": "1_CA 15_VSIX 16_TS-1 34_MI-4 16_TS-1 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 34_MI-4 40_FRA 35_GE 34_MI-4 1_CA"
+        },
+        {
+            "x": 0.025540687971399426,
+            "cycle": "1_CA 16_TS-1 5_NAMEX 16_TS-1 5_NAMEX 1_CA"
+        },
+        {
+            "x": 0.15728423827944865,
+            "cycle": "1_CA 16_TS-1 48_GEANT 23_MIX 7_SS 1_CA"
+        },
+        {
+            "x": 0.40886592960246365,
+            "cycle": "1_CA 16_TS-1 28_PD-2 35_GE 6_AQ-1 1_CA"
+        },
+        {
+            "x": 0.23563215690231903,
+            "cycle": "1_CA 16_TS-1 29_VE 2_Global_Crossing 29_VE 1_CA"
+        },
+        {
+            "x": 0.6233169951204351,
+            "cycle": "1_CA 13_BO@31_MI-1 16_TS-1 34_MI-4 1_CA"
+        },
+        {
+            "x": 0.11992858529093747,
+            "cycle": "1_CA 34_MI-4 16_TS-1 28_PD-2 7_SS 1_CA"
+        },
+        {
+            "x": 0.17643185036351522,
+            "cycle": "1_CA 8_PA-2 40_FRA 18_ME 8_PA-2 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 41_AQ 40_FRA 35_GE 23_MIX 1_CA"
+        },
+        {
+            "x": 0.1471362992729696,
+            "cycle": "1_CA 16_TS-1 51_RM-2@9_RM-1 8_PA-2 1_CA"
+        },
+        {
+            "x": 0.7370137074744243,
+            "cycle": "1_CA 34_MI-4 16_TS-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 6_AQ-1 5_NAMEX 6_AQ-1 5_NAMEX 1_CA"
+        },
+        {
+            "x": 0.045567035198768174,
+            "cycle": "1_CA 6_AQ-1 40_FRA 23_MIX 6_AQ-1 1_CA"
+        },
+        {
+            "x": 0.5881697792119507,
+            "cycle": "1_CA 15_VSIX 16_TS-1 51_RM-2@9_RM-1 1_CA"
+        },
+        {
+            "x": 0.0887951791398865,
+            "cycle": "1_CA 25_FUC 40_FRA 12_TIX 36_TO 1_CA"
+        },
+        {
+            "x": 0.4031647923449608,
+            "cycle": "1_CA 56_Ur 9_RM-1@51_RM-2 56_Ur 1_CA"
+        },
+        {
+            "x": 0.3345715112894074,
+            "cycle": "1_CA 12_TIX 35_GE 51_RM-2@9_RM-1 1_CA"
+        },
+        {
+            "x": 0.16728575564470377,
+            "cycle": "1_CA 35_GE 12_TIX 36_TO 28_PD-2 1_CA"
+        },
+        {
+            "x": 0.16728575564470374,
+            "cycle": "1_CA 47_Google 48_GEANT 35_GE 27_Fi 1_CA"
+        },
+        {
+            "x": 0.004053956523060176,
+            "cycle": "1_CA 50_TO-PIX 25_FUC 50_TO-PIX 25_FUC 1_CA"
+        },
+        {
+            "x": 0.2629862925255757,
+            "cycle": "1_CA 23_MIX 2_Global_Crossing 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 0.4152587773831736,
+            "cycle": "1_CA 24_TELIA 40_FRA 9_RM-1@51_RM-2 1_CA"
+        },
+        {
+            "x": 0.43752159599452073,
+            "cycle": "1_CA 51_RM-2@9_RM-1 40_FRA 38_PZ 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 0,
+            "cycle": "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA"
+        },
+        {
+            "x": 0.07152885361731909,
+            "cycle": "1_CA 34_MI-4 0_Svizzera 48_GEANT 34_MI-4 1_CA"
+        },
+        {
+            "x": 0.3751906857313924,
+            "cycle": "1_CA 54_Pv 0_Svizzera 54_Pv 39_CB 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA"
+        },
+        {
+            "x": 1,
+            "cycle": "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA"
+        },
+        {
+            "x": 0.23441727243421795,
+            "cycle": "1_CA 38_PZ 22_EUMED_CONNECT 38_PZ 22_EUMED_CONNECT 1_CA"
+        },
+        {
+            "x": 0.046821929568521686,
+            "cycle": "1_CA 39_CB 38_PZ 39_CB 38_PZ 1_CA"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_CA 44_LE 43_MT 6_AQ-1 41_AQ 1_CA"
+        },
+        {
+            "x": 0.2058920374091212,
+            "cycle": "1_CA 18_ME 11_CZ 18_ME 11_CZ 1_CA"
+        },
+        {
+            "x": 0.04410796259087879,
+            "cycle": "1_CA 44_LE 11_CZ 44_LE 11_CZ 1_CA"
+        },
+        {
+            "x": 0.5040539565230602,
+            "cycle": "1_CA 9_RM-1@51_RM-2 36_TO 55_PI 1_CA"
+        },
+        {
+            "x": 0.4959460434769398,
+            "cycle": "1_CA 9_RM-1@51_RM-2 27_Fi 50_TO-PIX 1_CA"
+        },
+        {
+            "x": 0.19752843964942018,
+            "cycle": "1_CA 25_FUC 46_FG 25_FUC 46_FG 1_CA"
+        },
+        {
+            "x": 0.23986510869234964,
+            "cycle": "1_CA 42_AN 46_FG 40_FRA 36_TO 1_CA"
+        },
+        {
+            "x": 0.1815764302718656,
+            "cycle": "1_CA 9_RM-1@51_RM-2 55_PI 23_MIX 1_CA"
+        },
+        {
+            "x": 0.11409856779150934,
+            "cycle": "1_CA 49_BS 0_Svizzera 29_VE 49_BS 1_CA"
+        },
+        {
+            "x": 0.23362529764492668,
+            "cycle": "1_CA 3_GEANT 28_PD-2 16_TS-1 34_MI-4 1_CA"
+        },
+        {
+            "x": 0.22790689271607187,
+            "cycle": "1_CA 23_MIX 51_RM-2@9_RM-1 10_PG 1_CA"
+        },
+        {
+            "x": 0.08068726609376614,
+            "cycle": "1_CA 42_AN 12_TIX 35_GE 55_PI 1_CA"
+        },
+        {
+            "x": 0.010494615451924455,
+            "cycle": "1_CA 35_GE 40_FRA 35_GE 5_NAMEX 1_CA"
+        },
+        {
+            "x": 0.26469392151507976,
+            "cycle": "1_CA 51_RM-2@9_RM-1 7_SS 3_GEANT 1_CA"
+        }
+    ],
+    "greedySolution": [
+        "1_CA 8_PA-2 40_FRA 3_GEANT 1_CA 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 43_MT 11_CZ 43_MT 11_CZ 1_CA",
+        "1_CA 56_Ur 25_FUC 56_Ur 25_FUC 1_CA",
+        "1_CA 50_TO-PIX 27_Fi 50_TO-PIX 27_Fi 1_CA",
+        "1_CA 18_ME 44_LE 18_ME 44_LE 1_CA",
+        "1_CA 55_PI 46_FG 40_FRA 42_AN 1_CA",
+        "1_CA 47_Google 5_NAMEX 47_Google 5_NAMEX 1_CA",
+        "1_CA 41_AQ 6_AQ-1 41_AQ 6_AQ-1 1_CA",
+        "1_CA 15_VSIX 16_TS-1 34_MI-4 16_TS-1 1_CA",
+        "1_CA 16_TS-1 48_GEANT 23_MIX 7_SS 1_CA",
+        "1_CA 16_TS-1 29_VE 2_Global_Crossing 29_VE 1_CA",
+        "1_CA 13_BO@31_MI-1 16_TS-1 34_MI-4 1_CA",
+        "1_CA 34_MI-4 16_TS-1 31_MI-1@13_BO 1_CA",
+        "1_CA 15_VSIX 16_TS-1 51_RM-2@9_RM-1 1_CA",
+        "1_CA 12_TIX 35_GE 51_RM-2@9_RM-1 1_CA",
+        "1_CA 35_GE 12_TIX 36_TO 28_PD-2 1_CA",
+        "1_CA 24_TELIA 40_FRA 9_RM-1@51_RM-2 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 13_BO@31_MI-1 31_MI-1@13_BO 1_CA",
+        "1_CA 54_Pv 0_Svizzera 54_Pv 39_CB 1_CA",
+        "1_CA 13_BO@53_Fe 53_Fe@13_BO 1_CA",
+        "1_CA 14_MI-3@32_TN 32_TN@14_MI-3 1_CA",
+        "1_CA 17_NA@37_SA 37_SA@17_NA 1_CA",
+        "1_CA 38_PZ 22_EUMED_CONNECT 38_PZ 22_EUMED_CONNECT 1_CA",
+        "1_CA 44_LE 43_MT 6_AQ-1 41_AQ 1_CA",
+        "1_CA 9_RM-1@51_RM-2 27_Fi 50_TO-PIX 1_CA",
+        "1_CA 49_BS 0_Svizzera 29_VE 49_BS 1_CA",
+        "1_CA 23_MIX 51_RM-2@9_RM-1 10_PG 1_CA"
+    ]
+}

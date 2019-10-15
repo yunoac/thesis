@@ -1,0 +1,114 @@
+{
+    "initialCoverSize": 22,
+    "times": [
+        1306454,
+        1954946,
+        2546170,
+        3137050,
+        4370880,
+        5178107,
+        5856031
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_CASE 1_ILLINOIS 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 2_HARVARD 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 5_AMES 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 2_HARVARD 1_ILLINOIS 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 13_Stanford 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 9_BBN 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 1_ILLINOIS 2_HARVARD 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 14_RAND 0_CASE 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 11_UCSB 0_CASE 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 12_UCLA 0_CASE 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 11_UCSB 2_HARVARD 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 2_HARVARD 11_UCSB 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 2_HARVARD 13_Stanford 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 13_Stanford 2_HARVARD 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 2_HARVARD 15_SDC 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 1_ILLINOIS 14_RAND 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 14_RAND 1_ILLINOIS 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 7_BBN 11_UCSB 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 12_UCLA 11_UCSB 0_CASE"
+        },
+        {
+            "x": 1,
+            "cycle": "0_CASE 13_Stanford 11_UCSB 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 11_UCSB 12_UCLA 0_CASE"
+        },
+        {
+            "x": 0,
+            "cycle": "0_CASE 15_SDC 2_HARVARD 0_CASE"
+        }
+    ],
+    "values": [
+        8,
+        7,
+        7,
+        7,
+        6,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 134910,
+    "lpBound": 6
+}

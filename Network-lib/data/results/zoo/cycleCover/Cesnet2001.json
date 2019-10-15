@@ -1,0 +1,240 @@
+{
+    "initialCoverSize": 35,
+    "times": [
+        2374749,
+        7867514,
+        10313380,
+        11876616,
+        14120845,
+        17184061,
+        18836999,
+        20229543,
+        21819924,
+        23359199,
+        24879595,
+        26645999,
+        29239616,
+        32126967,
+        33905214,
+        35647497,
+        37814953
+    ],
+    "finalCoverSize": 16,
+    "minSegCycles": [
+        "0_Olomouc 1_Brno@0_Olomouc 0_Olomouc",
+        "0_Olomouc 2_Pardubice 0_Olomouc 0_Olomouc",
+        "0_Olomouc 1_Brno@19_Praha 0_Olomouc",
+        "0_Olomouc 4_Breclav,Lednice 0_Olomouc 0_Olomouc",
+        "0_Olomouc 6_Vyskov 0_Olomouc 0_Olomouc",
+        "0_Olomouc 7_Zlin 0_Olomouc 0_Olomouc",
+        "0_Olomouc 3_Hradec_Kralove 0_Olomouc 0_Olomouc",
+        "0_Olomouc 8_Karvina 0_Olomouc 0_Olomouc",
+        "0_Olomouc 9_Opava 0_Olomouc 0_Olomouc",
+        "0_Olomouc 10_Kostelec_n_C.L 0_Olomouc 0_Olomouc",
+        "0_Olomouc 11_Tabor 0_Olomouc 0_Olomouc",
+        "0_Olomouc 12_TEN-155 0_Olomouc 0_Olomouc",
+        "0_Olomouc 13_USA 0_Olomouc 0_Olomouc",
+        "0_Olomouc 14_Jindrichuv_Hradec 0_Olomouc 0_Olomouc",
+        "0_Olomouc 15_Cheb 0_Olomouc 0_Olomouc",
+        "0_Olomouc 17_Decin 0_Olomouc 0_Olomouc",
+        "0_Olomouc 19_Praha@1_Brno 0_Olomouc",
+        "0_Olomouc 20_Liberec 0_Olomouc 0_Olomouc",
+        "0_Olomouc 22_NIX 0_Olomouc 0_Olomouc",
+        "0_Olomouc 3_Hradec_Kralove 2_Pardubice 0_Olomouc",
+        "0_Olomouc 4_Breclav,Lednice 2_Pardubice 0_Olomouc",
+        "0_Olomouc 4_Breclav,Lednice 3_Hradec_Kralove 0_Olomouc",
+        "0_Olomouc 7_Zlin 6_Vyskov 0_Olomouc",
+        "0_Olomouc 8_Karvina 6_Vyskov 0_Olomouc",
+        "0_Olomouc 8_Karvina 7_Zlin 0_Olomouc",
+        "0_Olomouc 10_Kostelec_n_C.L 9_Opava 0_Olomouc",
+        "0_Olomouc 11_Tabor 9_Opava 0_Olomouc",
+        "0_Olomouc 11_Tabor 10_Kostelec_n_C.L 0_Olomouc",
+        "0_Olomouc 13_USA 12_TEN-155 0_Olomouc",
+        "0_Olomouc 14_Jindrichuv_Hradec 12_TEN-155 0_Olomouc",
+        "0_Olomouc 14_Jindrichuv_Hradec 13_USA 0_Olomouc",
+        "0_Olomouc 17_Decin 15_Cheb 0_Olomouc",
+        "0_Olomouc 20_Liberec 15_Cheb 0_Olomouc",
+        "0_Olomouc 20_Liberec 17_Decin 0_Olomouc",
+        "0_Olomouc 22_NIX 2_Pardubice 0_Olomouc"
+    ],
+    "values": [
+        18,
+        17,
+        17,
+        16.5,
+        15.5,
+        15.5,
+        15,
+        14,
+        14,
+        13.5,
+        12.5,
+        12.5,
+        12,
+        11,
+        11,
+        10.5,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 13,
+    "runtime": 50235198,
+    "lpBound": 10,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 1_Brno@0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 2_Pardubice 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Olomouc 1_Brno@19_Praha 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 4_Breclav,Lednice 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 6_Vyskov 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 7_Zlin 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 3_Hradec_Kralove 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 8_Karvina 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 9_Opava 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 10_Kostelec_n_C.L 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 11_Tabor 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 12_TEN-155 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 13_USA 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 14_Jindrichuv_Hradec 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 15_Cheb 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 17_Decin 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Olomouc 19_Praha@1_Brno 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 20_Liberec 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 22_NIX 0_Olomouc 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 3_Hradec_Kralove 2_Pardubice 0_Olomouc"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Olomouc 4_Breclav,Lednice 2_Pardubice 0_Olomouc"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Olomouc 4_Breclav,Lednice 3_Hradec_Kralove 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 7_Zlin 6_Vyskov 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 8_Karvina 6_Vyskov 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 8_Karvina 7_Zlin 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 10_Kostelec_n_C.L 9_Opava 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 11_Tabor 9_Opava 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 11_Tabor 10_Kostelec_n_C.L 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 13_USA 12_TEN-155 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 14_Jindrichuv_Hradec 12_TEN-155 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 14_Jindrichuv_Hradec 13_USA 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 17_Decin 15_Cheb 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 20_Liberec 15_Cheb 0_Olomouc"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Olomouc 20_Liberec 17_Decin 0_Olomouc"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Olomouc 22_NIX 2_Pardubice 0_Olomouc"
+        }
+    ],
+    "greedySolution": [
+        "0_Olomouc 1_Brno@19_Praha 0_Olomouc",
+        "0_Olomouc 19_Praha@1_Brno 0_Olomouc",
+        "0_Olomouc 4_Breclav,Lednice 2_Pardubice 0_Olomouc",
+        "0_Olomouc 4_Breclav,Lednice 3_Hradec_Kralove 0_Olomouc",
+        "0_Olomouc 8_Karvina 6_Vyskov 0_Olomouc",
+        "0_Olomouc 8_Karvina 7_Zlin 0_Olomouc",
+        "0_Olomouc 11_Tabor 9_Opava 0_Olomouc",
+        "0_Olomouc 11_Tabor 10_Kostelec_n_C.L 0_Olomouc",
+        "0_Olomouc 14_Jindrichuv_Hradec 12_TEN-155 0_Olomouc",
+        "0_Olomouc 14_Jindrichuv_Hradec 13_USA 0_Olomouc",
+        "0_Olomouc 17_Decin 15_Cheb 0_Olomouc",
+        "0_Olomouc 20_Liberec 15_Cheb 0_Olomouc",
+        "0_Olomouc 22_NIX 2_Pardubice 0_Olomouc"
+    ]
+}

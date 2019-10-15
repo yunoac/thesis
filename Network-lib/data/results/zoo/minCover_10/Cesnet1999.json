@@ -1,0 +1,114 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        969734,
+        1320294,
+        1637882,
+        1948777,
+        2273614,
+        2594559,
+        2900454,
+        3194116,
+        3510048,
+        3822716,
+        4149061
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 1_Zlin 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 2_Ostrava 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 3_Olomouc 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 5_Plzen 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 6_Usti_nad_Labem 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 8_Liberec 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 9_Ceske_Budejovice 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 10_NIX 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 11_Pardubice 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 12_Hradec_Kralove 0_TEN-155"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TEN-155 2_Ostrava 1_Zlin 2_Ostrava 1_Zlin 2_Ostrava 1_Zlin 2_Ostrava 1_Zlin 0_TEN-155"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TEN-155 5_Plzen 3_Olomouc 5_Plzen 3_Olomouc 5_Plzen 3_Olomouc 5_Plzen 3_Olomouc 0_TEN-155"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TEN-155 8_Liberec 6_Usti_nad_Labem 8_Liberec 6_Usti_nad_Labem 8_Liberec 6_Usti_nad_Labem 8_Liberec 6_Usti_nad_Labem 0_TEN-155"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TEN-155 10_NIX 9_Ceske_Budejovice 10_NIX 9_Ceske_Budejovice 10_NIX 9_Ceske_Budejovice 10_NIX 9_Ceske_Budejovice 0_TEN-155"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_TEN-155 12_Hradec_Kralove 11_Pardubice 12_Hradec_Kralove 11_Pardubice 12_Hradec_Kralove 11_Pardubice 12_Hradec_Kralove 11_Pardubice 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 5_Plzen 2_Ostrava 5_Plzen 2_Ostrava 5_Plzen 2_Ostrava 5_Plzen 2_Ostrava 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 3_Olomouc 2_Ostrava 3_Olomouc 2_Ostrava 3_Olomouc 2_Ostrava 3_Olomouc 2_Ostrava 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 10_NIX 8_Liberec 10_NIX 8_Liberec 10_NIX 8_Liberec 10_NIX 8_Liberec 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 9_Ceske_Budejovice 8_Liberec 9_Ceske_Budejovice 8_Liberec 9_Ceske_Budejovice 8_Liberec 9_Ceske_Budejovice 8_Liberec 0_TEN-155"
+        },
+        {
+            "x": 0,
+            "cycle": "0_TEN-155 12_Hradec_Kralove 1_Zlin 12_Hradec_Kralove 1_Zlin 12_Hradec_Kralove 1_Zlin 12_Hradec_Kralove 1_Zlin 0_TEN-155"
+        }
+    ],
+    "values": [
+        10,
+        8.25,
+        6.5,
+        4.75,
+        3,
+        1.25,
+        1.25,
+        1.25,
+        1.25,
+        1.25,
+        1.25
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 58422,
+    "lpBound": 1.25
+}

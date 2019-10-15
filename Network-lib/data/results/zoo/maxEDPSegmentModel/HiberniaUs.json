@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 70681745,
+            "dest": "20_Boston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Montreal",
+            "nbpSR": 2,
+            "runtime": 101093097,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Albany",
+            "nbpSR": 2,
+            "runtime": 102850824,
+            "dest": "21_Halifax",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Ashburn",
+            "nbpSR": 2,
+            "runtime": 122018149,
+            "dest": "15_Cleveland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Montreal",
+            "nbpSR": 1,
+            "runtime": 118916670,
+            "dest": "4_Raleigh",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 2,
+            "runtime": 96967312,
+            "dest": "3_Ashburn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Albany",
+            "nbpSR": 3,
+            "runtime": 149901461,
+            "dest": "9_New_York",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Newark",
+            "nbpSR": 1,
+            "runtime": 122853437,
+            "dest": "6_McLean",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_White_Plains",
+            "nbpSR": 1,
+            "runtime": 52309693,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_McLean",
+            "nbpSR": 1,
+            "runtime": 53840344,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 26834809,
+            "dest": "9_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Philadelphia",
+            "nbpSR": 1,
+            "runtime": 113254011,
+            "dest": "6_McLean",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 44836908,
+            "dest": "17_Toronto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Philadelphia",
+            "nbpSR": 3,
+            "runtime": 42296026,
+            "dest": "19_Albany",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Pittsburgh",
+            "nbpSR": 2,
+            "runtime": 47972302,
+            "dest": "17_Toronto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 15521437,
+            "dest": "20_Boston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 2,
+            "runtime": 48895577,
+            "dest": "3_Ashburn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Atlanta",
+            "nbpSR": 1,
+            "runtime": 29381840,
+            "dest": "5_Charlotte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_McLean",
+            "nbpSR": 1,
+            "runtime": 35646628,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 42825493,
+            "dest": "13_Stamford",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 16134170,
+            "dest": "4_Raleigh",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 17848232,
+            "dest": "16_Buffalo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 4,
+            "runtime": 55663184,
+            "dest": "2_Newark",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "4_Raleigh",
+            "nbpSR": 1,
+            "runtime": 26875626,
+            "dest": "15_Cleveland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Raleigh",
+            "nbpSR": 1,
+            "runtime": 25519845,
+            "dest": "16_Buffalo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Atlanta",
+            "nbpSR": 1,
+            "runtime": 15660219,
+            "dest": "1_Philadelphia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 2,
+            "runtime": 37142739,
+            "dest": "20_Boston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_White_Plains",
+            "nbpSR": 2,
+            "runtime": 24452751,
+            "dest": "2_Newark",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Chicago",
+            "nbpSR": 2,
+            "runtime": 32783466,
+            "dest": "17_Toronto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 1,
+            "runtime": 52397418,
+            "dest": "6_McLean",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pittsburgh",
+            "nbpSR": 1,
+            "runtime": 32179429,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Atlanta",
+            "nbpSR": 1,
+            "runtime": 20870339,
+            "dest": "21_Halifax",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Toronto",
+            "nbpSR": 1,
+            "runtime": 26573234,
+            "dest": "5_Charlotte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_White_Plains",
+            "nbpSR": 2,
+            "runtime": 32302473,
+            "dest": "16_Buffalo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 27700073,
+            "dest": "21_Halifax",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Toronto",
+            "nbpSR": 2,
+            "runtime": 31554034,
+            "dest": "1_Philadelphia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Ashburn",
+            "nbpSR": 2,
+            "runtime": 40790556,
+            "dest": "21_Halifax",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Buffalo",
+            "nbpSR": 2,
+            "runtime": 38790411,
+            "dest": "17_Toronto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 30103408,
+            "dest": "20_Boston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Albany",
+            "nbpSR": 3,
+            "runtime": 41325400,
+            "dest": "20_Boston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Pittsburgh",
+            "nbpSR": 2,
+            "runtime": 32145286,
+            "dest": "19_Albany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Raleigh",
+            "nbpSR": 1,
+            "runtime": 30195215,
+            "dest": "19_Albany",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 3,
+            "runtime": 45382033,
+            "dest": "20_Boston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 36765538,
+            "dest": "11_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Ashburn",
+            "nbpSR": 3,
+            "runtime": 38716398,
+            "dest": "19_Albany",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 27386175,
+            "dest": "21_Halifax",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 2,
+            "runtime": 45760445,
+            "dest": "15_Cleveland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Chicago",
+            "nbpSR": 2,
+            "runtime": 31159921,
+            "dest": "1_Philadelphia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Albany",
+            "nbpSR": 2,
+            "runtime": 47758602,
+            "dest": "14_Chicago",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 26252954,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Atlanta",
+            "nbpSR": 1,
+            "runtime": 14849793,
+            "dest": "17_Toronto",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 17670875,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 31432344,
+            "dest": "9_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Philadelphia",
+            "nbpSR": 3,
+            "runtime": 33297993,
+            "dest": "20_Boston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 15332872,
+            "dest": "2_Newark",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 30790713,
+            "dest": "5_Charlotte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 15701099,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 1,
+            "runtime": 32116189,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Toronto",
+            "nbpSR": 2,
+            "runtime": 30110926,
+            "dest": "18_Montreal",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 26632305,
+            "dest": "12_White_Plains",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Boston",
+            "nbpSR": 1,
+            "runtime": 33493928,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Newark",
+            "nbpSR": 2,
+            "runtime": 56872293,
+            "dest": "12_White_Plains",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Halifax",
+            "nbpSR": 1,
+            "runtime": 38806453,
+            "dest": "11_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 3,
+            "runtime": 42469970,
+            "dest": "20_Boston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "3_Ashburn",
+            "nbpSR": 3,
+            "runtime": 48974672,
+            "dest": "9_New_York",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Atlanta",
+            "nbpSR": 1,
+            "runtime": 12865212,
+            "dest": "2_Newark",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Halifax",
+            "nbpSR": 2,
+            "runtime": 44511292,
+            "dest": "3_Ashburn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 17160624,
+            "dest": "21_Halifax",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 26382221,
+            "dest": "11_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Buffalo",
+            "nbpSR": 2,
+            "runtime": 41334969,
+            "dest": "17_Toronto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Stamford",
+            "nbpSR": 1,
+            "runtime": 35151171,
+            "dest": "7_Richmond",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 2,
+            "runtime": 40778504,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Raleigh",
+            "nbpSR": 1,
+            "runtime": 34398317,
+            "dest": "16_Buffalo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Chicago",
+            "nbpSR": 2,
+            "runtime": 22996961,
+            "dest": "16_Buffalo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Raleigh",
+            "nbpSR": 1,
+            "runtime": 28119507,
+            "dest": "18_Montreal",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Charlotte",
+            "nbpSR": 1,
+            "runtime": 25228405,
+            "dest": "21_Halifax",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Boston",
+            "nbpSR": 2,
+            "runtime": 33280732,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Ashburn",
+            "nbpSR": 1,
+            "runtime": 52575885,
+            "dest": "6_McLean",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Philadelphia",
+            "nbpSR": 1,
+            "runtime": 36226736,
+            "dest": "6_McLean",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Chicago",
+            "nbpSR": 1,
+            "runtime": 22254389,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 3,
+            "runtime": 43258635,
+            "dest": "3_Ashburn",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "16_Buffalo",
+            "nbpSR": 2,
+            "runtime": 32017805,
+            "dest": "21_Halifax",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Halifax",
+            "nbpSR": 2,
+            "runtime": 52858975,
+            "dest": "18_Montreal",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 1,
+            "runtime": 37781025,
+            "dest": "7_Richmond",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_McLean",
+            "nbpSR": 1,
+            "runtime": 26515493,
+            "dest": "3_Ashburn",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Boston",
+            "nbpSR": 3,
+            "runtime": 33329785,
+            "dest": "9_New_York",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "20_Boston",
+            "nbpSR": 3,
+            "runtime": 37398941,
+            "dest": "16_Buffalo",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "6_McLean",
+            "nbpSR": 1,
+            "runtime": 43667565,
+            "dest": "2_Newark",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 3,
+            "runtime": 33957298,
+            "dest": "0_Pittsburgh",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "20_Boston",
+            "nbpSR": 1,
+            "runtime": 32558536,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pittsburgh",
+            "nbpSR": 2,
+            "runtime": 35039908,
+            "dest": "19_Albany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Stamford",
+            "nbpSR": 2,
+            "runtime": 45579459,
+            "dest": "14_Chicago",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Pittsburgh",
+            "nbpSR": 2,
+            "runtime": 32119261,
+            "dest": "1_Philadelphia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Chicago",
+            "nbpSR": 2,
+            "runtime": 23064286,
+            "dest": "2_Newark",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_New_York",
+            "nbpSR": 1,
+            "runtime": 46465404,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cleveland",
+            "nbpSR": 2,
+            "runtime": 33519056,
+            "dest": "21_Halifax",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Richmond",
+            "nbpSR": 1,
+            "runtime": 24849959,
+            "dest": "18_Montreal",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Halifax",
+            "nbpSR": 2,
+            "runtime": 38191852,
+            "dest": "13_Stamford",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Montreal",
+            "nbpSR": 3,
+            "runtime": 41692241,
+            "dest": "20_Boston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Newark",
+            "nbpSR": 1,
+            "runtime": 48716229,
+            "dest": "8_Atlanta",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

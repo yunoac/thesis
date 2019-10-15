@@ -1,0 +1,944 @@
+{
+    "initialCoverSize": 159,
+    "times": [
+        1670930,
+        3660458,
+        5469312,
+        7305635,
+        9207226,
+        11088624,
+        12934656,
+        14756970,
+        16641597,
+        18483030,
+        20282287,
+        22221182,
+        24247007,
+        26299191,
+        28292852,
+        30341037,
+        32365567,
+        34310981,
+        36210402,
+        38178472,
+        40228569,
+        42286363,
+        44153706,
+        46040109,
+        47993914,
+        49898615,
+        51741953,
+        53553097,
+        55488169,
+        57510276,
+        59486631,
+        61555886,
+        63441285,
+        65369759,
+        67359121,
+        69345684,
+        71385498,
+        73382511,
+        75491936,
+        77533055,
+        79791065,
+        81813474,
+        83925286,
+        86011099,
+        88292930,
+        92423288,
+        95053783,
+        98551324,
+        102054059,
+        105792605,
+        109174840,
+        112749823,
+        115232782,
+        117695398,
+        120249079,
+        122815753,
+        125219820,
+        127685534,
+        130129707,
+        132544530,
+        135081387,
+        137546956,
+        140246340,
+        142089491,
+        144432662,
+        146708129,
+        148982002,
+        151213916,
+        153503932,
+        155985954,
+        158364344,
+        160819017,
+        163240889,
+        165462328,
+        167915763,
+        170536646,
+        172934990,
+        175340189,
+        177715116,
+        180081297,
+        182679983,
+        185531110,
+        187879535,
+        190335208,
+        194186379,
+        198744996,
+        201789256,
+        205687883,
+        210256702,
+        214235967,
+        217264060,
+        220014287,
+        222470364,
+        225190167,
+        227832114,
+        230730966,
+        233168077,
+        236050872,
+        238879916,
+        241428628,
+        245415869,
+        248073428,
+        250600856,
+        252516383,
+        256201124,
+        260957328,
+        264358885,
+        266984148,
+        269505799,
+        272158133,
+        274646957,
+        277215903,
+        279706511,
+        282087354,
+        284591421,
+        287067668,
+        289636316,
+        291997588,
+        295570507,
+        299806802,
+        303687801,
+        306936244,
+        310884979,
+        314771694,
+        319032068,
+        321699363,
+        324499740,
+        326963882,
+        329427204,
+        332010630,
+        334727725,
+        337201815,
+        339752702,
+        342508120,
+        345169377,
+        348016990,
+        350540134,
+        352491113,
+        355179058,
+        357910478,
+        360721383,
+        363422638,
+        365901906,
+        367871237,
+        370391107,
+        372878844,
+        375639885,
+        378377735
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 9_AMES 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 17_BELVOIR 9_AMES 17_BELVOIR 9_AMES 17_BELVOIR 9_AMES 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 17_BELVOIR 18_SDC 17_BELVOIR 18_SDC 17_BELVOIR 18_SDC 17_BELVOIR 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 7_NBS 15_NOAA_{[Boulder,_Colorado}} 7_NBS 15_NOAA_{[Boulder,_Colorado}} 7_NBS 15_NOAA_{[Boulder,_Colorado}} 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 19_BBN 2_CARNEGIE 19_BBN 2_CARNEGIE 19_BBN 2_CARNEGIE 19_BBN 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 9_AMES 5_AFGWC 9_AMES 5_AFGWC 9_AMES 5_AFGWC 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 26_UTAH 7_NBS 26_UTAH 7_NBS 26_UTAH 7_NBS 26_UTAH 7_NBS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 14_AMES 0_ILLINOIS 14_AMES 0_ILLINOIS 14_AMES 0_ILLINOIS 14_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 1_MITRE 12_McClellan 20_HARVARD 22_UCSB 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 6_BBN 14_AMES 19_BBN 14_AMES 19_BBN 9_AMES 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 17_BELVOIR 12_McClellan 17_BELVOIR 12_McClellan 17_BELVOIR 12_McClellan 17_BELVOIR 12_McClellan 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 3_CASE 14_AMES 11_RADC 24_Stanford 27_Lincoln 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 17_BELVOIR 6_BBN 1_MITRE 27_Lincoln 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 12_McClellan 4_ETAC 0_ILLINOIS 13_RAND 6_BBN 22_UCSB 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 19_BBN 2_CARNEGIE 7_NBS 2_CARNEGIE 7_NBS 11_RADC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 20_HARVARD 25_USC 6_BBN 24_Stanford 11_RADC 9_AMES 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 14_AMES 3_CASE 14_AMES 3_CASE 14_AMES 3_CASE 14_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 17_BELVOIR 18_SDC 19_BBN 18_SDC 19_BBN 18_SDC 19_BBN 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 1_MITRE 5_AFGWC 9_AMES 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 20_HARVARD 5_AFGWC 20_HARVARD 5_AFGWC 20_HARVARD 5_AFGWC 20_HARVARD 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 20_HARVARD 9_AMES 20_HARVARD 9_AMES 20_HARVARD 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 6_BBN 14_AMES 22_UCSB 14_AMES 3_CASE 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 16_SAAC 21_SRI 16_SAAC 21_SRI 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 11_RADC 14_AMES 11_RADC 14_AMES 11_RADC 14_AMES 11_RADC 14_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 5_AFGWC 14_AMES 6_BBN 24_Stanford 0_ILLINOIS 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 25_USC 11_RADC 13_RAND 11_RADC 13_RAND 11_RADC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 14_AMES 3_CASE 22_UCSB 2_CARNEGIE 22_UCSB 2_CARNEGIE 22_UCSB 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 26_UTAH 16_SAAC 26_UTAH 25_USC 16_SAAC 26_UTAH 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 24_Stanford 11_RADC 14_AMES 5_AFGWC 9_AMES 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 7_NBS 26_UTAH 25_USC 20_HARVARD 25_USC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 27_Lincoln 8_Tinker 27_Lincoln 8_Tinker 27_Lincoln 8_Tinker 27_Lincoln 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 24_Stanford 6_BBN 24_Stanford 6_BBN 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 11_RADC 7_NBS 11_RADC 7_NBS 11_RADC 7_NBS 11_RADC 7_NBS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 14_AMES 6_BBN 14_AMES 6_BBN 14_AMES 6_BBN 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 25_USC 26_UTAH 13_RAND 0_ILLINOIS 13_RAND 0_ILLINOIS 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 12_McClellan 1_MITRE 12_McClellan 1_MITRE 12_McClellan 1_MITRE 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 12_McClellan 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 6_BBN 1_MITRE 6_BBN 1_MITRE 21_SRI 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 9_AMES 20_HARVARD 5_AFGWC 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 22_UCSB 20_HARVARD 22_UCSB 20_HARVARD 22_UCSB 20_HARVARD 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 25_USC 20_HARVARD 5_AFGWC 9_AMES 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 19_BBN 9_AMES 19_BBN 9_AMES 19_BBN 9_AMES 19_BBN 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 12_McClellan 17_BELVOIR 9_AMES 17_BELVOIR 9_AMES 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 1_MITRE 27_Lincoln 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 21_SRI 16_SAAC 21_SRI 16_SAAC 21_SRI 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 17_BELVOIR 6_BBN 17_BELVOIR 6_BBN 17_BELVOIR 6_BBN 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 19_BBN 24_Stanford 6_BBN 17_BELVOIR 9_AMES 11_RADC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 6_BBN 24_Stanford 6_BBN 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 19_BBN 15_NOAA_{[Boulder,_Colorado}} 19_BBN 15_NOAA_{[Boulder,_Colorado}} 19_BBN 15_NOAA_{[Boulder,_Colorado}} 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 25_USC 6_BBN 25_USC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 7_NBS 25_USC 26_UTAH 8_Tinker 26_UTAH 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 1_MITRE 12_McClellan 1_MITRE 12_McClellan 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 1_MITRE 12_McClellan 20_HARVARD 12_McClellan 17_BELVOIR 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 20_HARVARD 17_BELVOIR 20_HARVARD 17_BELVOIR 20_HARVARD 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 1_MITRE 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 8_Tinker 5_AFGWC 9_AMES 20_HARVARD 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 7_NBS 21_SRI 7_NBS 21_SRI 7_NBS 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0.059789490345045805,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 19_BBN 9_AMES 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 19_BBN 2_CARNEGIE 22_UCSB 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 22_UCSB 3_CASE 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0.008547008547008501,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 25_USC 20_HARVARD 25_USC 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 22_UCSB 6_BBN 22_UCSB 6_BBN 22_UCSB 6_BBN 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 20_HARVARD 12_McClellan 20_HARVARD 12_McClellan 20_HARVARD 12_McClellan 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 17_BELVOIR 12_McClellan 17_BELVOIR 12_McClellan 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0.05595125039569493,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 20_HARVARD 3_CASE 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 26_UTAH 8_Tinker 26_UTAH 8_Tinker 26_UTAH 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 25_USC 16_SAAC 25_USC 16_SAAC 25_USC 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 8_Tinker 27_Lincoln 8_Tinker 26_UTAH 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 1_MITRE 12_McClellan 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 7_NBS 11_RADC 14_AMES 6_BBN 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 19_BBN 16_SAAC 19_BBN 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 19_BBN 9_AMES 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.06837606837606823,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 5_AFGWC 9_AMES 17_BELVOIR 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 18_SDC 17_BELVOIR 18_SDC 17_BELVOIR 18_SDC 17_BELVOIR 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 14_AMES 6_BBN 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 7_NBS 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0.011396011396011478,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 14_AMES 3_CASE 20_HARVARD 25_USC 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 19_BBN 15_NOAA_{[Boulder,_Colorado}} 19_BBN 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 11_RADC 14_AMES 5_AFGWC 9_AMES 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 18_SDC 2_CARNEGIE 12_McClellan 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 18_SDC 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 9_AMES 5_AFGWC 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 5_AFGWC 14_AMES 19_BBN 14_AMES 19_BBN 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 5_AFGWC 20_HARVARD 5_AFGWC 20_HARVARD 9_AMES 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 17_BELVOIR 9_AMES 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0.15004748338081675,
+            "cycle": "0_ILLINOIS 4_ETAC 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 22_UCSB 27_Lincoln 22_UCSB 27_Lincoln 22_UCSB 27_Lincoln 22_UCSB 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 22_UCSB 2_CARNEGIE 12_McClellan 1_MITRE 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 12_McClellan 1_MITRE 6_BBN 24_Stanford 11_RADC 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 20_HARVARD 9_AMES 17_BELVOIR 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 5_AFGWC 20_HARVARD 5_AFGWC 9_AMES 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 19_BBN 2_CARNEGIE 19_BBN 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 12_McClellan 1_MITRE 12_McClellan 1_MITRE 12_McClellan 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0.09508547008547007,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 9_AMES 5_AFGWC 14_AMES 11_RADC 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 12_McClellan 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 12_McClellan 20_HARVARD 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 12_McClellan 1_MITRE 12_McClellan 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.02690724912947103,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 14_AMES 3_CASE 14_AMES 5_AFGWC 21_SRI 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.03798670465337147,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 7_NBS 15_NOAA_{[Boulder,_Colorado}} 19_BBN 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 24_Stanford 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 9_AMES 19_BBN 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 24_Stanford 27_Lincoln 8_Tinker 26_UTAH 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 26_UTAH 8_Tinker 26_UTAH 8_Tinker 26_UTAH 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 10_ARPA 5_AFGWC 20_HARVARD 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 19_BBN 18_SDC 17_BELVOIR 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 8_Tinker 27_Lincoln 8_Tinker 27_Lincoln 1_MITRE 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 8_Tinker 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 19_BBN 15_NOAA_{[Boulder,_Colorado}} 7_NBS 21_SRI 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.06837606837606837,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 15_NOAA_{[Boulder,_Colorado}} 7_NBS 15_NOAA_{[Boulder,_Colorado}} 7_NBS 21_SRI 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 3_CASE 14_AMES 6_BBN 17_BELVOIR 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 26_UTAH 25_USC 20_HARVARD 3_CASE 14_AMES 11_RADC 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0.017094017094017176,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 14_AMES 11_RADC 24_Stanford 6_BBN 25_USC 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 7_NBS 15_NOAA_{[Boulder,_Colorado}} 9_AMES 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 27_Lincoln 1_MITRE 27_Lincoln 1_MITRE 27_Lincoln 18_SDC 17_BELVOIR 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 9_AMES 19_BBN 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 5_AFGWC 20_HARVARD 25_USC 26_UTAH 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 1_MITRE 27_Lincoln 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0.05128205128205153,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 6_BBN 24_Stanford 11_RADC 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 7_NBS 15_NOAA_{[Boulder,_Colorado}} 9_AMES 17_BELVOIR 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 6_BBN 24_Stanford 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 9_AMES 17_BELVOIR 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 16_SAAC 21_SRI 7_NBS 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 17_BELVOIR 9_AMES 19_BBN 15_NOAA_{[Boulder,_Colorado}} 12_McClellan 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.008547008547008501,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 17_BELVOIR 9_AMES 5_AFGWC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 27_Lincoln 1_MITRE 12_McClellan 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 7_NBS 15_NOAA_{[Boulder,_Colorado}} 19_BBN 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 26_UTAH 25_USC 16_SAAC 21_SRI 16_SAAC 21_SRI 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 25_USC 20_HARVARD 9_AMES 17_BELVOIR 12_McClellan 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.0020971826527380276,
+            "cycle": "0_ILLINOIS 13_RAND 6_BBN 17_BELVOIR 9_AMES 19_BBN 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 6_BBN 17_BELVOIR 12_McClellan 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 26_UTAH 8_Tinker 26_UTAH 25_USC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0.04273504273504257,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 16_SAAC 26_UTAH 25_USC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_RAND 11_RADC 14_AMES 3_CASE 14_AMES 22_UCSB 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0.07977207977207997,
+            "cycle": "0_ILLINOIS 13_RAND 0_ILLINOIS 13_RAND 6_BBN 17_BELVOIR 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 15_NOAA_{[Boulder,_Colorado}} 1_MITRE 27_Lincoln 8_Tinker 26_UTAH 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.034188034188034205,
+            "cycle": "0_ILLINOIS 16_SAAC 21_SRI 16_SAAC 21_SRI 16_SAAC 25_USC 6_BBN 13_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0.09271130104463456,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 5_AFGWC 9_AMES 17_BELVOIR 6_BBN 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 9_AMES 5_AFGWC 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0.020734409623298578,
+            "cycle": "0_ILLINOIS 16_SAAC 14_AMES 3_CASE 14_AMES 3_CASE 14_AMES 11_RADC 24_Stanford 0_ILLINOIS"
+        },
+        {
+            "x": 0.017094017094017002,
+            "cycle": "0_ILLINOIS 18_SDC 17_BELVOIR 12_McClellan 1_MITRE 27_Lincoln 8_Tinker 26_UTAH 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 20_HARVARD 25_USC 20_HARVARD 9_AMES 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 11_RADC 14_AMES 3_CASE 14_AMES 3_CASE 14_AMES 22_UCSB 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 20_HARVARD 22_UCSB 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 24_Stanford 6_BBN 25_USC 16_SAAC 26_UTAH 16_SAAC 26_UTAH 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0.06837606837606845,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 9_AMES 17_BELVOIR 9_AMES 20_HARVARD 5_AFGWC 10_ARPA 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 15_NOAA_{[Boulder,_Colorado}} 7_NBS 11_RADC 14_AMES 11_RADC 13_RAND 0_ILLINOIS"
+        }
+    ],
+    "values": [
+        7,
+        5.5,
+        4.25,
+        3.5,
+        3.3125,
+        2.738970588235294,
+        2.25,
+        1.8303571428571428,
+        1.5852272727272727,
+        1.4618055555555554,
+        1.409722222222222,
+        1.3826388888888892,
+        1.3227572051654835,
+        1.2694737331873072,
+        1.2572717189914158,
+        1.2515006979221104,
+        1.1861666666666666,
+        1.1792583055185406,
+        1.1729351746965202,
+        1.1641935228772045,
+        1.1521982923254708,
+        1.13821027550435,
+        1.1354101824897724,
+        1.1328119230020344,
+        1.1229064154171526,
+        1.1168310806034845,
+        1.1140546666676114,
+        1.111808182069203,
+        1.1049562048318717,
+        1.1005470677558133,
+        1.1004219098425108,
+        1.091856278737165,
+        1.0903495254240623,
+        1.0877514622199889,
+        1.079872765823758,
+        1.0798727658237577,
+        1.0791260755778593,
+        1.0789412710420692,
+        1.0622744405100393,
+        1.0622744405100393,
+        1.0578682640193737,
+        1.057781056544492,
+        1.0555002372057027,
+        1.055292461661057,
+        1.0473824229348996,
+        1.0470922983176865,
+        1.046830356906811,
+        1.0459456617179623,
+        1.0450296845539164,
+        1.0442577292342068,
+        1.0441242932849917,
+        1.0438119228588683,
+        1.043392567873693,
+        1.0432662381219306,
+        1.0431814389196996,
+        1.0427735568525953,
+        1.0425057488686649,
+        1.0411868558016097,
+        1.0411782696433975,
+        1.0410165374035587,
+        1.0401068294955953,
+        1.0400858663656605,
+        1.0400367479490822,
+        1.039984100264142,
+        1.0397644558668055,
+        1.0392923016737232,
+        1.0392669520961966,
+        1.0376756390054178,
+        1.0370625473802022,
+        1.0370113946729256,
+        1.0368390206147287,
+        1.036333740955249,
+        1.0356141746489156,
+        1.035540782086595,
+        1.0325181294390844,
+        1.0321498335243287,
+        1.0310171694567976,
+        1.0306383511183954,
+        1.0300347206916942,
+        1.0300347206916938,
+        1.0291707396771548,
+        1.0282819341444303,
+        1.0282819341444307,
+        1.027910047849474,
+        1.0267083606590224,
+        1.0247102997727033,
+        1.0247102997727027,
+        1.024710299772703,
+        1.0239832085436076,
+        1.0234053224360662,
+        1.0226113283666722,
+        1.0226113283666722,
+        1.0226113283666718,
+        1.0213828008139452,
+        1.0213133323645542,
+        1.0209294482383338,
+        1.020849564885015,
+        1.0203884538775805,
+        1.020004842814881,
+        1.0200048428148802,
+        1.0192627255449125,
+        1.0189732438691386,
+        1.0189732438691383,
+        1.018973243869137,
+        1.0189436994291254,
+        1.0189436994291252,
+        1.0189436994291248,
+        1.018943699429125,
+        1.0189436994291259,
+        1.0184543590468782,
+        1.0184543590468782,
+        1.0183808564879282,
+        1.0182618290253314,
+        1.018084423938993,
+        1.018084423938993,
+        1.0180844239389932,
+        1.0180844239389928,
+        1.0179154247437427,
+        1.0179154247437427,
+        1.0179030525971748,
+        1.017903052597175,
+        1.0178607718965562,
+        1.0177905895797976,
+        1.017790589579798,
+        1.0177905895797978,
+        1.01768040747584,
+        1.017616641835767,
+        1.017616641835767,
+        1.017594280106547,
+        1.0174925932784002,
+        1.0174539832101035,
+        1.017453983210104,
+        1.0174539832101042,
+        1.0174417259395347,
+        1.0174417259395347,
+        1.0173673044066014,
+        1.0173673044066014,
+        1.0172549415510939,
+        1.0171686235786024,
+        1.0171465968586384,
+        1.0171232876712333,
+        1.0171189033549175,
+        1.017115389958601,
+        1.0171153899586,
+        1.017115389958601,
+        1.0171153899586007,
+        1.0170940170940173,
+        1.0170940170940173
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 415254,
+    "lpBound": 1.0170940170940173
+}

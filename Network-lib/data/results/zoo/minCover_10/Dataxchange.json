@@ -1,0 +1,204 @@
+{
+    "initialCoverSize": 37,
+    "times": [
+        1220800,
+        1448444,
+        1642711,
+        1858718,
+        2071791,
+        2302567,
+        2570141,
+        2846015,
+        3128300,
+        3392537,
+        3617502,
+        3834353,
+        4051831,
+        4272146,
+        4507582,
+        4765776,
+        5035982,
+        5342391,
+        5642678,
+        5930703,
+        6244160,
+        6551918
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 1_Los_Angeles,0_San_Francisco 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 2_Chicago,0_San_Francisco 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 0_San_Francisco 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 5_Atlanta,0_San_Francisco 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,1_Los_Angeles 2_Chicago,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,1_Los_Angeles 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,1_Los_Angeles 5_Atlanta,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,2_Chicago 1_Los_Angeles,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,2_Chicago 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,2_Chicago 5_Atlanta,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 1_Los_Angeles,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 2_Chicago,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 5_Atlanta,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,5_Atlanta 1_Los_Angeles,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,5_Atlanta 2_Chicago,0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco,5_Atlanta 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0.23131760078662733,
+            "cycle": "0_San_Francisco 2_Chicago 1_Los_Angeles 2_Chicago 1_Los_Angeles 2_Chicago 1_Los_Angeles 2_Chicago 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_San_Francisco 3_McLean 1_Los_Angeles 3_McLean 1_Los_Angeles 3_McLean 1_Los_Angeles 3_McLean 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.24815634218289087,
+            "cycle": "0_San_Francisco 5_Atlanta 1_Los_Angeles 5_Atlanta 1_Los_Angeles 5_Atlanta 1_Los_Angeles 5_Atlanta 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.22417513383590082,
+            "cycle": "0_San_Francisco 1_Los_Angeles 2_Chicago 3_McLean 2_Chicago 3_McLean 2_Chicago 3_McLean 2_Chicago 0_San_Francisco"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_San_Francisco 5_Atlanta 2_Chicago 5_Atlanta 2_Chicago 5_Atlanta 2_Chicago 5_Atlanta 2_Chicago 0_San_Francisco"
+        },
+        {
+            "x": 0.11787118977384464,
+            "cycle": "0_San_Francisco 1_Los_Angeles 3_McLean 5_Atlanta 3_McLean 5_Atlanta 3_McLean 5_Atlanta 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 1_Los_Angeles 0_San_Francisco 1_Los_Angeles 0_San_Francisco 1_Los_Angeles 0_San_Francisco 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 0_San_Francisco 3_McLean 0_San_Francisco 3_McLean 0_San_Francisco 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 5_Atlanta 0_San_Francisco 5_Atlanta 0_San_Francisco 5_Atlanta 0_San_Francisco 5_Atlanta 0_San_Francisco"
+        },
+        {
+            "x": 0.08517699115044246,
+            "cycle": "0_San_Francisco 1_Los_Angeles 5_Atlanta 0_San_Francisco 1_Los_Angeles 5_Atlanta 0_San_Francisco 1_Los_Angeles 5_Atlanta 0_San_Francisco"
+        },
+        {
+            "x": 0.08333333333333333,
+            "cycle": "0_San_Francisco 2_Chicago 5_Atlanta 3_McLean 2_Chicago 5_Atlanta 3_McLean 2_Chicago 5_Atlanta 0_San_Francisco"
+        },
+        {
+            "x": 0.2130039331366765,
+            "cycle": "0_San_Francisco 3_McLean 5_Atlanta 0_San_Francisco 3_McLean 5_Atlanta 0_San_Francisco 3_McLean 5_Atlanta 0_San_Francisco"
+        },
+        {
+            "x": 0.10915819949743251,
+            "cycle": "0_San_Francisco 2_Chicago 3_McLean 0_San_Francisco 2_Chicago 3_McLean 0_San_Francisco 2_Chicago 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Francisco 3_McLean 1_Los_Angeles 5_Atlanta 3_McLean 1_Los_Angeles 5_Atlanta 3_McLean 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.024909865617830224,
+            "cycle": "0_San_Francisco 2_Chicago 1_Los_Angeles 3_McLean 2_Chicago 1_Los_Angeles 3_McLean 2_Chicago 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.15990658800393312,
+            "cycle": "0_San_Francisco 5_Atlanta 3_McLean 0_San_Francisco 5_Atlanta 3_McLean 0_San_Francisco 5_Atlanta 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0.024978149240686105,
+            "cycle": "0_San_Francisco 1_Los_Angeles 3_McLean 0_San_Francisco 1_Los_Angeles 3_McLean 0_San_Francisco 1_Los_Angeles 3_McLean 0_San_Francisco"
+        },
+        {
+            "x": 0.08187206380421719,
+            "cycle": "0_San_Francisco 1_Los_Angeles 2_Chicago 0_San_Francisco 1_Los_Angeles 0_San_Francisco 1_Los_Angeles 0_San_Francisco 1_Los_Angeles 0_San_Francisco"
+        },
+        {
+            "x": 0.1109882005899705,
+            "cycle": "0_San_Francisco 3_McLean 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco 2_Chicago 0_San_Francisco"
+        },
+        {
+            "x": 0.007374631268436589,
+            "cycle": "0_San_Francisco 5_Atlanta 0_San_Francisco 5_Atlanta 1_Los_Angeles 3_McLean 5_Atlanta 0_San_Francisco 5_Atlanta 0_San_Francisco"
+        }
+    ],
+    "values": [
+        12,
+        10.333333333333334,
+        8.666666666666668,
+        7.75,
+        5.770833333333333,
+        4.75,
+        4,
+        3.8125,
+        3.515625,
+        3.03125,
+        2.541666666666666,
+        2.4583333333333335,
+        2.4166666666666665,
+        2.368055555555556,
+        2.285984848484848,
+        2.278814935064935,
+        2.2713718820861675,
+        2.2646825396825396,
+        2.242136978248089,
+        2.233860596707819,
+        2.2229938271604937,
+        2.222222222222222
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 21638,
+    "lpBound": 2.222222222222222
+}

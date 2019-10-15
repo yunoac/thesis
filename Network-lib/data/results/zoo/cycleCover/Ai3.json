@@ -1,0 +1,52 @@
+{
+    "initialCoverSize": 6,
+    "times": [1179088],
+    "finalCoverSize": 6,
+    "minSegCycles": [
+        "0_UNIBRAW 1_NAIST 0_UNIBRAW",
+        "0_UNIBRAW 3_IOIT 0_UNIBRAW",
+        "0_UNIBRAW 4_ASTI 0_UNIBRAW",
+        "0_UNIBRAW 5_TU 0_UNIBRAW",
+        "0_UNIBRAW 8_TP 0_UNIBRAW",
+        "0_UNIBRAW 9_USM 0_UNIBRAW"
+    ],
+    "values": [6],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 6,
+    "runtime": 1827032,
+    "lpBound": 6,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 1_NAIST 0_UNIBRAW"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 3_IOIT 0_UNIBRAW"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 4_ASTI 0_UNIBRAW"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 5_TU 0_UNIBRAW"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 8_TP 0_UNIBRAW"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UNIBRAW 9_USM 0_UNIBRAW"
+        }
+    ],
+    "greedySolution": [
+        "0_UNIBRAW 1_NAIST 0_UNIBRAW",
+        "0_UNIBRAW 3_IOIT 0_UNIBRAW",
+        "0_UNIBRAW 4_ASTI 0_UNIBRAW",
+        "0_UNIBRAW 5_TU 0_UNIBRAW",
+        "0_UNIBRAW 8_TP 0_UNIBRAW",
+        "0_UNIBRAW 9_USM 0_UNIBRAW"
+    ]
+}

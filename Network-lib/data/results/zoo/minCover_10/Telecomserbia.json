@@ -1,0 +1,76 @@
+{
+    "initialCoverSize": 12,
+    "times": [
+        1042175,
+        1316599,
+        1480933,
+        1651890,
+        1833283,
+        2031423,
+        2265192,
+        2493523
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 1_Belgrade,0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 4_Krusevac 0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 2_Kragujevac 0_Novi_Sad 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 4_Krusevac 2_Kragujevac 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 4_Krusevac 2_Kragujevac 3_Nis 1_Belgrade 3_Nis 1_Belgrade 3_Nis 1_Belgrade 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 5_Podgorica 1_Belgrade 5_Podgorica 1_Belgrade 5_Podgorica 1_Belgrade 5_Podgorica 1_Belgrade 0_Novi_Sad"
+        },
+        {
+            "x": 0.20000000000000004,
+            "cycle": "0_Novi_Sad 4_Krusevac 2_Kragujevac 4_Krusevac 2_Kragujevac 4_Krusevac 2_Kragujevac 4_Krusevac 2_Kragujevac 0_Novi_Sad"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Novi_Sad 4_Krusevac 5_Podgorica 3_Nis 5_Podgorica 3_Nis 5_Podgorica 3_Nis 4_Krusevac 0_Novi_Sad"
+        },
+        {
+            "x": 0.19999999999999998,
+            "cycle": "0_Novi_Sad 2_Kragujevac 0_Novi_Sad 2_Kragujevac 0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad 2_Kragujevac 0_Novi_Sad"
+        },
+        {
+            "x": 0.06666666666666664,
+            "cycle": "0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad 2_Kragujevac 4_Krusevac 0_Novi_Sad"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_Novi_Sad 4_Krusevac 0_Novi_Sad 4_Krusevac 0_Novi_Sad 4_Krusevac 0_Novi_Sad 4_Krusevac 2_Kragujevac 0_Novi_Sad"
+        }
+    ],
+    "values": [
+        2,
+        2,
+        2,
+        1.590909090909091,
+        1.0526315789473684,
+        0.8035714285714286,
+        0.7447916666666666,
+        0.6666666666666667
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 14588,
+    "lpBound": 0.6666666666666667
+}

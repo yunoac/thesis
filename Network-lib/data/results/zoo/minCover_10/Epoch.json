@@ -1,0 +1,104 @@
+{
+    "initialCoverSize": 18,
+    "times": [
+        951318,
+        1266705,
+        1423419,
+        1582139,
+        1752310,
+        1913815,
+        2073572,
+        2221107,
+        2373974,
+        2564646
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Los_Angeles,0_Palo_Alto 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 2_Denver,0_Palo_Alto 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 4_Vienna,0_Palo_Alto 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,1_Los_Angeles 5_Atlanta,1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,2_Denver 3_Chicago,2_Denver 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,2_Denver 3_Chicago 4_Vienna,0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,4_Vienna 3_Chicago,2_Denver 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,4_Vienna 5_Atlanta,1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,1_Los_Angeles 5_Atlanta 4_Vienna,0_Palo_Alto"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Palo_Alto 4_Vienna 5_Atlanta 3_Chicago 5_Atlanta 3_Chicago 5_Atlanta 3_Chicago 4_Vienna 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Los_Angeles 0_Palo_Alto 1_Los_Angeles 0_Palo_Alto 1_Los_Angeles 0_Palo_Alto 1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Palo_Alto 4_Vienna 0_Palo_Alto 4_Vienna 0_Palo_Alto 4_Vienna 0_Palo_Alto 4_Vienna 0_Palo_Alto"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Palo_Alto 2_Denver 3_Chicago 2_Denver 3_Chicago 2_Denver 3_Chicago 2_Denver 1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 2_Denver 0_Palo_Alto 2_Denver 0_Palo_Alto 2_Denver 0_Palo_Alto 2_Denver 0_Palo_Alto"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Palo_Alto 2_Denver 1_Los_Angeles 5_Atlanta 1_Los_Angeles 5_Atlanta 1_Los_Angeles 5_Atlanta 1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0.08333333333333336,
+            "cycle": "0_Palo_Alto 2_Denver 1_Los_Angeles 2_Denver 1_Los_Angeles 2_Denver 1_Los_Angeles 2_Denver 1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Los_Angeles 2_Denver 3_Chicago 4_Vienna 0_Palo_Alto 1_Los_Angeles 0_Palo_Alto 1_Los_Angeles 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Los_Angeles 2_Denver 3_Chicago 4_Vienna 0_Palo_Alto 4_Vienna 0_Palo_Alto 4_Vienna 0_Palo_Alto"
+        }
+    ],
+    "values": [
+        4,
+        3,
+        3,
+        2.5,
+        2.5,
+        2,
+        1.3333333333333333,
+        1.2499999999999998,
+        1.2499999999999998,
+        1.2499999999999998
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 17637,
+    "lpBound": 1.2499999999999998
+}

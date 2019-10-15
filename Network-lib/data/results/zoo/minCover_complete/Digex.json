@@ -1,0 +1,182 @@
+{
+    "initialCoverSize": 38,
+    "times": [
+        1555709,
+        3796453,
+        5937107,
+        8127605,
+        10328036,
+        12477641,
+        14696800,
+        16853020,
+        18992091
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Chicago 1_Omaha,0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 2_Columbus 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 4_Atlanta 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 23_Hayward 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 10_Baltimore 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 8_Orlando 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago,1_Omaha 15_Charlotte 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 5_Jacksonville 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 16_Miami 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 9_Tampa 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 2_Columbus 16_Miami 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 11_Philadelphia 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 10_Baltimore,11_Philadelphia 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 10_Baltimore,19_Washington,_DC 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 11_Philadelphia,10_Baltimore 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 12_Trenton 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 4_Atlanta 17_Newark 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 17_Newark 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 15_Charlotte 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 2_Columbus 4_Atlanta 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 4_Atlanta 8_Orlando 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 17_Newark 4_Atlanta 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 17_Newark,18_New_York 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 18_New_York,17_Newark 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 19_Washington,_DC,10_Baltimore 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 4_Atlanta 1_Omaha,0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 26_Fort_Worth 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 27_Austin 0_Chicago 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 26_Fort_Worth 28_San_Francisco 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 4_Atlanta 27_Austin 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 24_Los_Angeles 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 24_Los_Angeles 8_Orlando 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 27_Austin 8_Orlando 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 27_Austin 17_Newark 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 9_Tampa 23_Hayward 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 8_Orlando 27_Austin 0_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chicago 5_Jacksonville 1_Omaha 0_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chicago 17_Newark 27_Austin 0_Chicago"
+        }
+    ],
+    "values": [
+        14,
+        14,
+        13,
+        13,
+        12,
+        11,
+        11,
+        11,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 353784,
+    "lpBound": 10
+}

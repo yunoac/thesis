@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 21255660,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 19290214,
+            "dest": "2_Cat_6500_AS23814",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 11295018,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 20837568,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 20338074,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 21911862,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 10288621,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 18942468,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 22585668,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 20504317,
+            "dest": "11_NetIron_N140G_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 21536226,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 2,
+            "runtime": 8359605,
+            "dest": "11_NetIron_N140G_AS23814",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 21488339,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 24020982,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 2,
+            "runtime": 11225022,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 10068957,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 21358425,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 22452695,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 10276926,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 18672023,
+            "dest": "2_Cat_6500_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 18275452,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 10343973,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 19118159,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 22466816,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 18858546,
+            "dest": "2_Cat_6500_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 24925375,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 10869375,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 19903055,
+            "dest": "11_NetIron_N140G_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 3,
+            "runtime": 10897387,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 12266413,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 20143733,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 22391629,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 12109485,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 21283749,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 21651749,
+            "dest": "11_NetIron_N140G_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 24505068,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 19302262,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 23076218,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 26197805,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 20743428,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 19657034,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 20286531,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 21188462,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 23617627,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 19387981,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 12919934,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 20865029,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 20517794,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 11008414,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 23784687,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 10308928,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 21236906,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 20081306,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 10079694,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 21228069,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 21441426,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 19291509,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 19598729,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 20019234,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 25859261,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 22191998,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 20615888,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 12570582,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 21932014,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 2,
+            "runtime": 9596660,
+            "dest": "2_Cat_6500_AS23814",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 20915211,
+            "dest": "3_ONS-15454",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 13008754,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 19007166,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 24663632,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 12233805,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 12465387,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 10127321,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 20290267,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 13286148,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_ONS-15454",
+            "nbpSR": 1,
+            "runtime": 11972549,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 22680296,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 19910328,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 19734267,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 22121723,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 11109757,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 25211080,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 22080690,
+            "dest": "11_NetIron_N140G_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 23890118,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_APAN-JP_AS7660",
+            "nbpSR": 1,
+            "runtime": 22676018,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_ASCC/TW_AS9264",
+            "nbpSR": 1,
+            "runtime": 21195193,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_U-Tokyo_akihabara",
+            "nbpSR": 1,
+            "runtime": 18375104,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 19860017,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 10094206,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 26759803,
+            "dest": "4_DR_Data_Reservoir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_BigIron_15000_AS23814",
+            "nbpSR": 1,
+            "runtime": 10965480,
+            "dest": "6_JGN2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 20420162,
+            "dest": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 20690998,
+            "dest": "1_Future_IEEAF_Asian_Extension",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cat_6500_AS23814",
+            "nbpSR": 1,
+            "runtime": 10458264,
+            "dest": "9_ASCC/TW_AS9264",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 20933034,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NetIron_N140G_AS23814",
+            "nbpSR": 1,
+            "runtime": 12520199,
+            "dest": "7_APAN-JP_AS7660",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_WIDE_AS2500",
+            "nbpSR": 1,
+            "runtime": 22393262,
+            "dest": "5_U-Tokyo_akihabara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Future_IEEAF_Asian_Extension",
+            "nbpSR": 1,
+            "runtime": 19248263,
+            "dest": "10_BigIron_15000_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_JGN2",
+            "nbpSR": 1,
+            "runtime": 20883832,
+            "dest": "2_Cat_6500_AS23814",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Pacific_NW_Gigapop_(Seattle,_WA)",
+            "nbpSR": 1,
+            "runtime": 20721627,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_DR_Data_Reservoir",
+            "nbpSR": 1,
+            "runtime": 20670237,
+            "dest": "8_WIDE_AS2500",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

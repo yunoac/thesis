@@ -1,0 +1,68 @@
+{
+    "originalCover": {
+        "runtime": 849978,
+        "cycles": [
+            "0_New_York 2 0_New_York",
+            "0_New_York 4 0_New_York",
+            "0_New_York 3_Seattle 0_New_York 0_New_York",
+            "0_New_York 5_Los_Angeles 0_New_York 0_New_York",
+            "0_New_York 3_Seattle 5_Los_Angeles 0_New_York",
+            "0_New_York 5_Los_Angeles 3_Seattle 0_New_York",
+            "0_New_York 5_Los_Angeles 6_Denver 0_New_York",
+            "0_New_York 6_Denver 5_Los_Angeles 0_New_York",
+            "0_New_York 6_Denver 8_Houston 0_New_York",
+            "0_New_York 5_Los_Angeles 7_Kansas_City 0_New_York",
+            "1 10_Indianapolis 0_New_York",
+            "0 9_Atlanta 0_New_York"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_New_York 2 0_New_York",
+            "0_New_York 4 0_New_York",
+            "0_New_York 3_Seattle 0_New_York 0_New_York",
+            "0_New_York 4_Sunnyvale 0_New_York 0_New_York",
+            "0_New_York 3_Seattle 4",
+            "1 3_Seattle 0_New_York",
+            "0_New_York 4_Sunnyvale 2",
+            "0 4_Sunnyvale 0_New_York",
+            "0 5_Los_Angeles 0_New_York",
+            "1 6_Denver 0_New_York",
+            "1 10_Indianapolis 0_New_York",
+            "0 9_Atlanta 0_New_York"
+        ],
+        "source": 0,
+        "runetime": 750038,
+        "maxSeg": 4
+    }
+}

@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Lhasa",
+            "nbpSR": 1,
+            "runtime": 83101375,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Xi'an",
+            "nbpSR": 2,
+            "runtime": 1613799744,
+            "dest": "32_Xining",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Shiquanhe",
+            "nbpSR": 1,
+            "runtime": 43924977,
+            "dest": "37_Dalian",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 5,
+            "runtime": 359137129,
+            "dest": "27_Nanjing",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "28_Guangzhou",
+            "nbpSR": 1,
+            "runtime": 1416748790,
+            "dest": "12_Nanning",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Dalian",
+            "nbpSR": 1,
+            "runtime": 35325465,
+            "dest": "3_Shiquanhe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 2,
+            "runtime": 2897720380,
+            "dest": "15_Chongqing",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Lhasa",
+            "nbpSR": 2,
+            "runtime": 88025975,
+            "dest": "40_Hohhot",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Fuzhou",
+            "nbpSR": 1,
+            "runtime": 41186528,
+            "dest": "14_Guiyang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Harbin",
+            "nbpSR": 1,
+            "runtime": 41776746,
+            "dest": "22_Haikou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Yinchuan",
+            "nbpSR": 1,
+            "runtime": 74738010,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 1,
+            "runtime": 2752578948,
+            "dest": "20_International_Link_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Hong_Kong",
+            "nbpSR": 1,
+            "runtime": 181786281,
+            "dest": "19_Zhengzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Lanzhou",
+            "nbpSR": 1,
+            "runtime": 107709648,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Shanghai",
+            "nbpSR": 1,
+            "runtime": 1308489593,
+            "dest": "35_Changchun",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Harbin",
+            "nbpSR": 1,
+            "runtime": 34881556,
+            "dest": "14_Guiyang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Changchun",
+            "nbpSR": 1,
+            "runtime": 41496310,
+            "dest": "33_Urumqi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Kashi",
+            "nbpSR": 1,
+            "runtime": 50549300,
+            "dest": "9_Suzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Kashi",
+            "nbpSR": 1,
+            "runtime": 35038763,
+            "dest": "20_International_Link_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Lanzhou",
+            "nbpSR": 2,
+            "runtime": 74243973,
+            "dest": "15_Chongqing",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Chongqing",
+            "nbpSR": 2,
+            "runtime": 74370475,
+            "dest": "8_Shanghai",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_International_Link_1",
+            "nbpSR": 1,
+            "runtime": 37986227,
+            "dest": "34_Harbin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 9,
+            "runtime": 2312641188,
+            "dest": "8_Shanghai",
+            "nbpFlow": 9
+        },
+        {
+            "orig": "4_Jinan",
+            "nbpSR": 1,
+            "runtime": 40703690,
+            "dest": "16_Chengdu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 2,
+            "runtime": 435029758,
+            "dest": "22_Haikou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Fuzhou",
+            "nbpSR": 1,
+            "runtime": 34862615,
+            "dest": "14_Guiyang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Zhengzhou",
+            "nbpSR": 1,
+            "runtime": 35416869,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Harbin",
+            "nbpSR": 1,
+            "runtime": 46059364,
+            "dest": "18_Xi'an",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Taiyuan",
+            "nbpSR": 1,
+            "runtime": 71629305,
+            "dest": "29_Xiamen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Hong_Kong",
+            "nbpSR": 3,
+            "runtime": 192014254,
+            "dest": "27_Nanjing",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "20_International_Link_4",
+            "nbpSR": 1,
+            "runtime": 34742881,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Shenyang",
+            "nbpSR": 1,
+            "runtime": 42630587,
+            "dest": "17_Kunming",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Kunming",
+            "nbpSR": 1,
+            "runtime": 37550664,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Nanning",
+            "nbpSR": 1,
+            "runtime": 41232224,
+            "dest": "36_Shenyang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Xiamen",
+            "nbpSR": 1,
+            "runtime": 34663398,
+            "dest": "41_Yinchuan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Zhengzhou",
+            "nbpSR": 1,
+            "runtime": 44352167,
+            "dest": "3_Shiquanhe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Hong_Kong",
+            "nbpSR": 1,
+            "runtime": 198889846,
+            "dest": "17_Kunming",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Nanjing",
+            "nbpSR": 2,
+            "runtime": 501968339,
+            "dest": "32_Xining",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Chongqing",
+            "nbpSR": 1,
+            "runtime": 57721308,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Nanning",
+            "nbpSR": 1,
+            "runtime": 40355718,
+            "dest": "11_International_Link_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Hangzhou",
+            "nbpSR": 1,
+            "runtime": 34785673,
+            "dest": "20_International_Link_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Lanzhou",
+            "nbpSR": 1,
+            "runtime": 76628910,
+            "dest": "30_Fuzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Urumqi",
+            "nbpSR": 1,
+            "runtime": 125742449,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Chengdu",
+            "nbpSR": 6,
+            "runtime": 367900307,
+            "dest": "39_Beijing",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "5_Qingdao",
+            "nbpSR": 1,
+            "runtime": 37894373,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Zhengzhou",
+            "nbpSR": 1,
+            "runtime": 46037301,
+            "dest": "27_Nanjing",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Nandhang",
+            "nbpSR": 1,
+            "runtime": 34087293,
+            "dest": "21_International_Link_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Yinchuan",
+            "nbpSR": 1,
+            "runtime": 156300724,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Xiamen",
+            "nbpSR": 1,
+            "runtime": 42421367,
+            "dest": "34_Harbin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Yinchuan",
+            "nbpSR": 2,
+            "runtime": 78638902,
+            "dest": "25_Wuhan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "40_Hohhot",
+            "nbpSR": 2,
+            "runtime": 80250774,
+            "dest": "1_Lanzhou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Hangzhou",
+            "nbpSR": 1,
+            "runtime": 48714595,
+            "dest": "16_Chengdu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Shiquanhe",
+            "nbpSR": 1,
+            "runtime": 42962997,
+            "dest": "28_Guangzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Chengdu",
+            "nbpSR": 2,
+            "runtime": 414278043,
+            "dest": "9_Suzhou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 1,
+            "runtime": 430001031,
+            "dest": "13_Changsha",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "40_Hohhot",
+            "nbpSR": 2,
+            "runtime": 68421139,
+            "dest": "6_Taiyuan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Taiyuan",
+            "nbpSR": 1,
+            "runtime": 76511284,
+            "dest": "13_Changsha",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Chongqing",
+            "nbpSR": 2,
+            "runtime": 92939301,
+            "dest": "18_Xi'an",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Lhasa",
+            "nbpSR": 1,
+            "runtime": 83914326,
+            "dest": "19_Zhengzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 2,
+            "runtime": 4121169677,
+            "dest": "32_Xining",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Zhengzhou",
+            "nbpSR": 1,
+            "runtime": 68946036,
+            "dest": "22_Haikou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 6,
+            "runtime": 4383234034,
+            "dest": "16_Chengdu",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "0_Lhasa",
+            "nbpSR": 2,
+            "runtime": 97744728,
+            "dest": "40_Hohhot",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Shanghai",
+            "nbpSR": 1,
+            "runtime": 743381345,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_International_Link_3",
+            "nbpSR": 1,
+            "runtime": 35704903,
+            "dest": "25_Wuhan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_International_Link_4",
+            "nbpSR": 1,
+            "runtime": 35678933,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 9,
+            "runtime": 2312669455,
+            "dest": "8_Shanghai",
+            "nbpFlow": 9
+        },
+        {
+            "orig": "6_Taiyuan",
+            "nbpSR": 2,
+            "runtime": 77022984,
+            "dest": "27_Nanjing",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Kunming",
+            "nbpSR": 1,
+            "runtime": 46019555,
+            "dest": "23_Hong_Kong",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Xiamen",
+            "nbpSR": 1,
+            "runtime": 41043977,
+            "dest": "21_International_Link_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 1,
+            "runtime": 334538268,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Beijing",
+            "nbpSR": 2,
+            "runtime": 3051619502,
+            "dest": "1_Lanzhou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Nanjing",
+            "nbpSR": 1,
+            "runtime": 438254753,
+            "dest": "13_Changsha",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Xining",
+            "nbpSR": 2,
+            "runtime": 82200208,
+            "dest": "16_Chengdu",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "32_Xining",
+            "nbpSR": 2,
+            "runtime": 80315383,
+            "dest": "40_Hohhot",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_Guangzhou",
+            "nbpSR": 1,
+            "runtime": 1546973464,
+            "dest": "30_Fuzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Urumqi",
+            "nbpSR": 2,
+            "runtime": 144531696,
+            "dest": "9_Suzhou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_International_Link_2",
+            "nbpSR": 1,
+            "runtime": 34879137,
+            "dest": "37_Dalian",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Fuzhou",
+            "nbpSR": 1,
+            "runtime": 38463921,
+            "dest": "40_Hohhot",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Suzhou",
+            "nbpSR": 1,
+            "runtime": 75170893,
+            "dest": "21_International_Link_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Shenyang",
+            "nbpSR": 1,
+            "runtime": 39171980,
+            "dest": "21_International_Link_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Harbin",
+            "nbpSR": 1,
+            "runtime": 39977031,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Kashi",
+            "nbpSR": 1,
+            "runtime": 34986437,
+            "dest": "1_Lanzhou",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Changsha",
+            "nbpSR": 1,
+            "runtime": 37438993,
+            "dest": "4_Jinan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Yinchuan",
+            "nbpSR": 2,
+            "runtime": 96761604,
+            "dest": "32_Xining",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Chongqing",
+            "nbpSR": 1,
+            "runtime": 141708753,
+            "dest": "31_Nandhang",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Taiyuan",
+            "nbpSR": 2,
+            "runtime": 93091012,
+            "dest": "33_Urumqi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Guiyang",
+            "nbpSR": 2,
+            "runtime": 90454158,
+            "dest": "23_Hong_Kong",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Chengdu",
+            "nbpSR": 6,
+            "runtime": 328183285,
+            "dest": "18_Xi'an",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "34_Harbin",
+            "nbpSR": 1,
+            "runtime": 35206904,
+            "dest": "38_Tianjin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Changsha",
+            "nbpSR": 1,
+            "runtime": 35694677,
+            "dest": "40_Hohhot",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Chengdu",
+            "nbpSR": 6,
+            "runtime": 277813705,
+            "dest": "28_Guangzhou",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "24_Hangzhou",
+            "nbpSR": 1,
+            "runtime": 49808006,
+            "dest": "23_Hong_Kong",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Xiamen",
+            "nbpSR": 1,
+            "runtime": 42069040,
+            "dest": "18_Xi'an",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Taiyuan",
+            "nbpSR": 2,
+            "runtime": 89324988,
+            "dest": "1_Lanzhou",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "38_Tianjin",
+            "nbpSR": 2,
+            "runtime": 271175949,
+            "dest": "14_Guiyang",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "33_Urumqi",
+            "nbpSR": 1,
+            "runtime": 123003568,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 1,
+            "runtime": 398231068,
+            "dest": "29_Xiamen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Wuhan",
+            "nbpSR": 1,
+            "runtime": 318073052,
+            "dest": "26_Hefei",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Xiamen",
+            "nbpSR": 1,
+            "runtime": 34929534,
+            "dest": "7_Shilazhuang",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

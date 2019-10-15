@@ -1,0 +1,974 @@
+{
+    "initialCoverSize": 151,
+    "times": [
+        10633244,
+        162827627,
+        311320401,
+        514055566,
+        697244345,
+        904118619,
+        1074074846,
+        1243234485,
+        1393818511,
+        1517607037,
+        1825785970,
+        2048248216,
+        2263701925,
+        2451527876,
+        2586372108,
+        2777515623,
+        2931056678,
+        3062162480,
+        3177993677,
+        3331959523,
+        3460394960,
+        3576725727,
+        3666520980,
+        3774576975,
+        3931997551,
+        4033639560,
+        4174392150,
+        4321030976,
+        4443344336,
+        4591482999,
+        4688931756,
+        4812891167,
+        4953635018,
+        5065244636,
+        5198141600,
+        5271467234,
+        5394887043,
+        5545213531,
+        5595456681,
+        5714169956,
+        5913110213,
+        6196939837,
+        6443859540,
+        6658322470,
+        6876445350,
+        7067770862,
+        7210008209,
+        7494135789,
+        7726677829,
+        7958119237,
+        8191731771,
+        8329469579,
+        8446006343,
+        8570395622,
+        8775885275,
+        8937954445,
+        9080719551,
+        9253853387,
+        9391586423,
+        9492286181,
+        9609271695,
+        9734317337,
+        9838980994,
+        9967113665,
+        10096827629,
+        10291068543,
+        10442828888,
+        10589656603,
+        10641797764,
+        10742073665,
+        10812069050,
+        10878628416,
+        11010746121,
+        11130731123,
+        11241172984
+    ],
+    "finalCoverSize": 75,
+    "minSegCycles": [
+        "0_Denizli 1_Usak 0_Denizli 0_Denizli",
+        "0_Denizli 2_Aydin 0_Denizli 0_Denizli",
+        "0_Denizli 3_Mugla 0_Denizli 0_Denizli",
+        "0_Denizli 4_Burdur 0_Denizli 0_Denizli",
+        "0_Denizli 5_Antalya 0_Denizli 0_Denizli",
+        "0_Denizli 6_Afyonkarahisar 0_Denizli 0_Denizli",
+        "0_Denizli 7_Isparta 0_Denizli 0_Denizli",
+        "0_Denizli 8_Batman 0_Denizli 0_Denizli",
+        "0_Denizli 9_Siirt 0_Denizli 0_Denizli",
+        "0_Denizli 10_Gazimagusa 0_Denizli 0_Denizli",
+        "0_Denizli 11_Yalova 0_Denizli 0_Denizli",
+        "0_Denizli 12_Amasya 0_Denizli 0_Denizli",
+        "0_Denizli 13_Tokat 0_Denizli 0_Denizli",
+        "0_Denizli 14_Nigde 0_Denizli 0_Denizli",
+        "0_Denizli 15_Hatay 0_Denizli 0_Denizli",
+        "0_Denizli 16_Adiyaman 0_Denizli 0_Denizli",
+        "0_Denizli 17_K._Maras 0_Denizli 0_Denizli",
+        "0_Denizli 18_Erzurum 0_Denizli 0_Denizli",
+        "0_Denizli 19_Bartin 0_Denizli 0_Denizli",
+        "0_Denizli 20_Karabuk 0_Denizli 0_Denizli",
+        "0_Denizli 21_Mersin 0_Denizli 0_Denizli",
+        "0_Denizli 22_Karaman 0_Denizli 0_Denizli",
+        "0_Denizli 23_Aksaray 0_Denizli 0_Denizli",
+        "0_Denizli 24_Konya 0_Denizli 0_Denizli",
+        "0_Denizli 25_Sinop 0_Denizli 0_Denizli",
+        "0_Denizli 26_Samsun 0_Denizli 0_Denizli",
+        "0_Denizli 27_Adana 0_Denizli 0_Denizli",
+        "0_Denizli 28_Bilecik 0_Denizli 0_Denizli",
+        "0_Denizli 29_Giresun 0_Denizli 0_Denizli",
+        "0_Denizli 30_Hakkari 0_Denizli 0_Denizli",
+        "0_Denizli 31_Elazig 0_Denizli 0_Denizli",
+        "0_Denizli 32_Ardahan 0_Denizli 0_Denizli",
+        "0_Denizli 33_Artvin 0_Denizli 0_Denizli",
+        "0_Denizli 34_Corum 0_Denizli 0_Denizli",
+        "0_Denizli 39_Ordu 0_Denizli 0_Denizli",
+        "0_Denizli 35_Bingol 0_Denizli 0_Denizli",
+        "0_Denizli 36_Van 0_Denizli 0_Denizli",
+        "0_Denizli 37_Osmaniye 0_Denizli 0_Denizli",
+        "0_Denizli 38_Agri 0_Denizli 0_Denizli",
+        "0_Denizli 40_Mardin 0_Denizli 0_Denizli",
+        "0_Denizli 41_Malatya 0_Denizli 0_Denizli",
+        "0_Denizli 42_Sirnak 0_Denizli 0_Denizli",
+        "0_Denizli 43_Diyarbakir 0_Denizli 0_Denizli",
+        "0_Denizli 45_Kayseri 0_Denizli 0_Denizli",
+        "0_Denizli 46_Kars 0_Denizli 0_Denizli",
+        "0_Denizli 47_Nevsehir 0_Denizli 0_Denizli",
+        "0_Denizli 48_Gaziantep 0_Denizli 0_Denizli",
+        "0_Denizli 50_Kilis 0_Denizli 0_Denizli",
+        "0_Denizli 51_GEANT 0_Denizli 0_Denizli",
+        "0_Denizli 52_Kirsehir 0_Denizli 0_Denizli",
+        "0_Denizli 53_Cankiri 0_Denizli 0_Denizli",
+        "0_Denizli 54_Kastamonu 0_Denizli 0_Denizli",
+        "0_Denizli 55_Mus 0_Denizli 0_Denizli",
+        "0_Denizli 56_Eskisehir 0_Denizli 0_Denizli",
+        "0_Denizli 57_Kocaeli 0_Denizli 0_Denizli",
+        "0_Denizli 58_Sakarya 0_Denizli 0_Denizli",
+        "0_Denizli 59_Bitlis 0_Denizli 0_Denizli",
+        "0_Denizli 60_Bursa 0_Denizli 0_Denizli",
+        "0_Denizli 61_Bolu 0_Denizli 0_Denizli",
+        "0_Denizli 62_Duzce 0_Denizli 0_Denizli",
+        "0_Denizli 63_Zonguldak 0_Denizli 0_Denizli",
+        "0_Denizli 64_Rize 0_Denizli 0_Denizli",
+        "0_Denizli 65_S._Urfa 0_Denizli 0_Denizli",
+        "0_Denizli 66_Internet 0_Denizli 0_Denizli",
+        "0_Denizli 67_Internet 0_Denizli 0_Denizli",
+        "0_Denizli 68_Trabzon 0_Denizli 0_Denizli",
+        "0_Denizli 69_Igdir 0_Denizli 0_Denizli",
+        "0_Denizli 70_Manisa 0_Denizli 0_Denizli",
+        "0_Denizli 71_Kutahya 0_Denizli 0_Denizli",
+        "0_Denizli 73_Sivas 0_Denizli 0_Denizli",
+        "0_Denizli 77_Kirklareli 0_Denizli 0_Denizli",
+        "0_Denizli 78_Tekirdag 0_Denizli 0_Denizli",
+        "0_Denizli 79_Edirne 0_Denizli 0_Denizli",
+        "0_Denizli 80_Canakkale 0_Denizli 0_Denizli",
+        "0_Denizli 75_iZMiR@76_Ankara 0_Denizli",
+        "0_Denizli 81_Balikesin 0_Denizli 0_Denizli",
+        "0_Denizli 76_Ankara@75_iZMiR 0_Denizli",
+        "0_Denizli 2_Aydin 1_Usak 0_Denizli",
+        "0_Denizli 3_Mugla 1_Usak 0_Denizli",
+        "0_Denizli 3_Mugla 2_Aydin 0_Denizli",
+        "0_Denizli 5_Antalya 4_Burdur 0_Denizli",
+        "0_Denizli 6_Afyonkarahisar 4_Burdur 0_Denizli",
+        "0_Denizli 6_Afyonkarahisar 5_Antalya 0_Denizli",
+        "0_Denizli 8_Batman 7_Isparta 0_Denizli",
+        "0_Denizli 9_Siirt 7_Isparta 0_Denizli",
+        "0_Denizli 9_Siirt 8_Batman 0_Denizli",
+        "0_Denizli 11_Yalova 10_Gazimagusa 0_Denizli",
+        "0_Denizli 12_Amasya 10_Gazimagusa 0_Denizli",
+        "0_Denizli 12_Amasya 11_Yalova 0_Denizli",
+        "0_Denizli 14_Nigde 13_Tokat 0_Denizli",
+        "0_Denizli 15_Hatay 13_Tokat 0_Denizli",
+        "0_Denizli 15_Hatay 14_Nigde 0_Denizli",
+        "0_Denizli 17_K._Maras 16_Adiyaman 0_Denizli",
+        "0_Denizli 18_Erzurum 16_Adiyaman 0_Denizli",
+        "0_Denizli 18_Erzurum 17_K._Maras 0_Denizli",
+        "0_Denizli 20_Karabuk 19_Bartin 0_Denizli",
+        "0_Denizli 21_Mersin 19_Bartin 0_Denizli",
+        "0_Denizli 21_Mersin 20_Karabuk 0_Denizli",
+        "0_Denizli 23_Aksaray 22_Karaman 0_Denizli",
+        "0_Denizli 24_Konya 22_Karaman 0_Denizli",
+        "0_Denizli 24_Konya 23_Aksaray 0_Denizli",
+        "0_Denizli 26_Samsun 25_Sinop 0_Denizli",
+        "0_Denizli 27_Adana 25_Sinop 0_Denizli",
+        "0_Denizli 27_Adana 26_Samsun 0_Denizli",
+        "0_Denizli 29_Giresun 28_Bilecik 0_Denizli",
+        "0_Denizli 30_Hakkari 28_Bilecik 0_Denizli",
+        "0_Denizli 30_Hakkari 29_Giresun 0_Denizli",
+        "0_Denizli 32_Ardahan 31_Elazig 0_Denizli",
+        "0_Denizli 33_Artvin 31_Elazig 0_Denizli",
+        "0_Denizli 33_Artvin 32_Ardahan 0_Denizli",
+        "0_Denizli 36_Van 35_Bingol 0_Denizli",
+        "0_Denizli 37_Osmaniye 35_Bingol 0_Denizli",
+        "0_Denizli 37_Osmaniye 36_Van 0_Denizli",
+        "0_Denizli 39_Ordu 38_Agri 0_Denizli",
+        "0_Denizli 40_Mardin 39_Ordu 0_Denizli",
+        "0_Denizli 40_Mardin 38_Agri 0_Denizli",
+        "0_Denizli 42_Sirnak 41_Malatya 0_Denizli",
+        "0_Denizli 43_Diyarbakir 41_Malatya 0_Denizli",
+        "0_Denizli 43_Diyarbakir 42_Sirnak 0_Denizli",
+        "0_Denizli 46_Kars 45_Kayseri 0_Denizli",
+        "0_Denizli 47_Nevsehir 45_Kayseri 0_Denizli",
+        "0_Denizli 47_Nevsehir 46_Kars 0_Denizli",
+        "0_Denizli 50_Kilis 48_Gaziantep 0_Denizli",
+        "0_Denizli 51_GEANT 48_Gaziantep 0_Denizli",
+        "0_Denizli 51_GEANT 50_Kilis 0_Denizli",
+        "0_Denizli 53_Cankiri 52_Kirsehir 0_Denizli",
+        "0_Denizli 54_Kastamonu 52_Kirsehir 0_Denizli",
+        "0_Denizli 54_Kastamonu 53_Cankiri 0_Denizli",
+        "0_Denizli 56_Eskisehir 55_Mus 0_Denizli",
+        "0_Denizli 57_Kocaeli 55_Mus 0_Denizli",
+        "0_Denizli 57_Kocaeli 56_Eskisehir 0_Denizli",
+        "0_Denizli 59_Bitlis 58_Sakarya 0_Denizli",
+        "0_Denizli 60_Bursa 58_Sakarya 0_Denizli",
+        "0_Denizli 60_Bursa 59_Bitlis 0_Denizli",
+        "0_Denizli 62_Duzce 61_Bolu 0_Denizli",
+        "0_Denizli 63_Zonguldak 61_Bolu 0_Denizli",
+        "0_Denizli 63_Zonguldak 62_Duzce 0_Denizli",
+        "0_Denizli 65_S._Urfa 64_Rize 0_Denizli",
+        "0_Denizli 66_Internet 64_Rize 0_Denizli",
+        "0_Denizli 66_Internet 65_S._Urfa 0_Denizli",
+        "0_Denizli 68_Trabzon 67_Internet 0_Denizli",
+        "0_Denizli 69_Igdir 67_Internet 0_Denizli",
+        "0_Denizli 69_Igdir 68_Trabzon 0_Denizli",
+        "0_Denizli 71_Kutahya 70_Manisa 0_Denizli",
+        "0_Denizli 73_Sivas 70_Manisa 0_Denizli",
+        "0_Denizli 73_Sivas 71_Kutahya 0_Denizli",
+        "0_Denizli 78_Tekirdag 77_Kirklareli 0_Denizli",
+        "0_Denizli 79_Edirne 77_Kirklareli 0_Denizli",
+        "0_Denizli 79_Edirne 78_Tekirdag 0_Denizli",
+        "0_Denizli 81_Balikesin 80_Canakkale 0_Denizli",
+        "0_Denizli 81_Balikesin 1_Usak 0_Denizli"
+    ],
+    "values": [
+        76,
+        75,
+        75,
+        74.5,
+        73.5,
+        73.5,
+        73,
+        72,
+        72,
+        71.5,
+        70.5,
+        70.5,
+        70,
+        69,
+        69,
+        68.5,
+        67.5,
+        67.5,
+        67,
+        66,
+        66,
+        65.5,
+        64.5,
+        64.5,
+        64,
+        63,
+        63,
+        62.5,
+        61.5,
+        61.5,
+        61,
+        60,
+        60,
+        59.5,
+        58.5,
+        58.5,
+        58,
+        57,
+        57,
+        56.5,
+        55.5,
+        55.5,
+        55,
+        54,
+        54,
+        53.5,
+        52.5,
+        52.5,
+        52,
+        51,
+        51,
+        50.5,
+        49.5,
+        49.5,
+        49,
+        48,
+        48,
+        47.5,
+        46.5,
+        46.5,
+        46,
+        45,
+        45,
+        44.5,
+        43.5,
+        43.5,
+        43,
+        42,
+        42,
+        41.5,
+        40.5,
+        40.5,
+        40,
+        39,
+        39
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 51,
+    "runtime": 14585735270,
+    "lpBound": 39,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Denizli 1_Usak 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 2_Aydin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 3_Mugla 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 4_Burdur 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 5_Antalya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 6_Afyonkarahisar 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 7_Isparta 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 8_Batman 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 9_Siirt 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 10_Gazimagusa 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 11_Yalova 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 12_Amasya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 13_Tokat 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 14_Nigde 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 15_Hatay 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 16_Adiyaman 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 17_K._Maras 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 18_Erzurum 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 19_Bartin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 20_Karabuk 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 21_Mersin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 22_Karaman 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 23_Aksaray 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 24_Konya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 25_Sinop 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 26_Samsun 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 27_Adana 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 28_Bilecik 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 29_Giresun 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 30_Hakkari 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 31_Elazig 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 32_Ardahan 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 33_Artvin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 34_Corum 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 39_Ordu 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 35_Bingol 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 36_Van 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 37_Osmaniye 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 38_Agri 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 40_Mardin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 41_Malatya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 42_Sirnak 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 43_Diyarbakir 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 45_Kayseri 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 46_Kars 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 47_Nevsehir 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 48_Gaziantep 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 50_Kilis 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 51_GEANT 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 52_Kirsehir 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 53_Cankiri 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 54_Kastamonu 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 55_Mus 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 56_Eskisehir 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 57_Kocaeli 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 58_Sakarya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 59_Bitlis 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 60_Bursa 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 61_Bolu 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 62_Duzce 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 63_Zonguldak 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 64_Rize 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 65_S._Urfa 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 66_Internet 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 67_Internet 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 68_Trabzon 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 69_Igdir 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 70_Manisa 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 71_Kutahya 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 73_Sivas 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 77_Kirklareli 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 78_Tekirdag 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 79_Edirne 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 80_Canakkale 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Denizli 75_iZMiR@76_Ankara 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 81_Balikesin 0_Denizli 0_Denizli"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Denizli 76_Ankara@75_iZMiR 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 2_Aydin 1_Usak 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 3_Mugla 1_Usak 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 3_Mugla 2_Aydin 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 5_Antalya 4_Burdur 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 6_Afyonkarahisar 4_Burdur 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 6_Afyonkarahisar 5_Antalya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 8_Batman 7_Isparta 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 9_Siirt 7_Isparta 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 9_Siirt 8_Batman 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 11_Yalova 10_Gazimagusa 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 12_Amasya 10_Gazimagusa 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 12_Amasya 11_Yalova 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 14_Nigde 13_Tokat 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 15_Hatay 13_Tokat 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 15_Hatay 14_Nigde 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 17_K._Maras 16_Adiyaman 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 18_Erzurum 16_Adiyaman 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 18_Erzurum 17_K._Maras 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 20_Karabuk 19_Bartin 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 21_Mersin 19_Bartin 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 21_Mersin 20_Karabuk 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 23_Aksaray 22_Karaman 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 24_Konya 22_Karaman 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 24_Konya 23_Aksaray 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 26_Samsun 25_Sinop 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 27_Adana 25_Sinop 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 27_Adana 26_Samsun 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 29_Giresun 28_Bilecik 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 30_Hakkari 28_Bilecik 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 30_Hakkari 29_Giresun 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 32_Ardahan 31_Elazig 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 33_Artvin 31_Elazig 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 33_Artvin 32_Ardahan 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 36_Van 35_Bingol 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 37_Osmaniye 35_Bingol 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 37_Osmaniye 36_Van 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 39_Ordu 38_Agri 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 40_Mardin 39_Ordu 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 40_Mardin 38_Agri 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 42_Sirnak 41_Malatya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 43_Diyarbakir 41_Malatya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 43_Diyarbakir 42_Sirnak 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 46_Kars 45_Kayseri 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 47_Nevsehir 45_Kayseri 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 47_Nevsehir 46_Kars 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 50_Kilis 48_Gaziantep 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 51_GEANT 48_Gaziantep 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 51_GEANT 50_Kilis 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 53_Cankiri 52_Kirsehir 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 54_Kastamonu 52_Kirsehir 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 54_Kastamonu 53_Cankiri 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 56_Eskisehir 55_Mus 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 57_Kocaeli 55_Mus 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 57_Kocaeli 56_Eskisehir 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 59_Bitlis 58_Sakarya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 60_Bursa 58_Sakarya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 60_Bursa 59_Bitlis 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 62_Duzce 61_Bolu 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 63_Zonguldak 61_Bolu 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 63_Zonguldak 62_Duzce 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 65_S._Urfa 64_Rize 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 66_Internet 64_Rize 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 66_Internet 65_S._Urfa 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 68_Trabzon 67_Internet 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 69_Igdir 67_Internet 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 69_Igdir 68_Trabzon 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 71_Kutahya 70_Manisa 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 73_Sivas 70_Manisa 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 73_Sivas 71_Kutahya 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 78_Tekirdag 77_Kirklareli 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 79_Edirne 77_Kirklareli 0_Denizli"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Denizli 79_Edirne 78_Tekirdag 0_Denizli"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Denizli 81_Balikesin 80_Canakkale 0_Denizli"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denizli 81_Balikesin 1_Usak 0_Denizli"
+        }
+    ],
+    "greedySolution": [
+        "0_Denizli 75_iZMiR@76_Ankara 0_Denizli",
+        "0_Denizli 76_Ankara@75_iZMiR 0_Denizli",
+        "0_Denizli 2_Aydin 1_Usak 0_Denizli",
+        "0_Denizli 3_Mugla 1_Usak 0_Denizli",
+        "0_Denizli 5_Antalya 4_Burdur 0_Denizli",
+        "0_Denizli 6_Afyonkarahisar 4_Burdur 0_Denizli",
+        "0_Denizli 8_Batman 7_Isparta 0_Denizli",
+        "0_Denizli 9_Siirt 7_Isparta 0_Denizli",
+        "0_Denizli 11_Yalova 10_Gazimagusa 0_Denizli",
+        "0_Denizli 12_Amasya 10_Gazimagusa 0_Denizli",
+        "0_Denizli 14_Nigde 13_Tokat 0_Denizli",
+        "0_Denizli 15_Hatay 13_Tokat 0_Denizli",
+        "0_Denizli 17_K._Maras 16_Adiyaman 0_Denizli",
+        "0_Denizli 18_Erzurum 16_Adiyaman 0_Denizli",
+        "0_Denizli 20_Karabuk 19_Bartin 0_Denizli",
+        "0_Denizli 21_Mersin 19_Bartin 0_Denizli",
+        "0_Denizli 23_Aksaray 22_Karaman 0_Denizli",
+        "0_Denizli 24_Konya 22_Karaman 0_Denizli",
+        "0_Denizli 26_Samsun 25_Sinop 0_Denizli",
+        "0_Denizli 27_Adana 25_Sinop 0_Denizli",
+        "0_Denizli 29_Giresun 28_Bilecik 0_Denizli",
+        "0_Denizli 30_Hakkari 28_Bilecik 0_Denizli",
+        "0_Denizli 32_Ardahan 31_Elazig 0_Denizli",
+        "0_Denizli 33_Artvin 31_Elazig 0_Denizli",
+        "0_Denizli 37_Osmaniye 35_Bingol 0_Denizli",
+        "0_Denizli 37_Osmaniye 36_Van 0_Denizli",
+        "0_Denizli 39_Ordu 38_Agri 0_Denizli",
+        "0_Denizli 40_Mardin 39_Ordu 0_Denizli",
+        "0_Denizli 42_Sirnak 41_Malatya 0_Denizli",
+        "0_Denizli 43_Diyarbakir 41_Malatya 0_Denizli",
+        "0_Denizli 46_Kars 45_Kayseri 0_Denizli",
+        "0_Denizli 47_Nevsehir 45_Kayseri 0_Denizli",
+        "0_Denizli 50_Kilis 48_Gaziantep 0_Denizli",
+        "0_Denizli 51_GEANT 48_Gaziantep 0_Denizli",
+        "0_Denizli 53_Cankiri 52_Kirsehir 0_Denizli",
+        "0_Denizli 54_Kastamonu 52_Kirsehir 0_Denizli",
+        "0_Denizli 56_Eskisehir 55_Mus 0_Denizli",
+        "0_Denizli 57_Kocaeli 55_Mus 0_Denizli",
+        "0_Denizli 59_Bitlis 58_Sakarya 0_Denizli",
+        "0_Denizli 60_Bursa 59_Bitlis 0_Denizli",
+        "0_Denizli 62_Duzce 61_Bolu 0_Denizli",
+        "0_Denizli 63_Zonguldak 61_Bolu 0_Denizli",
+        "0_Denizli 65_S._Urfa 64_Rize 0_Denizli",
+        "0_Denizli 66_Internet 64_Rize 0_Denizli",
+        "0_Denizli 68_Trabzon 67_Internet 0_Denizli",
+        "0_Denizli 69_Igdir 67_Internet 0_Denizli",
+        "0_Denizli 73_Sivas 70_Manisa 0_Denizli",
+        "0_Denizli 73_Sivas 71_Kutahya 0_Denizli",
+        "0_Denizli 78_Tekirdag 77_Kirklareli 0_Denizli",
+        "0_Denizli 79_Edirne 77_Kirklareli 0_Denizli",
+        "0_Denizli 81_Balikesin 80_Canakkale 0_Denizli"
+    ]
+}

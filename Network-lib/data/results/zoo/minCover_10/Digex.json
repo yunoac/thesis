@@ -1,0 +1,528 @@
+{
+    "initialCoverSize": 95,
+    "times": [
+        1417235,
+        3612351,
+        5772352,
+        7964996,
+        10065417,
+        13399483,
+        16144437,
+        18445311,
+        20540462,
+        22673854,
+        24844555,
+        27073425,
+        30120626,
+        32881216,
+        35608277,
+        37767042,
+        40161299,
+        42288965,
+        44696581,
+        47302430,
+        50184696,
+        52656687,
+        54977325,
+        57241947,
+        59554210,
+        63160603,
+        65716575,
+        68813895,
+        71443957,
+        73735103,
+        77526908,
+        80656173,
+        83726050,
+        86791030,
+        89362076,
+        92492980,
+        96208893,
+        98863520,
+        101932080,
+        104558861,
+        107049807,
+        109653566,
+        112939983,
+        115585070,
+        118664936,
+        121789085,
+        124442069,
+        127068185,
+        130186841,
+        132654026,
+        135894894,
+        138900077,
+        141347764,
+        144021035,
+        147259671,
+        149918156,
+        153214859,
+        156292513,
+        158729790,
+        162189909,
+        165058517,
+        167848999,
+        170768410,
+        173310603,
+        176305556,
+        179992887,
+        183443067,
+        187384370
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 1_Omaha 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 7_St_Louis 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 23_Hayward 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 1_Omaha 15_Charlotte 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 5_Jacksonville 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 24_Los_Angeles 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 0_Chicago 4_Atlanta 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 4_Atlanta 0_Chicago 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 0_Chicago 9_Tampa 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 4_Atlanta 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore 10_Baltimore,19_Washington,_DC 0_Chicago 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore 10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 12_Trenton 11_Philadelphia,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark 11_Philadelphia,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 18_New_York 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 19_Washington,_DC,10_Baltimore 10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 4_Atlanta 1_Omaha 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 26_Fort_Worth 19_Washington,_DC,10_Baltimore 10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 0_Chicago 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 0_Chicago 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 1_Omaha 27_Austin 1_Omaha 27_Austin 1_Omaha 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 24_Los_Angeles 8_Orlando 6_Kansas_City 8_Orlando 24_Los_Angeles 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.6178266178266177,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 9_Tampa 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 1_Omaha 6_Kansas_City 1_Omaha 6_Kansas_City 1_Omaha 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 5_Jacksonville 27_Austin 5_Jacksonville 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 21_Louisville 25_Dallas 21_Louisville 25_Dallas 21_Louisville 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 4_Atlanta 2_Columbus 4_Atlanta 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 30_Nashville 27_Austin 30_Nashville 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 7_St_Louis 6_Kansas_City 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 6_Kansas_City 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.013431013431013425,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 23_Hayward 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 6_Kansas_City 27_Austin 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 30_Nashville 6_Kansas_City 30_Nashville 6_Kansas_City 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 16_Miami 14_Richmond 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 27_Austin 0_Chicago 24_Los_Angeles 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 18_New_York,17_Newark 17_Newark,18_New_York 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.01343101343101353,
+            "cycle": "10_Baltimore,19_Washington,_DC 19_Washington,_DC,10_Baltimore 10_Baltimore,19_Washington,_DC 9_Tampa 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 7_St_Louis 9_Tampa 23_Hayward 9_Tampa 23_Hayward 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 6_Kansas_City 23_Hayward 6_Kansas_City 23_Hayward 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 26_Fort_Worth 19_Washington,_DC,10_Baltimore 10_Baltimore,19_Washington,_DC 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 0_Chicago 27_Austin 8_Orlando 0_Chicago 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 1_Omaha 6_Kansas_City 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 6_Kansas_City 8_Orlando 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 26_Fort_Worth 28_San_Francisco 0_Chicago 27_Austin 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.28327228327228315,
+            "cycle": "10_Baltimore,19_Washington,_DC 24_Los_Angeles 18_New_York,17_Newark 17_Newark,18_New_York 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 27_Austin 1_Omaha 8_Orlando 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 30_Nashville 23_Hayward 6_Kansas_City 23_Hayward 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 9_Tampa 23_Hayward 9_Tampa 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 19_Washington,_DC,10_Baltimore 10_Baltimore,19_Washington,_DC 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.23076923076923073,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 24_Los_Angeles 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 5_Jacksonville 0_Chicago 5_Jacksonville 0_Chicago 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 16_Miami 0_Chicago 27_Austin 0_Chicago 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 1_Omaha 19_Washington,_DC,10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.1550671550671551,
+            "cycle": "10_Baltimore,19_Washington,_DC 19_Washington,_DC,10_Baltimore 10_Baltimore,19_Washington,_DC 9_Tampa 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 7_St_Louis 8_Orlando 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 7_St_Louis 9_Tampa 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 8_Orlando 27_Austin 8_Orlando 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.4786324786324787,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 0_Chicago 27_Austin 0_Chicago 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 7_St_Louis 23_Hayward 9_Tampa 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 24_Los_Angeles 7_St_Louis 24_Los_Angeles 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.16483516483516497,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 24_Los_Angeles 8_Orlando 24_Los_Angeles 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.3870573870573869,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 27_Austin 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 1_Omaha 27_Austin 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 7_St_Louis 8_Orlando 6_Kansas_City 1_Omaha 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 23_Hayward 6_Kansas_City 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 24_Los_Angeles 9_Tampa 7_St_Louis 9_Tampa 7_St_Louis 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.030525030525030607,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 30_Nashville 27_Austin 30_Nashville 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 0_Chicago 24_Los_Angeles 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.16971916971916956,
+            "cycle": "10_Baltimore,19_Washington,_DC 23_Hayward 19_Washington,_DC,10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 26_Fort_Worth 30_Nashville 26_Fort_Worth 30_Nashville 26_Fort_Worth 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.2173382173382174,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 19_Washington,_DC,10_Baltimore 10_Baltimore,11_Philadelphia 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.16117216117216107,
+            "cycle": "10_Baltimore,19_Washington,_DC 23_Hayward 9_Tampa 23_Hayward 9_Tampa 24_Los_Angeles 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.10378510378510393,
+            "cycle": "10_Baltimore,19_Washington,_DC 24_Los_Angeles 8_Orlando 24_Los_Angeles 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 9_Tampa 23_Hayward 27_Austin 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.042735042735042555,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 27_Austin 0_Chicago 27_Austin 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 8_Orlando 6_Kansas_City 8_Orlando 6_Kansas_City 8_Orlando 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.15140415140415153,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 24_Los_Angeles 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.1037851037851038,
+            "cycle": "10_Baltimore,19_Washington,_DC 18_New_York,17_Newark 17_Newark,18_New_York 9_Tampa 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0.04761904761904774,
+            "cycle": "10_Baltimore,11_Philadelphia 17_Newark,18_New_York 24_Los_Angeles 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 30_Nashville 23_Hayward 30_Nashville 23_Hayward 30_Nashville 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 23_Hayward 9_Tampa 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.06105006105006104,
+            "cycle": "10_Baltimore,19_Washington,_DC 30_Nashville 23_Hayward 9_Tampa 18_New_York,17_Newark 11_Philadelphia,10_Baltimore"
+        },
+        {
+            "x": 0.010989010989010908,
+            "cycle": "10_Baltimore,19_Washington,_DC 9_Tampa 23_Hayward 9_Tampa 23_Hayward 9_Tampa 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 26_Fort_Worth 28_San_Francisco 26_Fort_Worth 28_San_Francisco 26_Fort_Worth 19_Washington,_DC,10_Baltimore"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Baltimore,19_Washington,_DC 27_Austin 1_Omaha 27_Austin 1_Omaha 27_Austin 19_Washington,_DC,10_Baltimore"
+        }
+    ],
+    "values": [
+        14,
+        12,
+        10.5,
+        6.5,
+        6.5,
+        5.5,
+        5,
+        4.833333333333334,
+        4.833333333333334,
+        4.666666666666666,
+        4.666666666666666,
+        4.309859154929578,
+        4.197530864197531,
+        4.110328638497653,
+        4.000000000000001,
+        4,
+        4,
+        4,
+        3.911812297734628,
+        3.842592592592593,
+        3.750000000000001,
+        3.710526315789474,
+        3.688616071428571,
+        3.6762295081967205,
+        3.668441704035875,
+        3.650099403578529,
+        3.646042713567841,
+        3.6086571772857363,
+        3.598270956445612,
+        3.5928567165960508,
+        3.586374830006983,
+        3.578428060753258,
+        3.5756375732615244,
+        3.575637573261524,
+        3.570047152805114,
+        3.565881884316232,
+        3.5648835848074922,
+        3.56246926472106,
+        3.5577996612933585,
+        3.5571602847176016,
+        3.5467199876951474,
+        3.541967350942339,
+        3.5418803552442304,
+        3.533965462860747,
+        3.5121027099610096,
+        3.4931562631357713,
+        3.488109238207239,
+        3.487787693752936,
+        3.485444074323945,
+        3.4854410377959586,
+        3.4785323110624318,
+        3.476190476190476,
+        3.4761904761904763,
+        3.468593030329365,
+        3.4594207428243995,
+        3.4571674644981676,
+        3.4561399438554155,
+        3.4547096362960312,
+        3.4545988089415687,
+        3.454350161117078,
+        3.452233500677929,
+        3.448062015503876,
+        3.44747067712456,
+        3.4474706771245596,
+        3.4444742489270386,
+        3.444444444444445,
+        3.4444444444444446,
+        3.4444444444444446
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 493274,
+    "lpBound": 3.4444444444444446
+}

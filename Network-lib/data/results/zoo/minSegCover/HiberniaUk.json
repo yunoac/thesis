@@ -1,0 +1,14 @@
+{
+    "nbCycles": 6,
+    "runtime": 822355,
+    "cycles": [
+        "0_London 3_None,0_London 0_London",
+        "0_London 1_Southport 0_London 0_London",
+        "0_London 5_Peterborough 0_London 0_London",
+        "0_London 1_Southport 5_Peterborough 0_London",
+        "0_London 5_Peterborough 1_Southport 0_London",
+        "0_London 2_None 0_London 0_London"
+    ],
+    "segmentCost": 4,
+    "source": "0_London"
+}

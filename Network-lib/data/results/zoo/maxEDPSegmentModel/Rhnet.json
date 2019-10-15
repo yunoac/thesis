@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 1,
+            "runtime": 16722602,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 11753060,
+            "dest": "9_Skulagata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 2,
+            "runtime": 13674674,
+            "dest": "10_Taeknigarour",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 1,
+            "runtime": 29345037,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 1,
+            "runtime": 15965745,
+            "dest": "2_FSA-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 2,
+            "runtime": 15314232,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6064558,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 2,
+            "runtime": 15166043,
+            "dest": "2_FSA-Akureyri",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 14052943,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 2,
+            "runtime": 18569867,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 1,
+            "runtime": 27385404,
+            "dest": "4_RIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Solborg-Akureyri",
+            "nbpSR": 1,
+            "runtime": 11765764,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 11898784,
+            "dest": "9_Skulagata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 3,
+            "runtime": 21568827,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 2,
+            "runtime": 16090080,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6148619,
+            "dest": "5_NORDUnet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_RIX",
+            "nbpSR": 1,
+            "runtime": 6539658,
+            "dest": "15_Keldhaholt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 2,
+            "runtime": 19291452,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 1,
+            "runtime": 16673596,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6414925,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 15548915,
+            "dest": "2_FSA-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 11641219,
+            "dest": "9_Skulagata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 1,
+            "runtime": 12715347,
+            "dest": "4_RIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 18681249,
+            "dest": "8_Grensas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 1,
+            "runtime": 16806734,
+            "dest": "1_Fjarski",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 2,
+            "runtime": 11936203,
+            "dest": "15_Keldhaholt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 2,
+            "runtime": 31190818,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 2,
+            "runtime": 12619729,
+            "dest": "8_Grensas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6380040,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 2,
+            "runtime": 13860575,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 12985063,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 22622504,
+            "dest": "15_Keldhaholt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Solborg-Akureyri",
+            "nbpSR": 1,
+            "runtime": 15297894,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 32910151,
+            "dest": "3_DST-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 2,
+            "runtime": 13664369,
+            "dest": "8_Grensas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6651886,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Bustaoavegur",
+            "nbpSR": 1,
+            "runtime": 14159925,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 18729514,
+            "dest": "1_Fjarski",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 14522611,
+            "dest": "10_Taeknigarour",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 1,
+            "runtime": 16867768,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Skulagata",
+            "nbpSR": 1,
+            "runtime": 12153071,
+            "dest": "3_DST-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 2,
+            "runtime": 13608230,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 12221840,
+            "dest": "5_NORDUnet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 2,
+            "runtime": 29208867,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 1,
+            "runtime": 15968503,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 13005652,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Skulagata",
+            "nbpSR": 2,
+            "runtime": 14472326,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 21083206,
+            "dest": "3_DST-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Bustaoavegur",
+            "nbpSR": 1,
+            "runtime": 18476557,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6230510,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 1,
+            "runtime": 16414218,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 18959658,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 10246979,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 1,
+            "runtime": 12507556,
+            "dest": "2_FSA-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 2,
+            "runtime": 20820064,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 19896593,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 14733440,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 14340284,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_RIX",
+            "nbpSR": 1,
+            "runtime": 5677263,
+            "dest": "10_Taeknigarour",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6223635,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 1,
+            "runtime": 16484234,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 2,
+            "runtime": 17225617,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Bustaoavegur",
+            "nbpSR": 2,
+            "runtime": 19048304,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 13635139,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 2,
+            "runtime": 12565597,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 14758885,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Solborg-Akureyri",
+            "nbpSR": 1,
+            "runtime": 11732184,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Bustaoavegur",
+            "nbpSR": 2,
+            "runtime": 12260384,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Skulagata",
+            "nbpSR": 1,
+            "runtime": 14297643,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_RIX",
+            "nbpSR": 1,
+            "runtime": 6226730,
+            "dest": "8_Grensas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 17580519,
+            "dest": "8_Grensas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_RIX",
+            "nbpSR": 1,
+            "runtime": 10399317,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 2,
+            "runtime": 12191040,
+            "dest": "8_Grensas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 12690589,
+            "dest": "3_DST-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 18074713,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 13624026,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 16257190,
+            "dest": "10_Taeknigarour",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NORDUnet",
+            "nbpSR": 1,
+            "runtime": 17592446,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 1,
+            "runtime": 16765417,
+            "dest": "2_FSA-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 12956727,
+            "dest": "7_Bifrost",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_RIX",
+            "nbpSR": 1,
+            "runtime": 6193122,
+            "dest": "9_Skulagata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 2,
+            "runtime": 28358725,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Ofanleiti",
+            "nbpSR": 1,
+            "runtime": 16237845,
+            "dest": "6_Hvanneyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grensas",
+            "nbpSR": 2,
+            "runtime": 16569126,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Fjarski",
+            "nbpSR": 1,
+            "runtime": 11612509,
+            "dest": "11_Sturlugata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Fjarski",
+            "nbpSR": 1,
+            "runtime": 11448546,
+            "dest": "4_RIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 1,
+            "runtime": 30469126,
+            "dest": "1_Fjarski",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Hvanneyri",
+            "nbpSR": 1,
+            "runtime": 16589150,
+            "dest": "5_NORDUnet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Solborg-Akureyri",
+            "nbpSR": 1,
+            "runtime": 10209729,
+            "dest": "5_NORDUnet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 11136786,
+            "dest": "1_Fjarski",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 14696141,
+            "dest": "15_Keldhaholt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Keldhaholt",
+            "nbpSR": 2,
+            "runtime": 15307498,
+            "dest": "9_Skulagata",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_FSA-Akureyri",
+            "nbpSR": 1,
+            "runtime": 11453198,
+            "dest": "14_Ofanleiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 2,
+            "runtime": 17464239,
+            "dest": "8_Grensas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Solborg-Akureyri",
+            "nbpSR": 1,
+            "runtime": 17124800,
+            "dest": "9_Skulagata",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Taeknigarour",
+            "nbpSR": 2,
+            "runtime": 22737039,
+            "dest": "12_Hringbraut",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Hringbraut",
+            "nbpSR": 1,
+            "runtime": 12569751,
+            "dest": "0_Solborg-Akureyri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bifrost",
+            "nbpSR": 1,
+            "runtime": 6119292,
+            "dest": "8_Grensas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_DST-Akureyri",
+            "nbpSR": 1,
+            "runtime": 14528909,
+            "dest": "8_Grensas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Sturlugata",
+            "nbpSR": 2,
+            "runtime": 19659289,
+            "dest": "13_Bustaoavegur",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 6525830,
+            "dest": "7_Casa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 24816591,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6473885,
+            "dest": "10_University_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 6412771,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 6452877,
+            "dest": "2_Rabat",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 1,
+            "runtime": 25020129,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 17055494,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 2,
+            "runtime": 18202230,
+            "dest": "2_Rabat",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 10030194,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 1,
+            "runtime": 24317585,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 6453232,
+            "dest": "4_Tanger",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Marrkech",
+            "nbpSR": 2,
+            "runtime": 12148757,
+            "dest": "6_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 24787967,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 7042522,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 6368085,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 21819106,
+            "dest": "5_University_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Tanger",
+            "nbpSR": 2,
+            "runtime": 24412416,
+            "dest": "15_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 9356085,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 2,
+            "runtime": 22748321,
+            "dest": "7_Casa",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 17364583,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 6428229,
+            "dest": "2_Rabat",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 21739750,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6426748,
+            "dest": "4_Tanger",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 1,
+            "runtime": 16786147,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 6261168,
+            "dest": "1_Fes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 7547734,
+            "dest": "15_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 8008675,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 10245634,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 15621636,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6358488,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 2,
+            "runtime": 34774878,
+            "dest": "0_Marrkech",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 2,
+            "runtime": 20321227,
+            "dest": "15_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Marrkech",
+            "nbpSR": 1,
+            "runtime": 12556265,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 6587869,
+            "dest": "3_Agadir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 7441502,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 20719263,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_None",
+            "nbpSR": 1,
+            "runtime": 18393766,
+            "dest": "0_Marrkech",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 2,
+            "runtime": 28903705,
+            "dest": "1_Fes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 6333214,
+            "dest": "10_University_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 6463733,
+            "dest": "0_Marrkech",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_University_3",
+            "nbpSR": 1,
+            "runtime": 6552305,
+            "dest": "3_Agadir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 6457307,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 6831108,
+            "dest": "5_University_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 9576930,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 9494670,
+            "dest": "7_Casa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 6345721,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_University_3",
+            "nbpSR": 1,
+            "runtime": 6327306,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 6545192,
+            "dest": "3_Agadir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_None",
+            "nbpSR": 1,
+            "runtime": 27284720,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 2,
+            "runtime": 19158742,
+            "dest": "6_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 2,
+            "runtime": 25250702,
+            "dest": "0_Marrkech",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 1,
+            "runtime": 21786484,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 17333722,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 8663515,
+            "dest": "2_Rabat",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 1,
+            "runtime": 30373041,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 2,
+            "runtime": 16846088,
+            "dest": "6_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 1,
+            "runtime": 20509788,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 6521472,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Tanger",
+            "nbpSR": 1,
+            "runtime": 16047127,
+            "dest": "10_University_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 16430005,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 6442028,
+            "dest": "7_Casa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 2,
+            "runtime": 14985703,
+            "dest": "0_Marrkech",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_None",
+            "nbpSR": 1,
+            "runtime": 16364452,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 1,
+            "runtime": 20682502,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 8269102,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 1,
+            "runtime": 16041795,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Marrkech",
+            "nbpSR": 1,
+            "runtime": 12373789,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_None",
+            "nbpSR": 1,
+            "runtime": 17253759,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_University_3",
+            "nbpSR": 1,
+            "runtime": 6461727,
+            "dest": "7_Casa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Tanger",
+            "nbpSR": 1,
+            "runtime": 15960052,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 1,
+            "runtime": 17070509,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Tanger",
+            "nbpSR": 1,
+            "runtime": 19604994,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6483304,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 7152833,
+            "dest": "3_Agadir",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 6641965,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 29831752,
+            "dest": "13_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 1,
+            "runtime": 15677768,
+            "dest": "10_University_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_University_2",
+            "nbpSR": 1,
+            "runtime": 7361246,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6678375,
+            "dest": "2_Rabat",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 8129979,
+            "dest": "7_Casa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Tanger",
+            "nbpSR": 1,
+            "runtime": 21285608,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 6505488,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_University_4",
+            "nbpSR": 1,
+            "runtime": 6482824,
+            "dest": "6_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Institution_1",
+            "nbpSR": 1,
+            "runtime": 6986179,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Fes",
+            "nbpSR": 1,
+            "runtime": 15582903,
+            "dest": "11_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Fes",
+            "nbpSR": 2,
+            "runtime": 16799632,
+            "dest": "4_Tanger",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 6316781,
+            "dest": "1_Fes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_None",
+            "nbpSR": 1,
+            "runtime": 25060935,
+            "dest": "5_University_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Marrkech",
+            "nbpSR": 1,
+            "runtime": 12374657,
+            "dest": "5_University_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 2,
+            "runtime": 15860827,
+            "dest": "1_Fes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 2,
+            "runtime": 17546003,
+            "dest": "15_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_None",
+            "nbpSR": 1,
+            "runtime": 29235484,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Rabat",
+            "nbpSR": 1,
+            "runtime": 15990985,
+            "dest": "14_University_4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 6450710,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Marrkech",
+            "nbpSR": 1,
+            "runtime": 12360860,
+            "dest": "9_University_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_University_1",
+            "nbpSR": 1,
+            "runtime": 6378751,
+            "dest": "12_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet",
+            "nbpSR": 1,
+            "runtime": 6291355,
+            "dest": "0_Marrkech",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Casa",
+            "nbpSR": 1,
+            "runtime": 16373262,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Agadir",
+            "nbpSR": 1,
+            "runtime": 20911359,
+            "dest": "8_Institution_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT",
+            "nbpSR": 1,
+            "runtime": 9748305,
+            "dest": "13_None",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

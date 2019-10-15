@@ -1,0 +1,26 @@
+{
+    "nbCycles": 18,
+    "runtime": 3009359,
+    "cycles": [
+        "2_Detroit 0_Montreal 2_Detroit 2_Detroit",
+        "2_Detroit 0_Montreal 6_New_York 2_Detroit",
+        "2_Detroit 6_New_York 0_Montreal 2_Detroit",
+        "2_Detroit 5_Bethesda 10_Vancouver 2_Detroit",
+        "2_Detroit 10_Vancouver 5_Bethesda 2_Detroit",
+        "2_Detroit 10_Vancouver 6_New_York 2_Detroit",
+        "2_Detroit 6_New_York 10_Vancouver 2_Detroit",
+        "2_Detroit 8_Schaumburg 2_Detroit 2_Detroit",
+        "2_Detroit 15_Atlanta 0_Montreal 2_Detroit",
+        "2_Detroit 14_Dallas 4_Columbus,2_Detroit",
+        "2_Detroit 16_Tampa 0_Montreal 2_Detroit",
+        "2_Detroit 12_Los_Angeles 2_Detroit 2_Detroit",
+        "2_Detroit,9_St_Louis 12_Los_Angeles 2_Detroit",
+        "2_Detroit,4_Columbus 10_Vancouver 2_Detroit",
+        "2_Detroit 8_Schaumburg 14_Dallas 2_Detroit",
+        "2_Detroit 14_Dallas 8_Schaumburg 2_Detroit",
+        "2_Detroit,4_Columbus 14_Dallas 2_Detroit",
+        "2_Detroit 0_Montreal 15_Atlanta 2_Detroit"
+    ],
+    "segmentCost": 4,
+    "source": "2_Detroit"
+}

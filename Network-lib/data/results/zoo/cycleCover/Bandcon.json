@@ -1,0 +1,313 @@
+{
+    "initialCoverSize": 47,
+    "times": [
+        1477832,
+        2456740,
+        3389296,
+        4369395,
+        5281433,
+        6256007,
+        7128028,
+        7977331,
+        8786986,
+        9691203,
+        10605285,
+        11496640,
+        12395725,
+        13295031,
+        14267285,
+        15162624,
+        16124198,
+        17155006,
+        18172704,
+        19157015,
+        20046918,
+        21005171,
+        21986720,
+        22908419,
+        23843416,
+        24822045
+    ],
+    "finalCoverSize": 7,
+    "minSegCycles": [
+        "0_Paris 2_Brussels 0_Paris 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 0_Paris 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 6_Miami@1_Atlanta 0_Paris",
+        "0_Paris 2_Brussels 1_Atlanta 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 5_Las_vegas 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 0_Paris 0_Paris 0_Paris",
+        "0_Paris 5_Las_vegas 4_Phoenix 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 6_Miami 4_Phoenix 0_Paris",
+        "0_Paris 4_Phoenix 6_Miami@1_Atlanta 0_Paris",
+        "0_Paris 9_Houston 0_Paris 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 11_Boston 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 14_San_Jose 0_Paris 0_Paris",
+        "0_Paris 10_Philadelphia 11_Boston 0_Paris 0_Paris",
+        "0_Paris 10_Philadelphia 0_Paris 0_Paris 0_Paris",
+        "0_Paris 18_Toronto 0_Paris 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 2_Brussels 0_Paris 0_Paris",
+        "0_Paris 11_Boston 8_Los_Angeles@4_Phoenix 0_Paris",
+        "0_Paris 4_Phoenix 15_San_Francisco 4_Phoenix 0_Paris",
+        "0_Paris 4_Phoenix 15_San_Francisco 16_Seattle 0_Paris",
+        "0_Paris 16_Seattle 15_San_Francisco 4_Phoenix 0_Paris",
+        "0_Paris 11_Boston 4_Phoenix 0_Paris 0_Paris",
+        "0_Paris 11_Boston 10_Philadelphia 0_Paris 0_Paris",
+        "0_Paris 5_Las_vegas 2_Brussels 5_Las_vegas 0_Paris",
+        "0_Paris 9_Houston 6_Miami 9_Houston 0_Paris",
+        "0_Paris 11_Boston 6_Miami 11_Boston 0_Paris",
+        "0_Paris 2_Brussels 9_Houston 2_Brussels 0_Paris",
+        "0_Paris 10_Philadelphia 11_Boston 9_Houston 0_Paris",
+        "0_Paris 2_Brussels 0_Paris 2_Brussels 0_Paris",
+        "0_Paris 2_Brussels 5_Las_vegas 4_Phoenix 0_Paris",
+        "0_Paris 5_Las_vegas 4_Phoenix 2_Brussels 0_Paris",
+        "0_Paris 10_Philadelphia 11_Boston 10_Philadelphia 0_Paris",
+        "0_Paris 1_Atlanta 6_Miami 11_Boston 0_Paris",
+        "0_Paris 1_Atlanta 2_Brussels 1_Atlanta 0_Paris",
+        "0_Paris 11_Boston 2_Brussels 11_Boston 0_Paris",
+        "0_Paris 16_Seattle 15_San_Francisco 16_Seattle 0_Paris",
+        "0_Paris 9_Houston 14_San_Jose 4_Phoenix 0_Paris",
+        "0_Paris 5_Las_vegas 4_Phoenix 5_Las_vegas 0_Paris",
+        "0_Paris 9_Houston 11_Boston 9_Houston 0_Paris",
+        "0_Paris 11_Boston 6_Miami 1_Atlanta 0_Paris",
+        "0_Paris 9_Houston 11_Boston 10_Philadelphia 0_Paris",
+        "0_Paris 9_Houston 6_Miami 1_Atlanta 0_Paris",
+        "0_Paris 4_Phoenix 2_Brussels 4_Phoenix 0_Paris",
+        "0_Paris 9_Houston 2_Brussels 9_Houston 0_Paris",
+        "0_Paris 5_Las_vegas 21_New_York 10_Philadelphia 0_Paris",
+        "0_Paris 5_Las_vegas 15_San_Francisco 4_Phoenix 0_Paris",
+        "0_Paris 10_Philadelphia 21_New_York 10_Philadelphia 0_Paris",
+        "0_Paris 11_Boston 10_Philadelphia 11_Boston 0_Paris"
+    ],
+    "values": [
+        13,
+        13,
+        12,
+        10.5,
+        9,
+        9,
+        9,
+        9,
+        8.5,
+        7.75,
+        7.75,
+        7.75,
+        7.75,
+        7.75,
+        7.75,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 8,
+    "runtime": 33982580,
+    "lpBound": 7,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Paris 2_Brussels 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 1_Atlanta 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 1_Atlanta 6_Miami@1_Atlanta 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 2_Brussels 1_Atlanta 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 5_Las_vegas 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 5_Las_vegas 4_Phoenix 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 1_Atlanta 6_Miami 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 6_Miami@1_Atlanta 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 11_Boston 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 14_San_Jose 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 10_Philadelphia 11_Boston 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 10_Philadelphia 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 18_Toronto 0_Paris 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 1_Atlanta 2_Brussels 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 8_Los_Angeles@4_Phoenix 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 15_San_Francisco 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 4_Phoenix 15_San_Francisco 16_Seattle 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 16_Seattle 15_San_Francisco 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 4_Phoenix 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 10_Philadelphia 0_Paris 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 5_Las_vegas 2_Brussels 5_Las_vegas 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 6_Miami 9_Houston 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 11_Boston 6_Miami 11_Boston 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 2_Brussels 9_Houston 2_Brussels 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 10_Philadelphia 11_Boston 9_Houston 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 2_Brussels 0_Paris 2_Brussels 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 2_Brussels 5_Las_vegas 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 5_Las_vegas 4_Phoenix 2_Brussels 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 10_Philadelphia 11_Boston 10_Philadelphia 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 1_Atlanta 6_Miami 11_Boston 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 1_Atlanta 2_Brussels 1_Atlanta 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 2_Brussels 11_Boston 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 16_Seattle 15_San_Francisco 16_Seattle 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 14_San_Jose 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 5_Las_vegas 4_Phoenix 5_Las_vegas 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 11_Boston 9_Houston 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 6_Miami 1_Atlanta 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 11_Boston 10_Philadelphia 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 6_Miami 1_Atlanta 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 4_Phoenix 2_Brussels 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 9_Houston 2_Brussels 9_Houston 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 5_Las_vegas 21_New_York 10_Philadelphia 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 5_Las_vegas 15_San_Francisco 4_Phoenix 0_Paris"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Paris 10_Philadelphia 21_New_York 10_Philadelphia 0_Paris"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Paris 11_Boston 10_Philadelphia 11_Boston 0_Paris"
+        }
+    ],
+    "greedySolution": [
+        "0_Paris 1_Atlanta 6_Miami@1_Atlanta 0_Paris",
+        "0_Paris 4_Phoenix 15_San_Francisco 4_Phoenix 0_Paris",
+        "0_Paris 11_Boston 6_Miami 11_Boston 0_Paris",
+        "0_Paris 2_Brussels 9_Houston 2_Brussels 0_Paris",
+        "0_Paris 10_Philadelphia 11_Boston 9_Houston 0_Paris",
+        "0_Paris 16_Seattle 15_San_Francisco 16_Seattle 0_Paris",
+        "0_Paris 5_Las_vegas 4_Phoenix 5_Las_vegas 0_Paris",
+        "0_Paris 5_Las_vegas 21_New_York 10_Philadelphia 0_Paris"
+    ]
+}

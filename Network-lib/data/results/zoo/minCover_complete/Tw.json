@@ -1,0 +1,1280 @@
+{
+    "initialCoverSize": 251,
+    "times": [
+        5745029,
+        33159697,
+        62225194,
+        89496120,
+        117709943,
+        145956962,
+        174358442,
+        201549725,
+        230463158,
+        258663605,
+        289471856,
+        316619054,
+        343641779,
+        373320258,
+        402013270,
+        429708512,
+        456717690,
+        485754154,
+        513097708,
+        542387536,
+        571058759,
+        598518341,
+        627234528,
+        654683491,
+        682010730,
+        710683572,
+        740215961,
+        767978146,
+        795835941,
+        825406495,
+        852792477,
+        881360668,
+        912510660,
+        941376474,
+        968594867,
+        996905193,
+        1024243638,
+        1053000855,
+        1081587136,
+        1108725444,
+        1135735081,
+        1162560654,
+        1191017948,
+        1218086925,
+        1245348001,
+        1272481496,
+        1301235599,
+        1329660270,
+        1358384887,
+        1386438983,
+        1416565022,
+        1444210476,
+        1472606574,
+        1500239706,
+        1529353825,
+        1557104690,
+        1585804876,
+        1613259328,
+        1640450688,
+        1668899669,
+        1697259606,
+        1725695522,
+        1753053860,
+        1783079005,
+        1810496737,
+        1840288238,
+        1867847704,
+        1898336464,
+        1925824118,
+        1955658834,
+        1983888859,
+        2011069381,
+        2040808712,
+        2068993849,
+        2096447221,
+        2124115063,
+        2154794679,
+        2182025377,
+        2209291325,
+        2238001880,
+        2266987282,
+        2294471475,
+        2325062036,
+        2354604681,
+        2382839755,
+        2413684942,
+        2445342477,
+        2472920312,
+        2505981843,
+        2534301811,
+        2565795885,
+        2593478725,
+        2623654155,
+        2651147666,
+        2678972468,
+        2707533965,
+        2736802033,
+        2764447481,
+        2792110590,
+        2822242870,
+        2850684642,
+        2878121066,
+        2907772159,
+        2938188514,
+        2966060126,
+        2997395989,
+        3026228464,
+        3057881028,
+        3087456037,
+        3118151435,
+        3147708196,
+        3175188730,
+        3207731826,
+        3235351890,
+        3262783838,
+        3293723972,
+        3324202566,
+        3352222961,
+        3386158857,
+        3414355672,
+        3442121530,
+        3475995451,
+        3504041610,
+        3532503732,
+        3560884404,
+        3591565559,
+        3619120519,
+        3651244788,
+        3678996031,
+        3705991668,
+        3735337644,
+        3765667828
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 1_Orange_County,0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 0_San_Diego,1_Orange_County 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 1_Orange_County,0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 3_Honolulu 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 6_Los_Angeles 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 4_San_Louis_Obispo 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0.6,
+            "cycle": "0_San_Diego 4_San_Louis_Obispo 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 7_Santa_Barbara 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 10_Oakland 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 55_Las_Vegas 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 56_Bakersfield 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 4_San_Louis_Obispo 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 9_Baltimore,27_Washington_DC 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 32_Denver 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 69_Spokane 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 11_Sacramento 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 57_Fresno 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 71_Portland 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_San_Diego 12_Rochester 14_Dayton 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 13_Binghamton 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_San_Diego 8_New_Jersey 35_Lexington 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 14_Dayton 12_Rochester 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 8_New_Jersey 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 14_Dayton 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 17_Memphis 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 18_Lafayette,51_Lake_Charles 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 18_Lafayette 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 21_Jackson 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 22_Mobile 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 18_Lafayette 23_Montgomery 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 23_Montgomery 18_Lafayette 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 37_Columnia 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 40_Greenville 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 53_Jacksonville 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 31_Orlando 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 36_Cincinnati 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 62_Miami 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 26_Tampa 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 53_Jacksonville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 31_Orlando 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 27_Washington_DC,9_Baltimore 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 28_Raleigh 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 42_Greensboro 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 30_Shreveport 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 14_Dayton 26_Tampa 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 62_Miami 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 3_Honolulu 68_Boise 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 45_Minneapolis 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 3_Honolulu 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 33_Fayatteville 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0.1,
+            "cycle": "0_San_Diego 35_Lexington 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 37_Columnia 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 40_Greenville 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 40_Greenville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 42_Greensboro 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 42_Greensboro 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 46_Tulsa 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 44_Little_Rock 14_Dayton 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 48_Milwauke 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 45_Minneapolis 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 45_Minneapolis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 72_New_York 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 48_Milwauke 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 35_Lexington 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 48_Milwauke 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 38_Nashville 14_Dayton 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 51_Lake_Charles,18_Lafayette 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 53_Jacksonville 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 59_San_Antonio 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 4_San_Louis_Obispo 66_Phoenix 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 68_Boise 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 56_Bakersfield 57_Fresno 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 57_Fresno 56_Bakersfield 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 59_San_Antonio 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 59_San_Antonio 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 60_Austin 12_Rochester 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 32_Denver 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 8_New_Jersey 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 12_Rochester 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 73_Colorado_Springs 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego,1_Orange_County 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 62_Miami 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 55_Las_Vegas 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 75_Albuquerque 0_San_Diego 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 55_Las_Vegas 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 71_Portland 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 55_Las_Vegas 70_Seattle 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 69_Spokane 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 70_Seattle 55_Las_Vegas 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 70_Seattle 71_Portland 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 11_Sacramento 68_Boise 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 71_Portland 70_Seattle 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 73_Colorado_Springs 75_Albuquerque 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 75_Albuquerque 73_Colorado_Springs 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 69_Spokane 21_Jackson 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 30_Shreveport 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 36_Cincinnati 71_Portland 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 49_Louisville 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 30_Shreveport 23_Montgomery 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 36_Cincinnati 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 72_New_York 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0.30000000000000004,
+            "cycle": "0_San_Diego 13_Binghamton 72_New_York 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 29_St_Louis 72_New_York 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 7_Santa_Barbara 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 59_San_Antonio 21_Jackson 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 71_Portland 22_Mobile 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 32_Denver 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 26_Tampa 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 59_San_Antonio 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 23_Montgomery 19_Baton_Rouge 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 49_Louisville 26_Tampa 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 48_Milwauke 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 45_Minneapolis 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0.4,
+            "cycle": "0_San_Diego 72_New_York 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 13_Binghamton 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 48_Milwauke 7_Santa_Barbara 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 60_Austin 31_Orlando 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 21_Jackson 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 19_Baton_Rouge 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0.30000000000000004,
+            "cycle": "0_San_Diego 72_New_York 12_Rochester 0_San_Diego"
+        },
+        {
+            "x": 0.10000000000000003,
+            "cycle": "0_San_Diego 33_Fayatteville 72_New_York 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 13_Binghamton 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 26_Tampa 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 1_Orange_County 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 49_Louisville 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 37_Columnia 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0.09999999999999998,
+            "cycle": "0_San_Diego 33_Fayatteville 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 6_Los_Angeles 35_Lexington 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 1_Orange_County 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 43_Kansas_City 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 34_Albany 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 6_Los_Angeles 8_New_Jersey 0_San_Diego"
+        },
+        {
+            "x": 0.09999999999999998,
+            "cycle": "0_San_Diego 35_Lexington 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 26_Tampa 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 42_Greensboro 33_Fayatteville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 13_Binghamton 40_Greenville 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 34_Albany 40_Greenville 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 33_Fayatteville 42_Greensboro 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 28_Raleigh 6_Los_Angeles 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 37_Columnia 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 45_Minneapolis 42_Greensboro 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 6_Los_Angeles 43_Kansas_City 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 45_Minneapolis 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 37_Columnia 43_Kansas_City 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 40_Greenville 48_Milwauke 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 40_Greenville 45_Minneapolis 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 7_Santa_Barbara 48_Milwauke 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 69_Spokane 48_Milwauke 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 4_San_Louis_Obispo 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 62_Miami 53_Jacksonville 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 16_Birmingham 59_San_Antonio 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 31_Orlando 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 7_Santa_Barbara 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 26_Tampa 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 33_Fayatteville 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 60_Austin 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 71_Portland 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 53_Jacksonville 62_Miami 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 60_Austin 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 28_Raleigh 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 21_Jackson 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 43_Kansas_City 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 43_Kansas_City 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 60_Austin 53_Jacksonville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 62_Miami 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 53_Jacksonville 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 1,
+            "cycle": "0_San_Diego 66_Phoenix 70_Seattle 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 69_Spokane 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "0_San_Diego 6_Los_Angeles 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 7_Santa_Barbara 35_Lexington 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 48_Milwauke 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 48_Milwauke 71_Portland 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 7_Santa_Barbara 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 4_San_Louis_Obispo 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 10_Oakland 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 7_Santa_Barbara 21_Jackson 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 44_Little_Rock 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 44_Little_Rock 36_Cincinnati 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 71_Portland 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 72_New_York 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 55_Las_Vegas 4_San_Louis_Obispo 0_San_Diego"
+        },
+        {
+            "x": 0.7,
+            "cycle": "0_San_Diego 14_Dayton 13_Binghamton 0_San_Diego"
+        },
+        {
+            "x": 0.3,
+            "cycle": "0_San_Diego 72_New_York 35_Lexington 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 70_Seattle 66_Phoenix 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 2_El_Paso 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 36_Cincinnati 58_Houston 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 62_Miami 60_Austin 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 23_Montgomery 21_Jackson 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 21_Jackson 23_Montgomery 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 30_Shreveport 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 28_Raleigh 16_Birmingham 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 2_El_Paso 21_Jackson 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 36_Cincinnati 2_El_Paso 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 16_Birmingham 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 29_St_Louis 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 59_San_Antonio 37_Columnia 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 29_St_Louis 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 36_Cincinnati 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 31_Orlando 59_San_Antonio 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 2_El_Paso 36_Cincinnati 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 42_Greensboro 34_Albany 0_San_Diego"
+        },
+        {
+            "x": 0.2,
+            "cycle": "0_San_Diego 36_Cincinnati 44_Little_Rock 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 48_Milwauke 1_Orange_County,0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 49_Louisville 69_Spokane 0_San_Diego"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "0_San_Diego 49_Louisville 71_Portland 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 23_Montgomery 30_Shreveport 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 35_Lexington 4_San_Louis_Obispo 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 35_Lexington 28_Raleigh 0_San_Diego"
+        },
+        {
+            "x": 0,
+            "cycle": "0_San_Diego 55_Las_Vegas 10_Oakland 0_San_Diego"
+        },
+        {
+            "x": 0.8,
+            "cycle": "0_San_Diego 29_St_Louis 49_Louisville 0_San_Diego"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "0_San_Diego 60_Austin 71_Portland 0_San_Diego"
+        }
+    ],
+    "values": [
+        77,
+        74,
+        72,
+        71,
+        70,
+        68,
+        68,
+        68,
+        66,
+        66,
+        66,
+        66,
+        66,
+        66,
+        66,
+        65,
+        65,
+        64,
+        64,
+        63,
+        63,
+        63,
+        62,
+        62,
+        62,
+        62,
+        61,
+        61,
+        60,
+        60,
+        59,
+        59,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        57,
+        57,
+        57,
+        56,
+        56,
+        56,
+        56,
+        56,
+        55.33333333333334,
+        55,
+        55.00000000000001,
+        55,
+        55,
+        54.5,
+        54.5,
+        54.5,
+        54.333333333333336,
+        54,
+        53.75,
+        53.5,
+        53,
+        52.75,
+        52.5,
+        51.5,
+        50.5,
+        50.5,
+        50.5,
+        50.5,
+        50.5,
+        50.333333333333336,
+        49.33333333333333,
+        48.33333333333333,
+        47.5,
+        47.5,
+        47.400000000000006,
+        47.400000000000006,
+        46.99999999999999,
+        46.99999999999999,
+        46.99999999999999,
+        46.99999999999999,
+        46.79999999999999,
+        46.79999999999999,
+        46.6,
+        46.5,
+        46.15789473684211,
+        46.15789473684211,
+        45.95652173913044,
+        45.95652173913044,
+        45.95652173913044,
+        45.88888888888888,
+        45.88888888888888,
+        45.88888888888888,
+        45.72222222222223,
+        45.72222222222223,
+        45.72222222222223,
+        45.72222222222223,
+        45.72222222222223,
+        45.70833333333333,
+        45.666666666666686,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        45.50000000000001,
+        45.333333333333336,
+        45.333333333333336,
+        45.333333333333336,
+        45.333333333333336,
+        45.333333333333336,
+        45.333333333333336,
+        45.333333333333336,
+        45.25,
+        45.25,
+        45.22222222222223,
+        45.22222222222223,
+        45.22222222222223,
+        45.22222222222223,
+        45.22222222222223,
+        45.22222222222223,
+        45.2,
+        45.2,
+        45.20000000000001,
+        45.20000000000001
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 2185982,
+    "lpBound": 45.20000000000001
+}

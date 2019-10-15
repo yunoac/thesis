@@ -1,0 +1,154 @@
+{
+    "initialCoverSize": 29,
+    "times": [
+        1137817,
+        1626255,
+        2025362,
+        2452961,
+        2869638,
+        3319285,
+        3742998,
+        4192493,
+        4647341,
+        5218805,
+        5763373,
+        6324288,
+        6894172
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 1_Fes,0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 2_Rabat 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 4_Tanger 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 6_None 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 11_GEANT 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 5_University_2 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 10_University_1 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech,1_Fes 6_None 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 8_Institution_1 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 9_University_3 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 6_None 11_GEANT 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 6_None,15_None 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 4_Tanger 2_Rabat 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 12_Internet 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 14_University_4 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 11_GEANT 6_None 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 15_None,6_None 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 8_Institution_1 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 10_University_1 9_University_3 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 10_University_1 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 12_Internet 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 12_Internet 8_Institution_1 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 14_University_4 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 10_University_1 14_University_4 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 14_University_4 9_University_3 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 8_Institution_1 12_Internet 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 9_University_3 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 11_GEANT 1_Fes 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 11_GEANT 9_University_3 0_Marrkech"
+        }
+    ],
+    "values": [
+        11,
+        10,
+        8,
+        8,
+        8,
+        7,
+        7,
+        6.5,
+        6,
+        6,
+        6,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 93110,
+    "lpBound": 6
+}

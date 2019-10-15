@@ -1,0 +1,68 @@
+{
+    "initialCoverSize": 13,
+    "times": [
+        1265803,
+        1926014
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_Philadelphia,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dallas 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Austin 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York,1_Philadelphia 8_Dallas 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_San_Francisco 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Champaign 0_New_York 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 4_Houston 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_San_Diego 0_New_York 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 15_Salt_Lake_City 4_Houston 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 13_San_Diego 9_Champaign 0_New_York"
+        }
+    ],
+    "values": [
+        4,
+        3
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 167827,
+    "lpBound": 3
+}

@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "3_Pais_Vasco",
+            "nbpSR": 2,
+            "runtime": 38603314,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 2,
+            "runtime": 25439495,
+            "dest": "16_Nacional",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Castilla_La_Mancha",
+            "nbpSR": 1,
+            "runtime": 26094647,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 4,
+            "runtime": 26696256,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 3,
+            "runtime": 28780506,
+            "dest": "18_Castilla_Y_Leon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "15_Castilla_La_Mancha",
+            "nbpSR": 2,
+            "runtime": 27119742,
+            "dest": "16_Nacional",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 45389003,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Cataluna",
+            "nbpSR": 4,
+            "runtime": 24395082,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "9_Galacia",
+            "nbpSR": 2,
+            "runtime": 32252672,
+            "dest": "8_Murcia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Asturias",
+            "nbpSR": 1,
+            "runtime": 30389906,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Extremadura",
+            "nbpSR": 2,
+            "runtime": 27996423,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Baleares",
+            "nbpSR": 2,
+            "runtime": 43352541,
+            "dest": "6_Aragon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "15_Castilla_La_Mancha",
+            "nbpSR": 2,
+            "runtime": 24182848,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 2,
+            "runtime": 31887149,
+            "dest": "10_Asturias",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 27942002,
+            "dest": "16_Nacional",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 4,
+            "runtime": 25396568,
+            "dest": "5_Valencia",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 2,
+            "runtime": 28708773,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 2,
+            "runtime": 25635290,
+            "dest": "3_Pais_Vasco",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 42007701,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 1,
+            "runtime": 31326890,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 27211935,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Asturias",
+            "nbpSR": 2,
+            "runtime": 45236538,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 2,
+            "runtime": 28243873,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Navarra",
+            "nbpSR": 2,
+            "runtime": 23957171,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 30252721,
+            "dest": "2_Cantabria",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 26718656,
+            "dest": "9_Galacia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 2,
+            "runtime": 46120321,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 4,
+            "runtime": 26051400,
+            "dest": "3_Pais_Vasco",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "7_Cataluna",
+            "nbpSR": 4,
+            "runtime": 24018077,
+            "dest": "16_Nacional",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "3_Pais_Vasco",
+            "nbpSR": 2,
+            "runtime": 34316018,
+            "dest": "1_Rioja",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 2,
+            "runtime": 35296336,
+            "dest": "0_Navarra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Baleares",
+            "nbpSR": 2,
+            "runtime": 43136153,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 2,
+            "runtime": 30043817,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Galacia",
+            "nbpSR": 2,
+            "runtime": 37097169,
+            "dest": "1_Rioja",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 4,
+            "runtime": 24597596,
+            "dest": "16_Nacional",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 4,
+            "runtime": 28973626,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 26326119,
+            "dest": "8_Murcia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 43605691,
+            "dest": "3_Pais_Vasco",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 2,
+            "runtime": 27501210,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 26902866,
+            "dest": "9_Galacia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 4,
+            "runtime": 29250765,
+            "dest": "3_Pais_Vasco",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "0_Navarra",
+            "nbpSR": 2,
+            "runtime": 23917038,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 26793363,
+            "dest": "16_Nacional",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 2,
+            "runtime": 26008526,
+            "dest": "14_Canarias_(tenerife)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 2,
+            "runtime": 29953189,
+            "dest": "14_Canarias_(tenerife)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Asturias",
+            "nbpSR": 2,
+            "runtime": 31173717,
+            "dest": "14_Canarias_(tenerife)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Cantabria",
+            "nbpSR": 2,
+            "runtime": 33126661,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 2,
+            "runtime": 23261579,
+            "dest": "7_Cataluna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Cataluna",
+            "nbpSR": 4,
+            "runtime": 23129553,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "2_Cantabria",
+            "nbpSR": 2,
+            "runtime": 43757680,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Pais_Vasco",
+            "nbpSR": 2,
+            "runtime": 32056081,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 42609488,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Baleares",
+            "nbpSR": 2,
+            "runtime": 42819065,
+            "dest": "6_Aragon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 2,
+            "runtime": 23436483,
+            "dest": "0_Navarra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 1,
+            "runtime": 28972185,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 44783488,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 29893252,
+            "dest": "10_Asturias",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 2,
+            "runtime": 28758228,
+            "dest": "10_Asturias",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 2,
+            "runtime": 26299325,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 43958750,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Galacia",
+            "nbpSR": 2,
+            "runtime": 31104146,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 4,
+            "runtime": 45274154,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 30338206,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Extremadura",
+            "nbpSR": 2,
+            "runtime": 29276207,
+            "dest": "10_Asturias",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Cantabria",
+            "nbpSR": 2,
+            "runtime": 32171973,
+            "dest": "6_Aragon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 1,
+            "runtime": 29332610,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 2,
+            "runtime": 28463194,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Castilla_Y_Leon",
+            "nbpSR": 3,
+            "runtime": 28384145,
+            "dest": "12_Andalucia",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_Extremadura",
+            "nbpSR": 2,
+            "runtime": 28654218,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Baleares",
+            "nbpSR": 2,
+            "runtime": 42630373,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 31633183,
+            "dest": "8_Murcia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 26760548,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 2,
+            "runtime": 26323764,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 1,
+            "runtime": 32128172,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cantabria",
+            "nbpSR": 2,
+            "runtime": 40251469,
+            "dest": "16_Nacional",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 31841027,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Castilla_La_Mancha",
+            "nbpSR": 2,
+            "runtime": 23572836,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Cataluna",
+            "nbpSR": 2,
+            "runtime": 28725989,
+            "dest": "1_Rioja",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 43722505,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 3,
+            "runtime": 27403087,
+            "dest": "18_Castilla_Y_Leon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 4,
+            "runtime": 29079876,
+            "dest": "7_Cataluna",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "14_Canarias_(tenerife)",
+            "nbpSR": 1,
+            "runtime": 25120860,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Canarias_(las_palmas)",
+            "nbpSR": 2,
+            "runtime": 25663836,
+            "dest": "14_Canarias_(tenerife)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Pais_Vasco",
+            "nbpSR": 4,
+            "runtime": 26211884,
+            "dest": "9_Galacia",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "11_Extremadura",
+            "nbpSR": 2,
+            "runtime": 27474608,
+            "dest": "7_Cataluna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 2,
+            "runtime": 27091174,
+            "dest": "13_Canarias_(las_palmas)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Castilla_Y_Leon",
+            "nbpSR": 2,
+            "runtime": 30736545,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Madrid",
+            "nbpSR": 1,
+            "runtime": 28182663,
+            "dest": "0_Navarra",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Castilla_Y_Leon",
+            "nbpSR": 2,
+            "runtime": 30721009,
+            "dest": "11_Extremadura",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Galacia",
+            "nbpSR": 2,
+            "runtime": 36137224,
+            "dest": "4_Baleares",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Baleares",
+            "nbpSR": 1,
+            "runtime": 50349831,
+            "dest": "17_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Andalucia",
+            "nbpSR": 4,
+            "runtime": 25332808,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "10_Asturias",
+            "nbpSR": 2,
+            "runtime": 39473923,
+            "dest": "12_Andalucia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Nacional",
+            "nbpSR": 4,
+            "runtime": 28109882,
+            "dest": "6_Aragon",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "10_Asturias",
+            "nbpSR": 2,
+            "runtime": 27745272,
+            "dest": "0_Navarra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Aragon",
+            "nbpSR": 3,
+            "runtime": 47713377,
+            "dest": "18_Castilla_Y_Leon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Valencia",
+            "nbpSR": 4,
+            "runtime": 31485877,
+            "dest": "7_Cataluna",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "8_Murcia",
+            "nbpSR": 2,
+            "runtime": 44136846,
+            "dest": "15_Castilla_La_Mancha",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Galacia",
+            "nbpSR": 2,
+            "runtime": 33277353,
+            "dest": "0_Navarra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Rioja",
+            "nbpSR": 2,
+            "runtime": 27819976,
+            "dest": "5_Valencia",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,856 @@
+{
+    "initialCoverSize": 149,
+    "times": [
+        1628198,
+        4084623,
+        6748300,
+        9258922,
+        11780499,
+        14267377,
+        16769218,
+        19325586,
+        21974095,
+        24519968,
+        27085889,
+        29585284,
+        32065148,
+        34591876,
+        37212294,
+        39812871,
+        42366190,
+        44892724,
+        47529546,
+        50229894,
+        52790130,
+        55929443,
+        59202150,
+        63126802,
+        66611139,
+        71300497,
+        74220811,
+        77071474,
+        79881199,
+        82700211,
+        85673172,
+        88528169,
+        91381409,
+        94295963,
+        97206867,
+        100117384,
+        102944346,
+        105835561,
+        108720805,
+        111699407,
+        114762460,
+        117895671,
+        120952890,
+        123906940,
+        126811627,
+        130853488,
+        135007285,
+        140678698,
+        143976059,
+        147598127,
+        151242852,
+        155330472,
+        159028429,
+        162028587,
+        165192834,
+        168051878,
+        171229330,
+        174344714,
+        177390328,
+        180490530,
+        183855569,
+        186920131,
+        189672365,
+        192529604,
+        195363663,
+        198220140,
+        201050202,
+        203839642,
+        206720047,
+        209565733,
+        212385902,
+        215369495,
+        218319833,
+        221249898,
+        224161589,
+        226942851,
+        230081962,
+        234292685,
+        238931913,
+        243152688,
+        246500035,
+        250144490,
+        253395880,
+        257538548,
+        260993041,
+        263795651,
+        266800181,
+        269781602,
+        272335669,
+        275412048,
+        278446234,
+        281572788,
+        284421562,
+        287246174,
+        290086448,
+        292529492,
+        295498806,
+        298366558,
+        301389731,
+        304178223,
+        307010057,
+        309991410,
+        312876154,
+        315670635,
+        318553603,
+        321544167,
+        324548068,
+        327840775,
+        331173819,
+        335162223,
+        338933646,
+        343683827,
+        348017243,
+        351182636,
+        355322370,
+        360826316,
+        364200428,
+        367823629,
+        370965806,
+        374477943,
+        377734423,
+        381515565,
+        384446505,
+        388363421
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 2_Oskaloosa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 15_Dubuque 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 14_Kansas_City,1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa,0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 6_Stanton 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 7_Harlan 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 6_Stanton 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 9_Sioux_City 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 11_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 26_Sioux_Falls 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 11_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer,10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 11_None 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 12_None 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 13_Minneapolis 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 19_Chicago 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 15_Dubuque 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 12_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 2_Oskaloosa 12_None 15_Dubuque"
+        },
+        {
+            "x": 0.098915882590941,
+            "cycle": "15_Dubuque 14_Kansas_City 4_Creston 14_Kansas_City 4_Creston 14_Kansas_City 4_Creston 14_Kansas_City 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 17_Iowa_City 4_Creston 2_Oskaloosa 4_Creston 2_Oskaloosa 4_Creston 13_Minneapolis 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 11_None 4_Creston 11_None 4_Creston 11_None 4_Creston 11_None 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 12_None 8_Clarinda 12_None 8_Clarinda 12_None 8_Clarinda 12_None 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 25_Spencer 24_Marshalltown 25_Spencer 24_Marshalltown 25_Spencer 19_Chicago 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 24_Marshalltown 19_Chicago 24_Marshalltown 19_Chicago 24_Marshalltown 19_Chicago 24_Marshalltown 19_Chicago 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 26_Sioux_Falls 25_Spencer 26_Sioux_Falls 25_Spencer 26_Sioux_Falls 25_Spencer 26_Sioux_Falls 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 20_Mt._Pleasant 17_Iowa_City 20_Mt._Pleasant 17_Iowa_City 20_Mt._Pleasant 17_Iowa_City 20_Mt._Pleasant 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 2_Oskaloosa 1_Omaha 2_Oskaloosa 1_Omaha 2_Oskaloosa 1_Omaha 2_Oskaloosa 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 20_Mt._Pleasant 10_None 20_Mt._Pleasant 10_None 20_Mt._Pleasant 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 1_Omaha 17_Iowa_City 12_None 21_Fairfield 17_Iowa_City 13_Minneapolis 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 13_Minneapolis 31_Newton 13_Minneapolis 31_Newton 13_Minneapolis 31_Newton 13_Minneapolis 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 17_Iowa_City 8_Clarinda 1_Omaha 17_Iowa_City 8_Clarinda 1_Omaha 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 3_Ottumwa 11_None 3_Ottumwa 11_None 3_Ottumwa 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 10_None 19_Chicago 25_Spencer 10_None 19_Chicago 25_Spencer 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 13_Minneapolis 3_Ottumwa 11_None 19_Chicago 9_Sioux_City 13_Minneapolis 3_Ottumwa 11_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 19_Chicago 17_Iowa_City 19_Chicago 17_Iowa_City 19_Chicago 17_Iowa_City 19_Chicago 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 26_Sioux_Falls 20_Mt._Pleasant 30_Grinnell 21_Fairfield 27_Ft_Dodge 6_Stanton 22_Muscatine 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 2_Oskaloosa 12_None 4_Creston 1_Omaha 27_Ft_Dodge 2_Oskaloosa 12_None 2_Oskaloosa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 23_Ames 25_Spencer 23_Ames 25_Spencer 23_Ames 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 27_Ft_Dodge 1_Omaha 4_Creston 12_None 2_Oskaloosa 17_Iowa_City 21_Fairfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 14_Kansas_City 11_None 14_Kansas_City 11_None 14_Kansas_City 11_None 14_Kansas_City 11_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 30_Grinnell 21_Fairfield 30_Grinnell 21_Fairfield 30_Grinnell 21_Fairfield 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 19_Chicago 0_Bloomfield 19_Chicago 0_Bloomfield 19_Chicago 0_Bloomfield 19_Chicago 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 2_Oskaloosa 27_Ft_Dodge 8_Clarinda 10_None 2_Oskaloosa 27_Ft_Dodge 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 10_None 23_Ames 10_None 23_Ames 10_None 23_Ames 10_None 15_Dubuque"
+        },
+        {
+            "x": 0.09090909090909095,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 17_Iowa_City 25_Spencer 17_Iowa_City 25_Spencer 17_Iowa_City 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 20_Mt._Pleasant 2_Oskaloosa 20_Mt._Pleasant 2_Oskaloosa 12_None 8_Clarinda 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 3_Ottumwa 11_None 8_Clarinda 1_Omaha 24_Marshalltown 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 24_Marshalltown 4_Creston 24_Marshalltown 4_Creston 24_Marshalltown 4_Creston 24_Marshalltown 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 13_Minneapolis 4_Creston 13_Minneapolis 4_Creston 13_Minneapolis 4_Creston 13_Minneapolis 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 17_Iowa_City 19_Chicago 3_Ottumwa 17_Iowa_City 19_Chicago 3_Ottumwa 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 10_None 4_Creston 17_Iowa_City 3_Ottumwa 10_None 4_Creston 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 21_Fairfield 17_Iowa_City 21_Fairfield 17_Iowa_City 21_Fairfield 17_Iowa_City 21_Fairfield 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 1_Omaha 10_None 1_Omaha 10_None 1_Omaha 10_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 20_Mt._Pleasant 8_Clarinda 20_Mt._Pleasant 8_Clarinda 20_Mt._Pleasant 8_Clarinda 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 17_Iowa_City 10_None 17_Iowa_City 10_None 17_Iowa_City 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 6_Stanton 21_Fairfield 27_Ft_Dodge 6_Stanton 21_Fairfield 27_Ft_Dodge 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 24_Marshalltown 25_Spencer 10_None 21_Fairfield 24_Marshalltown 25_Spencer 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.016140044170150497,
+            "cycle": "15_Dubuque 17_Iowa_City 8_Clarinda 27_Ft_Dodge 2_Oskaloosa 4_Creston 2_Oskaloosa 4_Creston 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0.09090909090909109,
+            "cycle": "15_Dubuque 1_Omaha 4_Creston 2_Oskaloosa 12_None 2_Oskaloosa 12_None 21_Fairfield 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 1_Omaha 11_None 21_Fairfield 27_Ft_Dodge 8_Clarinda 1_Omaha 12_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 2_Oskaloosa 12_None 4_Creston 2_Oskaloosa 27_Ft_Dodge 6_Stanton 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 22_Muscatine 8_Clarinda 22_Muscatine 8_Clarinda 22_Muscatine 8_Clarinda 13_Minneapolis 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 4_Creston 11_None 4_Creston 13_Minneapolis 3_Ottumwa 24_Marshalltown 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 8_Clarinda 3_Ottumwa 8_Clarinda 3_Ottumwa 8_Clarinda 3_Ottumwa 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 17_Iowa_City 22_Muscatine 25_Spencer 17_Iowa_City 22_Muscatine 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 17_Iowa_City 21_Fairfield 27_Ft_Dodge 1_Omaha 12_None 1_Omaha 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 11_None 8_Clarinda 11_None 8_Clarinda 11_None 1_Omaha 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 4_Creston 10_None 21_Fairfield 27_Ft_Dodge 14_Kansas_City 12_None 2_Oskaloosa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 8_Clarinda 14_Kansas_City 12_None 2_Oskaloosa 27_Ft_Dodge 8_Clarinda 14_Kansas_City 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 3_Ottumwa 19_Chicago 17_Iowa_City 3_Ottumwa 19_Chicago 17_Iowa_City 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 14_Kansas_City 12_None 2_Oskaloosa 21_Fairfield 27_Ft_Dodge 14_Kansas_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 26_Sioux_Falls 4_Creston 13_Minneapolis 31_Newton 26_Sioux_Falls 23_Ames 24_Marshalltown 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 8_Clarinda 14_Kansas_City 13_Minneapolis 4_Creston 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 13_Minneapolis 8_Clarinda 1_Omaha 13_Minneapolis 8_Clarinda 1_Omaha 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 11_None 8_Clarinda 27_Ft_Dodge 21_Fairfield 11_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.07092360206816437,
+            "cycle": "15_Dubuque 10_None 4_Creston 2_Oskaloosa 4_Creston 2_Oskaloosa 4_Creston 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 11_None 4_Creston 13_Minneapolis 14_Kansas_City 13_Minneapolis 14_Kansas_City 15_Dubuque"
+        },
+        {
+            "x": 0.010275658342100225,
+            "cycle": "15_Dubuque 17_Iowa_City 21_Fairfield 12_None 2_Oskaloosa 12_None 2_Oskaloosa 4_Creston 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 1_Omaha 13_Minneapolis 4_Creston 1_Omaha 24_Marshalltown 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 6_Stanton 13_Minneapolis 6_Stanton 13_Minneapolis 6_Stanton 13_Minneapolis 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 4_Creston 13_Minneapolis 4_Creston 11_None 20_Mt._Pleasant 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.07299990624672686,
+            "cycle": "15_Dubuque 10_None 1_Omaha 8_Clarinda 13_Minneapolis 1_Omaha 8_Clarinda 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 0_Bloomfield 11_None 8_Clarinda 1_Omaha 8_Clarinda 1_Omaha 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0.0051378291710500595,
+            "cycle": "15_Dubuque 10_None 4_Creston 11_None 4_Creston 11_None 4_Creston 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 13_Minneapolis 31_Newton 13_Minneapolis 31_Newton 13_Minneapolis 31_Newton 27_Ft_Dodge 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0.002687573022376988,
+            "cycle": "15_Dubuque 17_Iowa_City 8_Clarinda 13_Minneapolis 8_Clarinda 13_Minneapolis 8_Clarinda 13_Minneapolis 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0.06449338839684038,
+            "cycle": "15_Dubuque 10_None 14_Kansas_City 27_Ft_Dodge 31_Newton 13_Minneapolis 4_Creston 14_Kansas_City 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 4_Creston 12_None 2_Oskaloosa 12_None 8_Clarinda 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0.14685320447064534,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 4_Creston 13_Minneapolis 31_Newton 13_Minneapolis 4_Creston 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.023905773840889384,
+            "cycle": "15_Dubuque 1_Omaha 13_Minneapolis 4_Creston 1_Omaha 13_Minneapolis 4_Creston 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0.1819995713066047,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 4_Creston 14_Kansas_City 13_Minneapolis 14_Kansas_City 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 24_Marshalltown 25_Spencer 24_Marshalltown 25_Spencer 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.08063343256699086,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 2_Oskaloosa 27_Ft_Dodge 8_Clarinda 1_Omaha 8_Clarinda 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 10_None 19_Chicago 17_Iowa_City 10_None 19_Chicago 17_Iowa_City 10_None 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 10_None 14_Kansas_City 17_Iowa_City 25_Spencer 10_None 14_Kansas_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 21_Fairfield 17_Iowa_City 25_Spencer 24_Marshalltown 21_Fairfield 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 10_None 3_Ottumwa 17_Iowa_City 25_Spencer 10_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 24_Marshalltown 17_Iowa_City 24_Marshalltown 17_Iowa_City 24_Marshalltown 17_Iowa_City 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 24_Marshalltown 1_Omaha 13_Minneapolis 31_Newton 27_Ft_Dodge 1_Omaha 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 10_None 4_Creston 13_Minneapolis 31_Newton 27_Ft_Dodge 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 10_None 1_Omaha 12_None 1_Omaha 12_None 21_Fairfield 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 8_Clarinda 22_Muscatine 8_Clarinda 22_Muscatine 8_Clarinda 22_Muscatine 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0.04545454545454565,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 10_None 25_Spencer 10_None 25_Spencer 10_None 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 26_Sioux_Falls 17_Iowa_City 25_Spencer 26_Sioux_Falls 17_Iowa_City 25_Spencer 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 26_Sioux_Falls 3_Ottumwa 26_Sioux_Falls 3_Ottumwa 26_Sioux_Falls 3_Ottumwa 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0.08055072744924809,
+            "cycle": "15_Dubuque 25_Spencer 26_Sioux_Falls 8_Clarinda 1_Omaha 8_Clarinda 1_Omaha 8_Clarinda 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 4_Creston 2_Oskaloosa 4_Creston 2_Oskaloosa 27_Ft_Dodge 14_Kansas_City 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 4_Creston 2_Oskaloosa 12_None 2_Oskaloosa 12_None 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 19_Chicago 25_Spencer 19_Chicago 25_Spencer 19_Chicago 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.17168704416736244,
+            "cycle": "15_Dubuque 25_Spencer 17_Iowa_City 19_Chicago 0_Bloomfield 19_Chicago 0_Bloomfield 19_Chicago 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 1_Omaha 12_None 1_Omaha 12_None 1_Omaha 4_Creston 12_None 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 24_Marshalltown 25_Spencer 19_Chicago 24_Marshalltown 25_Spencer 19_Chicago 24_Marshalltown 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0.09434525448021416,
+            "cycle": "15_Dubuque 10_None 4_Creston 2_Oskaloosa 12_None 2_Oskaloosa 12_None 8_Clarinda 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 8_Clarinda 12_None 2_Oskaloosa 12_None 2_Oskaloosa 4_Creston 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0.12569267876820436,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 1_Omaha 8_Clarinda 12_None 2_Oskaloosa 4_Creston 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 3_Ottumwa 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 3_Ottumwa 24_Marshalltown 3_Ottumwa 24_Marshalltown 3_Ottumwa 10_None 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 10_None 8_Clarinda 22_Muscatine 8_Clarinda 1_Omaha 10_None 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 10_None 8_Clarinda 1_Omaha 8_Clarinda 1_Omaha 10_None 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 24_Marshalltown 25_Spencer 26_Sioux_Falls 3_Ottumwa 24_Marshalltown 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 26_Sioux_Falls 17_Iowa_City 26_Sioux_Falls 17_Iowa_City 26_Sioux_Falls 3_Ottumwa 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.1113505502293458,
+            "cycle": "15_Dubuque 17_Iowa_City 4_Creston 12_None 2_Oskaloosa 4_Creston 12_None 14_Kansas_City 26_Sioux_Falls 15_Dubuque"
+        },
+        {
+            "x": 0.08646561021333936,
+            "cycle": "15_Dubuque 8_Clarinda 13_Minneapolis 31_Newton 12_None 2_Oskaloosa 4_Creston 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0.0783666257323149,
+            "cycle": "15_Dubuque 17_Iowa_City 1_Omaha 13_Minneapolis 31_Newton 13_Minneapolis 31_Newton 13_Minneapolis 1_Omaha 15_Dubuque"
+        },
+        {
+            "x": 0.08403676376684413,
+            "cycle": "15_Dubuque 17_Iowa_City 26_Sioux_Falls 4_Creston 2_Oskaloosa 12_None 4_Creston 11_None 3_Ottumwa 15_Dubuque"
+        },
+        {
+            "x": 0.03030303030303035,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 19_Chicago 17_Iowa_City 19_Chicago 17_Iowa_City 19_Chicago 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 20_Mt._Pleasant 17_Iowa_City 20_Mt._Pleasant 17_Iowa_City 20_Mt._Pleasant 17_Iowa_City 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 21_Fairfield 17_Iowa_City 21_Fairfield 17_Iowa_City 21_Fairfield 17_Iowa_City 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0.01877137771246303,
+            "cycle": "15_Dubuque 26_Sioux_Falls 4_Creston 2_Oskaloosa 4_Creston 2_Oskaloosa 4_Creston 13_Minneapolis 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 25_Spencer 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.16634905820821552,
+            "cycle": "15_Dubuque 25_Spencer 26_Sioux_Falls 25_Spencer 26_Sioux_Falls 25_Spencer 26_Sioux_Falls 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 10_None 25_Spencer 24_Marshalltown 23_Ames 10_None 25_Spencer 24_Marshalltown 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 10_None 25_Spencer 24_Marshalltown 17_Iowa_City 10_None 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 25_Spencer 17_Iowa_City 15_Dubuque"
+        },
+        {
+            "x": 0.12600527290379374,
+            "cycle": "15_Dubuque 0_Bloomfield 19_Chicago 17_Iowa_City 10_None 25_Spencer 17_Iowa_City 19_Chicago 0_Bloomfield 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 24_Marshalltown 4_Creston 13_Minneapolis 4_Creston 2_Oskaloosa 12_None 4_Creston 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 4_Creston 13_Minneapolis 4_Creston 13_Minneapolis 4_Creston 13_Minneapolis 8_Clarinda 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 3_Ottumwa 11_None 1_Omaha 27_Ft_Dodge 2_Oskaloosa 4_Creston 24_Marshalltown 25_Spencer 15_Dubuque"
+        },
+        {
+            "x": 0,
+            "cycle": "15_Dubuque 17_Iowa_City 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 23_Ames 24_Marshalltown 15_Dubuque"
+        },
+        {
+            "x": 0.14201923078123418,
+            "cycle": "15_Dubuque 17_Iowa_City 25_Spencer 10_None 25_Spencer 10_None 25_Spencer 19_Chicago 0_Bloomfield 15_Dubuque"
+        }
+    ],
+    "values": [
+        19,
+        16.333333333333332,
+        13,
+        10.833333333333334,
+        9.416666666666666,
+        9.416666666666666,
+        7.916666666666666,
+        6.166666666666667,
+        5.263888888888888,
+        4.597222222222222,
+        3.7083333333333335,
+        3.375,
+        3.0787037037037037,
+        2.988182261208577,
+        2.894928911151589,
+        2.8538566468253967,
+        2.7711805555555555,
+        2.7674768518518524,
+        2.755048188912182,
+        2.699807705645721,
+        2.6973211939707498,
+        2.668968895420034,
+        2.626365204407847,
+        2.6090078932270577,
+        2.6042099129874403,
+        2.5647973961446517,
+        2.559599512545802,
+        2.523680893143494,
+        2.516658740863503,
+        2.5002458170009163,
+        2.49055621884005,
+        2.4904454557655122,
+        2.4899921461240413,
+        2.479594947715804,
+        2.4765118016264394,
+        2.461539950398488,
+        2.459707236406255,
+        2.4590113608005373,
+        2.4405455603636175,
+        2.436060562357293,
+        2.4293008130859444,
+        2.4245277085730828,
+        2.4095920653904592,
+        2.396643964215748,
+        2.3930610494746736,
+        2.392821681708498,
+        2.391145323434519,
+        2.390748574933696,
+        2.3902231654154718,
+        2.3862767208845064,
+        2.382959019717408,
+        2.380357617020536,
+        2.3774202502204527,
+        2.374947116468703,
+        2.3718787080642327,
+        2.3715445223561327,
+        2.3686530280491827,
+        2.366559269499486,
+        2.366406045057039,
+        2.3661058642571877,
+        2.361302134380459,
+        2.355434674114683,
+        2.3536020373525677,
+        2.351724045641485,
+        2.3494446046520014,
+        2.34357511595223,
+        2.3423106130306364,
+        2.3421041247143135,
+        2.3411925511205918,
+        2.339904643246021,
+        2.339413079642021,
+        2.339277011612108,
+        2.337363107027707,
+        2.334719396613278,
+        2.3332203911552516,
+        2.3332203911552503,
+        2.3305411993388256,
+        2.3298006655266628,
+        2.3289846550240267,
+        2.328778965020001,
+        2.328569245676815,
+        2.3285507831150127,
+        2.328501631714073,
+        2.3279267362802596,
+        2.3273013171106123,
+        2.3273013171106123,
+        2.327301317110612,
+        2.3266762455752854,
+        2.326616822143235,
+        2.326041266735064,
+        2.325251094627776,
+        2.325251094627776,
+        2.3248391074749293,
+        2.323592728874457,
+        2.3235784112316775,
+        2.323578411231677,
+        2.322718591222879,
+        2.322718591222879,
+        2.3223554499464742,
+        2.3223554499464742,
+        2.3223554499464747,
+        2.322355449946475,
+        2.3221536037487915,
+        2.3221536037487907,
+        2.3220624467051985,
+        2.3219333167333227,
+        2.321449828773867,
+        2.320944473177499,
+        2.320266717632941,
+        2.3196383187379834,
+        2.319638318737983,
+        2.319638318737983,
+        2.319472759562548,
+        2.3194727595625477,
+        2.318840579710145,
+        2.3188405797101455,
+        2.3188405797101446,
+        2.318840579710145,
+        2.3184522220413477,
+        2.318452222041348,
+        2.3183168387500688,
+        2.318316838750069,
+        2.318316838750069,
+        2.3181818181818183
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 464152,
+    "lpBound": 2.3181818181818183
+}

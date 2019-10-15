@@ -1,0 +1,276 @@
+{
+    "initialCoverSize": 50,
+    "times": [
+        2096469,
+        2760745,
+        3397797,
+        4047950,
+        4799561,
+        5484957,
+        6146350,
+        6805449,
+        7487904,
+        8255592,
+        9126236,
+        9959089,
+        10710778,
+        11554574,
+        12336493,
+        12876575,
+        13466488,
+        14080809,
+        14670478,
+        15260458,
+        15909178,
+        16485316,
+        17002332,
+        17600228,
+        18288066,
+        18969537,
+        19615591,
+        20338676,
+        21027485,
+        21632109,
+        22268273,
+        22970157
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_Munich 0_Hamburg 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 13_Utrecht 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 10_Rotterdam 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 0_Hamburg 8_London 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 0_Hamburg 11_The_Hague 0_Hamburg 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 13_Utrecht 10_Rotterdam 12_Amsterdam 10_Rotterdam 12_Amsterdam 10_Rotterdam 12_Amsterdam 10_Rotterdam 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 8_London 10_Rotterdam 12_Amsterdam 2_Stuttgart 11_The_Hague 8_London 10_Rotterdam 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 10_Rotterdam 8_London 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 10_Rotterdam 3_Munich"
+        },
+        {
+            "x": 0.12499999999999983,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 11_The_Hague 8_London 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0.20833333333333348,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0.39583333333333337,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 0_Hamburg 8_London 0_Hamburg 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 4_Berlin 10_Rotterdam 13_Utrecht 3_Munich 0_Hamburg 2_Stuttgart 0_Hamburg 3_Munich"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "3_Munich 11_The_Hague 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 11_The_Hague 2_Stuttgart 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0.37499999999999956,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 13_Utrecht 10_Rotterdam 4_Berlin 10_Rotterdam 4_Berlin 10_Rotterdam 4_Berlin 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0.43750000000000017,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London 11_The_Hague 9_Paris 13_Utrecht 3_Munich 11_The_Hague 9_Paris 13_Utrecht 3_Munich"
+        },
+        {
+            "x": 0.18750000000000022,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 4_Berlin 11_The_Hague 4_Berlin 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 8_London,7_Dublin 7_Dublin,8_London 3_Munich"
+        },
+        {
+            "x": 0.4583333333333332,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0.1458333333333333,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 10_Rotterdam 8_London 11_The_Hague 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0.10416666666666663,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 8_London 11_The_Hague 8_London 11_The_Hague 8_London 11_The_Hague 8_London 3_Munich"
+        },
+        {
+            "x": 0.10416666666666667,
+            "cycle": "3_Munich 11_The_Hague 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 11_The_Hague 13_Utrecht 10_Rotterdam 3_Munich"
+        },
+        {
+            "x": 0.22916666666666669,
+            "cycle": "3_Munich 11_The_Hague 8_London,7_Dublin 7_Dublin,8_London 11_The_Hague 8_London 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "3_Munich 11_The_Hague 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 11_The_Hague 0_Hamburg 11_The_Hague 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 12_Amsterdam 10_Rotterdam 13_Utrecht 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 11_The_Hague 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 11_The_Hague 4_Berlin 10_Rotterdam 3_Munich"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Munich 10_Rotterdam 12_Amsterdam 10_Rotterdam 12_Amsterdam 10_Rotterdam 12_Amsterdam 10_Rotterdam 13_Utrecht 3_Munich"
+        },
+        {
+            "x": 0.18750000000000022,
+            "cycle": "3_Munich 8_London,7_Dublin 7_Dublin,8_London 14_Dusseldorf,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        },
+        {
+            "x": 0.04166666666666687,
+            "cycle": "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich"
+        }
+    ],
+    "values": [
+        11,
+        10.25,
+        10,
+        8.083333333333332,
+        5.333333333333334,
+        5.333333333333334,
+        5.166666666666668,
+        4.708333333333333,
+        4.680555555555555,
+        4.657894736842105,
+        4.333333333333333,
+        4.166666666666667,
+        4.142857142857143,
+        3.8132911392405067,
+        3.681818181818181,
+        3.681818181818181,
+        3.681818181818181,
+        3.6581632653061225,
+        3.5483870967741935,
+        3.5215053763440856,
+        3.45525494276795,
+        3.4494047619047623,
+        3.4138606108065788,
+        3.397374202322419,
+        3.379923150816522,
+        3.366468842729971,
+        3.3445718138907616,
+        3.3431635388739944,
+        3.340812870448772,
+        3.340158520475562,
+        3.3358024691358024,
+        3.333333333333333
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 162009,
+    "lpBound": 3.333333333333333
+}

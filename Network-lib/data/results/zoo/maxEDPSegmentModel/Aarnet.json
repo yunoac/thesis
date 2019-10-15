@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "3_Sydney2",
+            "nbpSR": 1,
+            "runtime": 35633951,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 1,
+            "runtime": 36004162,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Melbourne1",
+            "nbpSR": 1,
+            "runtime": 46812243,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 2,
+            "runtime": 40481907,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 2,
+            "runtime": 16401984,
+            "dest": "18_Darwin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Melbourne1",
+            "nbpSR": 3,
+            "runtime": 39656398,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9632974,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Rockhampton",
+            "nbpSR": 1,
+            "runtime": 18534324,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hobart",
+            "nbpSR": 1,
+            "runtime": 20499857,
+            "dest": "8_Armidale",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Canberra2",
+            "nbpSR": 1,
+            "runtime": 18177769,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Perth1",
+            "nbpSR": 1,
+            "runtime": 19578664,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Townsville",
+            "nbpSR": 1,
+            "runtime": 21796622,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Melbourne1",
+            "nbpSR": 1,
+            "runtime": 34484853,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 11175528,
+            "dest": "10_Canberra2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 19983630,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 1,
+            "runtime": 22160736,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 1,
+            "runtime": 23799179,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 1,
+            "runtime": 33179556,
+            "dest": "3_Sydney2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 12915259,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 33790058,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 1,
+            "runtime": 18823621,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Canberra2",
+            "nbpSR": 1,
+            "runtime": 21977645,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 10482930,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Sydney1",
+            "nbpSR": 1,
+            "runtime": 21154183,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 2,
+            "runtime": 22860536,
+            "dest": "2_Canberra1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 17547396,
+            "dest": "9_Hobart",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 1,
+            "runtime": 41883829,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 2,
+            "runtime": 20212097,
+            "dest": "3_Sydney2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Rockhampton",
+            "nbpSR": 1,
+            "runtime": 21569736,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Sydney2",
+            "nbpSR": 2,
+            "runtime": 32120172,
+            "dest": "1_Brisbane2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 9384218,
+            "dest": "0_Sydney1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Townsville",
+            "nbpSR": 1,
+            "runtime": 17078061,
+            "dest": "11_Perth1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 1,
+            "runtime": 20349081,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hobart",
+            "nbpSR": 2,
+            "runtime": 23371164,
+            "dest": "1_Brisbane2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 10691881,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 1,
+            "runtime": 15975101,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 16500859,
+            "dest": "8_Armidale",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9553719,
+            "dest": "3_Sydney2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 37447883,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 16547535,
+            "dest": "9_Hobart",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 1,
+            "runtime": 17407007,
+            "dest": "3_Sydney2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Sydney1",
+            "nbpSR": 1,
+            "runtime": 24836337,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 18144454,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 2,
+            "runtime": 19874634,
+            "dest": "14_Adelaide2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 10669782,
+            "dest": "14_Adelaide2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Canberra2",
+            "nbpSR": 1,
+            "runtime": 20214824,
+            "dest": "14_Adelaide2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Canberra1",
+            "nbpSR": 1,
+            "runtime": 25411922,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 1,
+            "runtime": 32979168,
+            "dest": "7_Rockhampton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Rockhampton",
+            "nbpSR": 1,
+            "runtime": 19411477,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Canberra1",
+            "nbpSR": 1,
+            "runtime": 19241782,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Sydney2",
+            "nbpSR": 1,
+            "runtime": 36610505,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 10537023,
+            "dest": "11_Perth1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Townsville",
+            "nbpSR": 1,
+            "runtime": 17759718,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 1,
+            "runtime": 35139094,
+            "dest": "0_Sydney1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 1,
+            "runtime": 19784430,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9260863,
+            "dest": "12_Perth2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 18170304,
+            "dest": "10_Canberra2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 2,
+            "runtime": 26400901,
+            "dest": "10_Canberra2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 2,
+            "runtime": 20271142,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9331481,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hobart",
+            "nbpSR": 1,
+            "runtime": 17847340,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 1,
+            "runtime": 15822059,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 1,
+            "runtime": 20519087,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Perth1",
+            "nbpSR": 1,
+            "runtime": 21593410,
+            "dest": "10_Canberra2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Canberra1",
+            "nbpSR": 2,
+            "runtime": 19076690,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 30015548,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 1,
+            "runtime": 23247057,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Darwin",
+            "nbpSR": 2,
+            "runtime": 21692270,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Perth1",
+            "nbpSR": 2,
+            "runtime": 21608593,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Townsville",
+            "nbpSR": 1,
+            "runtime": 18791790,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 1,
+            "runtime": 21178578,
+            "dest": "8_Armidale",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 15581277,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 10309664,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 9220116,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Canberra1",
+            "nbpSR": 2,
+            "runtime": 17177954,
+            "dest": "16_Melbourne2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 1,
+            "runtime": 18229107,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Melbourne1",
+            "nbpSR": 1,
+            "runtime": 30552803,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Rockhampton",
+            "nbpSR": 1,
+            "runtime": 16914903,
+            "dest": "1_Brisbane2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9497853,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 46542454,
+            "dest": "18_Darwin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 34779627,
+            "dest": "7_Rockhampton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Adelaide2",
+            "nbpSR": 2,
+            "runtime": 40776736,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Adelaide1",
+            "nbpSR": 3,
+            "runtime": 40457888,
+            "dest": "14_Adelaide2",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "3_Sydney2",
+            "nbpSR": 2,
+            "runtime": 25417629,
+            "dest": "9_Hobart",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Perth1",
+            "nbpSR": 1,
+            "runtime": 18289394,
+            "dest": "7_Rockhampton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 1,
+            "runtime": 43592638,
+            "dest": "13_Adelaide1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Darwin",
+            "nbpSR": 2,
+            "runtime": 19954942,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Alice_Springs",
+            "nbpSR": 1,
+            "runtime": 17012144,
+            "dest": "0_Sydney1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Darwin",
+            "nbpSR": 2,
+            "runtime": 25589480,
+            "dest": "11_Perth1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hobart",
+            "nbpSR": 1,
+            "runtime": 19200597,
+            "dest": "4_Townsville",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Townsville",
+            "nbpSR": 1,
+            "runtime": 19665155,
+            "dest": "17_Alice_Springs",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Perth2",
+            "nbpSR": 1,
+            "runtime": 16205932,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Canberra2",
+            "nbpSR": 1,
+            "runtime": 19339118,
+            "dest": "12_Perth2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Melbourne2",
+            "nbpSR": 2,
+            "runtime": 38109681,
+            "dest": "6_Brisbane1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Canberra2",
+            "nbpSR": 2,
+            "runtime": 20586650,
+            "dest": "0_Sydney1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brisbane1",
+            "nbpSR": 1,
+            "runtime": 22573054,
+            "dest": "18_Darwin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Cairns",
+            "nbpSR": 1,
+            "runtime": 10349881,
+            "dest": "7_Rockhampton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Armidale",
+            "nbpSR": 1,
+            "runtime": 9232839,
+            "dest": "15_Melbourne1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hobart",
+            "nbpSR": 2,
+            "runtime": 15327194,
+            "dest": "0_Sydney1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Brisbane2",
+            "nbpSR": 1,
+            "runtime": 17407616,
+            "dest": "5_Cairns",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

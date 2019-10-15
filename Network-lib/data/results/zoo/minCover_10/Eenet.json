@@ -1,0 +1,284 @@
+{
+    "initialCoverSize": 51,
+    "times": [
+        1238925,
+        1690155,
+        2153361,
+        2717038,
+        3142923,
+        3584714,
+        3927132,
+        4329767,
+        4656441,
+        5043124,
+        5382103,
+        5763738,
+        6171430,
+        6654468,
+        7105525,
+        7588643,
+        8282544,
+        9143197,
+        9612519,
+        10122351,
+        10596429,
+        11098478,
+        11661984,
+        12269614,
+        13174951,
+        13679985,
+        14516522,
+        15698334,
+        16740697,
+        17480714,
+        17961614,
+        18350008,
+        18830700,
+        19443442
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 0_Parnu 1_Haapsald 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 2_Kuressaare 0_Parnu 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 3_Rakvere 0_Parnu 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 4_Narva 0_Parnu 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 6_GEANT2 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,9_Viljandi 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 7_Paide,5_Tallinn 0_Parnu 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 8_Turi,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 7_Paide,10_Jogeva 10_Jogeva,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 7_Paide,10_Jogeva 10_Jogeva,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 0_Parnu 5_Tallinn,7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,7_Paide 7_Paide 7_Paide 7_Paide 7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide 7_Paide"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,11_Tartu 12_Voru 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.014492753623188396,
+            "cycle": "7_Paide,5_Tallinn 1_Haapsald 2_Kuressaare 1_Haapsald 2_Kuressaare 1_Haapsald 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0.18115942028985507,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 3_Rakvere 4_Narva 3_Rakvere 4_Narva 3_Rakvere 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 8_Turi 7_Paide,5_Tallinn 6_GEANT2 5_Tallinn,9_Viljandi 8_Turi 7_Paide"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "7_Paide,10_Jogeva 10_Jogeva,11_Tartu 12_Voru 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.2898550724637681,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 6_GEANT2 0_Parnu 6_GEANT2 0_Parnu 6_GEANT2 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,7_Paide 7_Paide,5_Tallinn 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 5_Tallinn,9_Viljandi 9_Viljandi,5_Tallinn 5_Tallinn,9_Viljandi 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide 9_Viljandi 7_Paide 9_Viljandi 7_Paide 9_Viljandi 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 0_Parnu 5_Tallinn,9_Viljandi 7_Paide,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide,10_Jogeva 10_Jogeva,7_Paide 7_Paide,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide,10_Jogeva 10_Jogeva,7_Paide 7_Paide,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.07246376811594203,
+            "cycle": "7_Paide,5_Tallinn 0_Parnu 2_Kuressaare 0_Parnu 2_Kuressaare 0_Parnu 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 0_Parnu 4_Narva 0_Parnu 4_Narva 0_Parnu 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 4_Narva 6_GEANT2 4_Narva 6_GEANT2 4_Narva 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 8_Turi 9_Viljandi 8_Turi 9_Viljandi 8_Turi 9_Viljandi 8_Turi 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide,5_Tallinn 2_Kuressaare 6_GEANT2 2_Kuressaare 5_Tallinn,9_Viljandi 7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,7_Paide 9_Viljandi 7_Paide,5_Tallinn 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide,5_Tallinn 1_Haapsald 3_Rakvere 1_Haapsald 3_Rakvere 1_Haapsald 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "7_Paide 8_Turi 7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "7_Paide 8_Turi 7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "7_Paide 8_Turi 7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.4565217391304348,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,9_Viljandi 7_Paide,5_Tallinn 3_Rakvere 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 5_Tallinn,7_Paide 9_Viljandi,5_Tallinn 1_Haapsald 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi 7_Paide,10_Jogeva 10_Jogeva,11_Tartu 11_Tartu,10_Jogeva 10_Jogeva,7_Paide"
+        },
+        {
+            "x": 0.4565217391304348,
+            "cycle": "7_Paide,5_Tallinn 5_Tallinn,9_Viljandi 7_Paide,5_Tallinn 2_Kuressaare 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 5_Tallinn,9_Viljandi 8_Turi 9_Viljandi,5_Tallinn 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0.31884057971014496,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 1_Haapsald 4_Narva 1_Haapsald 4_Narva 1_Haapsald 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0.06521739130434781,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 2_Kuressaare 6_GEANT2 2_Kuressaare 6_GEANT2 2_Kuressaare 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 5_Tallinn,9_Viljandi 9_Viljandi,5_Tallinn 2_Kuressaare 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 0_Parnu 2_Kuressaare 0_Parnu 2_Kuressaare 5_Tallinn,9_Viljandi 7_Paide"
+        },
+        {
+            "x": 0.05797101449275363,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 2_Kuressaare 0_Parnu 2_Kuressaare 0_Parnu 2_Kuressaare 5_Tallinn,7_Paide"
+        },
+        {
+            "x": 0.08695652173913039,
+            "cycle": "7_Paide 9_Viljandi,5_Tallinn 5_Tallinn,9_Viljandi 7_Paide,5_Tallinn 0_Parnu 5_Tallinn,7_Paide"
+        }
+    ],
+    "values": [
+        15,
+        12,
+        10,
+        8.125,
+        5.125,
+        5,
+        4.833333333333334,
+        4.75,
+        4.593749999999999,
+        4.570833333333333,
+        4.570833333333333,
+        4.570833333333333,
+        4.500000000000001,
+        4.395833333333334,
+        4.3938953488372094,
+        4.37890625,
+        4.371186117467582,
+        4.324387947269303,
+        4.319371536891222,
+        4.319371536891222,
+        4.2335228929717115,
+        4.163324979114453,
+        4.121794871794871,
+        4.0625,
+        4.0625,
+        4.061618397358943,
+        4.041698473282444,
+        4.028891606889029,
+        4.023529411764706,
+        4.006954793840039,
+        4.004721753794266,
+        4.004524886877829,
+        4.003787878787879,
+        3.9999999999999996
+    ],
+    "initialCoverSeg": 9,
+    "runtime": 82462,
+    "lpBound": 3.9999999999999996
+}

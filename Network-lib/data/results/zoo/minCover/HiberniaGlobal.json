@@ -1,0 +1,918 @@
+{
+    "initialCoverSize": 176,
+    "times": [
+        3713616,
+        14410507,
+        25216637,
+        35980025,
+        46854217,
+        57851046,
+        68526749,
+        79453395,
+        90275827,
+        101311015,
+        114018451,
+        124931425,
+        135796068,
+        146964334,
+        157975742,
+        168909231,
+        179899325,
+        191032994,
+        201955670,
+        216071302,
+        228321227,
+        239554307,
+        250478117,
+        261676087,
+        273311912,
+        285463239,
+        296514431,
+        307295628,
+        318255283,
+        329026462,
+        339857802,
+        351031939,
+        362237213,
+        373946951,
+        386949754,
+        398137628,
+        409319574,
+        420303186,
+        431854245,
+        443144884,
+        454305940,
+        465643078,
+        477315378,
+        490863270,
+        502318066,
+        513358968,
+        524672754,
+        536070948,
+        547434963,
+        558569553,
+        569494074,
+        581982316,
+        596405998,
+        607837091,
+        619086605,
+        630636326,
+        642316040,
+        654152744,
+        666149632,
+        677551378,
+        690036633,
+        701992424,
+        713458518,
+        725391389,
+        737039366,
+        750949027,
+        762722764,
+        775289278,
+        787189555,
+        802976868,
+        814418683,
+        825926213,
+        837116043,
+        850968156,
+        864081932,
+        877128348,
+        888378273,
+        899574200,
+        911021233,
+        924451504,
+        935895189,
+        947890035,
+        959201661,
+        971506915,
+        984075032,
+        995702938,
+        1007624635,
+        1019049000,
+        1030141004,
+        1041486697,
+        1052858635,
+        1064054412,
+        1078723455,
+        1090168122,
+        1101798047,
+        1113731273,
+        1129180027,
+        1141196486,
+        1152844665,
+        1164523257,
+        1176412968
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 1_Miami 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 12_Richmond,0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 1,
+            "cycle": "24_Portrush 0_Raleigh 1_Miami 46_Tampa 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 3_Charlotte,0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 25_Baltimore 45_Houston 3_Charlotte 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 1,
+            "cycle": "24_Portrush 4_Buffalo 46_Tampa,1_Miami 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 3_Charlotte 2_Atlanta 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 7_Toronto 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 6_Chicago 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 6_Chicago 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 48_Denver 0_Raleigh 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 54_Dallas 3_Charlotte 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 7_Toronto 8_Montreal 6_Chicago 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 8_Montreal 7_Toronto 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 6_Chicago 37_Sainte-Foy 6_Chicago 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 16_Southport,24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 11_None 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 19_London 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 11_None 18_Reading 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 14_Amsterdam 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 12_Richmond 26_Washington_Dc 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 34_Philadelphia 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 39_Stamford 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 23_Brussels 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 15_Dusseldorf 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 27_Mannheim 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 17_Manchester 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 35_Dublin 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 18_Reading 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 17_Manchester 19_London 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 17_Manchester 20_Egham 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 18_Reading 11_None 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 20_Egham 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 23_Brussels 17_Manchester 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 21_Biache 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 22_Paris 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 17_Manchester 23_Brussels 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 10_None 30_Strasbourg 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 36_Belfast,24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 33_McClean 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 26_Washington_Dc 4_Buffalo 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 12_Richmond,0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 12_Richmond 29_Newark 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 15_Dusseldorf 30_Strasbourg 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 40_White_Plains 12_Richmond 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 34_Philadelphia 4_Buffalo 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 17_Manchester 27_Mannheim 24_Portrush 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 32_Ashburn 4_Buffalo 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 31_Pittsburgh 34_Philadelphia 4_Buffalo 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 34_Philadelphia 29_Newark 4_Buffalo 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 34_Philadelphia 12_Richmond,0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 35_Dublin 10_None 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 35_Dublin 36_Belfast,24_Portrush 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush,36_Belfast 35_Dublin 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 6_Chicago 44_Edmundston 6_Chicago 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 39_Stamford 0_Raleigh 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 39_Stamford 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 40_White_Plains 12_Richmond 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 40_White_Plains 24_Portrush 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 42_Truro 0_Raleigh 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 43_Moncton 0_Raleigh 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 44_Edmundston 6_Chicago 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 8_Montreal 43_Moncton 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 25_Baltimore 51_San_Diego 3_Charlotte 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 51_San_Diego 54_Dallas 3_Charlotte 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 47_Seattle 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 47_Seattle 49_San_Francisco 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 49_San_Francisco 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 47_Seattle 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 8_Montreal 6_Chicago 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 52_Las_Vegas 3_Charlotte 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 51_San_Diego 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 53_Phoenix 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 54_Dallas 4_Buffalo 0_Raleigh 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 54_Dallas 49_San_Francisco 3_Charlotte 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 51_San_Diego 5_Cleveland 26_Washington_Dc 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 44_Edmundston 43_Moncton 7_Toronto 43_Moncton 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 52_Las_Vegas 5_Cleveland 45_Houston 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 51_San_Diego 47_Seattle 51_San_Diego 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0.3034709193245778,
+            "cycle": "24_Portrush 27_Mannheim 17_Manchester 27_Mannheim 17_Manchester 24_Portrush"
+        },
+        {
+            "x": 0.13930581613508441,
+            "cycle": "24_Portrush 18_Reading 15_Dusseldorf 18_Reading 15_Dusseldorf 24_Portrush"
+        },
+        {
+            "x": 0.18011257035647282,
+            "cycle": "24_Portrush 40_White_Plains 34_Philadelphia 31_Pittsburgh 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.011491557223264615,
+            "cycle": "24_Portrush 53_Phoenix 39_Stamford 35_Dublin 23_Brussels 24_Portrush"
+        },
+        {
+            "x": 0.22889305816135094,
+            "cycle": "24_Portrush 27_Mannheim 35_Dublin 28_Frankfurt 18_Reading 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 51_San_Diego 26_Washington_Dc 7_Toronto 6_Chicago 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 42_Truro 39_Stamford 42_Truro 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 12_Richmond 34_Philadelphia 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 53_Phoenix 51_San_Diego 4_Buffalo 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 43_Moncton 39_Stamford 34_Philadelphia 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0.05992026266416505,
+            "cycle": "24_Portrush 29_Newark 8_Montreal 29_Newark 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 51_San_Diego 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0.04889774859287074,
+            "cycle": "24_Portrush 8_Montreal 52_Las_Vegas 37_Sainte-Foy 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0.1641651031894934,
+            "cycle": "24_Portrush 17_Manchester 23_Brussels 21_Biache 14_Amsterdam 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 46_Tampa 33_McClean 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.2138836772983114,
+            "cycle": "24_Portrush 23_Brussels 17_Manchester 35_Dublin 36_Belfast 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 27_Mannheim 10_None 30_Strasbourg 15_Dusseldorf 24_Portrush"
+        },
+        {
+            "x": 0.3039399624765478,
+            "cycle": "24_Portrush 0_Raleigh 12_Richmond 3_Charlotte 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0.22795497185741087,
+            "cycle": "24_Portrush 54_Dallas 51_San_Diego 54_Dallas 51_San_Diego 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 33_McClean 46_Tampa 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 48_Denver 51_San_Diego 54_Dallas 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 0.2138836772983114,
+            "cycle": "24_Portrush 39_Stamford 31_Pittsburgh 34_Philadelphia 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.32387429643527205,
+            "cycle": "24_Portrush 29_Newark 34_Philadelphia 12_Richmond 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 19_London 35_Dublin 29_Newark 31_Pittsburgh 24_Portrush"
+        },
+        {
+            "x": 0.3283302063789868,
+            "cycle": "24_Portrush 11_None 20_Egham 11_None 18_Reading 24_Portrush"
+        },
+        {
+            "x": 0.6965290806754222,
+            "cycle": "24_Portrush 36_Belfast 35_Dublin 17_Manchester 27_Mannheim 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 34_Philadelphia 39_Stamford 31_Pittsburgh 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 6_Chicago 7_Toronto 47_Seattle 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 34_Philadelphia 29_Newark 34_Philadelphia 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 39_Stamford 52_Las_Vegas 47_Seattle 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 34_Philadelphia 44_Edmundston 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 12_Richmond 1_Miami 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 12_Richmond 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 29_Newark 26_Washington_Dc 47_Seattle 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 40_White_Plains 35_Dublin 29_Newark 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 23_Brussels 10_None 18_Reading 23_Brussels 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 54_Dallas 49_San_Francisco 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 47_Seattle 26_Washington_Dc 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 0.3283302063789868,
+            "cycle": "24_Portrush 18_Reading 10_None 21_Biache 14_Amsterdam 24_Portrush"
+        },
+        {
+            "x": 0.27861163227016883,
+            "cycle": "24_Portrush 14_Amsterdam 22_Paris 10_None 18_Reading 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 54_Dallas 46_Tampa 33_McClean 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0.1519699812382739,
+            "cycle": "24_Portrush 51_San_Diego 3_Charlotte 51_San_Diego 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 53_Phoenix 35_Dublin 44_Edmundston 53_Phoenix 24_Portrush"
+        },
+        {
+            "x": 0.038227016885553355,
+            "cycle": "24_Portrush 40_White_Plains 31_Pittsburgh 35_Dublin 27_Mannheim 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 8_Montreal 7_Toronto 26_Washington_Dc 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 45_Houston 5_Cleveland 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 52_Las_Vegas 44_Edmundston 35_Dublin 43_Moncton 24_Portrush"
+        },
+        {
+            "x": 0.30393996247654786,
+            "cycle": "24_Portrush 51_San_Diego 3_Charlotte 12_Richmond 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 19_London 28_Frankfurt 22_Paris 14_Amsterdam 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 53_Phoenix 4_Buffalo 47_Seattle 53_Phoenix 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 53_Phoenix 33_McClean 12_Richmond 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.1519699812382739,
+            "cycle": "24_Portrush 54_Dallas 3_Charlotte 54_Dallas 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0.3921200750469044,
+            "cycle": "24_Portrush 29_Newark 12_Richmond 3_Charlotte 51_San_Diego 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 39_Stamford 0_Raleigh 33_McClean 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0.3034709193245778,
+            "cycle": "24_Portrush 36_Belfast 35_Dublin 39_Stamford 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0.7861163227016886,
+            "cycle": "24_Portrush 34_Philadelphia 40_White_Plains 35_Dublin 36_Belfast 24_Portrush"
+        },
+        {
+            "x": 0.4960131332082552,
+            "cycle": "24_Portrush 23_Brussels 35_Dublin 40_White_Plains 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0.03635084427767349,
+            "cycle": "24_Portrush 27_Mannheim 35_Dublin 31_Pittsburgh 34_Philadelphia 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 44_Edmundston 34_Philadelphia 26_Washington_Dc 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 1,
+            "cycle": "24_Portrush 53_Phoenix 47_Seattle 7_Toronto 43_Moncton 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 43_Moncton 7_Toronto 32_Ashburn 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0.2495309568480305,
+            "cycle": "24_Portrush 43_Moncton 7_Toronto 47_Seattle 51_San_Diego 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 40_White_Plains 26_Washington_Dc 7_Toronto 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0.3557692307692309,
+            "cycle": "24_Portrush 40_White_Plains 31_Pittsburgh 34_Philadelphia 31_Pittsburgh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 33_McClean 45_Houston 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0.1517354596622891,
+            "cycle": "24_Portrush 39_Stamford 5_Cleveland 39_Stamford 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0.39305816135084437,
+            "cycle": "24_Portrush 18_Reading 28_Frankfurt 22_Paris 10_None 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 49_San_Francisco 26_Washington_Dc 49_San_Francisco 24_Portrush"
+        },
+        {
+            "x": 0.3433395872420264,
+            "cycle": "24_Portrush 10_None 30_Strasbourg 23_Brussels 17_Manchester 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 40_White_Plains 12_Richmond 0_Raleigh 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 47_Seattle 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0.2138836772983114,
+            "cycle": "24_Portrush 31_Pittsburgh 40_White_Plains 12_Richmond 40_White_Plains 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 39_Stamford 54_Dallas 35_Dublin 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0.0701219512195122,
+            "cycle": "24_Portrush 34_Philadelphia 12_Richmond 34_Philadelphia 31_Pittsburgh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 54_Dallas 46_Tampa 1_Miami 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0.8422842401500935,
+            "cycle": "24_Portrush 44_Edmundston 53_Phoenix 33_McClean 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 7_Toronto 0_Raleigh 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 52_Las_Vegas 8_Montreal 7_Toronto 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 32_Ashburn 47_Seattle 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 47_Seattle 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0.1577157598499065,
+            "cycle": "24_Portrush 0_Raleigh 33_McClean 53_Phoenix 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 36_Belfast 35_Dublin 52_Las_Vegas 48_Denver 24_Portrush"
+        },
+        {
+            "x": 0.024859287054408992,
+            "cycle": "24_Portrush 19_London 35_Dublin 10_None 18_Reading 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 1_Miami 46_Tampa 54_Dallas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 0_Raleigh 33_McClean 46_Tampa 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 52_Las_Vegas 47_Seattle 32_Ashburn 4_Buffalo 24_Portrush"
+        },
+        {
+            "x": 0.7504690431519695,
+            "cycle": "24_Portrush 8_Montreal 7_Toronto 47_Seattle 52_Las_Vegas 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 7_Toronto 8_Montreal 24_Portrush"
+        },
+        {
+            "x": 0.6735459662288926,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 49_San_Francisco 44_Edmundston 24_Portrush"
+        },
+        {
+            "x": 0.1641651031894935,
+            "cycle": "24_Portrush 51_San_Diego 54_Dallas 35_Dublin 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.11397748592870548,
+            "cycle": "24_Portrush 54_Dallas 39_Stamford 54_Dallas 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0,
+            "cycle": "24_Portrush 4_Buffalo 29_Newark 12_Richmond 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.3921200750469044,
+            "cycle": "24_Portrush 54_Dallas 3_Charlotte 12_Richmond 29_Newark 24_Portrush"
+        },
+        {
+            "x": 0.06519699812382712,
+            "cycle": "24_Portrush 51_San_Diego 39_Stamford 51_San_Diego 39_Stamford 24_Portrush"
+        },
+        {
+            "x": 0.3264540337711074,
+            "cycle": "24_Portrush 49_San_Francisco 26_Washington_Dc 49_San_Francisco 39_Stamford 24_Portrush"
+        }
+    ],
+    "values": [
+        40,
+        37,
+        34,
+        33,
+        31,
+        31,
+        30.5,
+        29.5,
+        27.5,
+        27.5,
+        25.5,
+        25.5,
+        25.5,
+        24,
+        22.5,
+        22.500000000000004,
+        22,
+        21.75,
+        21.666666666666668,
+        21.083333333333336,
+        21.083333333333336,
+        20.083333333333336,
+        20.083333333333336,
+        20.083333333333336,
+        19.75,
+        19.75,
+        19.712500000000002,
+        19.712500000000002,
+        19.712500000000002,
+        19.697222222222223,
+        19.656249999999996,
+        19.125,
+        18.8125,
+        18.416666666666664,
+        18.333333333333332,
+        18,
+        17.856060606060602,
+        17.856060606060602,
+        17.856060606060606,
+        17.729166666666664,
+        17.710144927536234,
+        17.664204667094836,
+        17.579597438243365,
+        17.499130434782614,
+        17.439195257768997,
+        17.357575757575756,
+        17.31104033970276,
+        17.163987138263664,
+        17.100628930817617,
+        16.921296296296294,
+        16.921296296296298,
+        16.911572880327622,
+        16.823717948717952,
+        16.73155555555556,
+        16.725948717948718,
+        16.680114638447975,
+        16.64176200127152,
+        16.60220613581523,
+        16.515959607683826,
+        16.507065391931622,
+        16.411359099981855,
+        16.275193510893494,
+        16.230099502487565,
+        16.180333883691066,
+        16.177688983119957,
+        16.054940611574427,
+        16.016796874999997,
+        15.648423341790505,
+        15.627207207207208,
+        15.607803468208097,
+        15.548320895522389,
+        15.53293066105366,
+        15.448052906927684,
+        15.32265446224256,
+        15.315552104466851,
+        15.296963182030478,
+        15.295165088513796,
+        15.273962215272022,
+        15.270183962006664,
+        15.249999999999998,
+        15.250000000000002,
+        15.213914430898093,
+        15.213914430898093,
+        15.184105466278819,
+        15.184105466278815,
+        15.130257695744087,
+        15.100227786320906,
+        15.085914521224447,
+        15.08062016574586,
+        15.080620165745861,
+        15.08062016574586,
+        15.08062016574586,
+        15.066666666666668,
+        15.057226562499997,
+        15.02751596229857,
+        15.02080456609541,
+        15.009969623637716,
+        15.00882535736482,
+        15.002441511053872,
+        15.000000000000002,
+        15.000000000000002
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 1199642,
+    "lpBound": 15.000000000000002
+}

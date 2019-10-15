@@ -1,0 +1,28 @@
+{
+    "nbCycles": 20,
+    "runtime": 3370987,
+    "cycles": [
+        "3_Munich 0_Hamburg 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 13_Utrecht 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 6_Frankfurt,2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich",
+        "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich",
+        "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,6_Frankfurt 3_Munich",
+        "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich",
+        "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 3_Munich",
+        "3_Munich 6_Frankfurt,5_Cologne 5_Cologne,14_Dusseldorf 3_Munich",
+        "3_Munich 14_Dusseldorf,5_Cologne 5_Cologne,6_Frankfurt 3_Munich",
+        "3_Munich 8_London 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 8_London 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich",
+        "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich",
+        "3_Munich 8_London,7_Dublin 7_Dublin,8_London 3_Munich",
+        "3_Munich 0_Hamburg 8_London 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 10_Rotterdam 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 11_The_Hague 0_Hamburg 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 11_The_Hague 2_Stuttgart 0_Hamburg 0_Hamburg 3_Munich",
+        "3_Munich 0_Hamburg 11_The_Hague 0_Hamburg 0_Hamburg 3_Munich"
+    ],
+    "segmentCost": 6,
+    "source": "3_Munich"
+}

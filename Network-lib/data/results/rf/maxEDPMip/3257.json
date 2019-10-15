@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "Rome,+Italy456",
+            "nbpSR": 1,
+            "runtime": 6213318665,
+            "dest": "Rome,+Italy424",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt206",
+            "nbpSR": 1,
+            "runtime": 11656955104,
+            "dest": "Dresden,+Germany336",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Brussels,+Belgium190",
+            "nbpSR": 1,
+            "runtime": 9725303984,
+            "dest": "Cosenza,+Italy445",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Rome,+Italy454",
+            "nbpSR": 1,
+            "runtime": 5755262496,
+            "dest": "Padova,+Italy413",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt,+Germany355",
+            "nbpSR": 1,
+            "runtime": 4891263020,
+            "dest": "Frankfurt,+Germany356",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "New+York,+NY161",
+            "nbpSR": 2,
+            "runtime": 5753401959,
+            "dest": "Oslo,+Norway245",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Copenhagen,+Denmark196",
+            "nbpSR": 3,
+            "runtime": 9596232200,
+            "dest": "Washington,+DC266",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Dresden,+Germany334",
+            "nbpSR": 1,
+            "runtime": 5497685666,
+            "dest": "Offenbach,+Germany390",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt,+Germany345",
+            "nbpSR": 3,
+            "runtime": 10547357606,
+            "dest": "New+York,+NY235",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Rome,+Italy455",
+            "nbpSR": 2,
+            "runtime": 4815958156,
+            "dest": "Milan,+Italy230",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Milan,+Italy231",
+            "nbpSR": 2,
+            "runtime": 14205574834,
+            "dest": "Chemnitz,+Germany316",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "New+York,+NY243",
+            "nbpSR": 1,
+            "runtime": 5095182059,
+            "dest": "Frankfurt212",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Berlin,+Germany303",
+            "nbpSR": 2,
+            "runtime": 9116919882,
+            "dest": "Frankfurt213",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Ancona,+Italy406",
+            "nbpSR": 1,
+            "runtime": 5281471600,
+            "dest": "Dresden,+Germany333",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Oslo,+Norway246",
+            "nbpSR": 2,
+            "runtime": 7303477756,
+            "dest": "Frankfurt211",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Milan,+Italy432",
+            "nbpSR": 2,
+            "runtime": 10218803808,
+            "dest": "Zurich,+Switzerland269",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Munich,+Germany373",
+            "nbpSR": 2,
+            "runtime": 7909594558,
+            "dest": "Frankfurt208",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Berlin,+Germany304",
+            "nbpSR": 2,
+            "runtime": 13968359555,
+            "dest": "Zurich,+Switzerland270",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "London218",
+            "nbpSR": 1,
+            "runtime": 10331138737,
+            "dest": "Karlsruhe,+Germany371",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Chicago,+IL194",
+            "nbpSR": 1,
+            "runtime": 5309446721,
+            "dest": "Rome,+Italy457",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Milan,+Italy228",
+            "nbpSR": 3,
+            "runtime": 11049406501,
+            "dest": "Stuttgart,+Germany393",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Paris252",
+            "nbpSR": 1,
+            "runtime": 11218735937,
+            "dest": "San+Jose,+CA164",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt206",
+            "nbpSR": 2,
+            "runtime": 11238093527,
+            "dest": "Rome,+Italy457",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Frankfurt204",
+            "nbpSR": 1,
+            "runtime": 8200757983,
+            "dest": "Dusseldorf,+Germany330",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Cagliari,+Italy430",
+            "nbpSR": 1,
+            "runtime": 4782436033,
+            "dest": "Brussels,+Belgium189",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Dusseldorf,+Germany330",
+            "nbpSR": 2,
+            "runtime": 10507961225,
+            "dest": "Munich,+Germany373",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Berlin,+Germany300",
+            "nbpSR": 2,
+            "runtime": 9494881514,
+            "dest": "Oslo,+Norway245",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "London217",
+            "nbpSR": 12,
+            "runtime": 9045826929,
+            "dest": "Frankfurt207",
+            "nbpFlow": 15
+        },
+        {
+            "orig": "Rome,+Italy455",
+            "nbpSR": 2,
+            "runtime": 7231310430,
+            "dest": "Milan,+Italy231",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Washington,+DC266",
+            "nbpSR": 1,
+            "runtime": 7691994604,
+            "dest": "Frankfurt533",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Milan,+Italy432",
+            "nbpSR": 1,
+            "runtime": 9759137570,
+            "dest": "Dresden,+Germany335",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "San+Jose,+CA164",
+            "nbpSR": 1,
+            "runtime": 5539686020,
+            "dest": "Frankfurt213",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Brussels,+Belgium189",
+            "nbpSR": 2,
+            "runtime": 4966324280,
+            "dest": "Prague,+CzechRepublic257",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Paris252",
+            "nbpSR": 1,
+            "runtime": 10639607993,
+            "dest": "Frankfurt,+Germany355",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "London220",
+            "nbpSR": 3,
+            "runtime": 10618528993,
+            "dest": "Milan,+Italy230",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Chicago,+IL194",
+            "nbpSR": 1,
+            "runtime": 5935086132,
+            "dest": "Milan,+Italy432",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Hamburg,+Germany368",
+            "nbpSR": 1,
+            "runtime": 6585284170,
+            "dest": "Dusseldorf,+Germany319",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "London222",
+            "nbpSR": 3,
+            "runtime": 10132979647,
+            "dest": "Oslo,+Norway245",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "Dusseldorf,+Germany320",
+            "nbpSR": 2,
+            "runtime": 11921338446,
+            "dest": "Copenhagen,+Denmark196",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Washington,+DC266",
+            "nbpSR": 1,
+            "runtime": 7902264333,
+            "dest": "Frankfurt,+Germany355",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "London590",
+            "nbpSR": 5,
+            "runtime": 14535949301,
+            "dest": "Frankfurt,+Germany340",
+            "nbpFlow": 9
+        },
+        {
+            "orig": "Frankfurt,+Germany343",
+            "nbpSR": 2,
+            "runtime": 10576043091,
+            "dest": "Rome,+Italy455",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Nuremberg,+Germany383",
+            "nbpSR": 1,
+            "runtime": 5532762209,
+            "dest": "Frankfurt209",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Frankfurt213",
+            "nbpSR": 1,
+            "runtime": 9356731051,
+            "dest": "Dresden,+Germany334",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "New+York,+NY242",
+            "nbpSR": 1,
+            "runtime": 5092360494,
+            "dest": "Firenze,+Italy410",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "London590",
+            "nbpSR": 5,
+            "runtime": 12859242863,
+            "dest": "Copenhagen,+Denmark197",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "Dresden,+Germany332",
+            "nbpSR": 1,
+            "runtime": 8790226654,
+            "dest": "Karlsruhe,+Germany371",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt,+Germany347",
+            "nbpSR": 2,
+            "runtime": 4593224415,
+            "dest": "Frankfurt,+Germany342",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Dusseldorf,+Germany203",
+            "nbpSR": 5,
+            "runtime": 9846978200,
+            "dest": "Cagliari,+Italy439",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "Rome,+Italy416",
+            "nbpSR": 2,
+            "runtime": 9907189802,
+            "dest": "Frankfurt536",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "London217",
+            "nbpSR": 1,
+            "runtime": 10318484699,
+            "dest": "New+York,+NY238",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Frankfurt208",
+            "nbpSR": 2,
+            "runtime": 10756786913,
+            "dest": "Oslo,+Norway246",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Oslo,+Norway245",
+            "nbpSR": 5,
+            "runtime": 8932905562,
+            "dest": "Barcelona,+Spain184",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "Paris252",
+            "nbpSR": 2,
+            "runtime": 8993796541,
+            "dest": "Frankfurt,+Germany342",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Mannheim,+Germany377",
+            "nbpSR": 1,
+            "runtime": 4605184608,
+            "dest": "Paris253",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Rome,+Italy454",
+            "nbpSR": 1,
+            "runtime": 9693642499,
+            "dest": "Berlin,+Germany302",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Amsterdam178",
+            "nbpSR": 2,
+            "runtime": 8757110561,
+            "dest": "Mainz,+Germany378",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Milan,+Italy432",
+            "nbpSR": 2,
+            "runtime": 9183227723,
+            "dest": "Frankfurt536",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Bergamo,+Italy408",
+            "nbpSR": 1,
+            "runtime": 4493602565,
+            "dest": "Copenhagen,+Denmark201",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Stockholm,+Sweden261",
+            "nbpSR": 1,
+            "runtime": 8871843330,
+            "dest": "Offenbach,+Germany390",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Dresden,+Germany336",
+            "nbpSR": 1,
+            "runtime": 9971744368,
+            "dest": "Frankfurt206",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Amsterdam179",
+            "nbpSR": 1,
+            "runtime": 8217804810,
+            "dest": "Chemnitz,+Germany315",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Dresden,+Germany336",
+            "nbpSR": 1,
+            "runtime": 9525003208,
+            "dest": "Offenbach,+Germany391",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Stockholm,+Sweden261",
+            "nbpSR": 2,
+            "runtime": 4867676564,
+            "dest": "Copenhagen,+Denmark198",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Vienna,+Austria144",
+            "nbpSR": 1,
+            "runtime": 4976061305,
+            "dest": "Chicago,+IL194",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Prague,+CzechRepublic256",
+            "nbpSR": 1,
+            "runtime": 4582969425,
+            "dest": "Bari,+Italy407",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt,+Germany341",
+            "nbpSR": 2,
+            "runtime": 12862089036,
+            "dest": "Frankfurt536",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Cagliari,+Italy439",
+            "nbpSR": 3,
+            "runtime": 11324448154,
+            "dest": "Copenhagen,+Denmark196",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Rome,+Italy416",
+            "nbpSR": 2,
+            "runtime": 10061865615,
+            "dest": "Stockholm,+Sweden259",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Dresden,+Germany335",
+            "nbpSR": 1,
+            "runtime": 8881588989,
+            "dest": "Prague,+CzechRepublic257",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "London218",
+            "nbpSR": 4,
+            "runtime": 4854562044,
+            "dest": "Paris250",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Milan,+Italy226",
+            "nbpSR": 1,
+            "runtime": 7929333768,
+            "dest": "Cagliari,+Italy430",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Hamburg,+Germany362",
+            "nbpSR": 1,
+            "runtime": 8650427931,
+            "dest": "Frankfurt,+Germany354",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Washington,+DC266",
+            "nbpSR": 3,
+            "runtime": 9964279110,
+            "dest": "Padova,+Italy413",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Dusseldorf,+Germany327",
+            "nbpSR": 2,
+            "runtime": 8500705406,
+            "dest": "Copenhagen,+Denmark196",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Alessandria,+Italy405",
+            "nbpSR": 1,
+            "runtime": 4848195059,
+            "dest": "Firenze,+Italy410",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Copenhagen,+Denmark200",
+            "nbpSR": 3,
+            "runtime": 9194065987,
+            "dest": "Milan,+Italy227",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Madrid,+Spain224",
+            "nbpSR": 2,
+            "runtime": 13926459598,
+            "dest": "Berlin,+Germany304",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Venice,+Italy419",
+            "nbpSR": 1,
+            "runtime": 4946261039,
+            "dest": "Offenbach,+Germany391",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Frankfurt,+Germany341",
+            "nbpSR": 3,
+            "runtime": 10632052152,
+            "dest": "Cagliari,+Italy438",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "Paris253",
+            "nbpSR": 1,
+            "runtime": 10709094085,
+            "dest": "Rome,+Italy424",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Berlin,+Germany304",
+            "nbpSR": 1,
+            "runtime": 14641570289,
+            "dest": "Frankfurt,+Germany355",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Ancona,+Italy406",
+            "nbpSR": 1,
+            "runtime": 4685445746,
+            "dest": "Milan,+Italy229",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Stockholm,+Sweden259",
+            "nbpSR": 3,
+            "runtime": 8116893315,
+            "dest": "Barcelona,+Spain185",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Frankfurt,+Germany345",
+            "nbpSR": 3,
+            "runtime": 11619184202,
+            "dest": "Stuttgart,+Germany393",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "Mainz,+Germany378",
+            "nbpSR": 1,
+            "runtime": 10032288374,
+            "dest": "New+York,+NY243",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Berlin,+Germany302",
+            "nbpSR": 2,
+            "runtime": 7604097275,
+            "dest": "Berlin,+Germany301",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Copenhagen,+Denmark196",
+            "nbpSR": 3,
+            "runtime": 9331051940,
+            "dest": "Washington,+DC266",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Frankfurt,+Germany343",
+            "nbpSR": 2,
+            "runtime": 12397233635,
+            "dest": "Dusseldorf,+Germany320",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Amsterdam179",
+            "nbpSR": 2,
+            "runtime": 8698800816,
+            "dest": "Munich,+Germany373",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Paris253",
+            "nbpSR": 2,
+            "runtime": 12142734041,
+            "dest": "Offenbach,+Germany391",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Paris254",
+            "nbpSR": 2,
+            "runtime": 8398078708,
+            "dest": "Stockholm,+Sweden259",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "New+York,+NY241",
+            "nbpSR": 1,
+            "runtime": 4341695893,
+            "dest": "Berlin,+Germany302",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Amsterdam179",
+            "nbpSR": 1,
+            "runtime": 8908803902,
+            "dest": "Frankfurt533",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Paris249",
+            "nbpSR": 4,
+            "runtime": 9832993474,
+            "dest": "Modena,+Italy412",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "New+York,+NY161",
+            "nbpSR": 2,
+            "runtime": 5066973010,
+            "dest": "Hamburg,+Germany363",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "Barcelona,+Spain183",
+            "nbpSR": 1,
+            "runtime": 9758526502,
+            "dest": "London589",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Barcelona,+Spain181",
+            "nbpSR": 4,
+            "runtime": 9939922151,
+            "dest": "Milan,+Italy232",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "Dresden,+Germany334",
+            "nbpSR": 1,
+            "runtime": 9044363366,
+            "dest": "Cagliari,+Italy429",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "Hamburg,+Germany362",
+            "nbpSR": 1,
+            "runtime": 11965111755,
+            "dest": "Rome,+Italy454",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,206 @@
+{
+    "initialCoverSize": 36,
+    "times": [
+        1206966,
+        1941218,
+        2627577,
+        3226196,
+        3834173,
+        4459327,
+        5125624,
+        5842717,
+        6587125,
+        7277924,
+        7960386,
+        8631459,
+        9353723,
+        10080574,
+        10831605,
+        11580648,
+        12319390,
+        13114587,
+        13921574,
+        14743654,
+        15491549,
+        16340935,
+        17244864,
+        18143631,
+        19037631
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_Philadelphia,0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Dallas 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Austin 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York,1_Philadelphia 8_Dallas 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Detroit 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_Los_Angeles 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Champaign 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Salt_Lake_City 12_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_Los_Angeles 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_San_Diego 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 13_San_Diego 1_Philadelphia 11_San_Francisco 1_Philadelphia 11_San_Francisco 1_Philadelphia 11_San_Francisco 1_Philadelphia 0_New_York"
+        },
+        {
+            "x": 0.04027189944850618,
+            "cycle": "0_New_York 13_San_Diego 15_Salt_Lake_City 13_San_Diego 15_Salt_Lake_City 13_San_Diego 15_Salt_Lake_City 13_San_Diego 9_Champaign 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Salt_Lake_City 1_Philadelphia 15_Salt_Lake_City 1_Philadelphia 15_Salt_Lake_City 1_Philadelphia 15_Salt_Lake_City 1_Philadelphia 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 9_Champaign 4_Houston 9_Champaign 4_Houston 9_Champaign 4_Houston 9_Champaign 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 1_Philadelphia 11_San_Francisco 16_Denver 15_Salt_Lake_City 1_Philadelphia 11_San_Francisco 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0.12023855328972677,
+            "cycle": "0_New_York 4_Houston 16_Denver 9_Champaign 15_Salt_Lake_City 12_Los_Angeles 9_Champaign 15_Salt_Lake_City 12_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Salt_Lake_City 9_Champaign 6_Washington,_DC 9_Champaign 6_Washington,_DC 9_Champaign 6_Washington,_DC 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 15_Salt_Lake_City 11_San_Francisco 17_Kansas_City 11_San_Francisco 17_Kansas_City 11_San_Francisco 16_Denver 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.02916363843643563,
+            "cycle": "0_New_York 9_Champaign 15_Salt_Lake_City 9_Champaign 15_Salt_Lake_City 9_Champaign 15_Salt_Lake_City 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 16_Denver 4_Houston 16_Denver 4_Houston 16_Denver 4_Houston 16_Denver 4_Houston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 0_New_York 4_Houston 0_New_York 4_Houston 0_New_York 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.02376982600145361,
+            "cycle": "0_New_York 12_Los_Angeles 9_Champaign 12_Los_Angeles 9_Champaign 12_Los_Angeles 15_Salt_Lake_City 9_Champaign 12_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Washington,_DC 2_Detroit 6_Washington,_DC 2_Detroit 6_Washington,_DC 2_Detroit 6_Washington,_DC 2_Detroit 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Washington,_DC 10_Chicago 6_Washington,_DC 10_Chicago 6_Washington,_DC 10_Chicago 6_Washington,_DC 16_Denver 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 4_Houston 10_Chicago 7_Atlanta 10_Chicago 7_Atlanta 10_Chicago 7_Atlanta 16_Denver 0_New_York"
+        },
+        {
+            "x": 0.08888033859176592,
+            "cycle": "0_New_York 13_San_Diego 15_Salt_Lake_City 1_Philadelphia 13_San_Diego 1_Philadelphia 13_San_Diego 1_Philadelphia 13_San_Diego 0_New_York"
+        },
+        {
+            "x": 0.12359454491043542,
+            "cycle": "0_New_York 12_Los_Angeles 16_Denver 12_Los_Angeles 16_Denver 12_Los_Angeles 16_Denver 12_Los_Angeles 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_Los_Angeles 1_Philadelphia 9_Champaign 6_Washington,_DC 10_Chicago 7_Atlanta 2_Detroit 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.037037037037037084,
+            "cycle": "0_New_York 5_Austin 0_New_York 5_Austin 0_New_York 5_Austin 0_New_York 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.055555555555555615,
+            "cycle": "0_New_York 4_Houston 16_Denver 6_Washington,_DC 16_Denver 6_Washington,_DC 16_Denver 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.1665384122098242,
+            "cycle": "0_New_York 4_Houston 9_Champaign 1_Philadelphia 13_San_Diego 15_Salt_Lake_City 1_Philadelphia 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.1056175452096958,
+            "cycle": "0_New_York 13_San_Diego 16_Denver 13_San_Diego 1_Philadelphia 15_Salt_Lake_City 13_San_Diego 9_Champaign 4_Houston 0_New_York"
+        },
+        {
+            "x": 0.05668846992433006,
+            "cycle": "0_New_York 15_Salt_Lake_City 12_Los_Angeles 1_Philadelphia 11_San_Francisco 1_Philadelphia 11_San_Francisco 1_Philadelphia 15_Salt_Lake_City 0_New_York"
+        },
+        {
+            "x": 0.041533068274122585,
+            "cycle": "0_New_York 15_Salt_Lake_City 1_Philadelphia 15_Salt_Lake_City 1_Philadelphia 15_Salt_Lake_City 1_Philadelphia 16_Denver 4_Houston 0_New_York"
+        }
+    ],
+    "values": [
+        6,
+        5,
+        4.25,
+        1.5833333333333333,
+        1.0277777777777777,
+        1.0277777777777777,
+        1,
+        0.9823788546255506,
+        0.9666666666666667,
+        0.9613413071337035,
+        0.9588821490467937,
+        0.9409090909090909,
+        0.9304932735426009,
+        0.930493273542601,
+        0.9304932735426011,
+        0.9301736294729421,
+        0.9200992756809294,
+        0.9183025533246881,
+        0.9176121677142001,
+        0.9118926373859537,
+        0.9100660066006601,
+        0.9013609296767149,
+        0.8921074727120069,
+        0.890994939454184,
+        0.888888888888889
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 130089,
+    "lpBound": 0.888888888888889
+}

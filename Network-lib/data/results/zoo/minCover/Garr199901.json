@@ -1,0 +1,198 @@
+{
+    "initialCoverSize": 37,
+    "times": [
+        1141674,
+        1596647,
+        2046557,
+        2469036,
+        2883964,
+        3300232,
+        3670260,
+        4070887,
+        4477588,
+        4913962,
+        5385517,
+        5876644,
+        6312450,
+        6737776,
+        7196822,
+        7623893,
+        8069072,
+        8524366,
+        8952855
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_FI 1_BO,0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 4_NA 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 6_PD 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 2_TO 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 8_PI 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 9_CA 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 3_GE 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 4_NA 2_TO 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 4_NA 9_CA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 12_BA 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 13_CT 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 14_PA 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 5_Pv 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 2_TO 4_NA 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 2_TO 9_CA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 15_TS 0_FI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 9_CA 4_NA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 9_CA 2_TO 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 11_AQ 0_FI 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 11_AQ 3_GE 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 12_BA 5_Pv 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 5_Pv 11_AQ 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 13_CT 3_GE 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 15_TS 12_BA 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 8_PI 6_PD 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 13_CT 6_PD 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 3_GE 2_TO 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 14_PA 15_TS 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 14_PA 9_CA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 2_TO 14_PA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 12_BA 8_PI 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 9_CA 12_BA 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 5_Pv 13_CT 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 13_CT 8_PI 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 15_TS 2_TO 0_FI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_FI 13_CT 9_CA 0_FI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_FI 6_PD 2_TO 0_FI"
+        }
+    ],
+    "values": [
+        15,
+        13,
+        11,
+        11,
+        11,
+        9,
+        8,
+        8,
+        8,
+        8,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 93633,
+    "lpBound": 7
+}

@@ -1,0 +1,363 @@
+{
+    "initialCoverSize": 56,
+    "times": [
+        2197048,
+        21866011,
+        44501345,
+        64024504,
+        84786323,
+        104560797,
+        124033578,
+        146568692,
+        166409800,
+        185998689,
+        206041604,
+        227571669,
+        250197741,
+        269766659,
+        289579532,
+        310979525,
+        330753503,
+        353427207,
+        372940336,
+        393677314,
+        415228787,
+        434692393,
+        454106836,
+        473333275,
+        493934029
+    ],
+    "finalCoverSize": 21,
+    "minSegCycles": [
+        "0_Meridian 1_Emmett 0_Meridian 0_Meridian",
+        "0_Meridian 4_Tipanuk 0_Meridian 0_Meridian",
+        "0_Meridian 6_Hidden_Springs 0_Meridian 0_Meridian",
+        "0_Meridian 10_Fairfield 0_Meridian 0_Meridian",
+        "0_Meridian 8_Rockland 0_Meridian 0_Meridian",
+        "0_Meridian 42_Cheyenne 0_Meridian 0_Meridian",
+        "0_Meridian 45_Salt_Lake_City 0_Meridian 0_Meridian",
+        "0_Meridian 55_Missoula 0_Meridian 0_Meridian",
+        "0_Meridian 28_Coeur_D'Alene 0_Meridian 0_Meridian",
+        "0_Meridian 62_Spokane 0_Meridian 0_Meridian",
+        "0_Meridian 9_Arbon 0_Meridian 0_Meridian",
+        "0_Meridian 29_Pocatello 0_Meridian 0_Meridian",
+        "0_Meridian 38_Malad_City 0_Meridian 0_Meridian",
+        "0_Meridian 11_Carey 0_Meridian 0_Meridian",
+        "0_Meridian 46_Oakley 0_Meridian 0_Meridian",
+        "0_Meridian 8_Rockland 17_Iona 0_Meridian",
+        "0_Meridian 22_Jackson 0_Meridian 0_Meridian",
+        "0_Meridian 19_Tetonia 0_Meridian 0_Meridian",
+        "0_Meridian 18_Ashton 0_Meridian 0_Meridian",
+        "0_Meridian 24_Afton 0_Meridian 0_Meridian",
+        "0_Meridian 4_Tipanuk 34_Soda_Springs 0_Meridian",
+        "0_Meridian 26_Gooding 0_Meridian 0_Meridian",
+        "0_Meridian 30_Blackfoot 0_Meridian 0_Meridian",
+        "0_Meridian 32_None 0_Meridian 0_Meridian",
+        "0_Meridian 37_Downey 0_Meridian 0_Meridian",
+        "0_Meridian 63_Preston 0_Meridian 0_Meridian",
+        "0_Meridian 40_Gooding 0_Meridian 0_Meridian",
+        "0_Meridian 35_Paris 0_Meridian 0_Meridian",
+        "0_Meridian 44_Jack_Pot 0_Meridian 0_Meridian",
+        "0_Meridian 66_Salmon 0_Meridian 0_Meridian",
+        "0_Meridian 60_Halfway 0_Meridian 0_Meridian",
+        "0_Meridian 68_McCall 0_Meridian 0_Meridian",
+        "0_Meridian 35_Paris 11_Carey 0_Meridian",
+        "0_Meridian 18_Ashton 26_Gooding 0_Meridian",
+        "0_Meridian 19_Tetonia 6_Hidden_Springs 0_Meridian",
+        "0_Meridian 22_Jackson 6_Hidden_Springs 0_Meridian",
+        "0_Meridian 22_Jackson 19_Tetonia 0_Meridian",
+        "0_Meridian 26_Gooding 24_Afton 0_Meridian",
+        "0_Meridian 24_Afton 18_Ashton 0_Meridian",
+        "0_Meridian 24_Afton 30_Blackfoot 0_Meridian",
+        "0_Meridian 35_Paris 28_Coeur_D'Alene 0_Meridian",
+        "0_Meridian 28_Coeur_D'Alene 11_Carey 0_Meridian",
+        "0_Meridian 30_Blackfoot 18_Ashton 0_Meridian",
+        "0_Meridian 38_Malad_City 37_Downey 0_Meridian",
+        "0_Meridian 40_Gooding 38_Malad_City 0_Meridian",
+        "0_Meridian 40_Gooding 37_Downey 0_Meridian",
+        "0_Meridian 44_Jack_Pot 42_Cheyenne 0_Meridian",
+        "0_Meridian 45_Salt_Lake_City 42_Cheyenne 0_Meridian",
+        "0_Meridian 45_Salt_Lake_City 44_Jack_Pot 0_Meridian",
+        "0_Meridian 55_Missoula 46_Oakley 0_Meridian",
+        "0_Meridian 60_Halfway 55_Missoula 0_Meridian",
+        "0_Meridian 60_Halfway 46_Oakley 0_Meridian",
+        "0_Meridian 63_Preston 62_Spokane 0_Meridian",
+        "0_Meridian 66_Salmon 62_Spokane 0_Meridian",
+        "0_Meridian 66_Salmon 63_Preston 0_Meridian",
+        "0_Meridian 68_McCall 6_Hidden_Springs 0_Meridian"
+    ],
+    "values": [
+        25,
+        23,
+        21,
+        20,
+        20,
+        19.5,
+        19.5,
+        19.5,
+        18.5,
+        18.5,
+        18.5,
+        18,
+        17,
+        17,
+        16.5,
+        15.5,
+        15.5,
+        15,
+        14,
+        14,
+        13.5,
+        12.5,
+        12.5,
+        12,
+        11.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 15,
+    "runtime": 658311421,
+    "lpBound": 11.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Meridian 1_Emmett 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 4_Tipanuk 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 6_Hidden_Springs 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 10_Fairfield 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 8_Rockland 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 42_Cheyenne 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 45_Salt_Lake_City 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 55_Missoula 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 28_Coeur_D'Alene 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 62_Spokane 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 9_Arbon 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 29_Pocatello 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 38_Malad_City 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 11_Carey 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 46_Oakley 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 8_Rockland 17_Iona 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 22_Jackson 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 19_Tetonia 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 18_Ashton 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 24_Afton 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 4_Tipanuk 34_Soda_Springs 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 26_Gooding 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 30_Blackfoot 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 32_None 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 37_Downey 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 63_Preston 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 40_Gooding 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 35_Paris 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 44_Jack_Pot 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 66_Salmon 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 60_Halfway 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 68_McCall 0_Meridian 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 35_Paris 11_Carey 0_Meridian"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Meridian 18_Ashton 26_Gooding 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 19_Tetonia 6_Hidden_Springs 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 22_Jackson 6_Hidden_Springs 0_Meridian"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Meridian 22_Jackson 19_Tetonia 0_Meridian"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Meridian 26_Gooding 24_Afton 0_Meridian"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Meridian 24_Afton 18_Ashton 0_Meridian"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Meridian 24_Afton 30_Blackfoot 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 35_Paris 28_Coeur_D'Alene 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 28_Coeur_D'Alene 11_Carey 0_Meridian"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Meridian 30_Blackfoot 18_Ashton 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 38_Malad_City 37_Downey 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 40_Gooding 38_Malad_City 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 40_Gooding 37_Downey 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 44_Jack_Pot 42_Cheyenne 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 45_Salt_Lake_City 42_Cheyenne 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 45_Salt_Lake_City 44_Jack_Pot 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 55_Missoula 46_Oakley 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 60_Halfway 55_Missoula 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 60_Halfway 46_Oakley 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 63_Preston 62_Spokane 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 66_Salmon 62_Spokane 0_Meridian"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Meridian 66_Salmon 63_Preston 0_Meridian"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Meridian 68_McCall 6_Hidden_Springs 0_Meridian"
+        }
+    ],
+    "greedySolution": [
+        "0_Meridian 35_Paris 11_Carey 0_Meridian",
+        "0_Meridian 19_Tetonia 6_Hidden_Springs 0_Meridian",
+        "0_Meridian 22_Jackson 6_Hidden_Springs 0_Meridian",
+        "0_Meridian 26_Gooding 24_Afton 0_Meridian",
+        "0_Meridian 35_Paris 28_Coeur_D'Alene 0_Meridian",
+        "0_Meridian 30_Blackfoot 18_Ashton 0_Meridian",
+        "0_Meridian 38_Malad_City 37_Downey 0_Meridian",
+        "0_Meridian 40_Gooding 37_Downey 0_Meridian",
+        "0_Meridian 44_Jack_Pot 42_Cheyenne 0_Meridian",
+        "0_Meridian 45_Salt_Lake_City 44_Jack_Pot 0_Meridian",
+        "0_Meridian 55_Missoula 46_Oakley 0_Meridian",
+        "0_Meridian 60_Halfway 46_Oakley 0_Meridian",
+        "0_Meridian 63_Preston 62_Spokane 0_Meridian",
+        "0_Meridian 66_Salmon 63_Preston 0_Meridian",
+        "0_Meridian 68_McCall 6_Hidden_Springs 0_Meridian"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "initialCoverSize": 19,
+    "times": [
+        1232015,
+        1706713,
+        2133840,
+        2508431,
+        2906076
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 2_FSA-Akureyri,0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 1_Fjarski 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 4_RIX 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri,2_FSA-Akureyri 1_Fjarski 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 1_Fjarski 2_FSA-Akureyri,0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 5_NORDUnet 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 5_NORDUnet 11_Sturlugata 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 6_Hvanneyri 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 7_Bifrost 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 11_Sturlugata 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 11_Sturlugata 5_NORDUnet 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 12_Hringbraut 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 13_Bustaoavegur 0_Solborg-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 12_Hringbraut 6_Hvanneyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 6_Hvanneyri 12_Hringbraut 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 4_RIX 2_FSA-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 7_Bifrost 2_FSA-Akureyri 0_Solborg-Akureyri"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Solborg-Akureyri 2_FSA-Akureyri 4_RIX 0_Solborg-Akureyri"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Solborg-Akureyri 2_FSA-Akureyri 7_Bifrost 0_Solborg-Akureyri"
+        }
+    ],
+    "values": [
+        8,
+        7,
+        7,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 98193,
+    "lpBound": 6
+}

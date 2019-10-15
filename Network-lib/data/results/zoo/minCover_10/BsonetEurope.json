@@ -1,0 +1,420 @@
+{
+    "initialCoverSize": 75,
+    "times": [
+        1287288,
+        2042768,
+        2745028,
+        3398604,
+        4250279,
+        5122677,
+        5843736,
+        6621597,
+        7354658,
+        8071845,
+        8822516,
+        9588398,
+        10384848,
+        11160662,
+        11961298,
+        12765693,
+        13610728,
+        14407462,
+        15266556,
+        16142277,
+        16829441,
+        17648647,
+        18507129,
+        19420220,
+        20333767,
+        21233990,
+        22118028,
+        23159916,
+        24102343,
+        25044341,
+        25969525,
+        26896169,
+        27825145,
+        28796908,
+        29785856,
+        30733289,
+        31693210,
+        32597633,
+        33572615,
+        34565350,
+        35538195,
+        36512898,
+        37587434,
+        38686221,
+        39802029,
+        40836228,
+        41884186,
+        42975583,
+        44223920,
+        45244358,
+        46310969,
+        47375140,
+        48476503,
+        49623457
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 1_Frankfurt,0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 0_Prague 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 2_Hamburg 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 2_Hamburg 3_Copenhagen,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,3_Copenhagen 2_Hamburg 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 4_Dubai 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan,6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,9_Amsterdam 4_Dubai 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 5_Madrid 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,13_Oslo 3_Copenhagen 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 4_Dubai 9_Amsterdam,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 13_Oslo 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 15_New_York 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 16_New_York 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan,6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 7_Milan 13_Oslo 7_Milan 13_Oslo 7_Milan 13_Oslo 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 9_Amsterdam 15_New_York 2_Hamburg 15_New_York 2_Hamburg 15_New_York 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0.10552804403732145,
+            "cycle": "11_Stockholm 13_Oslo 3_Copenhagen 2_Hamburg 3_Copenhagen 2_Hamburg 3_Copenhagen 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 2_Hamburg 4_Dubai 16_New_York 5_Madrid 4_Dubai 5_Madrid 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 6_Geneva 8_Brussels 6_Geneva 8_Brussels 6_Geneva 8_Brussels 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.24183120443773806,
+            "cycle": "11_Stockholm 8_Brussels 6_Geneva 7_Milan 13_Oslo 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 3_Copenhagen 13_Oslo 7_Milan 6_Geneva 4_Dubai 7_Milan 6_Geneva 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 2_Hamburg 6_Geneva 0_Prague 5_Madrid 4_Dubai 2_Hamburg 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 16_New_York 0_Prague 16_New_York 0_Prague 16_New_York 0_Prague 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 5_Madrid 0_Prague 5_Madrid 0_Prague 5_Madrid 13_Oslo 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 15_New_York 5_Madrid 0_Prague 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 6_Geneva 0_Prague 16_New_York 8_Brussels 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 4_Dubai 13_Oslo 4_Dubai 13_Oslo 4_Dubai 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0.029644428386218717,
+            "cycle": "11_Stockholm 8_Brussels 16_New_York 5_Madrid 16_New_York 5_Madrid 4_Dubai 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 6_Geneva 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 8_Brussels 5_Madrid 8_Brussels 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.2948863998639769,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan 6_Geneva 7_Milan 6_Geneva 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan 4_Dubai 2_Hamburg 4_Dubai 2_Hamburg 4_Dubai 9_Amsterdam 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan 15_New_York 4_Dubai 2_Hamburg 8_Brussels 2_Hamburg 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki 12_Hong_Kong 10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 0_Prague 16_New_York 15_New_York 4_Dubai 15_New_York 4_Dubai 7_Milan 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 3_Copenhagen 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 3_Copenhagen 11_Stockholm 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 16_New_York 7_Milan 6_Geneva 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 16_New_York 13_Oslo 3_Copenhagen 2_Hamburg 6_Geneva 16_New_York 13_Oslo 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 15_New_York 6_Geneva 7_Milan 15_New_York 2_Hamburg 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.008531168306730492,
+            "cycle": "11_Stockholm 6_Geneva 16_New_York 4_Dubai 6_Geneva 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 8_Brussels 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 13_Oslo 6_Geneva 13_Oslo 6_Geneva 13_Oslo 6_Geneva 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.008927015366304341,
+            "cycle": "11_Stockholm 13_Oslo 3_Copenhagen 13_Oslo 3_Copenhagen 13_Oslo 3_Copenhagen 13_Oslo 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0.06722598882064118,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 4_Dubai 13_Oslo 3_Copenhagen 2_Hamburg 4_Dubai 13_Oslo 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 3_Copenhagen 13_Oslo 6_Geneva 2_Hamburg 4_Dubai 2_Hamburg 4_Dubai 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 15_New_York 4_Dubai 15_New_York 6_Geneva 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 4_Dubai 2_Hamburg 8_Brussels 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 13_Oslo 5_Madrid 0_Prague 5_Madrid 0_Prague 5_Madrid 0_Prague 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.025325710399353753,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 5_Madrid 6_Geneva 7_Milan 5_Madrid 7_Milan 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.03599923487279824,
+            "cycle": "11_Stockholm 13_Oslo 15_New_York 13_Oslo 15_New_York 13_Oslo 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 2_Hamburg 15_New_York 13_Oslo 7_Milan 8_Brussels 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0.3583558266561812,
+            "cycle": "11_Stockholm 13_Oslo 5_Madrid 0_Prague 5_Madrid 8_Brussels 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.135410511997619,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 6_Geneva 7_Milan 8_Brussels 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.31072665830694396,
+            "cycle": "11_Stockholm 8_Brussels 16_New_York 0_Prague 16_New_York 0_Prague 16_New_York 7_Milan 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.49984697455952065,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 4_Dubai 6_Geneva 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.10917515036874925,
+            "cycle": "11_Stockholm 6_Geneva 4_Dubai 2_Hamburg 4_Dubai 2_Hamburg 4_Dubai 7_Milan 13_Oslo 11_Stockholm"
+        },
+        {
+            "x": 0.32688571975090847,
+            "cycle": "11_Stockholm 6_Geneva 15_New_York 2_Hamburg 3_Copenhagen 13_Oslo 15_New_York 2_Hamburg 3_Copenhagen 11_Stockholm"
+        },
+        {
+            "x": 0.1268793436908885,
+            "cycle": "11_Stockholm 6_Geneva 15_New_York 7_Milan 13_Oslo 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 6_Geneva 5_Madrid 7_Milan 5_Madrid 7_Milan 5_Madrid 7_Milan 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.03507895687658019,
+            "cycle": "11_Stockholm 6_Geneva 13_Oslo 5_Madrid 13_Oslo 5_Madrid 13_Oslo 5_Madrid 13_Oslo 11_Stockholm"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Stockholm 8_Brussels 2_Hamburg 15_New_York 2_Hamburg 15_New_York 2_Hamburg 15_New_York 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.03782491339185142,
+            "cycle": "11_Stockholm 6_Geneva 5_Madrid 6_Geneva 13_Oslo 3_Copenhagen 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.04726998363477982,
+            "cycle": "11_Stockholm 6_Geneva 7_Milan 6_Geneva 7_Milan 6_Geneva 7_Milan 6_Geneva 8_Brussels 11_Stockholm"
+        },
+        {
+            "x": 0.0491169156872327,
+            "cycle": "11_Stockholm 3_Copenhagen 2_Hamburg 15_New_York 2_Hamburg 15_New_York 2_Hamburg 15_New_York 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.010095428364965384,
+            "cycle": "11_Stockholm 6_Geneva 5_Madrid 0_Prague 5_Madrid 0_Prague 5_Madrid 7_Milan 6_Geneva 11_Stockholm"
+        },
+        {
+            "x": 0.1229113090051223,
+            "cycle": "11_Stockholm 8_Brussels 7_Milan 6_Geneva 8_Brussels 11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm"
+        },
+        {
+            "x": 0.1375231132175732,
+            "cycle": "11_Stockholm 6_Geneva 13_Oslo 3_Copenhagen 13_Oslo 6_Geneva 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm"
+        }
+    ],
+    "values": [
+        13,
+        13,
+        11,
+        9.61111111111111,
+        8.625000000000002,
+        7.583333333333333,
+        6.333333333333333,
+        5.694444444444445,
+        4.953703703703704,
+        4.416666666666666,
+        4.272582480091013,
+        4.080197132616488,
+        3.5485074626865676,
+        3.521108179419525,
+        3.5005698005698003,
+        3.5005698005698003,
+        3.4221514508138715,
+        3.347324038139045,
+        3.319998686241665,
+        3.312704886529601,
+        3.312704886529601,
+        3.292876605683146,
+        3.2923241237066136,
+        3.288123617710733,
+        3.278950249389963,
+        3.27882832030106,
+        3.270130787324327,
+        3.258329915571613,
+        3.2575311849083093,
+        3.25399545226123,
+        3.245833183033539,
+        3.234680808112994,
+        3.2326539794871474,
+        3.221123710505722,
+        3.2119085519725075,
+        3.2052878773051043,
+        3.201322883750905,
+        3.1996408616181187,
+        3.1942801850030382,
+        3.186869443189406,
+        3.1789584193312805,
+        3.1762208637794553,
+        3.172832993473247,
+        3.1575676499497614,
+        3.135856407618026,
+        3.133823583002042,
+        3.1326607296684905,
+        3.1311702838803823,
+        3.1295425787715874,
+        3.1292186197093246,
+        3.128218269520651,
+        3.12788391647885,
+        3.1273949002590418,
+        3.1249999999999996
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 138525,
+    "lpBound": 3.1249999999999996
+}

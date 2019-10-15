@@ -1,0 +1,68 @@
+{
+    "originalCover": {
+        "runtime": 2503519,
+        "cycles": [
+            "0_New_York 2 0_New_York",
+            "0_New_York 2_Detroit 0_New_York 0_New_York",
+            "0_New_York 4_Houston 0_New_York 0_New_York",
+            "0_New_York 8_Dallas 0_New_York 0_New_York",
+            "0_New_York 5_Austin 0_New_York 0_New_York",
+            "0 8_Dallas 0_New_York",
+            "0_New_York 2_Detroit 4_Houston 0_New_York",
+            "0_New_York 12_Los_Angeles 0_New_York 0_New_York",
+            "0_New_York 9_Champaign 0_New_York 0_New_York",
+            "0_New_York 15_Salt_Lake_City 12_Los_Angeles 0_New_York",
+            "0_New_York 12_Los_Angeles 15_Salt_Lake_City 0_New_York",
+            "0_New_York 13_San_Diego 0_New_York 0_New_York"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        5,
+        7,
+        7,
+        5
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        5,
+        7,
+        5,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_New_York 2 0_New_York",
+            "0_New_York 2_Detroit 0_New_York 0_New_York",
+            "0_New_York 4_Houston 0_New_York 0_New_York",
+            "0_New_York 8_Dallas 0_New_York 0_New_York",
+            "0_New_York 5_Austin 0_New_York 0_New_York",
+            "0 8_Dallas 0_New_York",
+            "0_New_York 2_Detroit 4_Houston 0_New_York",
+            "0_New_York 11_San_Francisco 0_New_York 0_New_York",
+            "0_New_York 9_Champaign 0_New_York 0_New_York",
+            "0_New_York 4_Houston 15_Salt_Lake_City 0_New_York",
+            "0_New_York 13_San_Diego 0_New_York 0_New_York",
+            "0_New_York 15_Salt_Lake_City 4_Houston 0_New_York"
+        ],
+        "source": 0,
+        "runetime": 2426288,
+        "maxSeg": 4
+    }
+}

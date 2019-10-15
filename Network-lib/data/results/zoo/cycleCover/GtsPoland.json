@@ -1,0 +1,297 @@
+{
+    "initialCoverSize": 44,
+    "times": [
+        1463923,
+        3907442,
+        6231032,
+        8567081,
+        10867191,
+        13011294,
+        15273470,
+        17522787,
+        19748327,
+        22237605,
+        24470625,
+        26734326,
+        28880069,
+        31151603,
+        33601238,
+        35859318,
+        38421693,
+        40669472,
+        42829255,
+        46098050,
+        50418944,
+        53644322,
+        57137732,
+        60617298,
+        64139877
+    ],
+    "finalCoverSize": 11,
+    "minSegCycles": [
+        "4_Opole 1_Bialystok@0_Warsaw 4_Opole",
+        "4_Opole 2_Wlocawek 0_Warsaw 4_Opole",
+        "4_Opole 0_Warsaw 7_Rzeszow 4_Opole",
+        "4_Opole 0_Warsaw 17_Kielce 4_Opole",
+        "4_Opole 21_Frankfurt@0_Warsaw 4_Opole",
+        "4_Opole 22_Berlin@0_Warsaw 4_Opole",
+        "4_Opole 14_Olszlyn 0_Warsaw 4_Opole",
+        "4_Opole 0_Warsaw 24_Torun 4_Opole",
+        "4_Opole 7_Rzeszow 0_Warsaw 4_Opole",
+        "4_Opole 12_Zielona_Gora 0_Warsaw 4_Opole",
+        "4_Opole 19_Prague 4_Opole 4_Opole",
+        "4_Opole 20_Bratislava 4_Opole 4_Opole",
+        "4_Opole 17_Kielce 0_Warsaw 4_Opole",
+        "4_Opole 15_Tarnow 4_Opole 4_Opole",
+        "4_Opole 25_Gdyia 0_Warsaw 4_Opole",
+        "4_Opole 1_Bialystok 23_Bydgoszcz 4_Opole",
+        "4_Opole 24_Torun 0_Warsaw 4_Opole",
+        "4_Opole 0_Warsaw 27_Koszalin 4_Opole",
+        "4_Opole 27_Koszalin 0_Warsaw 4_Opole",
+        "4_Opole 30_Gorzow_Wilkp 0_Warsaw 4_Opole",
+        "4_Opole 13_Gdansk 2_Wlocawek 4_Opole",
+        "4_Opole 12_Zielona_Gora 2_Wlocawek 4_Opole",
+        "4_Opole 12_Zielona_Gora 7_Rzeszow 4_Opole",
+        "4_Opole 21_Frankfurt 7_Rzeszow 4_Opole",
+        "4_Opole 2_Wlocawek 12_Zielona_Gora 4_Opole",
+        "4_Opole 2_Wlocawek 13_Gdansk 4_Opole",
+        "4_Opole 7_Rzeszow 12_Zielona_Gora 4_Opole",
+        "4_Opole 7_Rzeszow 2_Wlocawek 4_Opole",
+        "4_Opole 30_Gorzow_Wilkp 2_Wlocawek 4_Opole",
+        "4_Opole 17_Kielce 15_Tarnow 4_Opole",
+        "4_Opole 19_Prague 15_Tarnow 4_Opole",
+        "4_Opole 21_Frankfurt 17_Kielce 4_Opole",
+        "4_Opole 22_Berlin 7_Rzeszow 4_Opole",
+        "4_Opole 24_Torun 7_Rzeszow 4_Opole",
+        "4_Opole 27_Koszalin 7_Rzeszow 4_Opole",
+        "4_Opole 22_Berlin 17_Kielce 4_Opole",
+        "4_Opole 20_Bratislava 19_Prague 4_Opole",
+        "4_Opole 20_Bratislava 15_Tarnow 4_Opole",
+        "4_Opole 7_Rzeszow 21_Frankfurt 4_Opole",
+        "4_Opole 13_Gdansk 12_Zielona_Gora 4_Opole",
+        "4_Opole 17_Kielce 21_Frankfurt 4_Opole",
+        "4_Opole 27_Koszalin 22_Berlin 4_Opole",
+        "4_Opole 30_Gorzow_Wilkp 7_Rzeszow 4_Opole",
+        "4_Opole 7_Rzeszow 27_Koszalin 4_Opole"
+    ],
+    "values": [
+        17,
+        15,
+        15,
+        14,
+        14,
+        13,
+        13,
+        13,
+        13,
+        12,
+        12,
+        11,
+        11,
+        10,
+        10,
+        10,
+        10,
+        10,
+        9.5,
+        9.5,
+        9,
+        8.5,
+        8.5,
+        8.5,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 9,
+    "runtime": 84287932,
+    "lpBound": 8,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "4_Opole 1_Bialystok@0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 2_Wlocawek 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 21_Frankfurt@0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 22_Berlin@0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 14_Olszlyn 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 24_Torun 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 12_Zielona_Gora 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 19_Prague 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 20_Bratislava 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 17_Kielce 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 15_Tarnow 4_Opole 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 25_Gdyia 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 1_Bialystok 23_Bydgoszcz 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 24_Torun 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 0_Warsaw 27_Koszalin 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 27_Koszalin 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 0_Warsaw 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 13_Gdansk 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 12_Zielona_Gora 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 12_Zielona_Gora 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 21_Frankfurt 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 2_Wlocawek 12_Zielona_Gora 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 2_Wlocawek 13_Gdansk 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 12_Zielona_Gora 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 2_Wlocawek 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 17_Kielce 15_Tarnow 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 19_Prague 15_Tarnow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 21_Frankfurt 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 22_Berlin 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 24_Torun 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Opole 27_Koszalin 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Opole 22_Berlin 17_Kielce 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 20_Bratislava 19_Prague 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 20_Bratislava 15_Tarnow 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 7_Rzeszow 21_Frankfurt 4_Opole"
+        },
+        {
+            "x": 0.5,
+            "cycle": "4_Opole 13_Gdansk 12_Zielona_Gora 4_Opole"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Opole 17_Kielce 21_Frankfurt 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 27_Koszalin 22_Berlin 4_Opole"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Opole 30_Gorzow_Wilkp 7_Rzeszow 4_Opole"
+        },
+        {
+            "x": 1,
+            "cycle": "4_Opole 7_Rzeszow 27_Koszalin 4_Opole"
+        }
+    ],
+    "greedySolution": [
+        "4_Opole 13_Gdansk 2_Wlocawek 4_Opole",
+        "4_Opole 2_Wlocawek 12_Zielona_Gora 4_Opole",
+        "4_Opole 30_Gorzow_Wilkp 2_Wlocawek 4_Opole",
+        "4_Opole 19_Prague 15_Tarnow 4_Opole",
+        "4_Opole 27_Koszalin 7_Rzeszow 4_Opole",
+        "4_Opole 22_Berlin 17_Kielce 4_Opole",
+        "4_Opole 20_Bratislava 15_Tarnow 4_Opole",
+        "4_Opole 17_Kielce 21_Frankfurt 4_Opole",
+        "4_Opole 7_Rzeszow 27_Koszalin 4_Opole"
+    ]
+}

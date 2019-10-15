@@ -1,0 +1,96 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        1161377,
+        1497760
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 2_Boulder,0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 3_Seattle 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 1_Atlanta 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 1_Atlanta 5_Anaheim 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 3_Seattle 7_Kansas_City,0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 5_Anaheim 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 8_Chicago 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 9_New_York_(Pennsauken) 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 10_Washington,_DC 0_Cheyenne 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 3_Seattle 6_Fort_Worth 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 6_Fort_Worth 9_New_York_(Pennsauken) 0_Cheyenne"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cheyenne 6_Fort_Worth 8_Chicago 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne,7_Kansas_City 10_Washington,_DC 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne,7_Kansas_City 3_Seattle 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne,7_Kansas_City 9_New_York_(Pennsauken) 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 9_New_York_(Pennsauken) 7_Kansas_City,0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 9_New_York_(Pennsauken) 1_Atlanta 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 9_New_York_(Pennsauken) 6_Fort_Worth 0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 10_Washington,_DC 7_Kansas_City,0_Cheyenne"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cheyenne 8_Chicago 2_Boulder 0_Cheyenne"
+        }
+    ],
+    "values": [
+        13,
+        12
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 53116,
+    "lpBound": 12
+}

@@ -1,0 +1,108 @@
+{
+    "initialCoverSize": 18,
+    "times": [
+        1135000,
+        1402984,
+        1640963,
+        1881240,
+        2117038,
+        2325141,
+        2525356,
+        2717549,
+        2903091,
+        3123119,
+        3357595,
+        3551060
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 1_San_Francisco,3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 5_Washington_DC,3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 4_New_York_City,3_Chicago 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago,4_New_York_City 5_Washington_DC,3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago,5_Washington_DC 4_New_York_City,3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 5_Washington_DC 2_Los_Angeles 5_Washington_DC 2_Los_Angeles 5_Washington_DC 2_Los_Angeles 5_Washington_DC 2_Los_Angeles 3_Chicago"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "3_Chicago 5_Washington_DC 4_New_York_City 5_Washington_DC 4_New_York_City 5_Washington_DC 4_New_York_City 5_Washington_DC 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 3_Chicago 0_Seattle 3_Chicago 0_Seattle 3_Chicago 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "3_Chicago 2_Los_Angeles 5_Washington_DC 3_Chicago 4_New_York_City 3_Chicago 4_New_York_City 3_Chicago 4_New_York_City 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 5_Washington_DC 3_Chicago 5_Washington_DC 3_Chicago 5_Washington_DC 3_Chicago 5_Washington_DC 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 5_Washington_DC 0_Seattle 5_Washington_DC 0_Seattle 5_Washington_DC 0_Seattle 5_Washington_DC 3_Chicago"
+        },
+        {
+            "x": 0.22222222222222224,
+            "cycle": "3_Chicago 2_Los_Angeles 5_Washington_DC 3_Chicago 2_Los_Angeles 5_Washington_DC 3_Chicago 2_Los_Angeles 5_Washington_DC 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 2_Los_Angeles 0_Seattle 2_Los_Angeles 0_Seattle 2_Los_Angeles 0_Seattle 2_Los_Angeles 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 4_New_York_City 5_Washington_DC 3_Chicago 4_New_York_City 5_Washington_DC 3_Chicago 4_New_York_City 5_Washington_DC 3_Chicago"
+        },
+        {
+            "x": 0.22222222222222224,
+            "cycle": "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago 5_Washington_DC 0_Seattle 3_Chicago 5_Washington_DC 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 3_Chicago 0_Seattle 3_Chicago 0_Seattle 3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago"
+        }
+    ],
+    "values": [
+        5,
+        3.25,
+        3.0000000000000004,
+        2.5208333333333335,
+        2,
+        1.2222222222222223,
+        1.1875,
+        1.1403508771929824,
+        1.1403508771929824,
+        1.1403508771929824,
+        1.1111111111111112,
+        1.1111111111111112
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 23859,
+    "lpBound": 1.1111111111111112
+}

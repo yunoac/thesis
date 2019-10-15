@@ -1,0 +1,53 @@
+{
+    "initialCoverSize": 7,
+    "times": [1753494],
+    "finalCoverSize": 2,
+    "minSegCycles": [
+        "0_Johannesburg 1_Pretoria@0_Johannesburg 0_Johannesburg",
+        "0_Johannesburg 3_Bloemfontein@0_Johannesburg 0_Johannesburg",
+        "0_Johannesburg 2_Durban 0_Johannesburg 0_Johannesburg",
+        "0_Johannesburg 4_East_London 0_Johannesburg 0_Johannesburg",
+        "0_Johannesburg 5_Port_Elizabeth 0_Johannesburg 0_Johannesburg",
+        "0_Johannesburg@1_Pretoria 5_Port_Elizabeth 0_Johannesburg",
+        "0_Johannesburg@3_Bloemfontein 4_East_London 0_Johannesburg"
+    ],
+    "values": [2],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 2,
+    "runtime": 3791064,
+    "lpBound": 2,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Johannesburg 1_Pretoria@0_Johannesburg 0_Johannesburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Johannesburg 3_Bloemfontein@0_Johannesburg 0_Johannesburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Johannesburg 2_Durban 0_Johannesburg 0_Johannesburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Johannesburg 4_East_London 0_Johannesburg 0_Johannesburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Johannesburg 5_Port_Elizabeth 0_Johannesburg 0_Johannesburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Johannesburg@1_Pretoria 5_Port_Elizabeth 0_Johannesburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Johannesburg@3_Bloemfontein 4_East_London 0_Johannesburg"
+        }
+    ],
+    "greedySolution": [
+        "0_Johannesburg@1_Pretoria 5_Port_Elizabeth 0_Johannesburg",
+        "0_Johannesburg@3_Bloemfontein 4_East_London 0_Johannesburg"
+    ]
+}

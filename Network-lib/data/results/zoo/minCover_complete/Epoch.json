@@ -1,0 +1,68 @@
+{
+    "initialCoverSize": 12,
+    "times": [
+        1186230,
+        1437670,
+        1654700,
+        1860617
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Los_Angeles,0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 2_Denver,0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 4_Vienna,0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 5_Atlanta 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 3_Chicago 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 3_Chicago 4_Vienna,0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto,4_Vienna 3_Chicago 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 3_Chicago 5_Atlanta 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 5_Atlanta 3_Chicago 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 4_Vienna 5_Atlanta 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 5_Atlanta 4_Vienna 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 4_Vienna 2_Denver 0_Palo_Alto"
+        }
+    ],
+    "values": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 19508,
+    "lpBound": 3
+}

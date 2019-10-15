@@ -1,0 +1,51 @@
+{
+    "initialCoverSize": 6,
+    "times": [1157373],
+    "finalCoverSize": 5,
+    "minSegCycles": [
+        "0_Grodno 1_Minsk@0_Grodno",
+        "0_Grodno 2_Vitebsk 0_Grodno",
+        "0_Grodno 3_Mogilev 0_Grodno",
+        "0_Grodno 4_Gomel 0_Grodno",
+        "0_Grodno 5_Brest 0_Grodno",
+        "0_Grodno 6_Pionier_GEANT_2 0_Grodno"
+    ],
+    "values": [5],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 5,
+    "runtime": 1676175,
+    "lpBound": 5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Grodno 1_Minsk@0_Grodno"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Grodno 2_Vitebsk 0_Grodno"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Grodno 3_Mogilev 0_Grodno"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Grodno 4_Gomel 0_Grodno"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Grodno 5_Brest 0_Grodno"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Grodno 6_Pionier_GEANT_2 0_Grodno"
+        }
+    ],
+    "greedySolution": [
+        "0_Grodno 2_Vitebsk 0_Grodno",
+        "0_Grodno 3_Mogilev 0_Grodno",
+        "0_Grodno 4_Gomel 0_Grodno",
+        "0_Grodno 5_Brest 0_Grodno",
+        "0_Grodno 6_Pionier_GEANT_2 0_Grodno"
+    ]
+}

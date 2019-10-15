@@ -1,0 +1,19 @@
+{
+    "numberOfSegments": 5,
+    "nbCycles": 11,
+    "runtime": 4399701,
+    "cycles": [
+        "0_Peking_University 8_China_Academy_of_Sciences,0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 2_APAN/STAR 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 3_CERNET 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University 0_Peking_University 0_Peking_University",
+        "0_Peking_University 2_APAN/STAR 8_China_Academy_of_Sciences,0_Peking_University 0_Peking_University",
+        "0_Peking_University,8_China_Academy_of_Sciences 2_APAN/STAR 0_Peking_University 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications,5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University 5_Natural_Science_Foundation_of_China 6_Beijing_University_of_Posts_and_Telecommunications 7_Beijing_University_of_Aeronautics_and_Astronautics 0_Peking_University",
+        "0_Peking_University 7_Beijing_University_of_Aeronautics_and_Astronautics 6_Beijing_University_of_Posts_and_Telecommunications,5_Natural_Science_Foundation_of_China 0_Peking_University",
+        "0_Peking_University 9_CSTNET 0_Peking_University 0_Peking_University 0_Peking_University"
+    ],
+    "source": "0_Peking_University"
+}

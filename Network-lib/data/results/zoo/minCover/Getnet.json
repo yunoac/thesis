@@ -1,0 +1,42 @@
+{
+    "initialCoverSize": 8,
+    "times": [961818],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "2_Phoenix 0_Seattle 1_Santa_Clara,2_Phoenix"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Phoenix 0_Seattle 4_Washington,_DC,2_Phoenix"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Phoenix 6_Pittsburgh 0_Seattle 2_Phoenix"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Phoenix 3_Tucson 0_Seattle 2_Phoenix"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Phoenix 4_Washington,_DC 0_Seattle 2_Phoenix"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Phoenix 5_Baltimore 2_Phoenix 2_Phoenix"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Phoenix 5_Baltimore 6_Pittsburgh 2_Phoenix"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Phoenix 6_Pittsburgh 5_Baltimore 2_Phoenix"
+        }
+    ],
+    "values": [5],
+    "initialCoverSeg": 4,
+    "runtime": 21376,
+    "lpBound": 5
+}

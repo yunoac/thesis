@@ -1,0 +1,132 @@
+{
+    "initialCoverSize": 24,
+    "times": [
+        1037161,
+        1589121,
+        2072584,
+        2590511,
+        3090079,
+        3587377,
+        4084757,
+        4587005,
+        5083531,
+        5591338,
+        6073319,
+        6643298
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 1_Kinki,0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 2_Kyushu,0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 3_Shikoku 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 4_Shinetsu 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 9_Okinawa 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 5_Busan 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 7_Hokuriku 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 8_Hongkong 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 10_Hokkaido 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 13_Chicago 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 16_Singapore 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 17_Bangkok 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 14_Los_Angeles 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 4_Shinetsu 3_Shikoku 4_Shinetsu 3_Shikoku 4_Shinetsu 3_Shikoku 4_Shinetsu 3_Shikoku 0_Chugoku"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Chugoku 7_Hokuriku 5_Busan 7_Hokuriku 5_Busan 7_Hokuriku 5_Busan 7_Hokuriku 5_Busan 0_Chugoku"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chugoku 9_Okinawa 8_Hongkong 9_Okinawa 8_Hongkong 9_Okinawa 8_Hongkong 9_Okinawa 8_Hongkong 0_Chugoku"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chugoku 13_Chicago 10_Hokkaido 13_Chicago 10_Hokkaido 13_Chicago 10_Hokkaido 13_Chicago 10_Hokkaido 0_Chugoku"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chugoku 16_Singapore 14_Los_Angeles 16_Singapore 14_Los_Angeles 16_Singapore 14_Los_Angeles 16_Singapore 14_Los_Angeles 0_Chugoku"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chugoku 17_Bangkok 4_Shinetsu 17_Bangkok 4_Shinetsu 17_Bangkok 4_Shinetsu 17_Bangkok 4_Shinetsu 0_Chugoku"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Chugoku 5_Busan 3_Shikoku 5_Busan 3_Shikoku 5_Busan 3_Shikoku 5_Busan 3_Shikoku 0_Chugoku"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Chugoku 7_Hokuriku 3_Shikoku 7_Hokuriku 3_Shikoku 7_Hokuriku 3_Shikoku 7_Hokuriku 3_Shikoku 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 10_Hokkaido 9_Okinawa 10_Hokkaido 9_Okinawa 10_Hokkaido 9_Okinawa 10_Hokkaido 9_Okinawa 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 13_Chicago 9_Okinawa 13_Chicago 9_Okinawa 13_Chicago 9_Okinawa 13_Chicago 9_Okinawa 0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 17_Bangkok 16_Singapore 17_Bangkok 16_Singapore 17_Bangkok 16_Singapore 17_Bangkok 16_Singapore 0_Chugoku"
+        }
+    ],
+    "values": [
+        11,
+        9.25,
+        7.5,
+        5.75,
+        4,
+        2.25,
+        1.5,
+        1.5,
+        1.375,
+        1.375,
+        1.375,
+        1.375
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 113766,
+    "lpBound": 1.375
+}

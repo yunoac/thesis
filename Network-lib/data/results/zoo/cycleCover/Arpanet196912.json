@@ -1,0 +1,44 @@
+{
+    "initialCoverSize": 5,
+    "times": [1087064],
+    "finalCoverSize": 3,
+    "minSegCycles": [
+        "0_SRI 1_USCB@0_SRI 0_SRI",
+        "0_SRI 2_UCLA@0_SRI 0_SRI",
+        "0_SRI 3_UTAH@0_SRI 0_SRI",
+        "0_SRI@1_USCB 2_UCLA@0_SRI",
+        "0_SRI@2_UCLA 1_USCB@0_SRI"
+    ],
+    "values": [3],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 3,
+    "runtime": 1436486,
+    "lpBound": 3,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_SRI 1_USCB@0_SRI 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 2_UCLA@0_SRI 0_SRI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SRI 3_UTAH@0_SRI 0_SRI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SRI@1_USCB 2_UCLA@0_SRI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_SRI@2_UCLA 1_USCB@0_SRI"
+        }
+    ],
+    "greedySolution": [
+        "0_SRI 3_UTAH@0_SRI 0_SRI",
+        "0_SRI@1_USCB 2_UCLA@0_SRI",
+        "0_SRI@2_UCLA 1_USCB@0_SRI"
+    ]
+}

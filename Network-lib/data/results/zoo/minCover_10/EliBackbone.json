@@ -1,0 +1,490 @@
+{
+    "initialCoverSize": 90,
+    "times": [
+        1519064,
+        2572260,
+        3517759,
+        4398345,
+        5299084,
+        6162071,
+        7148425,
+        8100713,
+        8976599,
+        10472237,
+        12001621,
+        13594064,
+        15812423,
+        16843092,
+        17937066,
+        18971912,
+        20043682,
+        20970089,
+        22006567,
+        23045007,
+        24108039,
+        25250850,
+        27072923,
+        28850226,
+        30816370,
+        32460681,
+        34730157,
+        36022149,
+        37363190,
+        38611444,
+        39891959,
+        41241749,
+        42529182,
+        43918321,
+        45180636,
+        46541983,
+        47782646,
+        49551073,
+        51456164,
+        52880613,
+        54171438,
+        55487409,
+        56813350,
+        58322209,
+        59629582,
+        61082185,
+        62848875,
+        64243309,
+        65786866,
+        68199934,
+        69289784,
+        70698676,
+        72022868,
+        73520836,
+        75194807,
+        77014405,
+        78830011,
+        80740654,
+        82362102
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 1_Los_Angeles,0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 2_Dallas 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas,1_Los_Angeles 2_Dallas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 2_Dallas 5_Portland 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 19_Washington_DC 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 2_Dallas 1_Los_Angeles,0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas,1_Los_Angeles 7_Palo_Alto 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 8_Tacoma,5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 6_Sacramento 8_Tacoma,5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 4_Santa_Clara 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 5_Portland 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 9_Seattle 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 8_Tacoma 6_Sacramento 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 9_Seattle 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 4_Santa_Clara 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 5_Portland 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 12_Spokane 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 13_Boise 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 15_Minneapolis 2_Dallas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 10_Atlanta 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 10_Atlanta 11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 12_Spokane 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 4_Santa_Clara 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 12_Spokane 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 16_Chicago 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 2_Dallas 15_Minneapolis 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 17_Rochester 0_Las_Vegas 0_Las_Vegas 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 18_Newark 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 17_Rochester 10_Atlanta,11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 8_Tacoma 15_Minneapolis 5_Portland 15_Minneapolis 5_Portland 15_Minneapolis 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 19_Washington_DC 1_Los_Angeles 18_Newark 1_Los_Angeles 18_Newark 1_Los_Angeles 18_Newark 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 15_Minneapolis 2_Dallas 13_Boise 9_Seattle 0_Las_Vegas 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 6_Sacramento 8_Tacoma 13_Boise 4_Santa_Clara 6_Sacramento 8_Tacoma 13_Boise 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.23811296515214966,
+            "cycle": "0_Las_Vegas 5_Portland 4_Santa_Clara 5_Portland 4_Santa_Clara 5_Portland 4_Santa_Clara 5_Portland 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.2690950367065295,
+            "cycle": "0_Las_Vegas 1_Los_Angeles 18_Newark 10_Atlanta 17_Rochester 10_Atlanta 17_Rochester 10_Atlanta 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 2_Dallas 0_Las_Vegas"
+        },
+        {
+            "x": 0.018338836420268477,
+            "cycle": "0_Las_Vegas 17_Rochester 13_Boise 17_Rochester 13_Boise 17_Rochester 13_Boise 17_Rochester 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 0.1502241126243729,
+            "cycle": "0_Las_Vegas 17_Rochester 15_Minneapolis 18_Newark 15_Minneapolis 18_Newark 15_Minneapolis 18_Newark 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 6_Sacramento 8_Tacoma 6_Sacramento 8_Tacoma 6_Sacramento 8_Tacoma 6_Sacramento 2_Dallas 0_Las_Vegas"
+        },
+        {
+            "x": 0.1011558760988794,
+            "cycle": "0_Las_Vegas 6_Sacramento 13_Boise 12_Spokane 5_Portland 12_Spokane 5_Portland 12_Spokane 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0.2948035960693082,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 11_Houston 10_Atlanta 11_Houston 10_Atlanta 11_Houston 10_Atlanta 11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 4_Santa_Clara 13_Boise 11_Houston 4_Santa_Clara 15_Minneapolis 13_Boise 11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 3_Phoenix 9_Seattle 12_Spokane 4_Santa_Clara 12_Spokane 4_Santa_Clara 12_Spokane 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 1_Los_Angeles 19_Washington_DC 13_Boise 1_Los_Angeles 11_Houston 17_Rochester 11_Houston 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 5_Portland 15_Minneapolis 18_Newark 4_Santa_Clara 5_Portland 15_Minneapolis 19_Washington_DC 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 0_Las_Vegas 4_Santa_Clara 19_Washington_DC 15_Minneapolis 5_Portland 0_Las_Vegas 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.00801055011839352,
+            "cycle": "0_Las_Vegas 19_Washington_DC 5_Portland 19_Washington_DC 5_Portland 19_Washington_DC 5_Portland 19_Washington_DC 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 13_Boise 19_Washington_DC 15_Minneapolis 13_Boise 19_Washington_DC 15_Minneapolis 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 2_Dallas 5_Portland 9_Seattle 3_Phoenix 5_Portland 12_Spokane 13_Boise 3_Phoenix 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 13_Boise 4_Santa_Clara 13_Boise 4_Santa_Clara 13_Boise 8_Tacoma 6_Sacramento 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 4_Santa_Clara 0_Las_Vegas 9_Seattle 4_Santa_Clara 0_Las_Vegas 9_Seattle 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 5_Portland 12_Spokane 15_Minneapolis 13_Boise 15_Minneapolis 13_Boise 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.04769737352629344,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 12_Spokane 13_Boise 18_Newark 4_Santa_Clara 12_Spokane 13_Boise 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 11_Houston 15_Minneapolis 4_Santa_Clara 5_Portland 11_Houston 15_Minneapolis 4_Santa_Clara 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 1_Los_Angeles 18_Newark 5_Portland 9_Seattle 3_Phoenix 18_Newark 5_Portland 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.02740290573995567,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 9_Seattle 3_Phoenix 9_Seattle 3_Phoenix 9_Seattle 3_Phoenix 0_Las_Vegas"
+        },
+        {
+            "x": 0.03185347444397111,
+            "cycle": "0_Las_Vegas 11_Houston 10_Atlanta 19_Washington_DC 15_Minneapolis 4_Santa_Clara 19_Washington_DC 15_Minneapolis 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 19_Washington_DC 10_Atlanta 11_Houston 15_Minneapolis 17_Rochester 10_Atlanta 11_Houston 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 0.12314154239117373,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 13_Boise 12_Spokane 4_Santa_Clara 13_Boise 12_Spokane 15_Minneapolis 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 5_Portland 15_Minneapolis 11_Houston 5_Portland 12_Spokane 13_Boise 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 19_Washington_DC 1_Los_Angeles 13_Boise 15_Minneapolis 19_Washington_DC 1_Los_Angeles 13_Boise 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 5_Portland 15_Minneapolis 4_Santa_Clara 15_Minneapolis 4_Santa_Clara 15_Minneapolis 4_Santa_Clara 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.01549899912815491,
+            "cycle": "0_Las_Vegas 13_Boise 6_Sacramento 13_Boise 6_Sacramento 13_Boise 6_Sacramento 13_Boise 6_Sacramento 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 18_Newark 13_Boise 15_Minneapolis 19_Washington_DC 4_Santa_Clara 18_Newark 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 0.25204421382863995,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 4_Santa_Clara 5_Portland 12_Spokane 5_Portland 12_Spokane 13_Boise 0_Las_Vegas"
+        },
+        {
+            "x": 6.57931727295058E-4,
+            "cycle": "0_Las_Vegas 13_Boise 15_Minneapolis 11_Houston 13_Boise 15_Minneapolis 18_Newark 1_Los_Angeles 11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 5_Portland 4_Santa_Clara 15_Minneapolis 5_Portland 4_Santa_Clara 15_Minneapolis 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 11_Houston 5_Portland 15_Minneapolis 5_Portland 15_Minneapolis 5_Portland 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 9_Seattle 4_Santa_Clara 11_Houston 4_Santa_Clara 11_Houston 4_Santa_Clara 11_Houston 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.15373660890712765,
+            "cycle": "0_Las_Vegas 13_Boise 4_Santa_Clara 13_Boise 4_Santa_Clara 13_Boise 4_Santa_Clara 13_Boise 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.007513194250580454,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 15_Minneapolis 11_Houston 15_Minneapolis 11_Houston 5_Portland 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.0996489023705332,
+            "cycle": "0_Las_Vegas 1_Los_Angeles 13_Boise 15_Minneapolis 12_Spokane 15_Minneapolis 4_Santa_Clara 3_Phoenix 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 17_Rochester 10_Atlanta 18_Newark 4_Santa_Clara 5_Portland 18_Newark 4_Santa_Clara 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Las_Vegas 11_Houston 6_Sacramento 8_Tacoma 6_Sacramento 8_Tacoma 6_Sacramento 8_Tacoma 6_Sacramento 0_Las_Vegas"
+        },
+        {
+            "x": 0.0978666067149871,
+            "cycle": "0_Las_Vegas 5_Portland 15_Minneapolis 5_Portland 15_Minneapolis 5_Portland 15_Minneapolis 3_Phoenix 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.09855617072184136,
+            "cycle": "0_Las_Vegas 13_Boise 19_Washington_DC 4_Santa_Clara 12_Spokane 4_Santa_Clara 15_Minneapolis 3_Phoenix 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.011205630238303696,
+            "cycle": "0_Las_Vegas 4_Santa_Clara 5_Portland 11_Houston 4_Santa_Clara 5_Portland 11_Houston 4_Santa_Clara 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Las_Vegas 13_Boise 15_Minneapolis 13_Boise 8_Tacoma 6_Sacramento 13_Boise 8_Tacoma 6_Sacramento 0_Las_Vegas"
+        },
+        {
+            "x": 0.14204439927318357,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 15_Minneapolis 13_Boise 15_Minneapolis 13_Boise 15_Minneapolis 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0.11558921179207537,
+            "cycle": "0_Las_Vegas 9_Seattle 3_Phoenix 1_Los_Angeles 13_Boise 19_Washington_DC 10_Atlanta 11_Houston 1_Los_Angeles 0_Las_Vegas"
+        },
+        {
+            "x": 0.07712567808833616,
+            "cycle": "0_Las_Vegas 17_Rochester 10_Atlanta 19_Washington_DC 13_Boise 18_Newark 1_Los_Angeles 3_Phoenix 9_Seattle 0_Las_Vegas"
+        },
+        {
+            "x": 0.21752034637292475,
+            "cycle": "0_Las_Vegas 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 12_Spokane 13_Boise 11_Houston 0_Las_Vegas"
+        },
+        {
+            "x": 0.10671054517156409,
+            "cycle": "0_Las_Vegas 1_Los_Angeles 19_Washington_DC 15_Minneapolis 19_Washington_DC 15_Minneapolis 19_Washington_DC 15_Minneapolis 5_Portland 0_Las_Vegas"
+        },
+        {
+            "x": 0.041867868674052136,
+            "cycle": "0_Las_Vegas 5_Portland 11_Houston 10_Atlanta 17_Rochester 5_Portland 11_Houston 10_Atlanta 17_Rochester 0_Las_Vegas"
+        },
+        {
+            "x": 0.040034945140820885,
+            "cycle": "0_Las_Vegas 5_Portland 4_Santa_Clara 18_Newark 4_Santa_Clara 18_Newark 4_Santa_Clara 18_Newark 4_Santa_Clara 0_Las_Vegas"
+        },
+        {
+            "x": 0.004209144974951252,
+            "cycle": "0_Las_Vegas 5_Portland 19_Washington_DC 15_Minneapolis 13_Boise 19_Washington_DC 15_Minneapolis 13_Boise 19_Washington_DC 0_Las_Vegas"
+        }
+    ],
+    "values": [
+        17,
+        17,
+        14.333333333333334,
+        10.666666666666668,
+        8.666666666666666,
+        7.416666666666666,
+        7.416666666666666,
+        7.416666666666666,
+        6.416666666666667,
+        5.916666666666666,
+        5.444444444444445,
+        4.993055555555556,
+        4.966666666666667,
+        4.060185185185185,
+        3.9016203703703716,
+        3.744444444444445,
+        3.6710069444444446,
+        3.655729166666667,
+        3.594921714050268,
+        3.5719650655021837,
+        3.5440600187657205,
+        3.4114298070440343,
+        3.409170810624445,
+        3.379925501836599,
+        3.3562600826969757,
+        3.3458130024871364,
+        3.345734848600526,
+        3.3365659337344846,
+        3.3274017103798847,
+        3.31157950170463,
+        3.2962585157684323,
+        3.278601458808436,
+        3.2692887259501324,
+        3.266074766679265,
+        3.2644136381889495,
+        3.2548736548523896,
+        3.2468247729658923,
+        3.23326986228449,
+        3.2215652965328903,
+        3.2127532960729237,
+        3.1947185726453027,
+        3.1830503103255787,
+        3.1739738940579296,
+        3.1716225216661047,
+        3.1682212819188846,
+        3.166666666666667,
+        3.1532441859741533,
+        3.150380174905379,
+        3.14823503650151,
+        3.146780494365345,
+        3.1467804943653452,
+        3.142274702716102,
+        3.140623257815903,
+        3.1389017976360885,
+        3.1328522505769736,
+        3.1317381257498607,
+        3.127704573731785,
+        3.125069335536066,
+        3.1250000000000004
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 182329,
+    "lpBound": 3.1250000000000004
+}

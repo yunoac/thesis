@@ -1,0 +1,272 @@
+{
+    "initialCoverSize": 52,
+    "times": [
+        1340568,
+        2342961,
+        3246471,
+        4207201,
+        5135774,
+        6052965,
+        7003592,
+        7956865,
+        9027856,
+        10114449,
+        11159181,
+        12224999,
+        13747828,
+        15184596,
+        16531733,
+        17447872,
+        18606503,
+        19589832,
+        20674360,
+        21637296,
+        22670990,
+        23705295,
+        24662439,
+        25690750,
+        26793509,
+        27996828
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 5_London 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 8_Amsterdam,1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London,1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia,1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 3_Miami 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 12_Paris 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 8_Amsterdam 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 7_Baltimore 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 8_Amsterdam 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 9_Frankfurt 1_New_York 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 9_Frankfurt 12_Paris 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 20_Phoenix 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 14_Austin 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 17_Tokyo 2_Atlanta 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 12_Paris 9_Frankfurt 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 14_Austin 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 14_Austin 2_Atlanta 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 15_Seattle 17_Tokyo 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 1_New_York 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 17_Tokyo 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 17_Tokyo 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 19_Los_Angeles 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 3_Miami 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 7_Baltimore 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 20_Phoenix 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 4_Boston 7_Baltimore 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 3_Miami 8_Amsterdam 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 3_Miami 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 8_Amsterdam 3_Miami 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 14_Austin 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 7_Baltimore 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 4_Boston 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 14_Austin 7_Baltimore 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 14_Austin 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 20_Phoenix 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 21_Denver 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 4_Boston 19_Los_Angeles 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 14_Austin 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 7_Baltimore 14_Austin 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 19_Los_Angeles 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 7_Baltimore 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 15_Seattle 20_Phoenix 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 21_Denver 7_Baltimore 11_None"
+        }
+    ],
+    "values": [
+        16,
+        16,
+        15,
+        14,
+        14,
+        13,
+        13,
+        13,
+        13,
+        13,
+        12,
+        12,
+        12,
+        12,
+        12,
+        11,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        9.5,
+        9.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 220718,
+    "lpBound": 9.5
+}

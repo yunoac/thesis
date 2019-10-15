@@ -1,0 +1,240 @@
+{
+    "initialCoverSize": 36,
+    "times": [
+        1331897,
+        2160635,
+        2998386,
+        3779646,
+        4597004,
+        5371787,
+        6143834,
+        6955287,
+        7735030,
+        9453192,
+        10250189,
+        11089279,
+        11915878,
+        12708119,
+        13528722,
+        14355199
+    ],
+    "finalCoverSize": 14,
+    "minSegCycles": [
+        "0_Montreal 1_Quebec@0_Montreal 0_Montreal",
+        "0_Montreal 4_Moncton@0_Montreal 0_Montreal",
+        "0_Montreal 2_London 0_Montreal 0_Montreal",
+        "0_Montreal 6_Sherbrooke@0_Montreal 0_Montreal",
+        "0_Montreal 11_internetMCI_T3 0_Montreal 0_Montreal",
+        "0_Montreal 3_internetMCI_T3 0_Montreal 0_Montreal",
+        "0_Montreal 5_Halifax 0_Montreal 0_Montreal",
+        "0_Montreal 7_Saint_John 0_Montreal 0_Montreal",
+        "0_Montreal 8_Sydney 0_Montreal 0_Montreal",
+        "0_Montreal 9_Yarmouth 0_Montreal 0_Montreal",
+        "0_Montreal 10_ANS_CO+RE_T1 0_Montreal 0_Montreal",
+        "0_Montreal 12_Victoria 0_Montreal 0_Montreal",
+        "0_Montreal 14_Hamilton 0_Montreal 0_Montreal",
+        "0_Montreal 2_London 11_internetMCI_T3 0_Montreal",
+        "0_Montreal 22_Kitchener 0_Montreal 0_Montreal",
+        "0_Montreal 16_ANS_CO+RE_T1 0_Montreal 0_Montreal",
+        "0_Montreal 17_Calgary 0_Montreal 0_Montreal",
+        "0_Montreal 18_Edmonton 0_Montreal 0_Montreal",
+        "0_Montreal 19_Lethbridge 0_Montreal 0_Montreal",
+        "0_Montreal 20_Winnipeg 0_Montreal 0_Montreal",
+        "0_Montreal 11_internetMCI_T3 2_London 0_Montreal",
+        "0_Montreal 12_Victoria 3_internetMCI_T3 0_Montreal",
+        "0_Montreal 3_internetMCI_T3 16_ANS_CO+RE_T1 0_Montreal",
+        "0_Montreal 6_Sherbrooke 1_Quebec 0_Montreal",
+        "0_Montreal 7_Saint_John 1_Quebec 0_Montreal",
+        "0_Montreal 7_Saint_John 6_Sherbrooke 0_Montreal",
+        "0_Montreal 9_Yarmouth 8_Sydney 0_Montreal",
+        "0_Montreal 10_ANS_CO+RE_T1 8_Sydney 0_Montreal",
+        "0_Montreal 10_ANS_CO+RE_T1 9_Yarmouth 0_Montreal",
+        "0_Montreal 12_Victoria 11_internetMCI_T3 0_Montreal",
+        "0_Montreal 12_Victoria 2_London 0_Montreal",
+        "0_Montreal 16_ANS_CO+RE_T1 14_Hamilton 0_Montreal",
+        "0_Montreal 18_Edmonton 14_Hamilton 0_Montreal",
+        "0_Montreal 20_Winnipeg 19_Lethbridge 0_Montreal",
+        "0_Montreal 22_Kitchener 19_Lethbridge 0_Montreal",
+        "0_Montreal 22_Kitchener 20_Winnipeg 0_Montreal"
+    ],
+    "values": [
+        16,
+        14,
+        14,
+        13,
+        13,
+        12.5,
+        11.5,
+        11.5,
+        11,
+        11,
+        10.5,
+        10,
+        9.5,
+        8.5,
+        8.5,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 21352701,
+    "lpBound": 8,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Montreal 1_Quebec@0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 4_Moncton@0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 2_London 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 6_Sherbrooke@0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 11_internetMCI_T3 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 3_internetMCI_T3 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 5_Halifax 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 7_Saint_John 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 8_Sydney 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 9_Yarmouth 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 10_ANS_CO+RE_T1 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 12_Victoria 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 14_Hamilton 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 2_London 11_internetMCI_T3 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 22_Kitchener 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 16_ANS_CO+RE_T1 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 17_Calgary 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 18_Edmonton 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 19_Lethbridge 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 20_Winnipeg 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 11_internetMCI_T3 2_London 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 12_Victoria 3_internetMCI_T3 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 3_internetMCI_T3 16_ANS_CO+RE_T1 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 6_Sherbrooke 1_Quebec 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 7_Saint_John 1_Quebec 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 7_Saint_John 6_Sherbrooke 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 9_Yarmouth 8_Sydney 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 10_ANS_CO+RE_T1 8_Sydney 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 10_ANS_CO+RE_T1 9_Yarmouth 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 12_Victoria 11_internetMCI_T3 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 12_Victoria 2_London 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 16_ANS_CO+RE_T1 14_Hamilton 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 18_Edmonton 14_Hamilton 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 20_Winnipeg 19_Lethbridge 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 22_Kitchener 19_Lethbridge 0_Montreal"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Montreal 22_Kitchener 20_Winnipeg 0_Montreal"
+        }
+    ],
+    "greedySolution": [
+        "0_Montreal 2_London 11_internetMCI_T3 0_Montreal",
+        "0_Montreal 12_Victoria 3_internetMCI_T3 0_Montreal",
+        "0_Montreal 3_internetMCI_T3 16_ANS_CO+RE_T1 0_Montreal",
+        "0_Montreal 7_Saint_John 1_Quebec 0_Montreal",
+        "0_Montreal 7_Saint_John 6_Sherbrooke 0_Montreal",
+        "0_Montreal 10_ANS_CO+RE_T1 8_Sydney 0_Montreal",
+        "0_Montreal 10_ANS_CO+RE_T1 9_Yarmouth 0_Montreal",
+        "0_Montreal 18_Edmonton 14_Hamilton 0_Montreal",
+        "0_Montreal 22_Kitchener 19_Lethbridge 0_Montreal",
+        "0_Montreal 22_Kitchener 20_Winnipeg 0_Montreal"
+    ]
+}

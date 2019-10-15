@@ -1,0 +1,214 @@
+{
+    "initialCoverSize": 42,
+    "times": [
+        2122910,
+        2799876,
+        3465197,
+        4136053,
+        4868132,
+        5527475,
+        6151989,
+        6861036,
+        7907907,
+        8671319,
+        9748112,
+        11237517,
+        12229907,
+        12908467,
+        13548825,
+        14184946,
+        14826950
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Prague 1_Frankfurt,0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 2_Hamburg 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 6_Geneva 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 5_Madrid 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 3_Copenhagen 0_Prague 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 2_Hamburg 10_Helsinki 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 4_Dubai 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 7_Milan 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 6_Geneva 4_Dubai 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 7_Milan 4_Dubai 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 8_Brussels 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 8_Brussels 5_Madrid 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 10_Helsinki 0_Prague 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 10_Helsinki,11_Stockholm 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 12_Hong_Kong 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 10_Helsinki 2_Hamburg 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 11_Stockholm,10_Helsinki 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 13_Oslo 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 13_Oslo 4_Dubai 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 4_Dubai 13_Oslo 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 15_New_York 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 4_Dubai 5_Madrid 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 16_New_York 0_Prague 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 4_Dubai 6_Geneva 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 4_Dubai 7_Milan 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 5_Madrid 8_Brussels 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 12_Hong_Kong 2_Hamburg 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 8_Brussels 6_Geneva 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 8_Brussels 7_Milan 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 13_Oslo 16_New_York 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 13_Oslo 6_Geneva 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 15_New_York 6_Geneva 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 12_Hong_Kong 7_Milan 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 7_Milan 2_Hamburg 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 15_New_York 2_Hamburg 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 7_Milan 3_Copenhagen 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 6_Geneva 8_Brussels 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 13_Oslo 2_Hamburg 0_Prague"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Prague 5_Madrid 13_Oslo 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 5_Madrid 15_New_York 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 6_Geneva 5_Madrid 0_Prague"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Prague 7_Milan 5_Madrid 0_Prague"
+        }
+    ],
+    "values": [
+        15,
+        14,
+        13,
+        13,
+        12,
+        12,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        10,
+        10,
+        10,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 132045,
+    "lpBound": 10
+}

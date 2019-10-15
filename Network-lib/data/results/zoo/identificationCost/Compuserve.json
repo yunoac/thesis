@@ -1,0 +1,82 @@
+{
+    "originalCover": {
+        "runtime": 2666215,
+        "cycles": [
+            "0_1 1_1 0_1 0_1 0_1",
+            "0_1 11_Atlanta 0_1 0_1 0_1",
+            "0_1 5_New_York 0_1 0_1 0_1",
+            "0_1 3_1 0_1 0_1 0_1",
+            "0_1 4_Boston 2_Washington,_DC 0_1 0_1",
+            "0_1 4_Boston 0_1 0_1 0_1",
+            "0_1 2_Washington,_DC 4_Boston 0_1 0_1",
+            "0_1 4_Boston 6_Seattle 4_Boston 0_1",
+            "0_1 4_Boston 6_Seattle 7_San_Francisco 0_1",
+            "0_1 7_San_Francisco 6_Seattle 4_Boston 0_1",
+            "0_1 7_San_Francisco 15 0_1",
+            "0_1 7_San_Francisco 8_Los_Angeles 9_Dallas 0_1",
+            "0_1 9_Dallas 15 0_1",
+            "0_1 10_Houston 0_1 0_1 0_1",
+            "0_1 9_Dallas 11_Atlanta 0_1 0_1",
+            "0_1 2_Washington,_DC 10_Houston 0_1 0_1"
+        ],
+        "source": 0,
+        "maxSeg": 5
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        7,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        7,
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_1 1_1 0_1 0_1",
+            "0_1 11_Atlanta 0_1 0_1",
+            "0_1 5_New_York 0_1 0_1",
+            "0_1 3_1 0_1 0_1",
+            "0_1 4_Boston 2_Washington,_DC 0_1",
+            "0_1 4_Boston 0_1 0_1",
+            "0_1 2_Washington,_DC 4_Boston 0_1",
+            "0_1 6_Seattle 4_Boston 0_1",
+            "0_1 4_Boston 7_San_Francisco 0_1",
+            "0_1 8_Los_Angeles 0_1 0_1",
+            "0_1 6_Seattle 9_Dallas 0_1",
+            "0_1 9_Dallas 6_Seattle 0_1",
+            "0_1 10_Houston 0_1 0_1",
+            "0_1 8_Los_Angeles 11_Atlanta 0_1",
+            "0_1 2_Washington,_DC 10_Houston 0_1"
+        ],
+        "source": 0,
+        "runetime": 1745231,
+        "maxSeg": 4
+    }
+}

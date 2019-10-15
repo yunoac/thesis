@@ -1,0 +1,740 @@
+{
+    "initialCoverSize": 115,
+    "times": [
+        10932702,
+        75678157,
+        136340490,
+        191648446,
+        267448268,
+        311772378,
+        366786703,
+        424929618,
+        450352613,
+        490868751,
+        532143326,
+        570701125,
+        627198853,
+        681526504,
+        742588520,
+        829708854,
+        913733522,
+        972809850,
+        1030701070,
+        1071753517,
+        1102962822,
+        1151775364,
+        1203617385,
+        1267652332,
+        1319687678,
+        1371873682,
+        1411807275,
+        1443261570,
+        1506711786,
+        1541957108,
+        1571765419,
+        1611822942,
+        1642450911,
+        1679660224,
+        1722625920,
+        1783612693,
+        1824319759,
+        1869093491,
+        1896654844,
+        1935090988,
+        1969655236,
+        2012772955,
+        2045615094,
+        2085745298,
+        2136039514,
+        2174574272,
+        2204886463,
+        2249967519,
+        2285808325,
+        2345231265,
+        2379029425,
+        2417224297,
+        2481775751,
+        2543836747,
+        2589822787,
+        2641742554,
+        2691998703
+    ],
+    "finalCoverSize": 37,
+    "minSegCycles": [
+        "12_MI-3 0_Svizzera 2_Global_Crossing 12_MI-3",
+        "12_MI-3 1_CA 3_GEANT 12_MI-3",
+        "12_MI-3 1_CA 8_RM-1 12_MI-3",
+        "12_MI-3 7_SS 1_CA 12_MI-3",
+        "12_MI-3 5_NAMEX 1_CA 12_MI-3",
+        "12_MI-3 6_AQ-1 1_CA 12_MI-3",
+        "12_MI-3 6_AQ-1 38_AQ 12_MI-3",
+        "12_MI-3 8_RM-1 1_CA 12_MI-3",
+        "12_MI-3 8_RM-1 37_FRA 12_MI-3",
+        "12_MI-3 38_AQ 1_CA 12_MI-3",
+        "12_MI-3 8_RM-1@39_AN 12_MI-3",
+        "12_MI-3 9_PG 1_CA 12_MI-3",
+        "12_MI-3 1_CA 13_CZ 12_MI-3",
+        "12_MI-3 10_TIX 0_Svizzera 12_MI-3",
+        "12_MI-3 11_Level3 1_CA 12_MI-3",
+        "12_MI-3 26_TN 0_Svizzera 12_MI-3",
+        "12_MI-3 51_Pv 0_Svizzera 12_MI-3",
+        "12_MI-3 46_MI-5 0_Svizzera 12_MI-3",
+        "12_MI-3 14_TS-1 0_Svizzera 12_MI-3",
+        "12_MI-3 14_TS-1@15_PD 12_MI-3",
+        "12_MI-3 15_PD@14_TS-1 12_MI-3",
+        "12_MI-3 15_PD 1_CA 12_MI-3",
+        "12_MI-3 27_VE 0_Svizzera 12_MI-3",
+        "12_MI-3 34_SA 1_CA 12_MI-3",
+        "12_MI-3 13_CZ 1_CA 12_MI-3",
+        "12_MI-3 36_CB 1_CA 12_MI-3",
+        "12_MI-3 13_CZ 35_PZ 12_MI-3",
+        "12_MI-3 17_ME 1_CA 12_MI-3",
+        "12_MI-3 20_PA 1_CA 12_MI-3",
+        "12_MI-3 21_EUMED_CONNECT 1_CA 12_MI-3",
+        "12_MI-3 22_MIX____ 0_Svizzera 12_MI-3",
+        "12_MI-3 23_TELIA 0_Svizzera 12_MI-3",
+        "12_MI-3 1_CA 15_PD 12_MI-3",
+        "12_MI-3 39_AN 0_Svizzera 12_MI-3",
+        "12_MI-3 35_PZ 0_Svizzera 12_MI-3",
+        "12_MI-3 50_Fe 0_Svizzera 12_MI-3",
+        "12_MI-3 32_Fi 0_Svizzera 12_MI-3",
+        "12_MI-3 10_TIX 30_TO 12_MI-3",
+        "12_MI-3 28_CO 14_TS-1 12_MI-3",
+        "12_MI-3 28_CO 0_Svizzera 12_MI-3",
+        "12_MI-3 45_GEANT 0_Svizzera 12_MI-3",
+        "12_MI-3 0_Svizzera 14_TS-1 12_MI-3",
+        "12_MI-3 0_Svizzera 3_GEANT 12_MI-3",
+        "12_MI-3 30_TO 10_TIX 12_MI-3",
+        "12_MI-3 47_TO-PIX 0_Svizzera 12_MI-3",
+        "12_MI-3 33_GE 0_Svizzera 12_MI-3",
+        "12_MI-3 44_Google 0_Svizzera 12_MI-3",
+        "12_MI-3 33_GE 10_TIX 12_MI-3",
+        "12_MI-3 37_FRA 8_RM-1 12_MI-3",
+        "12_MI-3 38_AQ 6_AQ-1 12_MI-3",
+        "12_MI-3 39_AN@8_RM-1 12_MI-3",
+        "12_MI-3 53_Ur 0_Svizzera 12_MI-3",
+        "12_MI-3 40_MT 0_Svizzera 12_MI-3",
+        "12_MI-3 41_LE 0_Svizzera 12_MI-3",
+        "12_MI-3 35_PZ 13_CZ 12_MI-3",
+        "12_MI-3 43_FG 0_Svizzera 12_MI-3",
+        "12_MI-3 52_PI 1_CA 12_MI-3",
+        "12_MI-3 14_TS-1 28_CO 12_MI-3",
+        "12_MI-3 10_TIX 33_GE 12_MI-3",
+        "12_MI-3 27_VE 5_NAMEX 12_MI-3",
+        "12_MI-3 7_SS 17_ME 12_MI-3",
+        "12_MI-3 9_PG 20_PA 12_MI-3",
+        "12_MI-3 2_Global_Crossing 22_MIX____ 12_MI-3",
+        "12_MI-3 47_TO-PIX 32_Fi 12_MI-3",
+        "12_MI-3 40_MT 34_SA 12_MI-3",
+        "12_MI-3 34_SA 41_LE 12_MI-3",
+        "12_MI-3 11_Level3 3_GEANT 12_MI-3",
+        "12_MI-3 22_MIX____ 3_GEANT 12_MI-3",
+        "12_MI-3 3_GEANT 2_Global_Crossing 12_MI-3",
+        "12_MI-3 45_GEANT 23_TELIA 12_MI-3",
+        "12_MI-3 32_Fi 14_TS-1 12_MI-3",
+        "12_MI-3 40_MT 14_TS-1 12_MI-3",
+        "12_MI-3 41_LE 14_TS-1 12_MI-3",
+        "12_MI-3 32_Fi 15_PD 12_MI-3",
+        "12_MI-3 43_FG 14_TS-1 12_MI-3",
+        "12_MI-3 36_CB 15_PD 12_MI-3",
+        "12_MI-3 40_MT 15_PD 12_MI-3",
+        "12_MI-3 7_SS 40_MT 12_MI-3",
+        "12_MI-3 35_PZ 26_TN 12_MI-3",
+        "12_MI-3 13_CZ 9_PG 12_MI-3",
+        "12_MI-3 15_PD 13_CZ 12_MI-3",
+        "12_MI-3 13_CZ 5_NAMEX 12_MI-3",
+        "12_MI-3 17_ME 13_CZ 12_MI-3",
+        "12_MI-3 41_LE 20_PA 12_MI-3",
+        "12_MI-3 36_CB 40_MT 12_MI-3",
+        "12_MI-3 52_PI 50_Fe 12_MI-3",
+        "12_MI-3 50_Fe 27_VE 12_MI-3",
+        "12_MI-3 46_MI-5 26_TN 12_MI-3",
+        "12_MI-3 52_PI 27_VE 12_MI-3",
+        "12_MI-3 53_Ur 51_Pv 12_MI-3",
+        "12_MI-3 51_Pv 5_NAMEX 12_MI-3",
+        "12_MI-3 7_SS 9_PG 12_MI-3",
+        "12_MI-3 37_FRA 9_PG 12_MI-3",
+        "12_MI-3 52_PI 30_TO 12_MI-3",
+        "12_MI-3 14_TS-1 35_PZ 12_MI-3",
+        "12_MI-3 21_EUMED_CONNECT 20_PA 12_MI-3",
+        "12_MI-3 9_PG 37_FRA 12_MI-3",
+        "12_MI-3 13_CZ 37_FRA 12_MI-3",
+        "12_MI-3 37_FRA 13_CZ 12_MI-3",
+        "12_MI-3 30_TO 52_PI 12_MI-3",
+        "12_MI-3 32_Fi 30_TO 12_MI-3",
+        "12_MI-3 10_TIX 47_TO-PIX 12_MI-3",
+        "12_MI-3 22_MIX____ 2_Global_Crossing 12_MI-3",
+        "12_MI-3 44_Google 23_TELIA 12_MI-3",
+        "12_MI-3 33_GE 52_PI 12_MI-3",
+        "12_MI-3 45_GEANT 14_TS-1 12_MI-3",
+        "12_MI-3 43_FG 13_CZ 12_MI-3",
+        "12_MI-3 43_FG 26_TN 12_MI-3",
+        "12_MI-3 1_CA 17_ME 12_MI-3",
+        "12_MI-3 37_FRA 17_ME 12_MI-3",
+        "12_MI-3 1_CA 20_PA 12_MI-3",
+        "12_MI-3 43_FG 36_CB 12_MI-3",
+        "12_MI-3 11_Level3 50_Fe 12_MI-3",
+        "12_MI-3 52_PI 33_GE 12_MI-3",
+        "12_MI-3 20_PA 7_SS 12_MI-3"
+    ],
+    "values": [
+        48,
+        46,
+        44,
+        43,
+        42,
+        40,
+        38,
+        38,
+        37,
+        37,
+        37,
+        36,
+        36,
+        35,
+        35,
+        35,
+        35,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        33.66666666666667,
+        33.5,
+        33.25,
+        32.2,
+        32.166666666666664,
+        31.5,
+        31.5,
+        30.5,
+        30.5,
+        30.5,
+        30,
+        30,
+        29.75,
+        29.5,
+        29.5,
+        29,
+        29,
+        29,
+        29,
+        28.833333333333325,
+        28.833333333333325,
+        28.833333333333325,
+        28.75,
+        28.75,
+        28.75,
+        28.75,
+        28.75,
+        28.75,
+        28.75,
+        28.71875,
+        28.5,
+        28.5,
+        28.499999999999996
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 33,
+    "runtime": 3438360062,
+    "lpBound": 28.499999999999996,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "12_MI-3 0_Svizzera 2_Global_Crossing 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 1_CA 3_GEANT 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 1_CA 8_RM-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 7_SS 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 5_NAMEX 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 6_AQ-1 1_CA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 6_AQ-1 38_AQ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 8_RM-1 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 8_RM-1 37_FRA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 38_AQ 1_CA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 8_RM-1@39_AN 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 9_PG 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 1_CA 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 10_TIX 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 11_Level3 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 26_TN 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 51_Pv 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 46_MI-5 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 14_TS-1 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 14_TS-1@15_PD 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 15_PD@14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 15_PD 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 27_VE 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 34_SA 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 13_CZ 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 36_CB 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 13_CZ 35_PZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 17_ME 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 20_PA 1_CA 12_MI-3"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "12_MI-3 21_EUMED_CONNECT 1_CA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 22_MIX____ 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "12_MI-3 23_TELIA 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 1_CA 15_PD 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 39_AN 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 35_PZ 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 50_Fe 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 32_Fi 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 10_TIX 30_TO 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 28_CO 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 28_CO 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 45_GEANT 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 0_Svizzera 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "12_MI-3 0_Svizzera 3_GEANT 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 30_TO 10_TIX 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 47_TO-PIX 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 33_GE 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "12_MI-3 44_Google 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 33_GE 10_TIX 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 37_FRA 8_RM-1 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 38_AQ 6_AQ-1 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 39_AN@8_RM-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 53_Ur 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 40_MT 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 41_LE 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 35_PZ 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 43_FG 0_Svizzera 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 52_PI 1_CA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 14_TS-1 28_CO 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 10_TIX 33_GE 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 27_VE 5_NAMEX 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 7_SS 17_ME 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 9_PG 20_PA 12_MI-3"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "12_MI-3 2_Global_Crossing 22_MIX____ 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 47_TO-PIX 32_Fi 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 40_MT 34_SA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 34_SA 41_LE 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 11_Level3 3_GEANT 12_MI-3"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "12_MI-3 22_MIX____ 3_GEANT 12_MI-3"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "12_MI-3 3_GEANT 2_Global_Crossing 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 45_GEANT 23_TELIA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 32_Fi 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 40_MT 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 41_LE 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 32_Fi 15_PD 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 43_FG 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 36_CB 15_PD 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 40_MT 15_PD 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 7_SS 40_MT 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 35_PZ 26_TN 12_MI-3"
+        },
+        {
+            "x": 0.16666666666666663,
+            "cycle": "12_MI-3 13_CZ 9_PG 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 15_PD 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 13_CZ 5_NAMEX 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 17_ME 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 41_LE 20_PA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 36_CB 40_MT 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 52_PI 50_Fe 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 50_Fe 27_VE 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 46_MI-5 26_TN 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 52_PI 27_VE 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 53_Ur 51_Pv 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 51_Pv 5_NAMEX 12_MI-3"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "12_MI-3 7_SS 9_PG 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 37_FRA 9_PG 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 52_PI 30_TO 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 14_TS-1 35_PZ 12_MI-3"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "12_MI-3 21_EUMED_CONNECT 20_PA 12_MI-3"
+        },
+        {
+            "x": 0.16666666666666663,
+            "cycle": "12_MI-3 9_PG 37_FRA 12_MI-3"
+        },
+        {
+            "x": 0.8333333333333334,
+            "cycle": "12_MI-3 13_CZ 37_FRA 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 37_FRA 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 30_TO 52_PI 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 32_Fi 30_TO 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 10_TIX 47_TO-PIX 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 22_MIX____ 2_Global_Crossing 12_MI-3"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "12_MI-3 44_Google 23_TELIA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 33_GE 52_PI 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 45_GEANT 14_TS-1 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 43_FG 13_CZ 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 43_FG 26_TN 12_MI-3"
+        },
+        {
+            "x": 0,
+            "cycle": "12_MI-3 1_CA 17_ME 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 37_FRA 17_ME 12_MI-3"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "12_MI-3 1_CA 20_PA 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 43_FG 36_CB 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 11_Level3 50_Fe 12_MI-3"
+        },
+        {
+            "x": 1,
+            "cycle": "12_MI-3 52_PI 33_GE 12_MI-3"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "12_MI-3 20_PA 7_SS 12_MI-3"
+        }
+    ],
+    "greedySolution": [
+        "12_MI-3 6_AQ-1 38_AQ 12_MI-3",
+        "12_MI-3 8_RM-1@39_AN 12_MI-3",
+        "12_MI-3 1_CA 13_CZ 12_MI-3",
+        "12_MI-3 14_TS-1@15_PD 12_MI-3",
+        "12_MI-3 15_PD@14_TS-1 12_MI-3",
+        "12_MI-3 21_EUMED_CONNECT 1_CA 12_MI-3",
+        "12_MI-3 28_CO 14_TS-1 12_MI-3",
+        "12_MI-3 47_TO-PIX 0_Svizzera 12_MI-3",
+        "12_MI-3 33_GE 10_TIX 12_MI-3",
+        "12_MI-3 38_AQ 6_AQ-1 12_MI-3",
+        "12_MI-3 39_AN@8_RM-1 12_MI-3",
+        "12_MI-3 14_TS-1 28_CO 12_MI-3",
+        "12_MI-3 10_TIX 33_GE 12_MI-3",
+        "12_MI-3 27_VE 5_NAMEX 12_MI-3",
+        "12_MI-3 2_Global_Crossing 22_MIX____ 12_MI-3",
+        "12_MI-3 34_SA 41_LE 12_MI-3",
+        "12_MI-3 11_Level3 3_GEANT 12_MI-3",
+        "12_MI-3 45_GEANT 23_TELIA 12_MI-3",
+        "12_MI-3 32_Fi 14_TS-1 12_MI-3",
+        "12_MI-3 7_SS 40_MT 12_MI-3",
+        "12_MI-3 46_MI-5 26_TN 12_MI-3",
+        "12_MI-3 52_PI 27_VE 12_MI-3",
+        "12_MI-3 53_Ur 51_Pv 12_MI-3",
+        "12_MI-3 37_FRA 9_PG 12_MI-3",
+        "12_MI-3 14_TS-1 35_PZ 12_MI-3",
+        "12_MI-3 9_PG 37_FRA 12_MI-3",
+        "12_MI-3 30_TO 52_PI 12_MI-3",
+        "12_MI-3 10_TIX 47_TO-PIX 12_MI-3",
+        "12_MI-3 44_Google 23_TELIA 12_MI-3",
+        "12_MI-3 37_FRA 17_ME 12_MI-3",
+        "12_MI-3 43_FG 36_CB 12_MI-3",
+        "12_MI-3 11_Level3 50_Fe 12_MI-3",
+        "12_MI-3 20_PA 7_SS 12_MI-3"
+    ]
+}

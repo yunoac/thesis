@@ -1,0 +1,307 @@
+{
+    "E": 50,
+    "V": 21,
+    "nonSP": 0,
+    "edges": [
+        {
+            "igp": 21,
+            "orig": 0,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 21,
+            "orig": 1,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 21,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 0
+        },
+        {
+            "igp": 21,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 1
+        },
+        {
+            "igp": 21,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 3
+        },
+        {
+            "igp": 21,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 6
+        },
+        {
+            "igp": 21,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 7
+        },
+        {
+            "igp": 10,
+            "orig": 2,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 21,
+            "orig": 3,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 13,
+            "orig": 4,
+            "nonSP": false,
+            "dest": 14
+        },
+        {
+            "igp": 129,
+            "orig": 5,
+            "nonSP": false,
+            "dest": 16
+        },
+        {
+            "igp": 21,
+            "orig": 6,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 21,
+            "orig": 7,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 200,
+            "orig": 8,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 9,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 10,
+            "nonSP": false,
+            "dest": 13
+        },
+        {
+            "igp": 21,
+            "orig": 11,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 21,
+            "orig": 12,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 13,
+            "nonSP": false,
+            "dest": 10
+        },
+        {
+            "igp": 21,
+            "orig": 13,
+            "nonSP": false,
+            "dest": 14
+        },
+        {
+            "igp": 21,
+            "orig": 13,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 13,
+            "orig": 14,
+            "nonSP": false,
+            "dest": 4
+        },
+        {
+            "igp": 21,
+            "orig": 14,
+            "nonSP": false,
+            "dest": 13
+        },
+        {
+            "igp": 21,
+            "orig": 14,
+            "nonSP": false,
+            "dest": 16
+        },
+        {
+            "igp": 10,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 2
+        },
+        {
+            "igp": 21,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 11
+        },
+        {
+            "igp": 21,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 13
+        },
+        {
+            "igp": 21,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 16
+        },
+        {
+            "igp": 21,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 17
+        },
+        {
+            "igp": 21,
+            "orig": 15,
+            "nonSP": false,
+            "dest": 17
+        },
+        {
+            "igp": 129,
+            "orig": 16,
+            "nonSP": false,
+            "dest": 5
+        },
+        {
+            "igp": 21,
+            "orig": 16,
+            "nonSP": false,
+            "dest": 14
+        },
+        {
+            "igp": 21,
+            "orig": 16,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 21,
+            "orig": 16,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 16,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 17,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 21,
+            "orig": 17,
+            "nonSP": false,
+            "dest": 15
+        },
+        {
+            "igp": 21,
+            "orig": 17,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 17,
+            "nonSP": false,
+            "dest": 19
+        },
+        {
+            "igp": 200,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 8
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 9
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 12
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 16
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 16
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 17
+        },
+        {
+            "igp": 21,
+            "orig": 18,
+            "nonSP": false,
+            "dest": 20
+        },
+        {
+            "igp": 21,
+            "orig": 19,
+            "nonSP": false,
+            "dest": 17
+        },
+        {
+            "igp": 21,
+            "orig": 19,
+            "nonSP": false,
+            "dest": 20
+        },
+        {
+            "igp": 21,
+            "orig": 20,
+            "nonSP": false,
+            "dest": 18
+        },
+        {
+            "igp": 21,
+            "orig": 20,
+            "nonSP": false,
+            "dest": 19
+        }
+    ]
+}

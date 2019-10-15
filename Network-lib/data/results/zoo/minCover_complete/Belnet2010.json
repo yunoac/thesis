@@ -1,0 +1,158 @@
+{
+    "initialCoverSize": 35,
+    "times": [
+        1435067,
+        2439046,
+        3402064
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 2_Arlon 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 0_Liege1_,3_Liege2 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 1_Brussels_Campus 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 1_Brussels_Campus 6_Bruzav 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 12_Louvain-la-Neuve 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 3_Liege2,0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 6_Bruzav 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 9_Hasselt 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 16_Gent2 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 4_Vilvoorde,7_Evere 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 4_Vilvoorde,7_Evere 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 4_Vilvoorde,7_Evere 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 8_Leuven2 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 5_Leuven1,8_Leuven2 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 6_Bruzav 1_Brussels_Campus 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 7_Evere,4_Vilvoorde 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 7_Evere,4_Vilvoorde 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 7_Evere,4_Vilvoorde 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 14_Brugge 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 20_Mons 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 8_Leuven2,5_Leuven1 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 5_Leuven1 9_Hasselt 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 9_Hasselt 1_Brussels_Campus 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 2_Arlon 20_Mons 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 15_Gent1 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 14_Brugge 16_Gent2 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 15_Gent1,16_Gent2 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 16_Gent2 14_Brugge 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 16_Gent2,15_Gent1 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 17_Antwerpen1,18_Antwerpen2 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 18_Antwerpen2,17_Antwerpen1 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 21_Charleroi 0_Liege1_ 0_Liege1_"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Liege1_ 1_Brussels_Campus 12_Louvain-la-Neuve 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 12_Louvain-la-Neuve 6_Bruzav 0_Liege1_"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Liege1_ 6_Bruzav 12_Louvain-la-Neuve 0_Liege1_"
+        }
+    ],
+    "values": [
+        22,
+        21,
+        20
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 192617,
+    "lpBound": 20
+}

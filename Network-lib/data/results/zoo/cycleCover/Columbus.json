@@ -1,0 +1,903 @@
+{
+    "initialCoverSize": 139,
+    "times": [
+        6533542,
+        31954003,
+        55947188,
+        76994322,
+        97537099,
+        118962434,
+        142997842,
+        163967092,
+        185490681,
+        207568294,
+        229832322,
+        255417870,
+        276687165,
+        298777990,
+        322233250,
+        344634442,
+        367071807,
+        388423850,
+        410238939,
+        434019252,
+        455292497,
+        476451726,
+        497514073,
+        523242033,
+        554023287,
+        583661508,
+        619566323,
+        645295229,
+        675881503,
+        706684713,
+        733805167,
+        763351634,
+        789412637,
+        811839700,
+        833356319,
+        856065558,
+        880010155,
+        901112374,
+        922136799,
+        943311358,
+        964968627,
+        988431191,
+        1009825469,
+        1030961767,
+        1052285227,
+        1075346581,
+        1097851907,
+        1119747358,
+        1143288532,
+        1165148653,
+        1188024277,
+        1209182030,
+        1231116449,
+        1255318767,
+        1276306616,
+        1297380222,
+        1318294213,
+        1340203928,
+        1362607188,
+        1384009994,
+        1405144640,
+        1426556461,
+        1454491333,
+        1489871309,
+        1527541579,
+        1565970602,
+        1608336502,
+        1642165595,
+        1670970353,
+        1702992993,
+        1738129623,
+        1774571264,
+        1813286270,
+        1852188155,
+        1876066714,
+        1898256797,
+        1919158615,
+        1940296428,
+        1961526429,
+        1983645940,
+        2004436959,
+        2025021747,
+        2045686712,
+        2068642082,
+        2100907831,
+        2133296241,
+        2167896578
+    ],
+    "finalCoverSize": 33,
+    "minSegCycles": [
+        "0_None 1_None@0_None 0_None 0_None",
+        "0_None 3_Panama 0_None 0_None 0_None",
+        "0_None 34_None 0_None 0_None 0_None",
+        "0_None 36_Ecuador 0_None 0_None 0_None",
+        "0_None 6_Columbia 0_None 0_None 0_None",
+        "0_None 4_Venezuela 0_None 0_None 0_None",
+        "0_None@1_None 2_Costa_Rica 9_None 0_None",
+        "0_None 68_Honduras 3_Panama 0_None 0_None",
+        "0_None@1_None 60_None 1_None 0_None",
+        "0_None 5_Curacao 0_None 0_None 0_None",
+        "0_None 18_Antigua 0_None 0_None 0_None",
+        "0_None 10_Bonaire 0_None 0_None 0_None",
+        "0_None 11_St_Vincent 0_None 0_None 0_None",
+        "0_None 30_Bahamas 0_None 0_None 0_None",
+        "0_None 22_None 48_St_Martin 0_None 0_None",
+        "0_None 18_Antigua 8_None 50_None 0_None",
+        "0_None 18_Antigua 54_St_Croix 0_None 0_None",
+        "0_None 9_None 2_Costa_Rica 1_None 0_None",
+        "0_None 24_None 0_None 0_None 0_None",
+        "0_None 12_Mexico 0_None 0_None 0_None",
+        "0_None 12_Mexico 6_Columbia 0_None 0_None",
+        "0_None 13_None 0_None 0_None 0_None",
+        "0_None 14_None 0_None 0_None 0_None",
+        "0_None 15_None 0_None 0_None 0_None",
+        "0_None 6_Columbia 12_Mexico 0_None 0_None",
+        "0_None 4_Venezuela 17_None 4_Venezuela 0_None",
+        "0_None 4_Venezuela 58_None 4_Venezuela 0_None",
+        "0_None 18_Antigua 19_Guadeloupe@18_Antigua 0_None",
+        "0_None 18_Antigua 19_Guadeloupe 20_Dominica 0_None",
+        "0_None 20_Dominica 19_Guadeloupe@18_Antigua 0_None",
+        "0_None 20_Dominica 21_Martinique 11_St_Vincent 0_None",
+        "0_None 22_None 19_Guadeloupe@18_Antigua 0_None",
+        "0_None 23_Barbados 0_None 0_None 0_None",
+        "0_None 11_St_Vincent 21_Martinique 11_St_Vincent 0_None",
+        "0_None 62_None 0_None 0_None 0_None",
+        "0_None 30_Bahamas 5_Curacao 0_None 0_None",
+        "0_None 9_None 16_Turks_and_Caicos 4_Venezuela 0_None",
+        "0_None@1_None 32_None 5_Curacao 0_None",
+        "0_None@1_None 32_None 1_None@0_None",
+        "0_None 51_Suriname 0_None 0_None 0_None",
+        "0_None 52_Guyana 0_None 0_None 0_None",
+        "0_None 39_None 0_None 0_None 0_None",
+        "0_None 6_Columbia 16_Turks_and_Caicos 4_Venezuela 0_None",
+        "0_None 43_Cayman_Islands 0_None 0_None 0_None",
+        "0_None 18_Antigua 12_Mexico 0_None 0_None",
+        "0_None 30_Bahamas 49_None 0_None 0_None",
+        "0_None 49_None 30_Bahamas 0_None 0_None",
+        "0_None 50_None 8_None 18_Antigua 0_None",
+        "0_None 4_Venezuela 39_None 0_None 0_None",
+        "0_None 5_Curacao 30_Bahamas 0_None 0_None",
+        "0_None 5_Curacao 32_None 1_None 0_None",
+        "0_None 3_Panama 68_Honduras 0_None 0_None",
+        "0_None 64_El_Salvador 0_None 0_None 0_None",
+        "0_None 51_Suriname 20_Dominica 14_None 0_None",
+        "0_None 10_Bonaire 30_Bahamas 10_Bonaire 0_None",
+        "0_None 13_None 2_Costa_Rica 13_None 0_None",
+        "0_None 14_None 6_Columbia 14_None 0_None",
+        "0_None 23_Barbados 12_Mexico 23_Barbados 0_None",
+        "0_None 15_None 60_None 12_Mexico 0_None",
+        "0_None 39_None 32_None 30_Bahamas 0_None",
+        "0_None 51_Suriname 19_Guadeloupe 51_Suriname 0_None",
+        "0_None 20_Dominica 40_Jamaica 62_None 0_None",
+        "0_None 43_Cayman_Islands 32_None 34_None 0_None",
+        "0_None 36_Ecuador 32_None 43_Cayman_Islands 0_None",
+        "0_None 62_None 33_None 3_Panama 0_None",
+        "0_None 3_Panama 30_Bahamas 20_Dominica 0_None",
+        "0_None 12_Mexico 20_Dominica 52_Guyana 0_None",
+        "0_None 52_Guyana 44_None 36_Ecuador 0_None",
+        "0_None 39_None 60_None 39_None 0_None",
+        "0_None 64_El_Salvador 61_Nicaragua 43_Cayman_Islands 0_None",
+        "0_None 64_El_Salvador 15_None 64_El_Salvador 0_None",
+        "0_None 30_Bahamas 39_None 3_Panama 0_None",
+        "0_None 15_None 32_None 12_Mexico 0_None",
+        "0_None 52_Guyana 39_None 52_Guyana 0_None",
+        "0_None 24_None 8_None 22_None 0_None",
+        "0_None 3_Panama 2_Costa_Rica 49_None 0_None",
+        "0_None 9_None 60_None 36_Ecuador 0_None",
+        "0_None 30_Bahamas 49_None 12_Mexico 0_None",
+        "0_None 62_None 2_Costa_Rica 62_None 0_None",
+        "0_None 34_None 44_None 39_None 0_None",
+        "0_None 10_Bonaire 32_None 39_None 0_None",
+        "0_None 50_None 8_None 23_Barbados 0_None",
+        "0_None 3_Panama 68_Honduras 3_Panama 0_None",
+        "0_None 68_Honduras 16_Turks_and_Caicos 68_Honduras 0_None",
+        "0_None 43_Cayman_Islands 69_None 15_None 0_None",
+        "0_None 20_Dominica 60_None 64_El_Salvador 0_None",
+        "0_None 18_Antigua 54_St_Croix 18_Antigua 0_None",
+        "0_None 30_Bahamas 49_None 30_Bahamas 0_None",
+        "0_None 12_Mexico 2_Costa_Rica 12_Mexico 0_None",
+        "0_None 22_None 8_None 50_None 0_None",
+        "0_None 24_None 2_Costa_Rica 24_None 0_None",
+        "0_None 15_None 36_Ecuador 15_None 0_None",
+        "0_None 49_None 30_Bahamas 52_Guyana 0_None",
+        "0_None 3_Panama 10_Bonaire 3_Panama 0_None",
+        "0_None 39_None 32_None 36_Ecuador 0_None",
+        "0_None 20_Dominica 2_Costa_Rica 20_Dominica 0_None",
+        "0_None 20_Dominica 12_Mexico 20_Dominica 0_None",
+        "0_None 68_Honduras 34_None 68_Honduras 0_None",
+        "0_None 52_Guyana 19_Guadeloupe 52_Guyana 0_None",
+        "0_None 39_None 44_None 39_None 0_None",
+        "0_None 18_Antigua 19_Guadeloupe 23_Barbados 0_None",
+        "0_None 24_None 48_St_Martin 24_None 0_None",
+        "0_None 64_El_Salvador 33_None 64_El_Salvador 0_None",
+        "0_None 12_Mexico 33_None 62_None 0_None",
+        "0_None 36_Ecuador 32_None 39_None 0_None",
+        "0_None 3_Panama 56_None 66_Belize 0_None",
+        "0_None 50_None 8_None 50_None 0_None",
+        "0_None 48_St_Martin 22_None 30_Bahamas 0_None",
+        "0_None 54_St_Croix 18_Antigua 30_Bahamas 0_None",
+        "0_None 30_Bahamas 32_None 30_Bahamas 0_None",
+        "0_None 39_None 30_Bahamas 49_None 0_None",
+        "0_None 43_Cayman_Islands 33_None 12_Mexico 0_None",
+        "0_None 39_None 30_Bahamas 39_None 0_None",
+        "0_None 23_Barbados 48_St_Martin 14_None 0_None",
+        "0_None 48_St_Martin 22_None 14_None 0_None",
+        "0_None 10_Bonaire 60_None 10_Bonaire 0_None",
+        "0_None 14_None 20_Dominica 3_Panama 0_None",
+        "0_None 68_Honduras 49_None 30_Bahamas 0_None",
+        "0_None 62_None 26_None 62_None 0_None",
+        "0_None 49_None 30_Bahamas 39_None 0_None",
+        "0_None 3_Panama 20_Dominica 14_None 0_None",
+        "0_None 43_Cayman_Islands 60_None 22_None 0_None",
+        "0_None 23_Barbados 48_St_Martin 23_Barbados 0_None",
+        "0_None 12_Mexico 18_Antigua 12_Mexico 0_None",
+        "0_None 49_None 2_Costa_Rica 49_None 0_None",
+        "0_None 34_None 32_None 34_None 0_None",
+        "0_None 41_None 32_None 10_Bonaire 0_None",
+        "0_None 12_Mexico 20_Dominica 12_Mexico 0_None",
+        "0_None 43_Cayman_Islands 2_Costa_Rica 10_Bonaire 0_None",
+        "0_None 10_Bonaire 2_Costa_Rica 43_Cayman_Islands 0_None",
+        "0_None 68_Honduras 56_None 68_Honduras 0_None",
+        "0_None 3_Panama 0_None 3_Panama 0_None",
+        "0_None 14_None 61_Nicaragua 64_El_Salvador 0_None",
+        "0_None 33_None 60_None 43_Cayman_Islands 0_None",
+        "0_None 50_None 8_None 20_Dominica 0_None",
+        "0_None 43_Cayman_Islands 69_None 33_None 0_None",
+        "0_None 30_Bahamas 32_None 1_None 0_None",
+        "0_None 14_None 20_Dominica 12_Mexico 0_None",
+        "0_None 12_Mexico 20_Dominica 14_None 0_None"
+    ],
+    "values": [
+        34,
+        30,
+        28,
+        28,
+        28,
+        27,
+        26,
+        25,
+        24,
+        22,
+        22,
+        21,
+        21,
+        20.5,
+        20,
+        18.75,
+        18.75,
+        18.5,
+        18.16666666666666,
+        17.70833333333334,
+        17.666666666666664,
+        17.65,
+        16.5,
+        16.5,
+        16.235294117647058,
+        16.166666666666668,
+        16.042857142857144,
+        16.04285714285714,
+        15.905136268343815,
+        15.889502762430938,
+        15.871449925261583,
+        15.759523809523806,
+        15.491228070175437,
+        15.32512539899681,
+        15.325125398996809,
+        14.771039603960396,
+        14.651975683890582,
+        14.154296875,
+        14.154296875,
+        14.114754098360658,
+        14.062796208530807,
+        13.997907684504181,
+        13.966685440999191,
+        13.92333082273714,
+        13.901999264074576,
+        13.764146162941277,
+        13.683701657458561,
+        13.572124417229142,
+        13.572124417229142,
+        13.554418604651163,
+        13.506478209658423,
+        13.493935591802595,
+        13.40801576872536,
+        13.264048991354468,
+        12.839393939393938,
+        12.839393939393938,
+        12.832232893157263,
+        12.830747126436782,
+        12.804347826086955,
+        12.769326683291771,
+        12.693493150684933,
+        12.691281138790035,
+        12.659965034965031,
+        12.656862745098042,
+        12.618852459016395,
+        12.596866096866098,
+        12.59683426443203,
+        12.596573208722745,
+        12.533210332103318,
+        12.53321033210332,
+        12.492424242424239,
+        12.444444444444445,
+        12.385036496350363,
+        12.375,
+        12.375000000000002,
+        12.349999999999998,
+        12.33333333333333,
+        12.299999999999997,
+        12.299999999999997,
+        12.282258064516128,
+        12.271739130434781,
+        12.271739130434781,
+        12.271739130434781,
+        12.249999999999998,
+        12.249999999999995,
+        12.25,
+        12.249999999999996
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 16,
+    "runtime": 2625980699,
+    "lpBound": 12.249999999999996,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_None 1_None@0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 34_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 36_Ecuador 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 6_Columbia 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Venezuela 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None@1_None 2_Costa_Rica 9_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 68_Honduras 3_Panama 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None@1_None 60_None 1_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_Curacao 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 10_Bonaire 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_St_Vincent 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_Bahamas 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 22_None 48_St_Martin 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 8_None 50_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 54_St_Croix 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_None 2_Costa_Rica 1_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 6_Columbia 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 15_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 6_Columbia 12_Mexico 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Venezuela 17_None 4_Venezuela 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Venezuela 58_None 4_Venezuela 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 18_Antigua 19_Guadeloupe@18_Antigua 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 19_Guadeloupe 20_Dominica 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 19_Guadeloupe@18_Antigua 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 21_Martinique 11_St_Vincent 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 22_None 19_Guadeloupe@18_Antigua 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 23_Barbados 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_St_Vincent 21_Martinique 11_St_Vincent 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 62_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_Bahamas 5_Curacao 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_None 16_Turks_and_Caicos 4_Venezuela 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None@1_None 32_None 5_Curacao 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None@1_None 32_None 1_None@0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 51_Suriname 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 52_Guyana 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 6_Columbia 16_Turks_and_Caicos 4_Venezuela 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 43_Cayman_Islands 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 12_Mexico 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_Bahamas 49_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 49_None 30_Bahamas 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 50_None 8_None 18_Antigua 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Venezuela 39_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_Curacao 30_Bahamas 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_Curacao 32_None 1_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 68_Honduras 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 64_El_Salvador 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 51_Suriname 20_Dominica 14_None 0_None"
+        },
+        {
+            "x": 0.04761904761904767,
+            "cycle": "0_None 10_Bonaire 30_Bahamas 10_Bonaire 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_None 2_Costa_Rica 13_None 0_None"
+        },
+        {
+            "x": 0.39285714285714285,
+            "cycle": "0_None 14_None 6_Columbia 14_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 23_Barbados 12_Mexico 23_Barbados 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 15_None 60_None 12_Mexico 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_None 32_None 30_Bahamas 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 51_Suriname 19_Guadeloupe 51_Suriname 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 40_Jamaica 62_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 43_Cayman_Islands 32_None 34_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 36_Ecuador 32_None 43_Cayman_Islands 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 62_None 33_None 3_Panama 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 30_Bahamas 20_Dominica 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 20_Dominica 52_Guyana 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 52_Guyana 44_None 36_Ecuador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_None 60_None 39_None 0_None"
+        },
+        {
+            "x": 0.21428571428571427,
+            "cycle": "0_None 64_El_Salvador 61_Nicaragua 43_Cayman_Islands 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 64_El_Salvador 15_None 64_El_Salvador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_Bahamas 39_None 3_Panama 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 15_None 32_None 12_Mexico 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 52_Guyana 39_None 52_Guyana 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_None 8_None 22_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 2_Costa_Rica 49_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_None 60_None 36_Ecuador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 30_Bahamas 49_None 12_Mexico 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 62_None 2_Costa_Rica 62_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 34_None 44_None 39_None 0_None"
+        },
+        {
+            "x": 0.02380952380952382,
+            "cycle": "0_None 10_Bonaire 32_None 39_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 50_None 8_None 23_Barbados 0_None"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "0_None 3_Panama 68_Honduras 3_Panama 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 68_Honduras 16_Turks_and_Caicos 68_Honduras 0_None"
+        },
+        {
+            "x": 0.21428571428571427,
+            "cycle": "0_None 43_Cayman_Islands 69_None 15_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 60_None 64_El_Salvador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 54_St_Croix 18_Antigua 0_None"
+        },
+        {
+            "x": 0.44047619047619047,
+            "cycle": "0_None 30_Bahamas 49_None 30_Bahamas 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 2_Costa_Rica 12_Mexico 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 22_None 8_None 50_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_None 2_Costa_Rica 24_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 15_None 36_Ecuador 15_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 49_None 30_Bahamas 52_Guyana 0_None"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "0_None 3_Panama 10_Bonaire 3_Panama 0_None"
+        },
+        {
+            "x": 0.4404761904761905,
+            "cycle": "0_None 39_None 32_None 36_Ecuador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 2_Costa_Rica 20_Dominica 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Dominica 12_Mexico 20_Dominica 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 68_Honduras 34_None 68_Honduras 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 52_Guyana 19_Guadeloupe 52_Guyana 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_None 44_None 39_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Antigua 19_Guadeloupe 23_Barbados 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 24_None 48_St_Martin 24_None 0_None"
+        },
+        {
+            "x": 0.39285714285714285,
+            "cycle": "0_None 64_El_Salvador 33_None 64_El_Salvador 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 33_None 62_None 0_None"
+        },
+        {
+            "x": 0.5595238095238095,
+            "cycle": "0_None 36_Ecuador 32_None 39_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 56_None 66_Belize 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 50_None 8_None 50_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 48_St_Martin 22_None 30_Bahamas 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 54_St_Croix 18_Antigua 30_Bahamas 0_None"
+        },
+        {
+            "x": 0.39285714285714285,
+            "cycle": "0_None 30_Bahamas 32_None 30_Bahamas 0_None"
+        },
+        {
+            "x": 0.5595238095238095,
+            "cycle": "0_None 39_None 30_Bahamas 49_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 43_Cayman_Islands 33_None 12_Mexico 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 39_None 30_Bahamas 39_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 23_Barbados 48_St_Martin 14_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 48_St_Martin 22_None 14_None 0_None"
+        },
+        {
+            "x": 0.1428571428571428,
+            "cycle": "0_None 10_Bonaire 60_None 10_Bonaire 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_None 20_Dominica 3_Panama 0_None"
+        },
+        {
+            "x": 0.14285714285714285,
+            "cycle": "0_None 68_Honduras 49_None 30_Bahamas 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 62_None 26_None 62_None 0_None"
+        },
+        {
+            "x": 0.4166666666666667,
+            "cycle": "0_None 49_None 30_Bahamas 39_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Panama 20_Dominica 14_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 43_Cayman_Islands 60_None 22_None 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 23_Barbados 48_St_Martin 23_Barbados 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 18_Antigua 12_Mexico 0_None"
+        },
+        {
+            "x": 0.07142857142857142,
+            "cycle": "0_None 49_None 2_Costa_Rica 49_None 0_None"
+        },
+        {
+            "x": 0.4166666666666667,
+            "cycle": "0_None 34_None 32_None 34_None 0_None"
+        },
+        {
+            "x": 0.023809523809523836,
+            "cycle": "0_None 41_None 32_None 10_Bonaire 0_None"
+        },
+        {
+            "x": 0.7857142857142857,
+            "cycle": "0_None 12_Mexico 20_Dominica 12_Mexico 0_None"
+        },
+        {
+            "x": 0.21428571428571433,
+            "cycle": "0_None 43_Cayman_Islands 2_Costa_Rica 10_Bonaire 0_None"
+        },
+        {
+            "x": 0.2142857142857143,
+            "cycle": "0_None 10_Bonaire 2_Costa_Rica 43_Cayman_Islands 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 68_Honduras 56_None 68_Honduras 0_None"
+        },
+        {
+            "x": 0.3571428571428571,
+            "cycle": "0_None 3_Panama 0_None 3_Panama 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_None 61_Nicaragua 64_El_Salvador 0_None"
+        },
+        {
+            "x": 0.14285714285714285,
+            "cycle": "0_None 33_None 60_None 43_Cayman_Islands 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 50_None 8_None 20_Dominica 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 43_Cayman_Islands 69_None 33_None 0_None"
+        },
+        {
+            "x": 0.14285714285714285,
+            "cycle": "0_None 30_Bahamas 32_None 1_None 0_None"
+        },
+        {
+            "x": 0.2142857142857143,
+            "cycle": "0_None 14_None 20_Dominica 12_Mexico 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Mexico 20_Dominica 14_None 0_None"
+        }
+    ],
+    "greedySolution": [
+        "0_None 18_Antigua 19_Guadeloupe@18_Antigua 0_None",
+        "0_None 51_Suriname 19_Guadeloupe 51_Suriname 0_None",
+        "0_None 20_Dominica 40_Jamaica 62_None 0_None",
+        "0_None 36_Ecuador 32_None 43_Cayman_Islands 0_None",
+        "0_None 52_Guyana 44_None 36_Ecuador 0_None",
+        "0_None 39_None 60_None 39_None 0_None",
+        "0_None 64_El_Salvador 61_Nicaragua 43_Cayman_Islands 0_None",
+        "0_None 52_Guyana 39_None 52_Guyana 0_None",
+        "0_None 30_Bahamas 49_None 30_Bahamas 0_None",
+        "0_None 15_None 36_Ecuador 15_None 0_None",
+        "0_None 3_Panama 10_Bonaire 3_Panama 0_None",
+        "0_None 50_None 8_None 50_None 0_None",
+        "0_None 30_Bahamas 32_None 30_Bahamas 0_None",
+        "0_None 23_Barbados 48_St_Martin 23_Barbados 0_None",
+        "0_None 12_Mexico 18_Antigua 12_Mexico 0_None",
+        "0_None 14_None 61_Nicaragua 64_El_Salvador 0_None"
+    ]
+}

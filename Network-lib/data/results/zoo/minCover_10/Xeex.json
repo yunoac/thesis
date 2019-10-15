@@ -1,0 +1,482 @@
+{
+    "initialCoverSize": 86,
+    "times": [
+        1421936,
+        2834723,
+        4170942,
+        5456584,
+        6756490,
+        8130654,
+        9540020,
+        11032469,
+        12650185,
+        14036782,
+        16039271,
+        17824855,
+        20123530,
+        21830621,
+        23228710,
+        24613455,
+        26046380,
+        27472343,
+        28979309,
+        30389736,
+        31879568,
+        33352039,
+        34807766,
+        36337964,
+        37838228,
+        39425633,
+        40929753,
+        42535139,
+        44130403,
+        45766348,
+        47520887,
+        49157592,
+        50774431,
+        52393279,
+        54087837,
+        55788457,
+        57506028,
+        59237610,
+        61044886,
+        62700963,
+        64418667,
+        66662896,
+        68502307,
+        70366373,
+        72085728,
+        73886395,
+        75647267,
+        77406281,
+        79166235,
+        81047932,
+        82903011,
+        84544049,
+        87785343,
+        90172315,
+        92965652,
+        97442111,
+        102058162,
+        104183909,
+        106162709,
+        108021692,
+        109880186,
+        111663689,
+        113920121
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Denver 1_Las_Vegas,0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 2_Indianapolis 0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 3_Nashville 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 15_Cincinnati 14_Miami 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 15_Cincinnati 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 13_Amsterdam 7_San_Diego 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 8_Tokyo 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver,1_Las_Vegas 9_Chennai 1_Las_Vegas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver,1_Las_Vegas 6_San_Francisco 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver,1_Las_Vegas 6_San_Francisco 1_Las_Vegas,0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 3_Nashville 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 8_Tokyo 5_Hong_Kong 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 2_Indianapolis 9_Chennai 1_Las_Vegas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver,1_Las_Vegas 9_Chennai 2_Indianapolis 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 10_London 0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 13_Amsterdam 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 13_Amsterdam 12_Columbus 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 14_Miami 10_London 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 16_Seattle 6_San_Francisco 1_Las_Vegas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 10_London 14_Miami 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 11_Pittsburgh 2_Indianapolis 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 0_Denver 0_Denver 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 14_Miami 11_Pittsburgh 3_Nashville 11_Pittsburgh 3_Nashville 11_Pittsburgh 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0.004263489706557808,
+            "cycle": "0_Denver 23_Dallas 10_London 9_Chennai 10_London 9_Chennai 10_London 9_Chennai 10_London 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 22_Atlanta 0_Denver"
+        },
+        {
+            "x": 0.20701686028330193,
+            "cycle": "0_Denver 13_Amsterdam 7_San_Diego 3_Nashville 7_San_Diego 3_Nashville 7_San_Diego 3_Nashville 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 13_Amsterdam 9_Chennai 1_Las_Vegas 13_Amsterdam 9_Chennai 7_San_Diego 9_Chennai 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 10_London 14_Miami 15_Cincinnati 14_Miami 15_Cincinnati 14_Miami 15_Cincinnati 22_Atlanta 0_Denver"
+        },
+        {
+            "x": 0.0075064028169672115,
+            "cycle": "0_Denver 15_Cincinnati 12_Columbus 15_Cincinnati 12_Columbus 15_Cincinnati 12_Columbus 15_Cincinnati 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 12_Columbus 11_Pittsburgh 2_Indianapolis 11_Pittsburgh 2_Indianapolis 11_Pittsburgh 2_Indianapolis 0_Denver"
+        },
+        {
+            "x": 0.26430582635161143,
+            "cycle": "0_Denver 22_Atlanta 16_Seattle 6_San_Francisco 16_Seattle 6_San_Francisco 16_Seattle 6_San_Francisco 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 16_Seattle 4_Phoenix 6_San_Francisco 4_Phoenix 6_San_Francisco 4_Phoenix 6_San_Francisco 8_Tokyo 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 14_Miami 12_Columbus 14_Miami 12_Columbus 14_Miami 12_Columbus 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 10_London 18_Los_Angeles 9_Chennai 15_Cincinnati 18_Los_Angeles 9_Chennai 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 13_Amsterdam 1_Las_Vegas 12_Columbus 13_Amsterdam 1_Las_Vegas 13_Amsterdam 1_Las_Vegas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 1_Las_Vegas 9_Chennai 1_Las_Vegas 9_Chennai 1_Las_Vegas 9_Chennai 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 16_Seattle 22_Atlanta 12_Columbus 16_Seattle 22_Atlanta 12_Columbus 16_Seattle 2_Indianapolis 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 14_Miami 5_Hong_Kong 14_Miami 5_Hong_Kong 14_Miami 5_Hong_Kong 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0.21385104220331697,
+            "cycle": "0_Denver 7_San_Diego 9_Chennai 6_San_Francisco 9_Chennai 6_San_Francisco 9_Chennai 6_San_Francisco 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0.09856055634473156,
+            "cycle": "0_Denver 18_Los_Angeles 15_Cincinnati 9_Chennai 18_Los_Angeles 15_Cincinnati 9_Chennai 18_Los_Angeles 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 6_San_Francisco 7_San_Diego 6_San_Francisco 7_San_Diego 6_San_Francisco 7_San_Diego 17_San_Jose 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 2_Indianapolis 9_Chennai 2_Indianapolis 9_Chennai 4_Phoenix 13_Amsterdam 9_Chennai 2_Indianapolis 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 3_Nashville 5_Hong_Kong 3_Nashville 5_Hong_Kong 3_Nashville 5_Hong_Kong 8_Tokyo 0_Denver"
+        },
+        {
+            "x": 0.0745894429880508,
+            "cycle": "0_Denver 22_Atlanta 10_London 22_Atlanta 10_London 22_Atlanta 10_London 22_Atlanta 10_London 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 16_Seattle 12_Columbus 13_Amsterdam 3_Nashville 18_Los_Angeles 12_Columbus 13_Amsterdam 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0.06048443991771182,
+            "cycle": "0_Denver 12_Columbus 9_Chennai 12_Columbus 9_Chennai 12_Columbus 4_Phoenix 9_Chennai 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0.12401534228620255,
+            "cycle": "0_Denver 23_Dallas 12_Columbus 22_Atlanta 16_Seattle 6_San_Francisco 4_Phoenix 12_Columbus 22_Atlanta 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 8_Tokyo 5_Hong_Kong 3_Nashville 13_Amsterdam 8_Tokyo 5_Hong_Kong 3_Nashville 13_Amsterdam 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 22_Atlanta 14_Miami 15_Cincinnati 12_Columbus 22_Atlanta 14_Miami 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 15_Cincinnati 3_Nashville 4_Phoenix 6_San_Francisco 16_Seattle 4_Phoenix 6_San_Francisco 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0.07726568624160281,
+            "cycle": "0_Denver 15_Cincinnati 14_Miami 12_Columbus 22_Atlanta 12_Columbus 15_Cincinnati 14_Miami 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 22_Atlanta 12_Columbus 14_Miami 18_Los_Angeles 12_Columbus 14_Miami 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 15_Cincinnati 1_Las_Vegas 12_Columbus 14_Miami 15_Cincinnati 3_Nashville 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 13_Amsterdam 9_Chennai 4_Phoenix 13_Amsterdam 9_Chennai 4_Phoenix 13_Amsterdam 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 18_Los_Angeles 3_Nashville 15_Cincinnati 18_Los_Angeles 3_Nashville 15_Cincinnati 18_Los_Angeles 0_Denver"
+        },
+        {
+            "x": 0.017996470267936403,
+            "cycle": "0_Denver 23_Dallas 3_Nashville 13_Amsterdam 16_Seattle 4_Phoenix 3_Nashville 13_Amsterdam 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 12_Columbus 14_Miami 13_Amsterdam 14_Miami 13_Amsterdam 14_Miami 13_Amsterdam 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0.003692501218260629,
+            "cycle": "0_Denver 16_Seattle 1_Las_Vegas 16_Seattle 1_Las_Vegas 16_Seattle 1_Las_Vegas 16_Seattle 1_Las_Vegas 0_Denver"
+        },
+        {
+            "x": 0.034574436658902225,
+            "cycle": "0_Denver 18_Los_Angeles 12_Columbus 14_Miami 15_Cincinnati 12_Columbus 14_Miami 15_Cincinnati 10_London 0_Denver"
+        },
+        {
+            "x": 0.06790059255685284,
+            "cycle": "0_Denver 16_Seattle 12_Columbus 9_Chennai 7_San_Diego 9_Chennai 7_San_Diego 9_Chennai 7_San_Diego 0_Denver"
+        },
+        {
+            "x": 0.014770004873042558,
+            "cycle": "0_Denver 16_Seattle 6_San_Francisco 1_Las_Vegas 6_San_Francisco 1_Las_Vegas 16_Seattle 15_Cincinnati 18_Los_Angeles 0_Denver"
+        },
+        {
+            "x": 0.03599294053587274,
+            "cycle": "0_Denver 13_Amsterdam 4_Phoenix 9_Chennai 4_Phoenix 9_Chennai 13_Amsterdam 3_Nashville 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 22_Atlanta 14_Miami 10_London 4_Phoenix 10_London 4_Phoenix 10_London 23_Dallas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 3_Nashville 14_Miami 4_Phoenix 6_San_Francisco 4_Phoenix 6_San_Francisco 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0.07461807553203864,
+            "cycle": "0_Denver 16_Seattle 13_Amsterdam 16_Seattle 13_Amsterdam 16_Seattle 13_Amsterdam 16_Seattle 13_Amsterdam 0_Denver"
+        },
+        {
+            "x": 0.05823454306199738,
+            "cycle": "0_Denver 15_Cincinnati 14_Miami 10_London 4_Phoenix 9_Chennai 15_Cincinnati 14_Miami 10_London 0_Denver"
+        },
+        {
+            "x": 0.10354126047258289,
+            "cycle": "0_Denver 15_Cincinnati 9_Chennai 4_Phoenix 6_San_Francisco 16_Seattle 4_Phoenix 6_San_Francisco 16_Seattle 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 23_Dallas 12_Columbus 4_Phoenix 12_Columbus 4_Phoenix 12_Columbus 4_Phoenix 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0.06829717378592048,
+            "cycle": "0_Denver 16_Seattle 6_San_Francisco 4_Phoenix 6_San_Francisco 4_Phoenix 6_San_Francisco 18_Los_Angeles 10_London 0_Denver"
+        },
+        {
+            "x": 0.20185158528939584,
+            "cycle": "0_Denver 22_Atlanta 12_Columbus 14_Miami 12_Columbus 14_Miami 12_Columbus 14_Miami 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0.24299984713093323,
+            "cycle": "0_Denver 18_Los_Angeles 15_Cincinnati 14_Miami 15_Cincinnati 14_Miami 15_Cincinnati 14_Miami 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 3_Nashville 13_Amsterdam 14_Miami 10_London 14_Miami 10_London 22_Atlanta 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 10_London 18_Los_Angeles 3_Nashville 4_Phoenix 10_London 18_Los_Angeles 3_Nashville 23_Dallas 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 7_San_Diego 3_Nashville 11_Pittsburgh 4_Phoenix 9_Chennai 7_San_Diego 3_Nashville 13_Amsterdam 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 0_Denver"
+        },
+        {
+            "x": 0.02424037646333891,
+            "cycle": "0_Denver 7_San_Diego 13_Amsterdam 16_Seattle 22_Atlanta 16_Seattle 22_Atlanta 16_Seattle 22_Atlanta 0_Denver"
+        },
+        {
+            "x": 0.16264818540700396,
+            "cycle": "0_Denver 7_San_Diego 9_Chennai 4_Phoenix 10_London 14_Miami 10_London 14_Miami 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0.0699756009193701,
+            "cycle": "0_Denver 10_London 9_Chennai 4_Phoenix 9_Chennai 4_Phoenix 9_Chennai 10_London 18_Los_Angeles 0_Denver"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Denver 5_Hong_Kong 8_Tokyo 5_Hong_Kong 3_Nashville 13_Amsterdam 1_Las_Vegas 9_Chennai 12_Columbus 0_Denver"
+        },
+        {
+            "x": 0.010495287153544322,
+            "cycle": "0_Denver 16_Seattle 15_Cincinnati 16_Seattle 15_Cincinnati 16_Seattle 15_Cincinnati 16_Seattle 15_Cincinnati 0_Denver"
+        },
+        {
+            "x": 0.3429564786142214,
+            "cycle": "0_Denver 12_Columbus 18_Los_Angeles 3_Nashville 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 0_Denver"
+        },
+        {
+            "x": 0.05131202953295195,
+            "cycle": "0_Denver 7_San_Diego 13_Amsterdam 7_San_Diego 13_Amsterdam 7_San_Diego 13_Amsterdam 7_San_Diego 13_Amsterdam 0_Denver"
+        },
+        {
+            "x": 0.15704352138577862,
+            "cycle": "0_Denver 5_Hong_Kong 8_Tokyo 5_Hong_Kong 8_Tokyo 5_Hong_Kong 9_Chennai 7_San_Diego 13_Amsterdam 0_Denver"
+        }
+    ],
+    "values": [
+        15,
+        13,
+        12,
+        10,
+        9.5,
+        8.5,
+        8.5,
+        7.944444444444444,
+        6.984375,
+        6.425925925925925,
+        4.666666666666667,
+        4.076666666666667,
+        3.508024691358025,
+        3.4444444444444446,
+        3.310763888888889,
+        3.3029513888888884,
+        3.2796197698182215,
+        3.2619303911015427,
+        3.244621066152858,
+        3.2432742891389763,
+        3.2244613899302887,
+        3.2204310295546787,
+        3.18923281658542,
+        3.1497846698141143,
+        3.098570751048729,
+        3.0985707510487286,
+        3.0705588811405944,
+        3.064390614469939,
+        3.0582517389561867,
+        3.049266280486514,
+        3.039561622947475,
+        3.036038979639623,
+        3.0335580107335165,
+        3.029331185596532,
+        3.027000801683262,
+        3.0249770205653554,
+        3.0237453136504273,
+        3.0146150609414866,
+        2.9996485615025783,
+        2.995830869846681,
+        2.9812223295627636,
+        2.973164311182234,
+        2.972923703576136,
+        2.971550518053128,
+        2.968954679491041,
+        2.9597545996186816,
+        2.958621587236736,
+        2.954964861970138,
+        2.9453594601851467,
+        2.9349922681946343,
+        2.9223215625871877,
+        2.9180927037670648,
+        2.917561833618359,
+        2.9160830056431886,
+        2.907050071006842,
+        2.905065173251113,
+        2.8952682831690364,
+        2.893324463671472,
+        2.8926886914333827,
+        2.892324889519721,
+        2.8865238435685785,
+        2.880617726260944,
+        2.8750000000000004
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 301654,
+    "lpBound": 2.8750000000000004
+}

@@ -1,0 +1,20 @@
+{
+    "nbCycles": 12,
+    "runtime": 5111651,
+    "cycles": [
+        "11_UCSB 0_CASE 1_ILLINOIS 11_UCSB",
+        "11_UCSB 0_CASE 2_HARVARD 11_UCSB",
+        "11_UCSB 2_HARVARD 0_CASE 11_UCSB",
+        "11_UCSB 5_AMES 0_CASE 11_UCSB",
+        "11_UCSB 5_AMES 13_Stanford 11_UCSB",
+        "11_UCSB 13_Stanford 5_AMES 11_UCSB",
+        "11_UCSB 2_HARVARD 1_ILLINOIS 11_UCSB",
+        "11_UCSB 0_CASE 7_BBN 11_UCSB",
+        "11_UCSB 1_ILLINOIS 12_UCLA,11_UCSB",
+        "11_UCSB 2_HARVARD 10_SRI,11_UCSB",
+        "11_UCSB 2_HARVARD 16_UTAH 11_UCSB",
+        "11_UCSB 1_ILLINOIS 14_RAND 11_UCSB"
+    ],
+    "segmentCost": 4,
+    "source": "11_UCSB"
+}

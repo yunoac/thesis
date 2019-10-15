@@ -1,0 +1,269 @@
+{
+    "initialCoverSize": 40,
+    "times": [
+        3761491,
+        4864044,
+        8582938,
+        13373404,
+        17000378,
+        21002937,
+        30645279,
+        34332484,
+        39034969,
+        43590252,
+        48539898,
+        52908804,
+        56652251,
+        58901130,
+        65841303,
+        68681761,
+        70722804,
+        74249476,
+        78515120,
+        79831517,
+        81080625
+    ],
+    "finalCoverSize": 15,
+    "minSegCycles": [
+        "0_UCCA-C 1_Canterbury_College 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 3_Mid_Kent_College 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 5_KIAD-O 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 6_Thanet_College 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 7_Hilderstone_College 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 8_Kent_ACL 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 9_Hadlow_College 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 5_KIAD-O 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 11_UoK-C@21_CCCU-T 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 12_West_Kent_College 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 13_NW_Kent_College_-_Dartford 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 14_KIAD-R 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 22_Dorton_College 0_UCCA-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 5_KIAD-O 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 5_KIAD-O 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 5_KIAD-O 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 21_CCCU-T@11_UoK-C 0_UCCA-C 0_UCCA-C",
+        "0_UCCA-C 1_Canterbury_College 3_Mid_Kent_College 1_Canterbury_College 0_UCCA-C",
+        "0_UCCA-C 3_Mid_Kent_College 6_Thanet_College 3_Mid_Kent_College 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 9_Hadlow_College 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 6_Thanet_College 7_Hilderstone_College 6_Thanet_College 0_UCCA-C",
+        "0_UCCA-C 7_Hilderstone_College 8_Kent_ACL 7_Hilderstone_College 0_UCCA-C",
+        "0_UCCA-C 8_Kent_ACL 9_Hadlow_College 8_Kent_ACL 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 12_West_Kent_College 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C",
+        "0_UCCA-C 13_NW_Kent_College_-_Dartford 9_Hadlow_College 13_NW_Kent_College_-_Dartford 0_UCCA-C",
+        "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 12_West_Kent_College 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 14_KIAD-R 22_Dorton_College 14_KIAD-R 0_UCCA-C",
+        "0_UCCA-C 22_Dorton_College 2_Medway_ACL 22_Dorton_College 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 6_Thanet_College 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 5_KIAD-O 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 5_KIAD-O 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C",
+        "0_UCCA-C 2_Medway_ACL 8_Kent_ACL 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 21_CCCU-T@11_UoK-C 1_Canterbury_College 0_UCCA-C",
+        "0_UCCA-C 11_UoK-C@21_CCCU-T 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 22_Dorton_College 5_KIAD-O 22_Dorton_College 0_UCCA-C",
+        "0_UCCA-C 8_Kent_ACL 13_NW_Kent_College_-_Dartford 8_Kent_ACL 0_UCCA-C",
+        "0_UCCA-C 11_UoK-C@21_CCCU-T 3_Mid_Kent_College 0_UCCA-C"
+    ],
+    "values": [
+        16,
+        15,
+        14.5,
+        12.5,
+        11.75,
+        11.125,
+        10.78125,
+        9.9375,
+        9.28125,
+        8.78125,
+        7.78125,
+        7.53125,
+        7.53125,
+        7.416666666666667,
+        7.40625,
+        7.333333333333333,
+        7,
+        6.875,
+        6.6875,
+        6.666666666666667,
+        6.666666666666666
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 9,
+    "runtime": 100088286,
+    "lpBound": 6.666666666666666,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 1_Canterbury_College 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 2_Medway_ACL 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 3_Mid_Kent_College 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0.08333333333333334,
+            "cycle": "0_UCCA-C 2_Medway_ACL 5_KIAD-O 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 6_Thanet_College 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 7_Hilderstone_College 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 8_Kent_ACL 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 2_Medway_ACL 9_Hadlow_College 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 5_KIAD-O 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 11_UoK-C@21_CCCU-T 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 2_Medway_ACL 12_West_Kent_College 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 13_NW_Kent_College_-_Dartford 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 14_KIAD-R 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 22_Dorton_College 0_UCCA-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 5_KIAD-O 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 2_Medway_ACL 5_KIAD-O 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 2_Medway_ACL 5_KIAD-O 4_South_Kent_College_-_Ashford 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 21_CCCU-T@11_UoK-C 0_UCCA-C 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 1_Canterbury_College 3_Mid_Kent_College 1_Canterbury_College 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 3_Mid_Kent_College 6_Thanet_College 3_Mid_Kent_College 0_UCCA-C"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 9_Hadlow_College 4_South_Kent_College_-_Ashford 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 6_Thanet_College 7_Hilderstone_College 6_Thanet_College 0_UCCA-C"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_UCCA-C 7_Hilderstone_College 8_Kent_ACL 7_Hilderstone_College 0_UCCA-C"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "0_UCCA-C 8_Kent_ACL 9_Hadlow_College 8_Kent_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 12_West_Kent_College 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 13_NW_Kent_College_-_Dartford 9_Hadlow_College 13_NW_Kent_College_-_Dartford 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 12_West_Kent_College 4_South_Kent_College_-_Ashford 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 14_KIAD-R 22_Dorton_College 14_KIAD-R 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 22_Dorton_College 2_Medway_ACL 22_Dorton_College 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 6_Thanet_College 4_South_Kent_College_-_Ashford 0_UCCA-C"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_UCCA-C 4_South_Kent_College_-_Ashford 5_KIAD-O 4_South_Kent_College_-_Ashford 0_UCCA-C"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 5_KIAD-O 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C"
+        },
+        {
+            "x": 0.41666666666666663,
+            "cycle": "0_UCCA-C 2_Medway_ACL 8_Kent_ACL 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UCCA-C 21_CCCU-T@11_UoK-C 1_Canterbury_College 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 11_UoK-C@21_CCCU-T 2_Medway_ACL 0_UCCA-C"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_UCCA-C 22_Dorton_College 5_KIAD-O 22_Dorton_College 0_UCCA-C"
+        },
+        {
+            "x": 0,
+            "cycle": "0_UCCA-C 8_Kent_ACL 13_NW_Kent_College_-_Dartford 8_Kent_ACL 0_UCCA-C"
+        },
+        {
+            "x": 1,
+            "cycle": "0_UCCA-C 11_UoK-C@21_CCCU-T 3_Mid_Kent_College 0_UCCA-C"
+        }
+    ],
+    "greedySolution": [
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 5_KIAD-O 2_Medway_ACL 0_UCCA-C",
+        "0_UCCA-C 3_Mid_Kent_College 6_Thanet_College 3_Mid_Kent_College 0_UCCA-C",
+        "0_UCCA-C 7_Hilderstone_College 8_Kent_ACL 7_Hilderstone_College 0_UCCA-C",
+        "0_UCCA-C 4_South_Kent_College_-_Ashford 12_West_Kent_College 10_Kent_Community_Network_(Schools,_etc) 0_UCCA-C",
+        "0_UCCA-C 13_NW_Kent_College_-_Dartford 9_Hadlow_College 13_NW_Kent_College_-_Dartford 0_UCCA-C",
+        "0_UCCA-C 10_Kent_Community_Network_(Schools,_etc) 12_West_Kent_College 4_South_Kent_College_-_Ashford 0_UCCA-C",
+        "0_UCCA-C 14_KIAD-R 22_Dorton_College 14_KIAD-R 0_UCCA-C",
+        "0_UCCA-C 21_CCCU-T@11_UoK-C 1_Canterbury_College 0_UCCA-C",
+        "0_UCCA-C 11_UoK-C@21_CCCU-T 3_Mid_Kent_College 0_UCCA-C"
+    ]
+}

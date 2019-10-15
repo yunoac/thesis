@@ -1,0 +1,1523 @@
+{
+    "initialCoverSize": 237,
+    "times": [
+        9283721,
+        28044084,
+        47649682,
+        66178421,
+        83578819,
+        101988527,
+        120033926,
+        137503819,
+        161108255,
+        180285647,
+        202341644,
+        221546539,
+        239577169,
+        261501687,
+        283121932,
+        316641246,
+        348481561,
+        389283278,
+        427204567,
+        464988736,
+        500429669,
+        537111296,
+        590038506,
+        631384657,
+        681541802,
+        727911093,
+        759356100,
+        783248772,
+        808377572,
+        831897292,
+        855591536,
+        875420116,
+        893054726,
+        910863390,
+        926612372,
+        941986332,
+        957647242,
+        973373345,
+        989204496,
+        1006430614,
+        1022079712,
+        1037686304,
+        1056453030,
+        1072303531,
+        1087845293,
+        1103913839,
+        1119475553,
+        1135068932,
+        1151697061,
+        1168294936,
+        1183926291,
+        1200244722,
+        1221588199,
+        1239016194,
+        1255610515,
+        1272405848,
+        1289809615,
+        1306896563,
+        1323941209,
+        1341748103,
+        1357950773,
+        1374450431,
+        1391324127,
+        1407331264,
+        1425752280,
+        1444130075,
+        1459625648,
+        1475153840,
+        1493437912,
+        1510665927,
+        1526596893,
+        1542575112,
+        1558843890,
+        1574763696,
+        1593539328,
+        1609720104,
+        1630892128,
+        1656357349,
+        1683382179,
+        1712548265,
+        1741913375,
+        1774445960,
+        1810740627,
+        1837709403,
+        1858801080,
+        1878637224,
+        1895691958,
+        1912748681,
+        1928402488,
+        1946218115,
+        1964433276,
+        1980987831,
+        1997429808,
+        2014132063,
+        2030787854,
+        2047720248,
+        2067006797,
+        2083952679,
+        2102854843,
+        2120532337,
+        2138028132,
+        2160377490,
+        2177686243,
+        2194185199,
+        2212634394,
+        2228757516,
+        2247561573,
+        2264764841,
+        2281932820,
+        2298662967,
+        2317120631,
+        2340082719,
+        2356799221,
+        2373141061,
+        2391276187,
+        2407906396,
+        2425433126,
+        2444341721,
+        2460705661,
+        2477490503,
+        2494138119,
+        2510773143,
+        2528039148,
+        2547569624,
+        2564649206,
+        2581511378,
+        2597985384,
+        2614307842,
+        2632910015,
+        2652752442,
+        2669632176,
+        2686391254,
+        2703029910,
+        2721271379,
+        2738631612,
+        2756488225,
+        2773188090,
+        2791238667,
+        2809015183,
+        2825706768,
+        2842921515,
+        2862923999,
+        2881295336,
+        2899231451,
+        2917205593,
+        2936194520,
+        2953736253,
+        2971469391
+    ],
+    "finalCoverSize": 76,
+    "minSegCycles": [
+        "0_Svizzera 2_Global_Crossing 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 5_NAMEX 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 6_AQ-1 43_AQ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 6_AQ-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 16_VSIX 44_AN 42_FRA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 43_AQ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 44_AN 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 10_RM-1@53_RM-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 10_RM-1@53_RM-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 11_PG 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 12_CZ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 13_TIX 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 40_PZ 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 26_BO-3 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 15_MI-3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 51_BS 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 15_MI-3 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA 40_PZ 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 19_ME 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 8_PA-2 18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 23_EUMED_CONNECT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 24_MIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 25_Level_3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 27_FUC 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 13_TIX 37_GE 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 29_Fi 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 16_VSIX 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 34_TN 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 50_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 34_TN 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 15_MI-3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 36_MI-4 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 37_GE 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 38_TO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 49_Google 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 35_MI-2@54_CO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 36_MI-4 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 37_GE 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 38_TO 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 1_CA 3_GEANT 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 1_CA 3_GEANT 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 42_FRA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 43_AQ 6_AQ-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 58_Ur 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 45_MT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 46_LE 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 40_PZ 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 48_FG 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 3_GEANT 57_PI 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 16_VSIX 13_TIX 38_TO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 51_BS 5_NAMEX 45_MT 12_CZ 45_MT 12_CZ 45_MT 16_VSIX 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 29_Fi 52_TO-PIX 29_Fi 52_TO-PIX 29_Fi 52_TO-PIX 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 24_MIX 42_FRA 58_Ur 42_FRA 58_Ur 42_FRA 58_Ur 16_VSIX 0_Svizzera",
+        "0_Svizzera 24_MIX 11_PG 5_NAMEX 11_PG 5_NAMEX 11_PG 5_NAMEX 15_MI-3 0_Svizzera",
+        "0_Svizzera 25_Level_3 15_MI-3 25_Level_3 15_MI-3 25_Level_3 15_MI-3 25_Level_3 15_MI-3 0_Svizzera",
+        "0_Svizzera 38_TO 27_FUC 26_BO-3 27_FUC 26_BO-3 27_FUC 16_VSIX 15_MI-3 0_Svizzera",
+        "0_Svizzera 49_Google 57_PI 37_GE 13_TIX 40_PZ 57_PI 37_GE 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 37_GE 42_FRA 46_LE 8_PA-2 19_ME 8_PA-2 42_FRA 37_GE 0_Svizzera",
+        "0_Svizzera 38_TO 24_MIX 38_TO 24_MIX 38_TO 24_MIX 38_TO 24_MIX 0_Svizzera",
+        "0_Svizzera 50_GEANT 49_Google 50_GEANT 49_Google 50_GEANT 49_Google 50_GEANT 49_Google 0_Svizzera",
+        "0_Svizzera 37_GE 57_PI 44_AN 13_TIX 44_AN 13_TIX 57_PI 51_BS 0_Svizzera",
+        "0_Svizzera 15_MI-3 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 15_MI-3 0_Svizzera",
+        "0_Svizzera 34_TN 16_VSIX 34_TN 16_VSIX 34_TN 16_VSIX 34_TN 16_VSIX 0_Svizzera",
+        "0_Svizzera 51_BS 34_TN 51_BS 34_TN 51_BS 34_TN 51_BS 34_TN 0_Svizzera",
+        "0_Svizzera 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 0_Svizzera",
+        "0_Svizzera 36_MI-4 11_PG 40_PZ 23_EUMED_CONNECT 19_ME 40_PZ 11_PG 36_MI-4 0_Svizzera",
+        "0_Svizzera 2_Global_Crossing 33_MI-1@14_BO 46_LE 48_FG 46_LE 16_VSIX 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 29_Fi 48_FG 29_Fi 48_FG 29_Fi 16_VSIX 0_Svizzera",
+        "0_Svizzera 36_MI-4 57_PI 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 37_GE 13_TIX 6_AQ-1 26_BO-3 6_AQ-1 26_BO-3 6_AQ-1 24_MIX 0_Svizzera",
+        "0_Svizzera 16_VSIX 44_AN 43_AQ 19_ME 43_AQ 19_ME 42_FRA 25_Level_3 0_Svizzera",
+        "0_Svizzera 37_GE 13_TIX 42_FRA 23_EUMED_CONNECT 10_RM-1@53_RM-2 42_FRA 25_Level_3 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 40_PZ 8_PA-2 44_AN 40_PZ 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 58_Ur 46_LE 58_Ur 46_LE 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 57_PI 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 37_GE 33_MI-1@14_BO 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 4_CA-1@7_SS 7_SS@4_CA-1 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 48_FG 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 14_BO@33_MI-1 33_MI-1@14_BO 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 35_MI-2@54_CO 54_CO@35_MI-2 35_MI-2@54_CO 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 50_GEANT 17_TS-1 50_GEANT 17_TS-1 50_GEANT 17_TS-1 50_GEANT 17_TS-1 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 37_GE 53_RM-2@10_RM-1 44_AN 12_CZ 10_RM-1@53_RM-2 37_GE 0_Svizzera",
+        "0_Svizzera 24_MIX 53_RM-2@10_RM-1 23_EUMED_CONNECT 48_FG 23_EUMED_CONNECT 42_FRA 15_MI-3 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 53_RM-2@10_RM-1 43_AQ 10_RM-1@53_RM-2 25_Level_3 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 44_AN 1_CA 8_PA-2 1_CA 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 34_TN 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 15_MI-3 1_CA 19_ME 18_NA@41_CB 41_CB@18_NA 38_TO 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 5_NAMEX 35_MI-2@54_CO 0_Svizzera",
+        "0_Svizzera 37_GE 13_TIX 53_RM-2@10_RM-1 8_PA-2 48_FG 11_PG 51_BS 0_Svizzera",
+        "0_Svizzera 24_MIX 6_AQ-1 43_AQ 10_RM-1@53_RM-2 26_BO-3 11_PG 24_MIX 0_Svizzera",
+        "0_Svizzera 24_MIX 27_FUC 48_FG 8_PA-2 10_RM-1@53_RM-2 27_FUC 24_MIX 0_Svizzera",
+        "0_Svizzera 51_BS 11_PG 26_BO-3 11_PG 26_BO-3 11_PG 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 16_VSIX 46_LE 40_PZ 46_LE 40_PZ 46_LE 27_FUC 51_BS 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 58_Ur 27_FUC 58_Ur 45_MT 27_FUC 15_MI-3 0_Svizzera",
+        "0_Svizzera 37_GE 13_TIX 37_GE 13_TIX 37_GE 13_TIX 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 38_TO 13_TIX 44_AN 26_BO-3 44_AN 26_BO-3 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 51_BS 53_RM-2@10_RM-1 42_FRA 53_RM-2@10_RM-1 42_FRA 51_BS 0_Svizzera",
+        "0_Svizzera 16_VSIX 48_FG 12_CZ 48_FG 42_FRA 12_CZ 48_FG 16_VSIX 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 6_AQ-1 58_Ur 45_MT 58_Ur 13_TIX 38_TO 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 46_LE 12_CZ 42_FRA 43_AQ 6_AQ-1 24_MIX 0_Svizzera",
+        "0_Svizzera 38_TO 13_TIX 45_MT 8_PA-2 10_RM-1@53_RM-2 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 42_FRA 43_AQ 8_PA-2 46_LE 13_TIX 38_TO 0_Svizzera",
+        "0_Svizzera 38_TO 13_TIX 40_PZ 6_AQ-1 43_AQ 10_RM-1@53_RM-2 3_GEANT 0_Svizzera",
+        "0_Svizzera 16_VSIX 26_BO-3 45_MT 26_BO-3 45_MT 26_BO-3 29_Fi 38_TO 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 18_NA 46_LE 8_PA-2 46_LE 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 50_GEANT 35_MI-2@54_CO 36_MI-4 42_FRA 35_MI-2@54_CO 36_MI-4 0_Svizzera",
+        "0_Svizzera 49_Google 4_CA-1@7_SS 7_SS@4_CA-1 44_AN 6_AQ-1 49_Google 0_Svizzera",
+        "0_Svizzera 50_GEANT 34_TN 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 57_PI 45_MT 57_PI 45_MT 57_PI 24_MIX 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 58_Ur 4_CA-1@7_SS 7_SS@4_CA-1 51_BS 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 42_FRA 8_PA-2 12_CZ 8_PA-2 40_PZ 29_Fi 37_GE 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 40_PZ 45_MT 40_PZ 45_MT 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 50_GEANT 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 50_GEANT 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 13_TIX 40_PZ 12_CZ 44_AN 57_PI 38_TO 0_Svizzera",
+        "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera",
+        "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera",
+        "0_Svizzera 50_GEANT 33_MI-1@14_BO 42_FRA 43_AQ 44_AN 16_VSIX 34_TN 0_Svizzera",
+        "0_Svizzera 38_TO 57_PI 36_MI-4 54_CO@35_MI-2 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 42_FRA 23_EUMED_CONNECT 42_FRA 10_RM-1@53_RM-2 49_Google 0_Svizzera",
+        "0_Svizzera 25_Level_3 18_NA@39_SA 39_SA@18_NA 46_LE 57_PI 25_Level_3 0_Svizzera",
+        "0_Svizzera 49_Google 42_FRA 43_AQ 58_Ur 43_AQ 58_Ur 11_PG 49_Google 0_Svizzera",
+        "0_Svizzera 37_GE 29_Fi 14_BO@55_Fe 55_Fe@14_BO 11_PG 49_Google 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 42_FRA 26_BO-3 42_FRA 26_BO-3 42_FRA 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 4_CA-1@7_SS 7_SS@4_CA-1 16_VSIX 34_TN 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 18_NA@39_SA 39_SA@18_NA 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 18_NA@39_SA 39_SA@18_NA 16_VSIX 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 50_GEANT 51_BS 18_NA@41_CB 41_CB@18_NA 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 18_NA@41_CB 41_CB@18_NA 35_MI-2@54_CO 0_Svizzera",
+        "0_Svizzera 25_Level_3 6_AQ-1 40_PZ 12_CZ 43_AQ 42_FRA 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 3_GEANT 5_NAMEX 53_RM-2@10_RM-1 10_RM-1@53_RM-2 5_NAMEX 3_GEANT 0_Svizzera",
+        "0_Svizzera 24_MIX 18_NA@39_SA 39_SA@18_NA 40_PZ 57_PI 38_TO 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 25_Level_3 27_FUC 14_BO@55_Fe 55_Fe@14_BO 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 2_Global_Crossing 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 17_TS-1 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 57_PI 48_FG 18_NA@41_CB 41_CB@18_NA 52_TO-PIX 0_Svizzera",
+        "0_Svizzera 37_GE 57_PI 18_NA@41_CB 41_CB@18_NA 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 3_GEANT 1_CA 43_AQ 1_CA 43_AQ 6_AQ-1 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 18_NA@39_SA 39_SA@18_NA 57_PI 37_GE 0_Svizzera",
+        "0_Svizzera 25_Level_3 6_AQ-1 43_AQ 6_AQ-1 43_AQ 44_AN 13_TIX 38_TO 0_Svizzera",
+        "0_Svizzera 16_VSIX 34_TN 53_RM-2@10_RM-1 43_AQ 6_AQ-1 16_VSIX 34_TN 0_Svizzera",
+        "0_Svizzera 50_GEANT 35_MI-2@54_CO 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 0_Svizzera",
+        "0_Svizzera 34_TN 6_AQ-1 14_BO@55_Fe 55_Fe@14_BO 6_AQ-1 34_TN 0_Svizzera",
+        "0_Svizzera 16_VSIX 34_TN 1_CA 12_CZ 1_CA 12_CZ 42_FRA 15_MI-3 0_Svizzera",
+        "0_Svizzera 38_TO 57_PI 6_AQ-1 46_LE 19_ME 10_RM-1@53_RM-2 16_VSIX 0_Svizzera",
+        "0_Svizzera 49_Google 27_FUC 44_AN 1_CA 27_FUC 44_AN 1_CA 49_Google 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 38_TO 57_PI 27_FUC 18_NA@39_SA 39_SA@18_NA 16_VSIX 0_Svizzera",
+        "0_Svizzera 34_TN 1_CA 10_RM-1@53_RM-2 44_AN 10_RM-1@53_RM-2 16_VSIX 0_Svizzera",
+        "0_Svizzera 34_TN 18_NA@39_SA 39_SA@18_NA 12_CZ 58_Ur 16_VSIX 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 29_Fi 42_FRA 19_ME 46_LE 27_FUC 57_PI 52_TO-PIX 0_Svizzera",
+        "0_Svizzera 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 36_MI-4 42_FRA 10_RM-1@53_RM-2 42_FRA 10_RM-1@53_RM-2 15_MI-3 0_Svizzera",
+        "0_Svizzera 38_TO 29_Fi 42_FRA 6_AQ-1 43_AQ 6_AQ-1 29_Fi 38_TO 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 36_MI-4 42_FRA 46_LE 12_CZ 43_AQ 12_CZ 42_FRA 36_MI-4 0_Svizzera",
+        "0_Svizzera 50_GEANT 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 0_Svizzera",
+        "0_Svizzera 15_MI-3 18_NA@39_SA 39_SA@18_NA 26_BO-3 57_PI 38_TO 0_Svizzera",
+        "0_Svizzera 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 50_GEANT 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 34_TN 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 53_RM-2@10_RM-1 19_ME 43_AQ 6_AQ-1 16_VSIX 0_Svizzera",
+        "0_Svizzera 25_Level_3 18_NA@41_CB 41_CB@18_NA 45_MT 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 34_TN 18_NA@41_CB 41_CB@18_NA 23_EUMED_CONNECT 42_FRA 34_TN 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 1_CA 25_Level_3 0_Svizzera",
+        "0_Svizzera 51_BS 53_RM-2@10_RM-1 58_Ur 19_ME 48_FG 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 36_MI-4 27_FUC 26_BO-3 27_FUC 26_BO-3 27_FUC 26_BO-3 16_VSIX 0_Svizzera",
+        "0_Svizzera 36_MI-4 5_NAMEX 46_LE 8_PA-2 42_FRA 8_PA-2 46_LE 16_VSIX 0_Svizzera",
+        "0_Svizzera 15_MI-3 5_NAMEX 14_BO@55_Fe 55_Fe@14_BO 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 51_BS 1_CA 23_EUMED_CONNECT 43_AQ 23_EUMED_CONNECT 10_RM-1@53_RM-2 51_BS 0_Svizzera",
+        "0_Svizzera 35_MI-2@54_CO 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 16_VSIX 46_LE 8_PA-2 58_Ur 8_PA-2 58_Ur 57_PI 37_GE 0_Svizzera",
+        "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 16_VSIX 17_TS-1 0_Svizzera",
+        "0_Svizzera 2_Global_Crossing 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 37_GE 29_Fi 14_BO@55_Fe 55_Fe@14_BO 1_CA 36_MI-4 0_Svizzera",
+        "0_Svizzera 2_Global_Crossing 50_GEANT 2_Global_Crossing 35_MI-2@56_Pv 56_Pv@35_MI-2 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 50_GEANT 38_TO 13_TIX 38_TO 13_TIX 38_TO 13_TIX 38_TO 0_Svizzera",
+        "0_Svizzera 50_GEANT 35_MI-2@56_Pv 56_Pv@35_MI-2 50_GEANT 2_Global_Crossing 50_GEANT 0_Svizzera",
+        "0_Svizzera 16_VSIX 58_Ur 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 49_Google 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 1_CA 8_PA-2 1_CA 10_RM-1@53_RM-2 34_TN 0_Svizzera",
+        "0_Svizzera 35_MI-2@54_CO 36_MI-4 17_TS-1 16_VSIX 34_TN 16_VSIX 17_TS-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 14_BO@55_Fe 55_Fe@14_BO 13_TIX 38_TO 0_Svizzera",
+        "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 17_TS-1 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 0_Svizzera"
+    ],
+    "values": [
+        71,
+        64,
+        60,
+        57,
+        56,
+        55,
+        53.083333333333336,
+        52.583333333333336,
+        49.25,
+        48.833333333333336,
+        48.083333333333336,
+        45.208333333333336,
+        43.708333333333336,
+        43.708333333333336,
+        42.29166666666667,
+        41.54166666666667,
+        40.54166666666667,
+        38.87500000000001,
+        38.875,
+        38.75000000000001,
+        38.25000000000001,
+        37.208333333333336,
+        36.16666666666666,
+        35.12499999999999,
+        34.66666666666666,
+        32.296875,
+        31.69270833333332,
+        30.088541666666657,
+        29.854567307692307,
+        29.46354166666666,
+        28.18790064102564,
+        27.27123397435897,
+        26.729567307692307,
+        24.729567307692314,
+        24.41956018518519,
+        23.85416666666667,
+        23.38194444444445,
+        23.1375,
+        22.6028192371476,
+        21.93226320582878,
+        21.388222983257233,
+        21.363636363636363,
+        21.363636363636363,
+        21.309675141242938,
+        21.214015151515156,
+        20.982421406287497,
+        20.760418400754673,
+        20.676990092571344,
+        20.644513600737664,
+        20.611290322580647,
+        20.560140156199516,
+        20.529710241270532,
+        20.47538854586105,
+        20.460323577714426,
+        20.44915213432784,
+        20.441034638999852,
+        20.42614224378475,
+        20.416444798294712,
+        20.416444798294716,
+        20.32837321978609,
+        20.00120211203093,
+        19.967185673793466,
+        19.765557976183917,
+        19.631381931816335,
+        19.57182799237342,
+        19.563615955971777,
+        19.563615955971773,
+        19.563615955971773,
+        19.531471989856104,
+        19.525634851775106,
+        19.504927785535425,
+        19.483021909879046,
+        19.445727105857056,
+        19.427943235621147,
+        19.275328667977533,
+        19.245835787418144,
+        19.141522173251975,
+        19.056415157201698,
+        18.957693233959485,
+        18.874240119118454,
+        18.76951648468997,
+        18.64336688915401,
+        18.58414287329469,
+        18.54041674923316,
+        18.46967504994656,
+        18.380540161975194,
+        18.36960427875345,
+        18.33307699702712,
+        18.33307699702711,
+        18.241538715005728,
+        18.216696011648015,
+        18.08069302117855,
+        18.04165957319983,
+        18.000594147093242,
+        17.991401226383186,
+        17.99140122638318,
+        17.93976681584835,
+        17.92014859513879,
+        17.876716566795334,
+        17.87248150512477,
+        17.86111665843419,
+        17.856984788806137,
+        17.854170643510383,
+        17.8492118972001,
+        17.826186470712535,
+        17.82618647071254,
+        17.810802966723767,
+        17.803807624047185,
+        17.793943395018534,
+        17.790303261749848,
+        17.785603490309622,
+        17.781531965566753,
+        17.77860183724429,
+        17.77821177422526,
+        17.77686954716527,
+        17.776869547165273,
+        17.775157891202753,
+        17.775157891202756,
+        17.772102058758783,
+        17.7685826115844,
+        17.757190602133885,
+        17.750066966553746,
+        17.74107306275037,
+        17.734979295035036,
+        17.731399437292495,
+        17.72083381214199,
+        17.718002209833063,
+        17.717480542329472,
+        17.709579733455115,
+        17.70833333333333,
+        17.70270749528193,
+        17.702707495281935,
+        17.6953146635596,
+        17.694444444444443,
+        17.69053936310477,
+        17.69053936310476,
+        17.689646068343304,
+        17.68885534630935,
+        17.68885534630935,
+        17.68885534630935,
+        17.688855346309342,
+        17.686874525752604,
+        17.686666666666675,
+        17.683833005744038,
+        17.682900432900436,
+        17.678571428571423,
+        17.67857142857143,
+        17.678571428571434
+    ],
+    "initialCoverSeg": 10,
+    "greedyCoverSize": 24,
+    "runtime": 4172834448,
+    "lpBound": 17.678571428571434,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 2_Global_Crossing 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 5_NAMEX 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 6_AQ-1 43_AQ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 6_AQ-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 4_CA-1@7_SS 7_SS@4_CA-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 44_AN 42_FRA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 43_AQ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 44_AN 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 10_RM-1@53_RM-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 10_RM-1@53_RM-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 11_PG 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 12_CZ 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 13_TIX 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@33_MI-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 40_PZ 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 26_BO-3 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 15_MI-3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 51_BS 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 15_MI-3 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA 40_PZ 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 19_ME 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 8_PA-2 18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 23_EUMED_CONNECT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 24_MIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 25_Level_3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 27_FUC 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 13_TIX 37_GE 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 29_Fi 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.27380952380952384,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.27380952380952384,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 34_TN 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 34_TN 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 15_MI-3 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 49_Google 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@54_CO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 17_TS-1 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 52_TO-PIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@39_SA 39_SA@18_NA 1_CA 3_GEANT 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 1_CA 3_GEANT 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 42_FRA 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 43_AQ 6_AQ-1 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 58_Ur 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 45_MT 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 46_LE 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 40_PZ 8_PA-2 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 48_FG 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 1_CA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 13_TIX 16_VSIX 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 57_PI 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 36_MI-4 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 1_CA 3_GEANT 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 13_TIX 38_TO 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera 0_Svizzera"
+        },
+        {
+            "x": 0.02177263311038638,
+            "cycle": "0_Svizzera 51_BS 5_NAMEX 45_MT 12_CZ 45_MT 12_CZ 45_MT 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 52_TO-PIX 29_Fi 52_TO-PIX 29_Fi 52_TO-PIX 29_Fi 52_TO-PIX 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 24_MIX 42_FRA 58_Ur 42_FRA 58_Ur 42_FRA 58_Ur 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 24_MIX 11_PG 5_NAMEX 11_PG 5_NAMEX 11_PG 5_NAMEX 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 25_Level_3 15_MI-3 25_Level_3 15_MI-3 25_Level_3 15_MI-3 25_Level_3 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 27_FUC 26_BO-3 27_FUC 26_BO-3 27_FUC 16_VSIX 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 49_Google 57_PI 37_GE 13_TIX 40_PZ 57_PI 37_GE 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 42_FRA 46_LE 8_PA-2 19_ME 8_PA-2 42_FRA 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 24_MIX 38_TO 24_MIX 38_TO 24_MIX 38_TO 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 49_Google 50_GEANT 49_Google 50_GEANT 49_Google 50_GEANT 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 57_PI 44_AN 13_TIX 44_AN 13_TIX 57_PI 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 15_MI-3 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0.07142857142857144,
+            "cycle": "0_Svizzera 34_TN 16_VSIX 34_TN 16_VSIX 34_TN 16_VSIX 34_TN 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 51_BS 34_TN 51_BS 34_TN 51_BS 34_TN 51_BS 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0.1361035190824072,
+            "cycle": "0_Svizzera 36_MI-4 11_PG 40_PZ 23_EUMED_CONNECT 19_ME 40_PZ 11_PG 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 2_Global_Crossing 33_MI-1@14_BO 46_LE 48_FG 46_LE 16_VSIX 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 29_Fi 48_FG 29_Fi 48_FG 29_Fi 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 57_PI 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 13_TIX 6_AQ-1 26_BO-3 6_AQ-1 26_BO-3 6_AQ-1 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0.0416598475848338,
+            "cycle": "0_Svizzera 16_VSIX 44_AN 43_AQ 19_ME 43_AQ 19_ME 42_FRA 25_Level_3 0_Svizzera"
+        },
+        {
+            "x": 0.03722929562147098,
+            "cycle": "0_Svizzera 37_GE 13_TIX 42_FRA 23_EUMED_CONNECT 10_RM-1@53_RM-2 42_FRA 25_Level_3 0_Svizzera"
+        },
+        {
+            "x": 0.03279120465895069,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 40_PZ 8_PA-2 44_AN 40_PZ 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.015801260034451425,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 58_Ur 46_LE 58_Ur 46_LE 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 57_PI 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 33_MI-1@14_BO 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0.7261904761904762,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.6324005963599306,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 4_CA-1@7_SS 7_SS@4_CA-1 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 48_FG 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 14_BO@33_MI-1 33_MI-1@14_BO 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@54_CO 54_CO@35_MI-2 35_MI-2@54_CO 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 17_TS-1 50_GEANT 17_TS-1 50_GEANT 17_TS-1 50_GEANT 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0.2062606690438405,
+            "cycle": "0_Svizzera 37_GE 53_RM-2@10_RM-1 44_AN 12_CZ 10_RM-1@53_RM-2 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0.0777920554498585,
+            "cycle": "0_Svizzera 24_MIX 53_RM-2@10_RM-1 23_EUMED_CONNECT 48_FG 23_EUMED_CONNECT 42_FRA 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0.26480119271986113,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 53_RM-2@10_RM-1 43_AQ 10_RM-1@53_RM-2 25_Level_3 0_Svizzera"
+        },
+        {
+            "x": 0.08806797809275152,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 44_AN 1_CA 8_PA-2 1_CA 13_TIX 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 34_TN 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0.2753491933183063,
+            "cycle": "0_Svizzera 15_MI-3 1_CA 19_ME 18_NA@41_CB 41_CB@18_NA 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0.08179366382455082,
+            "cycle": "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 5_NAMEX 35_MI-2@54_CO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 13_TIX 53_RM-2@10_RM-1 8_PA-2 48_FG 11_PG 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0.2757872580243331,
+            "cycle": "0_Svizzera 24_MIX 6_AQ-1 43_AQ 10_RM-1@53_RM-2 26_BO-3 11_PG 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 24_MIX 27_FUC 48_FG 8_PA-2 10_RM-1@53_RM-2 27_FUC 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 51_BS 11_PG 26_BO-3 11_PG 26_BO-3 11_PG 13_TIX 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0.08369935702048953,
+            "cycle": "0_Svizzera 16_VSIX 46_LE 40_PZ 46_LE 40_PZ 46_LE 27_FUC 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0.02524311555808493,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 58_Ur 27_FUC 58_Ur 45_MT 27_FUC 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 37_GE 13_TIX 37_GE 13_TIX 37_GE 13_TIX 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.004818859192429581,
+            "cycle": "0_Svizzera 38_TO 13_TIX 44_AN 26_BO-3 44_AN 26_BO-3 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.1064651600189383,
+            "cycle": "0_Svizzera 51_BS 53_RM-2@10_RM-1 42_FRA 53_RM-2@10_RM-1 42_FRA 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0.17685665631766959,
+            "cycle": "0_Svizzera 16_VSIX 48_FG 12_CZ 48_FG 42_FRA 12_CZ 48_FG 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 6_AQ-1 58_Ur 45_MT 58_Ur 13_TIX 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 46_LE 12_CZ 42_FRA 43_AQ 6_AQ-1 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0.11266643296610566,
+            "cycle": "0_Svizzera 38_TO 13_TIX 45_MT 8_PA-2 10_RM-1@53_RM-2 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 36_MI-4 42_FRA 43_AQ 8_PA-2 46_LE 13_TIX 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0.11152534054264843,
+            "cycle": "0_Svizzera 38_TO 13_TIX 40_PZ 6_AQ-1 43_AQ 10_RM-1@53_RM-2 3_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.21458657425229044,
+            "cycle": "0_Svizzera 16_VSIX 26_BO-3 45_MT 26_BO-3 45_MT 26_BO-3 29_Fi 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 18_NA 46_LE 8_PA-2 46_LE 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 35_MI-2@54_CO 36_MI-4 42_FRA 35_MI-2@54_CO 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0.2417815756188037,
+            "cycle": "0_Svizzera 49_Google 4_CA-1@7_SS 7_SS@4_CA-1 44_AN 6_AQ-1 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 34_TN 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 57_PI 45_MT 57_PI 45_MT 57_PI 24_MIX 0_Svizzera"
+        },
+        {
+            "x": 0.39061902074112687,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 58_Ur 4_CA-1@7_SS 7_SS@4_CA-1 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0.012653069432180863,
+            "cycle": "0_Svizzera 52_TO-PIX 42_FRA 8_PA-2 12_CZ 8_PA-2 40_PZ 29_Fi 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 40_PZ 45_MT 40_PZ 45_MT 13_TIX 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 50_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 35_MI-2@56_Pv 56_Pv@35_MI-2 35_MI-2@56_Pv 56_Pv@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 16_VSIX 13_TIX 40_PZ 12_CZ 44_AN 57_PI 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0.3675994036400694,
+            "cycle": "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.3675994036400694,
+            "cycle": "0_Svizzera 3_GEANT 53_RM-2@10_RM-1 4_CA-1@7_SS 7_SS@4_CA-1 3_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 33_MI-1@14_BO 42_FRA 43_AQ 44_AN 16_VSIX 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 57_PI 36_MI-4 54_CO@35_MI-2 36_MI-4 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0.047091574221724296,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 42_FRA 23_EUMED_CONNECT 42_FRA 10_RM-1@53_RM-2 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 25_Level_3 18_NA@39_SA 39_SA@18_NA 46_LE 57_PI 25_Level_3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 49_Google 42_FRA 43_AQ 58_Ur 43_AQ 58_Ur 11_PG 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0.45200570381085253,
+            "cycle": "0_Svizzera 37_GE 29_Fi 14_BO@55_Fe 55_Fe@14_BO 11_PG 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0.02599000796903933,
+            "cycle": "0_Svizzera 52_TO-PIX 42_FRA 26_BO-3 42_FRA 26_BO-3 42_FRA 13_TIX 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 16_VSIX 4_CA-1@7_SS 7_SS@4_CA-1 16_VSIX 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0.351798143605618,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 18_NA@39_SA 39_SA@18_NA 13_TIX 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 52_TO-PIX 18_NA@39_SA 39_SA@18_NA 16_VSIX 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 16_VSIX 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 51_BS 18_NA@41_CB 41_CB@18_NA 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 16_VSIX 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0.2753491933183063,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 18_NA@41_CB 41_CB@18_NA 35_MI-2@54_CO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 25_Level_3 6_AQ-1 40_PZ 12_CZ 43_AQ 42_FRA 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.08682984874106275,
+            "cycle": "0_Svizzera 3_GEANT 5_NAMEX 53_RM-2@10_RM-1 10_RM-1@53_RM-2 5_NAMEX 3_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.3706334285014753,
+            "cycle": "0_Svizzera 24_MIX 18_NA@39_SA 39_SA@18_NA 40_PZ 57_PI 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.5254633047998405,
+            "cycle": "0_Svizzera 25_Level_3 27_FUC 14_BO@55_Fe 55_Fe@14_BO 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 2_Global_Crossing 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 14_BO@55_Fe 55_Fe@14_BO 16_VSIX 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0.3916379755971327,
+            "cycle": "0_Svizzera 52_TO-PIX 57_PI 48_FG 18_NA@41_CB 41_CB@18_NA 52_TO-PIX 0_Svizzera"
+        },
+        {
+            "x": 0.3570514030416243,
+            "cycle": "0_Svizzera 37_GE 57_PI 18_NA@41_CB 41_CB@18_NA 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 3_GEANT 1_CA 43_AQ 1_CA 43_AQ 6_AQ-1 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.37805595013728166,
+            "cycle": "0_Svizzera 54_CO@35_MI-2 18_NA@39_SA 39_SA@18_NA 57_PI 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0.028874508160380286,
+            "cycle": "0_Svizzera 25_Level_3 6_AQ-1 43_AQ 6_AQ-1 43_AQ 44_AN 13_TIX 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 34_TN 53_RM-2@10_RM-1 43_AQ 6_AQ-1 16_VSIX 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 35_MI-2@54_CO 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.02253099138930703,
+            "cycle": "0_Svizzera 34_TN 6_AQ-1 14_BO@55_Fe 55_Fe@14_BO 6_AQ-1 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 16_VSIX 34_TN 1_CA 12_CZ 1_CA 12_CZ 42_FRA 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 38_TO 57_PI 6_AQ-1 46_LE 19_ME 10_RM-1@53_RM-2 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 49_Google 27_FUC 44_AN 1_CA 27_FUC 44_AN 1_CA 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0.4259442305067574,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.1071428571428572,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.25131062136124305,
+            "cycle": "0_Svizzera 38_TO 57_PI 27_FUC 18_NA@39_SA 39_SA@18_NA 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.1299576337743187,
+            "cycle": "0_Svizzera 34_TN 1_CA 10_RM-1@53_RM-2 44_AN 10_RM-1@53_RM-2 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.20342234099176737,
+            "cycle": "0_Svizzera 34_TN 18_NA@39_SA 39_SA@18_NA 12_CZ 58_Ur 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.08904048570225714,
+            "cycle": "0_Svizzera 52_TO-PIX 29_Fi 42_FRA 19_ME 46_LE 27_FUC 57_PI 52_TO-PIX 0_Svizzera"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Svizzera 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 50_GEANT 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0.19636332184993796,
+            "cycle": "0_Svizzera 36_MI-4 42_FRA 10_RM-1@53_RM-2 42_FRA 10_RM-1@53_RM-2 15_MI-3 0_Svizzera"
+        },
+        {
+            "x": 0.039000284638183315,
+            "cycle": "0_Svizzera 38_TO 29_Fi 42_FRA 6_AQ-1 43_AQ 6_AQ-1 29_Fi 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 36_MI-4 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0.0902026708380496,
+            "cycle": "0_Svizzera 36_MI-4 42_FRA 46_LE 12_CZ 43_AQ 12_CZ 42_FRA 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0.018835284895857285,
+            "cycle": "0_Svizzera 15_MI-3 18_NA@39_SA 39_SA@18_NA 26_BO-3 57_PI 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 50_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.619047619047619,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.07142857142857141,
+            "cycle": "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0.41618710672736176,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 53_RM-2@10_RM-1 19_ME 43_AQ 6_AQ-1 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.3675994036400694,
+            "cycle": "0_Svizzera 25_Level_3 18_NA@41_CB 41_CB@18_NA 45_MT 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.33301283108456103,
+            "cycle": "0_Svizzera 34_TN 18_NA@41_CB 41_CB@18_NA 23_EUMED_CONNECT 42_FRA 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 1_CA 25_Level_3 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 51_BS 53_RM-2@10_RM-1 58_Ur 19_ME 48_FG 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 27_FUC 26_BO-3 27_FUC 26_BO-3 27_FUC 26_BO-3 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.19731070078309662,
+            "cycle": "0_Svizzera 36_MI-4 5_NAMEX 46_LE 8_PA-2 42_FRA 8_PA-2 46_LE 16_VSIX 0_Svizzera"
+        },
+        {
+            "x": 0.5254633047998405,
+            "cycle": "0_Svizzera 15_MI-3 5_NAMEX 14_BO@55_Fe 55_Fe@14_BO 14_BO@33_MI-1 0_Svizzera"
+        },
+        {
+            "x": 0.14548933454506,
+            "cycle": "0_Svizzera 51_BS 1_CA 23_EUMED_CONNECT 43_AQ 23_EUMED_CONNECT 10_RM-1@53_RM-2 51_BS 0_Svizzera"
+        },
+        {
+            "x": 0.28571428571428575,
+            "cycle": "0_Svizzera 35_MI-2@54_CO 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 0_Svizzera"
+        },
+        {
+            "x": 0.09523809523809525,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0.09523809523809525,
+            "cycle": "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0.14343485076312862,
+            "cycle": "0_Svizzera 16_VSIX 46_LE 8_PA-2 58_Ur 8_PA-2 58_Ur 57_PI 37_GE 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 16_VSIX 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 2_Global_Crossing 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0.15371359752605218,
+            "cycle": "0_Svizzera 37_GE 29_Fi 14_BO@55_Fe 55_Fe@14_BO 1_CA 36_MI-4 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 2_Global_Crossing 50_GEANT 2_Global_Crossing 35_MI-2@56_Pv 56_Pv@35_MI-2 2_Global_Crossing 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 38_TO 13_TIX 38_TO 13_TIX 38_TO 13_TIX 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 50_GEANT 35_MI-2@56_Pv 56_Pv@35_MI-2 50_GEANT 2_Global_Crossing 50_GEANT 0_Svizzera"
+        },
+        {
+            "x": 0.2579690502370373,
+            "cycle": "0_Svizzera 16_VSIX 58_Ur 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 49_Google 0_Svizzera"
+        },
+        {
+            "x": 0.059677142325379906,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 1_CA 8_PA-2 1_CA 10_RM-1@53_RM-2 34_TN 0_Svizzera"
+        },
+        {
+            "x": 0.35714285714285715,
+            "cycle": "0_Svizzera 35_MI-2@54_CO 36_MI-4 17_TS-1 16_VSIX 34_TN 16_VSIX 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0.2390294338495565,
+            "cycle": "0_Svizzera 33_MI-1@14_BO 14_BO@55_Fe 55_Fe@14_BO 13_TIX 38_TO 0_Svizzera"
+        },
+        {
+            "x": 0.2857142857142857,
+            "cycle": "0_Svizzera 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 17_TS-1 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 17_TS-1 36_MI-4 17_TS-1 36_MI-4 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Svizzera 36_MI-4 17_TS-1 32_PD@30_PD-2 30_PD-2@32_PD 34_TN 16_VSIX 0_Svizzera"
+        }
+    ],
+    "greedySolution": [
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 3_GEANT 18_NA@41_CB 41_CB@18_NA 3_GEANT 0_Svizzera 0_Svizzera 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@31_VE 31_VE@30_PD-2 30_PD-2@32_PD 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 4_CA-1@7_SS 7_SS@4_CA-1 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 14_BO@33_MI-1 33_MI-1@14_BO 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 35_MI-2@56_Pv 56_Pv@9_Pv-1 9_Pv-1@56_Pv 56_Pv@35_MI-2 0_Svizzera",
+        "0_Svizzera 24_MIX 53_RM-2@10_RM-1 23_EUMED_CONNECT 48_FG 23_EUMED_CONNECT 42_FRA 15_MI-3 0_Svizzera",
+        "0_Svizzera 54_CO@35_MI-2 53_RM-2@10_RM-1 43_AQ 10_RM-1@53_RM-2 25_Level_3 0_Svizzera",
+        "0_Svizzera 34_TN 18_NA@39_SA 39_SA@18_NA 14_BO@33_MI-1 2_Global_Crossing 0_Svizzera",
+        "0_Svizzera 16_VSIX 14_BO@55_Fe 55_Fe@14_BO 5_NAMEX 35_MI-2@54_CO 0_Svizzera",
+        "0_Svizzera 50_GEANT 34_TN 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 58_Ur 4_CA-1@7_SS 7_SS@4_CA-1 51_BS 0_Svizzera",
+        "0_Svizzera 52_TO-PIX 42_FRA 8_PA-2 12_CZ 8_PA-2 40_PZ 29_Fi 37_GE 0_Svizzera",
+        "0_Svizzera 17_TS-1 16_VSIX 13_TIX 40_PZ 12_CZ 44_AN 57_PI 38_TO 0_Svizzera",
+        "0_Svizzera 37_GE 29_Fi 14_BO@55_Fe 55_Fe@14_BO 11_PG 49_Google 0_Svizzera",
+        "0_Svizzera 33_MI-1@14_BO 18_NA@39_SA 39_SA@18_NA 13_TIX 37_GE 0_Svizzera",
+        "0_Svizzera 16_VSIX 34_TN 53_RM-2@10_RM-1 43_AQ 6_AQ-1 16_VSIX 34_TN 0_Svizzera",
+        "0_Svizzera 38_TO 57_PI 6_AQ-1 46_LE 19_ME 10_RM-1@53_RM-2 16_VSIX 0_Svizzera",
+        "0_Svizzera 17_TS-1 36_MI-4 6_AQ-1 43_AQ 6_AQ-1 43_AQ 6_AQ-1 36_MI-4 0_Svizzera",
+        "0_Svizzera 32_PD@30_PD-2 30_PD-2@32_PD 17_TS-1 36_MI-4 54_CO@35_MI-2 0_Svizzera",
+        "0_Svizzera 25_Level_3 18_NA@41_CB 41_CB@18_NA 45_MT 14_BO@33_MI-1 0_Svizzera",
+        "0_Svizzera 36_MI-4 27_FUC 26_BO-3 27_FUC 26_BO-3 27_FUC 26_BO-3 16_VSIX 0_Svizzera",
+        "0_Svizzera 51_BS 1_CA 23_EUMED_CONNECT 43_AQ 23_EUMED_CONNECT 10_RM-1@53_RM-2 51_BS 0_Svizzera"
+    ]
+}

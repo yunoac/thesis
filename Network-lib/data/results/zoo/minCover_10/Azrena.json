@@ -1,0 +1,266 @@
+{
+    "initialCoverSize": 51,
+    "times": [
+        1284315,
+        2174903,
+        3528511,
+        4452789,
+        5432048,
+        6344541,
+        7238748,
+        8178524,
+        10266600,
+        11788963,
+        13367546,
+        14275647,
+        15086963,
+        15928562,
+        16770677,
+        17614737,
+        18394098,
+        19268167,
+        20139039,
+        21005615,
+        21927728,
+        22767219,
+        23558702,
+        24431925,
+        25309929
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 2_Wireless_server,0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Wireless_router,0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Geology 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Technical_Uni 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 19_RENASCENE 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Architecture-Building_Uni 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Khazar_Uni 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 21_Foreign_Language_Uni. 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_Physics 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 8_Information_Tech. 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_Baku_Uni 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 10_Shamsa_Obs. 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_Cybenetics 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 16_Silk_Highway 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_Economical_Uni 0_None 0_None 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 5_Physics 4_Geology 5_Physics 4_Geology 5_Physics 4_Geology 5_Physics 4_Geology 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 10_Shamsa_Obs. 9_Baku_Uni 10_Shamsa_Obs. 9_Baku_Uni 10_Shamsa_Obs. 9_Baku_Uni 10_Shamsa_Obs. 9_Baku_Uni 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 12_Khazar_Uni 11_Cybenetics 12_Khazar_Uni 11_Cybenetics 12_Khazar_Uni 11_Cybenetics 12_Khazar_Uni 11_Cybenetics 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 16_Silk_Highway 14_Economical_Uni 16_Silk_Highway 14_Economical_Uni 16_Silk_Highway 14_Economical_Uni 16_Silk_Highway 14_Economical_Uni 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 19_RENASCENE 18_Technical_Uni 19_RENASCENE 18_Technical_Uni 19_RENASCENE 18_Technical_Uni 19_RENASCENE 18_Technical_Uni 0_None"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_None 21_Foreign_Language_Uni. 20_Architecture-Building_Uni 21_Foreign_Language_Uni. 20_Architecture-Building_Uni 21_Foreign_Language_Uni. 20_Architecture-Building_Uni 21_Foreign_Language_Uni. 20_Architecture-Building_Uni 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 1_Dialup_server,6_ANAS_users 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 10_Shamsa_Obs. 4_Geology 10_Shamsa_Obs. 4_Geology 10_Shamsa_Obs. 4_Geology 10_Shamsa_Obs. 4_Geology 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_Baku_Uni 4_Geology 9_Baku_Uni 4_Geology 9_Baku_Uni 4_Geology 9_Baku_Uni 4_Geology 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Khazar_Uni 14_Economical_Uni 12_Khazar_Uni 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 12_Khazar_Uni 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_Cybenetics 16_Silk_Highway 11_Cybenetics 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 11_Cybenetics 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Architecture-Building_Uni 19_RENASCENE 20_Architecture-Building_Uni 19_RENASCENE 20_Architecture-Building_Uni 19_RENASCENE 20_Architecture-Building_Uni 19_RENASCENE 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 21_Foreign_Language_Uni. 19_RENASCENE 21_Foreign_Language_Uni. 19_RENASCENE 21_Foreign_Language_Uni. 19_RENASCENE 21_Foreign_Language_Uni. 19_RENASCENE 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 13_NOC,15_Local_ISP 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_Economical_Uni 11_Cybenetics 14_Economical_Uni 11_Cybenetics 14_Economical_Uni 11_Cybenetics 14_Economical_Uni 11_Cybenetics 0_None"
+        }
+    ],
+    "values": [
+        20,
+        18.25,
+        16.5,
+        14.75,
+        13,
+        11.25,
+        9.5,
+        8,
+        7.5,
+        6,
+        5.5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        4.625,
+        4.625,
+        4.625,
+        4.625,
+        4.625,
+        4.5,
+        4.5
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 200470,
+    "lpBound": 4.5
+}

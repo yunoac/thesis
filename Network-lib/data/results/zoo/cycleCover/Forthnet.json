@@ -1,0 +1,661 @@
+{
+    "initialCoverSize": 102,
+    "times": [
+        2124936,
+        14904331,
+        26995361,
+        39042133,
+        50275422,
+        61229213,
+        72281080,
+        85854629,
+        99166871,
+        110022685,
+        123596903,
+        139402027,
+        155523269,
+        168573025,
+        186100412,
+        206335804,
+        227023278,
+        253700082,
+        273387481,
+        292783347,
+        309414410,
+        326410038,
+        339365752,
+        353356163,
+        373959397,
+        388183962,
+        402912018,
+        423161922,
+        442358661,
+        457873989,
+        473650639,
+        489076072,
+        507567338,
+        525420722,
+        540615977,
+        556571730,
+        574275139,
+        585874175,
+        598391785,
+        610014125,
+        623358899,
+        634690306,
+        645809054,
+        656702350,
+        668606564,
+        681079410,
+        691912614,
+        706421961,
+        718054511,
+        729630986
+    ],
+    "finalCoverSize": 48,
+    "minSegCycles": [
+        "0_Komotini 1_Alexandroypoli 0_Komotini 0_Komotini",
+        "0_Komotini 2_Xanthi 0_Komotini 0_Komotini",
+        "0_Komotini 53_Drama 0_Komotini 0_Komotini",
+        "0_Komotini 4_Interconnection_Greece 0_Komotini 0_Komotini",
+        "0_Komotini 5_Chios 0_Komotini 0_Komotini",
+        "0_Komotini 6_Lesbos 0_Komotini 0_Komotini",
+        "0_Komotini 4_Interconnection_Greece 32_Internet 0_Komotini",
+        "0_Komotini 8_Zakynthos 0_Komotini 0_Komotini",
+        "0_Komotini 34_Sklathos 0_Komotini 0_Komotini",
+        "0_Komotini 14_Prevezza 0_Komotini 0_Komotini",
+        "0_Komotini 10_Samos 0_Komotini 0_Komotini",
+        "0_Komotini 11_Rhodes 0_Komotini 0_Komotini",
+        "0_Komotini 45_Syros 0_Komotini 0_Komotini",
+        "0_Komotini 46_Mykonos 0_Komotini 0_Komotini",
+        "0_Komotini 47_Santorini 0_Komotini 0_Komotini",
+        "0_Komotini 16_Lamia 0_Komotini 0_Komotini",
+        "0_Komotini 17_Inofita 0_Komotini 0_Komotini",
+        "0_Komotini 44_Argos 0_Komotini 0_Komotini",
+        "0_Komotini 18_Rethymnon 0_Komotini 0_Komotini",
+        "0_Komotini 24_Itea 0_Komotini 0_Komotini",
+        "0_Komotini 25_Livadia 0_Komotini 0_Komotini",
+        "0_Komotini 27_Larissa 0_Komotini 0_Komotini",
+        "0_Komotini 23_Corinth 0_Komotini 0_Komotini",
+        "0_Komotini 9_Pyrgos 0_Komotini 0_Komotini",
+        "0_Komotini 12_Agrinio 0_Komotini 0_Komotini",
+        "0_Komotini 13_Mesologgi 0_Komotini 0_Komotini",
+        "0_Komotini 15_Arta 0_Komotini 0_Komotini",
+        "0_Komotini 19_Moires 0_Komotini 0_Komotini",
+        "0_Komotini 20_Ag._Nikolaos 0_Komotini 0_Komotini",
+        "0_Komotini 21_Ierapetra 0_Komotini 0_Komotini",
+        "0_Komotini 22_Siteia 0_Komotini 0_Komotini",
+        "0_Komotini 26_Kastoria 0_Komotini 0_Komotini",
+        "0_Komotini 39_Trikana 0_Komotini 0_Komotini",
+        "0_Komotini 36_Karditsa 0_Komotini 0_Komotini",
+        "0_Komotini 37_Volos 0_Komotini 0_Komotini",
+        "0_Komotini 38_Karpenisi 0_Komotini 0_Komotini",
+        "0_Komotini 28_Lefkada 0_Komotini 0_Komotini",
+        "0_Komotini 29_Grevena 0_Komotini 0_Komotini",
+        "0_Komotini 30_Igoumenitsa 0_Komotini 0_Komotini",
+        "0_Komotini 31_Argostoli 0_Komotini 0_Komotini",
+        "0_Komotini 32_Internet 4_Interconnection_Greece 0_Komotini",
+        "0_Komotini 40_Corfu 0_Komotini 0_Komotini",
+        "0_Komotini 48_Chania 0_Komotini 0_Komotini",
+        "0_Komotini 49_Sparta 0_Komotini 0_Komotini",
+        "0_Komotini 50_Kalamata 0_Komotini 0_Komotini",
+        "0_Komotini 52_Polygyros 0_Komotini 0_Komotini",
+        "0_Komotini 54_Serres 0_Komotini 0_Komotini",
+        "0_Komotini 56_Kilkis 0_Komotini 0_Komotini",
+        "0_Komotini 57_Edessa 0_Komotini 0_Komotini",
+        "0_Komotini 58_Florina 0_Komotini 0_Komotini",
+        "0_Komotini 59_Verola 0_Komotini 0_Komotini",
+        "0_Komotini 60_Kozani 0_Komotini 0_Komotini",
+        "0_Komotini 61_Katerina 0_Komotini 0_Komotini",
+        "0_Komotini 2_Xanthi 1_Alexandroypoli 0_Komotini",
+        "0_Komotini 5_Chios 1_Alexandroypoli 0_Komotini",
+        "0_Komotini 5_Chios 2_Xanthi 0_Komotini",
+        "0_Komotini 8_Zakynthos 6_Lesbos 0_Komotini",
+        "0_Komotini 9_Pyrgos 6_Lesbos 0_Komotini",
+        "0_Komotini 9_Pyrgos 8_Zakynthos 0_Komotini",
+        "0_Komotini 11_Rhodes 10_Samos 0_Komotini",
+        "0_Komotini 12_Agrinio 10_Samos 0_Komotini",
+        "0_Komotini 12_Agrinio 11_Rhodes 0_Komotini",
+        "0_Komotini 14_Prevezza 13_Mesologgi 0_Komotini",
+        "0_Komotini 15_Arta 13_Mesologgi 0_Komotini",
+        "0_Komotini 15_Arta 14_Prevezza 0_Komotini",
+        "0_Komotini 17_Inofita 16_Lamia 0_Komotini",
+        "0_Komotini 18_Rethymnon 16_Lamia 0_Komotini",
+        "0_Komotini 18_Rethymnon 17_Inofita 0_Komotini",
+        "0_Komotini 21_Ierapetra 19_Moires 0_Komotini",
+        "0_Komotini 22_Siteia 19_Moires 0_Komotini",
+        "0_Komotini 22_Siteia 21_Ierapetra 0_Komotini",
+        "0_Komotini 24_Itea 23_Corinth 0_Komotini",
+        "0_Komotini 25_Livadia 24_Itea 0_Komotini",
+        "0_Komotini 25_Livadia 23_Corinth 0_Komotini",
+        "0_Komotini 28_Lefkada 26_Kastoria 0_Komotini",
+        "0_Komotini 29_Grevena 26_Kastoria 0_Komotini",
+        "0_Komotini 29_Grevena 28_Lefkada 0_Komotini",
+        "0_Komotini 31_Argostoli 30_Igoumenitsa 0_Komotini",
+        "0_Komotini 32_Internet 30_Igoumenitsa 0_Komotini",
+        "0_Komotini 32_Internet 31_Argostoli 0_Komotini",
+        "0_Komotini 34_Sklathos 32_Internet 0_Komotini",
+        "0_Komotini 37_Volos 36_Karditsa 0_Komotini",
+        "0_Komotini 38_Karpenisi 36_Karditsa 0_Komotini",
+        "0_Komotini 38_Karpenisi 37_Volos 0_Komotini",
+        "0_Komotini 40_Corfu 39_Trikana 0_Komotini",
+        "0_Komotini 44_Argos 39_Trikana 0_Komotini",
+        "0_Komotini 44_Argos 40_Corfu 0_Komotini",
+        "0_Komotini 46_Mykonos 45_Syros 0_Komotini",
+        "0_Komotini 47_Santorini 45_Syros 0_Komotini",
+        "0_Komotini 47_Santorini 46_Mykonos 0_Komotini",
+        "0_Komotini 49_Sparta 48_Chania 0_Komotini",
+        "0_Komotini 50_Kalamata 48_Chania 0_Komotini",
+        "0_Komotini 50_Kalamata 49_Sparta 0_Komotini",
+        "0_Komotini 53_Drama 52_Polygyros 0_Komotini",
+        "0_Komotini 54_Serres 53_Drama 0_Komotini",
+        "0_Komotini 54_Serres 52_Polygyros 0_Komotini",
+        "0_Komotini 57_Edessa 56_Kilkis 0_Komotini",
+        "0_Komotini 58_Florina 56_Kilkis 0_Komotini",
+        "0_Komotini 58_Florina 57_Edessa 0_Komotini",
+        "0_Komotini 60_Kozani 59_Verola 0_Komotini",
+        "0_Komotini 61_Katerina 59_Verola 0_Komotini",
+        "0_Komotini 61_Katerina 60_Kozani 0_Komotini"
+    ],
+    "values": [
+        50,
+        49,
+        49,
+        48.5,
+        47.5,
+        47.5,
+        47,
+        46,
+        46,
+        45.5,
+        44.5,
+        44.5,
+        44,
+        43,
+        43,
+        42.5,
+        41.5,
+        41.5,
+        41,
+        40,
+        40,
+        39.5,
+        38.5,
+        38.5,
+        38,
+        37,
+        37,
+        36.5,
+        36,
+        35,
+        35,
+        34.5,
+        33.5,
+        33.5,
+        33,
+        32,
+        32,
+        31.5,
+        30.5,
+        30.5,
+        30,
+        29,
+        29,
+        28.5,
+        27.5,
+        27.5,
+        27,
+        26,
+        26,
+        25.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 33,
+    "runtime": 974731663,
+    "lpBound": 25.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Komotini 1_Alexandroypoli 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 2_Xanthi 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 53_Drama 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 4_Interconnection_Greece 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 5_Chios 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 6_Lesbos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 4_Interconnection_Greece 32_Internet 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 8_Zakynthos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 34_Sklathos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 14_Prevezza 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 10_Samos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 11_Rhodes 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 45_Syros 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 46_Mykonos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 47_Santorini 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 16_Lamia 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 17_Inofita 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 44_Argos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 18_Rethymnon 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 24_Itea 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 25_Livadia 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 27_Larissa 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 23_Corinth 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 9_Pyrgos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 12_Agrinio 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 13_Mesologgi 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 15_Arta 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 19_Moires 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 20_Ag._Nikolaos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 21_Ierapetra 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 22_Siteia 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 26_Kastoria 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 39_Trikana 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 36_Karditsa 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 37_Volos 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 38_Karpenisi 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 28_Lefkada 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 29_Grevena 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 30_Igoumenitsa 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 31_Argostoli 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Komotini 32_Internet 4_Interconnection_Greece 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 40_Corfu 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 48_Chania 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 49_Sparta 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 50_Kalamata 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 52_Polygyros 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 54_Serres 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 56_Kilkis 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 57_Edessa 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 58_Florina 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 59_Verola 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 60_Kozani 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 61_Katerina 0_Komotini 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 2_Xanthi 1_Alexandroypoli 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 5_Chios 1_Alexandroypoli 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 5_Chios 2_Xanthi 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 8_Zakynthos 6_Lesbos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 9_Pyrgos 6_Lesbos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 9_Pyrgos 8_Zakynthos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 11_Rhodes 10_Samos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 12_Agrinio 10_Samos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 12_Agrinio 11_Rhodes 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 14_Prevezza 13_Mesologgi 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 15_Arta 13_Mesologgi 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 15_Arta 14_Prevezza 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 17_Inofita 16_Lamia 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 18_Rethymnon 16_Lamia 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 18_Rethymnon 17_Inofita 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 21_Ierapetra 19_Moires 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 22_Siteia 19_Moires 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 22_Siteia 21_Ierapetra 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 24_Itea 23_Corinth 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 25_Livadia 24_Itea 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 25_Livadia 23_Corinth 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 28_Lefkada 26_Kastoria 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 29_Grevena 26_Kastoria 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 29_Grevena 28_Lefkada 0_Komotini"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Komotini 31_Argostoli 30_Igoumenitsa 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 32_Internet 30_Igoumenitsa 0_Komotini"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Komotini 32_Internet 31_Argostoli 0_Komotini"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Komotini 34_Sklathos 32_Internet 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 37_Volos 36_Karditsa 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 38_Karpenisi 36_Karditsa 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 38_Karpenisi 37_Volos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 40_Corfu 39_Trikana 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 44_Argos 39_Trikana 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 44_Argos 40_Corfu 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 46_Mykonos 45_Syros 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 47_Santorini 45_Syros 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 47_Santorini 46_Mykonos 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 49_Sparta 48_Chania 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 50_Kalamata 48_Chania 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 50_Kalamata 49_Sparta 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 53_Drama 52_Polygyros 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 54_Serres 53_Drama 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 54_Serres 52_Polygyros 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 57_Edessa 56_Kilkis 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 58_Florina 56_Kilkis 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 58_Florina 57_Edessa 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 60_Kozani 59_Verola 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 61_Katerina 59_Verola 0_Komotini"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Komotini 61_Katerina 60_Kozani 0_Komotini"
+        }
+    ],
+    "greedySolution": [
+        "0_Komotini 32_Internet 4_Interconnection_Greece 0_Komotini",
+        "0_Komotini 2_Xanthi 1_Alexandroypoli 0_Komotini",
+        "0_Komotini 5_Chios 2_Xanthi 0_Komotini",
+        "0_Komotini 8_Zakynthos 6_Lesbos 0_Komotini",
+        "0_Komotini 9_Pyrgos 6_Lesbos 0_Komotini",
+        "0_Komotini 12_Agrinio 10_Samos 0_Komotini",
+        "0_Komotini 12_Agrinio 11_Rhodes 0_Komotini",
+        "0_Komotini 14_Prevezza 13_Mesologgi 0_Komotini",
+        "0_Komotini 15_Arta 13_Mesologgi 0_Komotini",
+        "0_Komotini 18_Rethymnon 16_Lamia 0_Komotini",
+        "0_Komotini 18_Rethymnon 17_Inofita 0_Komotini",
+        "0_Komotini 21_Ierapetra 19_Moires 0_Komotini",
+        "0_Komotini 22_Siteia 19_Moires 0_Komotini",
+        "0_Komotini 24_Itea 23_Corinth 0_Komotini",
+        "0_Komotini 25_Livadia 24_Itea 0_Komotini",
+        "0_Komotini 28_Lefkada 26_Kastoria 0_Komotini",
+        "0_Komotini 29_Grevena 28_Lefkada 0_Komotini",
+        "0_Komotini 31_Argostoli 30_Igoumenitsa 0_Komotini",
+        "0_Komotini 34_Sklathos 32_Internet 0_Komotini",
+        "0_Komotini 37_Volos 36_Karditsa 0_Komotini",
+        "0_Komotini 38_Karpenisi 36_Karditsa 0_Komotini",
+        "0_Komotini 40_Corfu 39_Trikana 0_Komotini",
+        "0_Komotini 44_Argos 39_Trikana 0_Komotini",
+        "0_Komotini 46_Mykonos 45_Syros 0_Komotini",
+        "0_Komotini 47_Santorini 45_Syros 0_Komotini",
+        "0_Komotini 49_Sparta 48_Chania 0_Komotini",
+        "0_Komotini 50_Kalamata 48_Chania 0_Komotini",
+        "0_Komotini 53_Drama 52_Polygyros 0_Komotini",
+        "0_Komotini 54_Serres 53_Drama 0_Komotini",
+        "0_Komotini 57_Edessa 56_Kilkis 0_Komotini",
+        "0_Komotini 58_Florina 56_Kilkis 0_Komotini",
+        "0_Komotini 60_Kozani 59_Verola 0_Komotini",
+        "0_Komotini 61_Katerina 59_Verola 0_Komotini"
+    ]
+}

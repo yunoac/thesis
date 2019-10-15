@@ -1,0 +1,698 @@
+{
+    "initialCoverSize": 133,
+    "times": [
+        1869791,
+        3228490,
+        4464993,
+        6357228,
+        8008489,
+        9405041,
+        10746569,
+        12005929,
+        13273460,
+        14589003,
+        15935014,
+        17327096,
+        18682651,
+        19988915,
+        21245580,
+        23329925,
+        25004761,
+        26296328,
+        27524145,
+        28786730,
+        30041944,
+        31295386,
+        32625413,
+        33983308,
+        35500248,
+        36940317,
+        38345079,
+        40431863,
+        42350721,
+        44039190,
+        45499332,
+        46891047,
+        48351102,
+        50540334,
+        51977595,
+        53332860,
+        54661826,
+        56991124,
+        59248027,
+        61249349,
+        62933854,
+        64315285,
+        65656708,
+        67026767,
+        68398274,
+        69756839,
+        71167373,
+        72669443,
+        74192521,
+        75991690,
+        78544882,
+        80855483,
+        83713875,
+        85098678,
+        86488757,
+        87843758,
+        89353994,
+        90840438,
+        92401780,
+        95204416,
+        96951292,
+        98328005,
+        100089491,
+        101506518,
+        102899510,
+        104313398,
+        106184550,
+        107742476,
+        109689908,
+        112076396,
+        114326502,
+        115699340,
+        116962208,
+        118563508,
+        120034087,
+        121286366,
+        122700929
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 1_Antwerpen 4_Brussel_II_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 1_Antwerpen 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 2_Leuven 4_Brussel_II_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 2_Leuven 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 3_Hasselt 4_Brussel_II_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 3_Hasselt 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 1_Antwerpen 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 2_Leuven 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 3_Hasselt 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 5_SFINX 4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 13_Liege,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 15_Brugge,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 16_Gent,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 17_Korthijk,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 18_Mons,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 19_Charleroi,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 20_Louvain-la-Neuve,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 21_Namur,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,4_Brussel_II_B 22_Arlon,4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,6_Brussel_I_B 4_Brussel_II_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,6_Brussel_I_B 5_SFINX 4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 18_Mons,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 19_Charleroi,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 20_Louvain-la-Neuve,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 21_Namur,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 22_Arlon,4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 5_SFINX 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 8_AMS-IX 4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 9_LINX 4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 12_Geant2 4_Brussel_II_B 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 5_SFINX 14_Brussel_I_A 0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A,10_Global_Internet 10_Global_Internet,7_Brussel_II_A 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A,10_Global_Internet 10_Global_Internet,7_Brussel_II_A 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A,11_BNIX 11_BNIX,14_Brussel_I_A 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A,11_BNIX 11_BNIX,14_Brussel_I_A 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 14_Brussel_I_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 14_Brussel_I_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 14_Brussel_I_A,11_BNIX 11_BNIX,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 18_Mons 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 19_Charleroi 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 20_Louvain-la-Neuve 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 21_Namur 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 22_Arlon 6_Brussel_I_B,0_Geel 14_Brussel_I_A"
+        },
+        {
+            "x": 0.5,
+            "cycle": "14_Brussel_I_A 8_AMS-IX 6_Brussel_I_B 8_AMS-IX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 9_LINX 6_Brussel_I_B 9_LINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0.5,
+            "cycle": "14_Brussel_I_A 12_Geant2 6_Brussel_I_B 12_Geant2 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 13_Liege 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 1_Antwerpen 4_Brussel_II_B 15_Brugge 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 1_Antwerpen 4_Brussel_II_B 16_Gent 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 2_Leuven 4_Brussel_II_B 17_Korthijk 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 2_Leuven 4_Brussel_II_B 18_Mons 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 3_Hasselt 4_Brussel_II_B 19_Charleroi 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 3_Hasselt 4_Brussel_II_B 20_Louvain-la-Neuve 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 5_SFINX 4_Brussel_II_B 21_Namur 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 6_Brussel_I_B 4_Brussel_II_B 22_Arlon 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 8_AMS-IX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 15_Brugge 4_Brussel_II_B 9_LINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 5_SFINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 6_Brussel_I_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 18_Mons 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge 4_Brussel_II_B 6_Brussel_I_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 5_SFINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 13_Liege 6_Brussel_I_B 5_SFINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 13_Liege 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 15_Brugge 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 13_Liege 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 18_Mons 4_Brussel_II_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 19_Charleroi 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 19_Charleroi 4_Brussel_II_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 20_Louvain-la-Neuve 4_Brussel_II_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 18_Mons 4_Brussel_II_B 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 6_Brussel_I_B 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 21_Namur 4_Brussel_II_B 16_Gent 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge 6_Brussel_I_B 5_SFINX 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 5_SFINX 6_Brussel_I_B 15_Brugge 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 6_Brussel_I_B 16_Gent 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 17_Korthijk 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 13_Liege 4_Brussel_II_B 17_Korthijk 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 6_Brussel_I_B 17_Korthijk 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 18_Mons 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 1_Antwerpen 4_Brussel_II_B 19_Charleroi 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 19_Charleroi 6_Brussel_I_B 4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 20_Louvain-la-Neuve 6_Brussel_I_B 20_Louvain-la-Neuve 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 21_Namur 6_Brussel_I_B 21_Namur 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 22_Arlon 6_Brussel_I_B 22_Arlon 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 7_Brussel_II_A,10_Global_Internet 10_Global_Internet,14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A,11_BNIX 11_BNIX,14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 0_Geel 4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 1_Antwerpen 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 2_Leuven 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 3_Hasselt 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 4_Brussel_II_B 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 8_AMS-IX 4_Brussel_II_B 15_Brugge 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 16_Gent 4_Brussel_II_B 16_Gent 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 5_SFINX 6_Brussel_I_B 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 21_Namur 14_Brussel_I_A"
+        },
+        {
+            "x": 1,
+            "cycle": "14_Brussel_I_A 5_SFINX 4_Brussel_II_B 22_Arlon 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 17_Korthijk 4_Brussel_II_B 22_Arlon 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 16_Gent 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 17_Korthijk 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 20_Louvain-la-Neuve 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 4_Brussel_II_B 6_Brussel_I_B 21_Namur 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 8_AMS-IX 6_Brussel_I_B 22_Arlon 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 15_Brugge 4_Brussel_II_B 21_Namur 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 19_Charleroi 14_Brussel_I_A"
+        },
+        {
+            "x": 0,
+            "cycle": "14_Brussel_I_A 0_Geel 4_Brussel_II_B 20_Louvain-la-Neuve 14_Brussel_I_A"
+        }
+    ],
+    "values": [
+        43,
+        41,
+        40,
+        39.5,
+        38.5,
+        37.5,
+        37.5,
+        36.5,
+        36.5,
+        35.5,
+        35.5,
+        35.5,
+        34.5,
+        33,
+        33,
+        32,
+        32,
+        32,
+        31,
+        31,
+        31,
+        30,
+        30,
+        30,
+        30,
+        30,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        27,
+        27,
+        27,
+        27,
+        26.5,
+        26.500000000000004,
+        26.500000000000004,
+        26.500000000000007,
+        26.375,
+        25.375,
+        25.375,
+        24.375,
+        24.375,
+        24.375,
+        24.375,
+        24.375,
+        24.375,
+        24.375,
+        24.25,
+        24.25,
+        24.25,
+        24.25,
+        24.25,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 238638,
+    "lpBound": 24
+}

@@ -1,0 +1,78 @@
+{
+    "originalCover": {
+        "runtime": 4009826,
+        "cycles": [
+            "22 1_Moree 15 10_Adelaide",
+            "22 0_Dubbo 5_Newcastle 15",
+            "22 0_Dubbo 4_Albury 15",
+            "22 5_Newcastle 15 10_Adelaide",
+            "22 6_Coff's_Harbour 15 10_Adelaide",
+            "22 5_Newcastle 0_Dubbo 15",
+            "22 16 20",
+            "24 36 9_Perth 10_Adelaide",
+            "10_Adelaide 23 0_Dubbo 15",
+            "10_Adelaide 38 9_Perth 9_Perth 10_Adelaide",
+            "22 4_Albury 0_Dubbo 15",
+            "24 15_Kalgoorlie 38 10_Adelaide",
+            "25 36 9_Perth 10_Adelaide"
+        ],
+        "source": 10,
+        "maxSeg": 6
+    },
+    "originalIGP": [
+        10,
+        12,
+        12,
+        10,
+        10,
+        12,
+        11,
+        9,
+        10,
+        9,
+        12,
+        9,
+        9
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        7,
+        5,
+        7,
+        5,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Dubbo 2 0_Dubbo",
+            "0_Dubbo 2_None 0_Dubbo 0_Dubbo",
+            "0_Dubbo 5_Newcastle 0_Dubbo 0_Dubbo",
+            "0_Dubbo 7_Geelong 0_Dubbo 0_Dubbo",
+            "0_Dubbo 4_Albury 0_Dubbo 0_Dubbo",
+            "0_Dubbo 4_Albury 7_Geelong 0_Dubbo",
+            "0 12_Sydney 0_Dubbo",
+            "0_Dubbo 9_Perth 0_Dubbo 0_Dubbo",
+            "0_Dubbo 16 0_Dubbo",
+            "0_Dubbo 15_Kalgoorlie 0_Dubbo 0_Dubbo",
+            "0_Dubbo 23 0_Dubbo",
+            "0_Dubbo 16_Port_Augusta 0_Dubbo 0_Dubbo",
+            "0_Dubbo 7_Geelong 4_Albury 0_Dubbo",
+            "0_Dubbo 2_None 5_Newcastle 0_Dubbo",
+            "0_Dubbo 15_Kalgoorlie 16_Port_Augusta 0_Dubbo",
+            "0_Dubbo 16_Port_Augusta 15_Kalgoorlie 0_Dubbo"
+        ],
+        "source": 0,
+        "runetime": 1855158,
+        "maxSeg": 4
+    }
+}

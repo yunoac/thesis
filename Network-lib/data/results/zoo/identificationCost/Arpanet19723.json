@@ -1,0 +1,82 @@
+{
+    "originalCover": {
+        "runtime": 3465966,
+        "cycles": [
+            "0_ILLINOIS 1_MITRE 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 8_Tinker 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 4_ETAC 0_ILLINOIS",
+            "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 4_ETAC 1_MITRE 0_ILLINOIS",
+            "0_ILLINOIS 8_Tinker 1_MITRE 0_ILLINOIS",
+            "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 13_AMES 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 12_RAND 17_SRI 0_ILLINOIS",
+            "0_ILLINOIS 20_Stanford 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 9_AMES 12_RAND 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 8_Tinker 0_ILLINOIS",
+            "0_ILLINOIS 18_UCSB 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 17_SRI 12_RAND 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 13_AMES 0_ILLINOIS"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        5,
+        5,
+        6,
+        5,
+        7,
+        7,
+        5,
+        8,
+        6,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_ILLINOIS 1_MITRE 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 8_Tinker 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 4_ETAC 0_ILLINOIS",
+            "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 4_ETAC 1_MITRE 0_ILLINOIS",
+            "0_ILLINOIS 8_Tinker 1_MITRE 0_ILLINOIS",
+            "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 13_AMES 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 19_UCLA 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 20_Stanford 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 9_AMES 12_RAND 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 8_Tinker 0_ILLINOIS",
+            "0_ILLINOIS 18_UCSB 0_ILLINOIS 0_ILLINOIS",
+            "0_ILLINOIS 9_AMES 19_UCLA 0_ILLINOIS",
+            "0_ILLINOIS 11_McClellan 12_RAND 0_ILLINOIS",
+            "0_ILLINOIS 1_MITRE 13_AMES 0_ILLINOIS"
+        ],
+        "source": 0,
+        "runetime": 3409195,
+        "maxSeg": 4
+    }
+}

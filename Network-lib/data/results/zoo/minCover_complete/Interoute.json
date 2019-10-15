@@ -1,0 +1,1148 @@
+{
+    "initialCoverSize": 231,
+    "times": [
+        7052482,
+        93448241,
+        183246296,
+        275676167,
+        365051083,
+        455899524,
+        547923448,
+        636558547,
+        725913182,
+        814103767,
+        904913294,
+        994251323,
+        1083525026,
+        1170632581,
+        1263193165,
+        1351010489,
+        1440912532,
+        1531389602,
+        1621701368,
+        1711265123,
+        1799906515,
+        1889002038,
+        1979490568,
+        2069173207,
+        2158077652,
+        2246846941,
+        2335421930,
+        2424838855,
+        2515912031,
+        2603274272,
+        2692244467,
+        2780429591,
+        2870101964,
+        2961185256,
+        3052640944,
+        3143128197,
+        3232403496,
+        3322105666,
+        3420759922,
+        3511867990,
+        3605095532,
+        3701587836,
+        3794303461,
+        3886917093,
+        3979178485,
+        4072924500,
+        4169929711,
+        4260421837,
+        4351813243,
+        4439151493,
+        4531288844,
+        4620116668,
+        4711095737,
+        4802098954,
+        4892947188,
+        4981151966,
+        5074799964,
+        5164845841,
+        5255591889,
+        5344404485,
+        5438105032,
+        5528630489,
+        5620503567,
+        5709185917,
+        5801966779,
+        5892979666,
+        5985221502,
+        6074931549,
+        6169546040,
+        6259544932,
+        6351621549,
+        6451409411,
+        6541052814,
+        6628844439,
+        6721548790,
+        6811136947,
+        6903371778,
+        6997080406,
+        7087080303,
+        7177405970,
+        7267150171,
+        7355560531,
+        7444809419,
+        7531510626,
+        7623746973,
+        7710403214,
+        7802559506,
+        7892945815,
+        7983366767,
+        8072878559,
+        8162076671,
+        8250183447,
+        8341066099,
+        8431392574,
+        8522863302,
+        8611165055,
+        8703695683,
+        8795285882,
+        8886537862,
+        8978425182,
+        9069182376,
+        9161014392,
+        9251321981,
+        9341644326,
+        9435834738,
+        9527730719
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 65_Warsaw 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 30_None 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 30_None 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 6_Salzburg 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 4_Udine 7_Nuremberg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 64_Prague 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 17_Dubai 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 82_Washington_DC 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 83_New_York 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 22_Dublin 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 10_London,22_Dublin 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 16_Paris 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 11_Brussels,72_Lille 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 73_Luxembourg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 106_Antwerp 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 12_Stuttgart,19_Munich 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 27_Strasbourg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 105_Rotterdam 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 14_Moscow 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 14_Moscow 15_Helsinki 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 15_Helsinki 14_Moscow 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 51_Bordeaux 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 29_Lausanne 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 23_Slough 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 18_Frankfurt,47_Bonn 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 12_Stuttgart 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 19_Munich,12_Stuttgart 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 22_Dublin,10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 23_Slough 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 24_Nancy 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 28_Berne 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 3_Florence 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 29_Lausanne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 28_Berne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 99_Tunis 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 100_Malta 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 85_Mazara_del_Vallo 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 32_Budapest 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Bremen 2_Pisa 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 40_Sofia 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 66_Szolnok 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 34_Dusseldorf,46_Cologne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 75_Hannover 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 48_Venice 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 38_Milan,48_Venice 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 54_Turin 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 38_Milan,54_Turin 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 78_Varna 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 40_Sofia 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 71_Thessalonika 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 42_Bucharest 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 41_Edirne 40_Sofia 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 62_Istanbul 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 41_Edirne,62_Istanbul 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 41_Edirne 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 109_None 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 79_Haskovo 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 69_Szeged 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 78_Varna 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 79_Haskovo 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 60_Oslo 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 74_Bratislava 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 46_Cologne,34_Dusseldorf 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 47_Bonn,18_Frankfurt 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 73_Luxembourg 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 48_Venice,38_Milan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 63_Bari 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 50_Narborne 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 51_Bordeaux 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 93_Toulouse 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 86_Valencia 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 51_Bordeaux 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 76_Madrid 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 93_Toulouse 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 59_Gotenburg 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 54_Turin,38_Milan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 55_Genoa 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 54_Turin,55_Genoa 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 55_Genoa,54_Turin 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 56_Lyon,57_Marseille 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 57_Marseille,56_Lyon 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 96_East_Africa 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 97_South_Africa 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 106_Antwerp 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 59_Gotenburg 60_Oslo 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 60_Oslo 59_Gotenburg 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 62_Istanbul,41_Edirne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 98_Athens 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 45_Brno 7_Nuremberg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 109_None 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 42_Bucharest 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 69_Szeged 66_Szolnok 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 2_Pisa 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 72_Lille,11_Brussels 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 11_Brussels 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 74_Bratislava 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 75_Hannover 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 87_Seville 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 80_Veliko_Turnovo 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 79_Haskovo 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 78_Varna 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 82_Washington_DC 83_New_York 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 83_New_York 82_Washington_DC 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 30_None 90_Cagliari 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 94_None 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 76_Madrid 86_Valencia 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 90_Cagliari 30_None 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 93_Toulouse 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 86_Valencia 76_Madrid 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 108_Gibraltar 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 13_Amsterdam 2_Pisa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 105_Rotterdam 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 107_Ghent 0_Bremen 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 58_Bruges 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 66_Szolnok 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 66_Szolnok 69_Szeged 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 45_Brno 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 105_Rotterdam 5_Graz 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 5_Graz 58_Bruges 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 41_Edirne 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 65_Warsaw 58_Bruges 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 105_Rotterdam 65_Warsaw 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 29_Lausanne 6_Salzburg 0_Bremen"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Bremen 98_Athens 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 25_Basle 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 6_Salzburg 98_Athens 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 74_Bratislava 29_Lausanne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 4_Udine 105_Rotterdam 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 99_Tunis 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 96_East_Africa 6_Salzburg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 99_Tunis 6_Salzburg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 75_Hannover 99_Tunis 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 100_Malta 1_Poznan 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 24_Nancy 13_Amsterdam 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 28_Berne 13_Amsterdam 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 75_Hannover 96_East_Africa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 20_Calais 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 105_Rotterdam 23_Slough 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 107_Ghent 23_Slough 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 23_Slough 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 13_Amsterdam 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 97_South_Africa 6_Salzburg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 25_Basle 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 4_Udine 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 24_Nancy 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 96_East_Africa 25_Basle 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 41_Edirne 29_Lausanne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 99_Tunis 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 4_Udine 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 78_Varna 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 74_Bratislava 99_Tunis 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 96_East_Africa 51_Bordeaux 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 73_Luxembourg 40_Sofia 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 40_Sofia 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 97_South_Africa 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 108_Gibraltar 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 100_Malta 51_Bordeaux 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 108_Gibraltar 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Bremen 51_Bordeaux 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 40_Sofia 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 100_Malta 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 41_Edirne 78_Varna 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 90_Cagliari 78_Varna 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 90_Cagliari 79_Haskovo 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 109_None 79_Haskovo 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 109_None 85_Mazara_del_Vallo 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 78_Varna 90_Cagliari 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 79_Haskovo 90_Cagliari 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 99_Tunis 93_Toulouse 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 79_Haskovo 109_None 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 109_None 90_Cagliari 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 108_Gibraltar 76_Madrid 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 24_Nancy 28_Berne 0_Bremen"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bremen 93_Toulouse 28_Berne 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 29_Lausanne 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 97_South_Africa 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 98_Athens 79_Haskovo 0_Bremen"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Bremen 41_Edirne 51_Bordeaux 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 100_Malta 109_None 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 79_Haskovo 97_South_Africa 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 51_Bordeaux 98_Athens 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 23_Slough 107_Ghent 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 97_South_Africa 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 5_Graz 0_Bremen"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Bremen 10_London 40_Sofia 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 71_Thessalonika 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 80_Veliko_Turnovo 93_Toulouse 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 73_Luxembourg 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 93_Toulouse 68_Ruse 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 51_Bordeaux 85_Mazara_del_Vallo 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 4_Udine 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 100_Malta 6_Salzburg 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 64_Prague 29_Lausanne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 5_Graz 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 1_Poznan 100_Malta 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 93_Toulouse 4_Udine 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 40_Sofia 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 71_Thessalonika 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 75_Hannover 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bremen 78_Varna 10_London 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 75_Hannover 29_Lausanne 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 10_London 41_Edirne 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 24_Nancy 100_Malta 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 51_Bordeaux 96_East_Africa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 79_Haskovo 99_Tunis 0_Bremen"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bremen 93_Toulouse 100_Malta 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 109_None 100_Malta 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 65_Warsaw 105_Rotterdam 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 96_East_Africa 24_Nancy 0_Bremen"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bremen 24_Nancy 96_East_Africa 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 74_Bratislava 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 65_Warsaw 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 99_Tunis 64_Prague 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 10_London 25_Basle 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 28_Berne 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bremen 29_Lausanne 75_Hannover 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 65_Warsaw 10_London 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 23_Slough 58_Bruges 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 58_Bruges 74_Bratislava 0_Bremen"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bremen 105_Rotterdam 74_Bratislava 0_Bremen"
+        }
+    ],
+    "values": [
+        76,
+        74,
+        72,
+        70,
+        69,
+        68,
+        68,
+        68,
+        67,
+        66.5,
+        66.5,
+        65,
+        65,
+        65,
+        65,
+        65,
+        64,
+        64,
+        63,
+        63,
+        63,
+        63,
+        63,
+        63,
+        63,
+        63,
+        62,
+        62,
+        62,
+        62,
+        62,
+        62,
+        62,
+        61.800000000000004,
+        61,
+        61,
+        60,
+        60,
+        60,
+        59.75,
+        59.75,
+        59.75,
+        59.75,
+        59.05555555555556,
+        58.25,
+        57.85714285714286,
+        57.5,
+        56.5,
+        56.5,
+        55.5,
+        55.5,
+        55.5,
+        55.5,
+        54.75,
+        54,
+        54,
+        53,
+        53,
+        53,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52,
+        52.000000000000014,
+        52.000000000000014,
+        52,
+        51.777777777777786,
+        51.66666666666668,
+        51.66666666666668,
+        51.66666666666668,
+        51.66666666666668,
+        51.66666666666668,
+        51.66666666666668,
+        51.66666666666668,
+        51.60000000000001,
+        51.60000000000001,
+        51.6,
+        51.6,
+        51.5,
+        51.5,
+        51.5,
+        51.44444444444445,
+        51.28571428571429,
+        51.28571428571429,
+        51.28571428571429,
+        51.28571428571429,
+        51.28571428571429,
+        51.28571428571429,
+        51.25,
+        51.25,
+        51.25,
+        51.25,
+        51.25
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 5317817,
+    "lpBound": 51.25
+}

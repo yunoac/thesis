@@ -1,0 +1,195 @@
+{
+    "initialCoverSize": 29,
+    "times": [
+        1969687,
+        3236135,
+        4427260,
+        5566204,
+        6632915,
+        7733662,
+        8810799,
+        9942725,
+        11079978
+    ],
+    "finalCoverSize": 12,
+    "minSegCycles": [
+        "5_Pasco 1_Coeur_d'Alene@0_Spokane 5_Pasco",
+        "5_Pasco 0_Spokane 10_Ellensburg 5_Pasco",
+        "5_Pasco 6_Pullman@0_Spokane 5_Pasco",
+        "5_Pasco 10_Ellensburg 0_Spokane 5_Pasco",
+        "5_Pasco 0_Spokane 11_Vancouver 5_Pasco",
+        "5_Pasco@4_Walla_Walla 8_Kennewick@5_Pasco",
+        "5_Pasco@4_Walla_Walla 5_Pasco 5_Pasco",
+        "5_Pasco 8_Kennewick 0_Spokane 5_Pasco",
+        "5_Pasco 7_Lewiston 0_Spokane 5_Pasco",
+        "5_Pasco@8_Kennewick 4_Walla_Walla@5_Pasco",
+        "5_Pasco 17_Olympia 4_Walla_Walla 5_Pasco",
+        "5_Pasco 0_Spokane 8_Kennewick@5_Pasco",
+        "5_Pasco 11_Vancouver 0_Spokane 5_Pasco",
+        "5_Pasco 12_Bellingham 0_Spokane 5_Pasco",
+        "5_Pasco 11_Vancouver 13_Mt_Vernon 5_Pasco",
+        "5_Pasco 13_Mt_Vernon 11_Vancouver 5_Pasco",
+        "5_Pasco 16_Tacoma 0_Spokane 5_Pasco",
+        "5_Pasco 0_Spokane 18_Portland 5_Pasco",
+        "5_Pasco 16_Tacoma 17_Olympia 5_Pasco",
+        "5_Pasco 17_Olympia 16_Tacoma 5_Pasco",
+        "5_Pasco 18_Portland 0_Spokane 5_Pasco",
+        "5_Pasco 7_Lewiston 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 8_Kennewick 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 8_Kennewick 6_Pullman 5_Pasco",
+        "5_Pasco 8_Kennewick 7_Lewiston 5_Pasco",
+        "5_Pasco 10_Ellensburg 8_Kennewick 5_Pasco",
+        "5_Pasco 10_Ellensburg 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 18_Portland 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 10_Ellensburg 6_Pullman 5_Pasco"
+    ],
+    "values": [
+        14,
+        13,
+        13,
+        13,
+        12.5,
+        12.5,
+        12,
+        12,
+        12
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 14,
+    "runtime": 20832784,
+    "lpBound": 12,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "5_Pasco 1_Coeur_d'Alene@0_Spokane 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 0_Spokane 10_Ellensburg 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 6_Pullman@0_Spokane 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 10_Ellensburg 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 0_Spokane 11_Vancouver 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco@4_Walla_Walla 8_Kennewick@5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco@4_Walla_Walla 5_Pasco 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 8_Kennewick 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 7_Lewiston 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco@8_Kennewick 4_Walla_Walla@5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 17_Olympia 4_Walla_Walla 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 0_Spokane 8_Kennewick@5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 11_Vancouver 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 12_Bellingham 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 11_Vancouver 13_Mt_Vernon 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 13_Mt_Vernon 11_Vancouver 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 16_Tacoma 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 0_Spokane 18_Portland 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 16_Tacoma 17_Olympia 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 17_Olympia 16_Tacoma 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 18_Portland 0_Spokane 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 7_Lewiston 1_Coeur_d'Alene 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 8_Kennewick 1_Coeur_d'Alene 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 8_Kennewick 6_Pullman 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 8_Kennewick 7_Lewiston 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 10_Ellensburg 8_Kennewick 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 10_Ellensburg 1_Coeur_d'Alene 5_Pasco"
+        },
+        {
+            "x": 1,
+            "cycle": "5_Pasco 18_Portland 1_Coeur_d'Alene 5_Pasco"
+        },
+        {
+            "x": 0,
+            "cycle": "5_Pasco 10_Ellensburg 6_Pullman 5_Pasco"
+        }
+    ],
+    "greedySolution": [
+        "5_Pasco 0_Spokane 10_Ellensburg 5_Pasco",
+        "5_Pasco@4_Walla_Walla 8_Kennewick@5_Pasco",
+        "5_Pasco 17_Olympia 4_Walla_Walla 5_Pasco",
+        "5_Pasco 12_Bellingham 0_Spokane 5_Pasco",
+        "5_Pasco 11_Vancouver 13_Mt_Vernon 5_Pasco",
+        "5_Pasco 13_Mt_Vernon 11_Vancouver 5_Pasco",
+        "5_Pasco 0_Spokane 18_Portland 5_Pasco",
+        "5_Pasco 16_Tacoma 17_Olympia 5_Pasco",
+        "5_Pasco 17_Olympia 16_Tacoma 5_Pasco",
+        "5_Pasco 7_Lewiston 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 8_Kennewick 7_Lewiston 5_Pasco",
+        "5_Pasco 10_Ellensburg 8_Kennewick 5_Pasco",
+        "5_Pasco 10_Ellensburg 1_Coeur_d'Alene 5_Pasco",
+        "5_Pasco 18_Portland 1_Coeur_d'Alene 5_Pasco"
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "initialCoverSize": 28,
+    "times": [
+        11148344,
+        18733919,
+        19424278,
+        20054805,
+        20687628,
+        21371142,
+        22061593,
+        34913842,
+        35678115,
+        36441029,
+        37092391,
+        37800981,
+        38440389,
+        39146786
+    ],
+    "finalCoverSize": 8,
+    "minSegCycles": [
+        "0_Faro 1_Madrid 0_Faro 0_Faro",
+        "0_Faro 4_Barcelona 0_Faro 0_Faro",
+        "0_Faro 2_Porto 0_Faro 0_Faro",
+        "0_Faro 5_Manchester 0_Faro 0_Faro",
+        "0_Faro 1_Madrid 12_Paris 0_Faro",
+        "0_Faro 6_New_York 0_Faro 0_Faro",
+        "0_Faro 8_Eindhoven 0_Faro 0_Faro",
+        "0_Faro 7_Amsterdam 9_Berlin 0_Faro",
+        "0_Faro 9_Berlin 11_Munich 0_Faro",
+        "0_Faro 9_Berlin 7_Amsterdam 0_Faro",
+        "0_Faro 11_Munich 0_Faro 0_Faro",
+        "0_Faro 9_Berlin 4_Barcelona 0_Faro",
+        "0_Faro 11_Munich 9_Berlin 0_Faro",
+        "0_Faro 4_Barcelona 9_Berlin 0_Faro",
+        "0_Faro 13_Rennes 0_Faro 0_Faro",
+        "0_Faro 5_Manchester 2_Porto 0_Faro",
+        "0_Faro 6_New_York 2_Porto 0_Faro",
+        "0_Faro 6_New_York 5_Manchester 0_Faro",
+        "0_Faro 9_Berlin 8_Eindhoven 0_Faro",
+        "0_Faro 8_Eindhoven 9_Berlin 0_Faro",
+        "0_Faro 13_Rennes 9_Berlin 0_Faro",
+        "0_Faro 9_Berlin 12_Paris 0_Faro",
+        "0_Faro 1_Madrid 13_Rennes 0_Faro",
+        "0_Faro 4_Barcelona 2_Porto 0_Faro",
+        "0_Faro 7_Amsterdam 2_Porto 0_Faro",
+        "0_Faro 12_Paris 2_Porto 0_Faro",
+        "0_Faro 13_Rennes 2_Porto 0_Faro",
+        "0_Faro 9_Berlin 13_Rennes 0_Faro"
+    ],
+    "values": [
+        11,
+        10,
+        10,
+        9.5,
+        8.5,
+        8.5,
+        8.5,
+        8.5,
+        8.5,
+        8.5,
+        8.5,
+        8.25,
+        8,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 8,
+    "runtime": 52720707,
+    "lpBound": 8,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Faro 1_Madrid 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 4_Barcelona 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 2_Porto 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 5_Manchester 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 1_Madrid 12_Paris 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 6_New_York 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 8_Eindhoven 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 7_Amsterdam 9_Berlin 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 9_Berlin 11_Munich 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 9_Berlin 7_Amsterdam 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 11_Munich 0_Faro 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 9_Berlin 4_Barcelona 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 11_Munich 9_Berlin 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 4_Barcelona 9_Berlin 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 13_Rennes 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 5_Manchester 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 6_New_York 2_Porto 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 6_New_York 5_Manchester 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 9_Berlin 8_Eindhoven 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 8_Eindhoven 9_Berlin 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 13_Rennes 9_Berlin 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 9_Berlin 12_Paris 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 1_Madrid 13_Rennes 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 4_Barcelona 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 7_Amsterdam 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 12_Paris 2_Porto 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 13_Rennes 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 9_Berlin 13_Rennes 0_Faro"
+        }
+    ],
+    "greedySolution": [
+        "0_Faro 9_Berlin 11_Munich 0_Faro",
+        "0_Faro 9_Berlin 4_Barcelona 0_Faro",
+        "0_Faro 11_Munich 9_Berlin 0_Faro",
+        "0_Faro 4_Barcelona 9_Berlin 0_Faro",
+        "0_Faro 6_New_York 5_Manchester 0_Faro",
+        "0_Faro 9_Berlin 8_Eindhoven 0_Faro",
+        "0_Faro 8_Eindhoven 9_Berlin 0_Faro",
+        "0_Faro 13_Rennes 2_Porto 0_Faro"
+    ]
+}

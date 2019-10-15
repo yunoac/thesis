@@ -1,0 +1,67 @@
+{
+    "initialCoverSize": 8,
+    "times": [
+        1301963,
+        1528492
+    ],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "3_Chicago 0_Seattle 1_San_Francisco@3_Chicago",
+        "3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago",
+        "3_Chicago 0_Seattle 5_Washington_DC@3_Chicago",
+        "3_Chicago 4_New_York_City@3_Chicago 3_Chicago",
+        "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago",
+        "3_Chicago@4_New_York_City 5_Washington_DC@3_Chicago",
+        "3_Chicago@5_Washington_DC 4_New_York_City@3_Chicago",
+        "3_Chicago 5_Washington_DC 2_Los_Angeles 3_Chicago"
+    ],
+    "values": [
+        5,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 5,
+    "runtime": 2012428,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "3_Chicago 0_Seattle 1_San_Francisco@3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "3_Chicago 0_Seattle 5_Washington_DC@3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 4_New_York_City@3_Chicago 3_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "3_Chicago@4_New_York_City 5_Washington_DC@3_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "3_Chicago@5_Washington_DC 4_New_York_City@3_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "3_Chicago 5_Washington_DC 2_Los_Angeles 3_Chicago"
+        }
+    ],
+    "greedySolution": [
+        "3_Chicago 2_Los_Angeles 0_Seattle 3_Chicago",
+        "3_Chicago 0_Seattle 5_Washington_DC@3_Chicago",
+        "3_Chicago 5_Washington_DC 0_Seattle 3_Chicago",
+        "3_Chicago@4_New_York_City 5_Washington_DC@3_Chicago",
+        "3_Chicago@5_Washington_DC 4_New_York_City@3_Chicago"
+    ]
+}

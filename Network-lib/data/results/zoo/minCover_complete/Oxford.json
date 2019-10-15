@@ -1,0 +1,196 @@
+{
+    "initialCoverSize": 39,
+    "times": [
+        1403930,
+        2258440,
+        3051922,
+        3794550,
+        4500239,
+        5242790,
+        5986243,
+        6734079,
+        7478390,
+        8252818,
+        9009974,
+        9814176,
+        10617686,
+        11393421
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 2_Biddeford 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 1_Dover 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 4_Boston 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 7_Keene 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 2_Biddeford 1_Dover 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 5_Framingham 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 8_Worcester 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 9_Springfield 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 4_Boston 7_Keene 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 1_Dover 5_Framingham 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 10_Bangor 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 10_Bangor 19_Augusta 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 1_Dover 2_Biddeford 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 13_Bethel 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 12_Turner 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 10_Bangor 13_Bethel 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 13_Bethel 10_Bangor 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 13_Bethel 16_Buckfield 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 13_Bethel 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 14_Norway 17_Augusta 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 10_Bangor 16_Buckfield 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 12_Turner 19_Augusta 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 19_Augusta 0_Portsmouth 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 19_Augusta 10_Bangor 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 19_Augusta 12_Turner 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 19_Augusta 14_Norway 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 19_Augusta 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 8_Worcester 2_Biddeford 0_Portsmouth"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Portsmouth 2_Biddeford 8_Worcester 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 19_Augusta 13_Bethel 0_Portsmouth"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Portsmouth 13_Bethel 19_Augusta 0_Portsmouth"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Portsmouth 2_Biddeford 16_Buckfield 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 7_Keene 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 4_Boston 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 16_Buckfield 5_Framingham 0_Portsmouth"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Portsmouth 16_Buckfield 8_Worcester 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 8_Worcester 16_Buckfield 0_Portsmouth"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Portsmouth 4_Boston 2_Biddeford 0_Portsmouth"
+        }
+    ],
+    "values": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        8.5,
+        8.5,
+        8.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 157988,
+    "lpBound": 8.5
+}

@@ -1,0 +1,13 @@
+{
+    "nbCycles": 5,
+    "runtime": 193835,
+    "cycles": [
+        "0_SRI 1_USCB,0_SRI 0_SRI",
+        "0_SRI 2_UCLA,0_SRI 0_SRI",
+        "0_SRI 3_UTAH,0_SRI 0_SRI",
+        "0_SRI,1_USCB 2_UCLA,0_SRI",
+        "0_SRI,2_UCLA 1_USCB,0_SRI"
+    ],
+    "segmentCost": 4,
+    "source": "0_SRI"
+}

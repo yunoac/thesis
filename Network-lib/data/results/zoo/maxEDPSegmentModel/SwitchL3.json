@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Fribourg",
+            "nbpSR": 2,
+            "runtime": 63572779,
+            "dest": "26_Grenchen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_CIXP",
+            "nbpSR": 1,
+            "runtime": 37392502,
+            "dest": "32_Horw",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Bern",
+            "nbpSR": 4,
+            "runtime": 230687080,
+            "dest": "37_Lausanne_(EPFL)",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 2,
+            "runtime": 77485782,
+            "dest": "27_Davos",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_Liechtenstein",
+            "nbpSR": 1,
+            "runtime": 147330302,
+            "dest": "12_Swisscom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Lausanne_(EPFL)",
+            "nbpSR": 4,
+            "runtime": 635148659,
+            "dest": "3_Bern",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 1,
+            "runtime": 71138249,
+            "dest": "15_TIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Fribourg",
+            "nbpSR": 2,
+            "runtime": 62737364,
+            "dest": "40_Rueschlikon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Manno",
+            "nbpSR": 1,
+            "runtime": 362494807,
+            "dest": "14_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_CERN",
+            "nbpSR": 4,
+            "runtime": 551898902,
+            "dest": "22_Neuchatel",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "41_Winterthur",
+            "nbpSR": 2,
+            "runtime": 81781427,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 1,
+            "runtime": 75495382,
+            "dest": "20_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_IXEurope_Zurich",
+            "nbpSR": 1,
+            "runtime": 315844362,
+            "dest": "19_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Basel",
+            "nbpSR": 5,
+            "runtime": 230584750,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "8_Buchs_SG",
+            "nbpSR": 3,
+            "runtime": 202811178,
+            "dest": "35_Lausanne_(University)",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "34_CERN",
+            "nbpSR": 1,
+            "runtime": 740289634,
+            "dest": "14_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Lausanne_(University)",
+            "nbpSR": 2,
+            "runtime": 245692197,
+            "dest": "33_Brugg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Delemont",
+            "nbpSR": 2,
+            "runtime": 89414370,
+            "dest": "9_Chur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Delemont",
+            "nbpSR": 1,
+            "runtime": 65924405,
+            "dest": "20_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Basel",
+            "nbpSR": 1,
+            "runtime": 214263819,
+            "dest": "15_TIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_TIX",
+            "nbpSR": 1,
+            "runtime": 45983301,
+            "dest": "8_Buchs_SG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_GBLX",
+            "nbpSR": 1,
+            "runtime": 42360060,
+            "dest": "34_CERN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 2,
+            "runtime": 93254276,
+            "dest": "8_Buchs_SG",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Kreuzlingen",
+            "nbpSR": 1,
+            "runtime": 117681745,
+            "dest": "16_BelWue",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 2,
+            "runtime": 88430494,
+            "dest": "22_Neuchatel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Manno",
+            "nbpSR": 1,
+            "runtime": 361008293,
+            "dest": "14_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 36535270,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_CERN",
+            "nbpSR": 1,
+            "runtime": 824607704,
+            "dest": "18_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Villigen_PSI",
+            "nbpSR": 2,
+            "runtime": 71733284,
+            "dest": "29_Rapperswil",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_IXEurope_Zurich",
+            "nbpSR": 2,
+            "runtime": 318673683,
+            "dest": "27_Davos",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_SwissIX",
+            "nbpSR": 1,
+            "runtime": 37117946,
+            "dest": "26_Grenchen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Geneva",
+            "nbpSR": 1,
+            "runtime": 77611262,
+            "dest": "17_CERN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CERN",
+            "nbpSR": 1,
+            "runtime": 37134224,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Swisscom",
+            "nbpSR": 1,
+            "runtime": 41614591,
+            "dest": "36_Geneva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Rapperswil",
+            "nbpSR": 2,
+            "runtime": 223785771,
+            "dest": "41_Winterthur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 51420689,
+            "dest": "3_Bern",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_IXEurope_Zurich",
+            "nbpSR": 1,
+            "runtime": 311372266,
+            "dest": "17_CERN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Davos",
+            "nbpSR": 2,
+            "runtime": 78196877,
+            "dest": "32_Horw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_TIX",
+            "nbpSR": 1,
+            "runtime": 39716453,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Swisscom",
+            "nbpSR": 1,
+            "runtime": 42461528,
+            "dest": "11_Swisscom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Brig",
+            "nbpSR": 1,
+            "runtime": 73640165,
+            "dest": "20_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Basel",
+            "nbpSR": 5,
+            "runtime": 273848795,
+            "dest": "30_Manno",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "33_Brugg",
+            "nbpSR": 2,
+            "runtime": 56894308,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_BelWue",
+            "nbpSR": 1,
+            "runtime": 40534153,
+            "dest": "39_Birmensdorf",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_St._Gallen",
+            "nbpSR": 4,
+            "runtime": 233443067,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "19_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 41450537,
+            "dest": "27_Davos",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Zurich_(University)",
+            "nbpSR": 1,
+            "runtime": 344538564,
+            "dest": "21_GEANT2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Winterthur",
+            "nbpSR": 2,
+            "runtime": 99233525,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_Rapperswil",
+            "nbpSR": 4,
+            "runtime": 231586921,
+            "dest": "34_CERN",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "41_Winterthur",
+            "nbpSR": 2,
+            "runtime": 82144318,
+            "dest": "25_Martigny",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "40_Rueschlikon",
+            "nbpSR": 2,
+            "runtime": 85033186,
+            "dest": "1_Basel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Brig",
+            "nbpSR": 1,
+            "runtime": 80291444,
+            "dest": "16_BelWue",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Bern",
+            "nbpSR": 3,
+            "runtime": 241129891,
+            "dest": "28_Liechtenstein",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "16_BelWue",
+            "nbpSR": 1,
+            "runtime": 48721062,
+            "dest": "9_Chur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 1,
+            "runtime": 80318594,
+            "dest": "13_TELIA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "40_Rueschlikon",
+            "nbpSR": 2,
+            "runtime": 78939906,
+            "dest": "6_Villigen_PSI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Villigen_PSI",
+            "nbpSR": 1,
+            "runtime": 84877921,
+            "dest": "13_TELIA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_TIX",
+            "nbpSR": 1,
+            "runtime": 42107726,
+            "dest": "18_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Fribourg",
+            "nbpSR": 1,
+            "runtime": 68584629,
+            "dest": "19_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 2,
+            "runtime": 78076510,
+            "dest": "32_Horw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 43028538,
+            "dest": "22_Neuchatel",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 1,
+            "runtime": 77923774,
+            "dest": "16_BelWue",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Fribourg",
+            "nbpSR": 2,
+            "runtime": 63287537,
+            "dest": "40_Rueschlikon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Buchs_SG",
+            "nbpSR": 3,
+            "runtime": 243304150,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "21_GEANT2",
+            "nbpSR": 1,
+            "runtime": 36843428,
+            "dest": "25_Martigny",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_SwissIX",
+            "nbpSR": 1,
+            "runtime": 48100165,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 2,
+            "runtime": 107003396,
+            "dest": "8_Buchs_SG",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Villigen_PSI",
+            "nbpSR": 2,
+            "runtime": 94939914,
+            "dest": "27_Davos",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_CERN",
+            "nbpSR": 1,
+            "runtime": 42915460,
+            "dest": "23_IXEurope_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Rapperswil",
+            "nbpSR": 1,
+            "runtime": 203163794,
+            "dest": "21_GEANT2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 2,
+            "runtime": 74676333,
+            "dest": "26_Grenchen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "39_Birmensdorf",
+            "nbpSR": 2,
+            "runtime": 90180697,
+            "dest": "1_Basel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Davos",
+            "nbpSR": 1,
+            "runtime": 72042008,
+            "dest": "13_TELIA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Horw",
+            "nbpSR": 1,
+            "runtime": 77582538,
+            "dest": "16_BelWue",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Horw",
+            "nbpSR": 2,
+            "runtime": 98060516,
+            "dest": "40_Rueschlikon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "28_Liechtenstein",
+            "nbpSR": 3,
+            "runtime": 125802357,
+            "dest": "30_Manno",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "33_Brugg",
+            "nbpSR": 2,
+            "runtime": 90892883,
+            "dest": "9_Chur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Swisscom",
+            "nbpSR": 1,
+            "runtime": 36855722,
+            "dest": "37_Lausanne_(EPFL)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Manno",
+            "nbpSR": 2,
+            "runtime": 313584149,
+            "dest": "40_Rueschlikon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Chur",
+            "nbpSR": 1,
+            "runtime": 151307215,
+            "dest": "21_GEANT2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Geneva",
+            "nbpSR": 1,
+            "runtime": 71543414,
+            "dest": "21_GEANT2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_CERN",
+            "nbpSR": 2,
+            "runtime": 871735923,
+            "dest": "26_Grenchen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Delemont",
+            "nbpSR": 2,
+            "runtime": 90517099,
+            "dest": "1_Basel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_TELIA",
+            "nbpSR": 1,
+            "runtime": 42352098,
+            "dest": "4_Kreuzlingen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Winterthur",
+            "nbpSR": 2,
+            "runtime": 86457840,
+            "dest": "32_Horw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_TIX",
+            "nbpSR": 1,
+            "runtime": 39225907,
+            "dest": "31_Zurich_(University)",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Villigen_PSI",
+            "nbpSR": 2,
+            "runtime": 88637869,
+            "dest": "33_Brugg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_SwissIX",
+            "nbpSR": 1,
+            "runtime": 41573014,
+            "dest": "23_IXEurope_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_BelWue",
+            "nbpSR": 1,
+            "runtime": 40699418,
+            "dest": "18_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_CERN",
+            "nbpSR": 2,
+            "runtime": 703460982,
+            "dest": "38_Yverdon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_TELIA",
+            "nbpSR": 1,
+            "runtime": 41619928,
+            "dest": "40_Rueschlikon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_BelWue",
+            "nbpSR": 1,
+            "runtime": 41185459,
+            "dest": "28_Liechtenstein",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Brig",
+            "nbpSR": 2,
+            "runtime": 89855492,
+            "dest": "23_IXEurope_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_Rapperswil",
+            "nbpSR": 1,
+            "runtime": 187777110,
+            "dest": "18_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Villigen_PSI",
+            "nbpSR": 2,
+            "runtime": 79813046,
+            "dest": "1_Basel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "38_Yverdon",
+            "nbpSR": 1,
+            "runtime": 68785058,
+            "dest": "14_SwissIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Brugg",
+            "nbpSR": 2,
+            "runtime": 64175177,
+            "dest": "26_Grenchen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 2,
+            "runtime": 91339422,
+            "dest": "29_Rapperswil",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Martigny",
+            "nbpSR": 2,
+            "runtime": 80886593,
+            "dest": "26_Grenchen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_Rapperswil",
+            "nbpSR": 4,
+            "runtime": 185543966,
+            "dest": "7_Zurich_(ETH)",
+            "nbpFlow": 4
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,864 @@
+{
+    "initialCoverSize": 134,
+    "times": [
+        2643270,
+        10782800,
+        18804637,
+        26754777,
+        34774649,
+        42729411,
+        50790568,
+        59067092,
+        66912681,
+        75593787,
+        84361432,
+        94387616,
+        102555110,
+        110665190,
+        118659400,
+        126689673,
+        134767906,
+        142623839,
+        150701084,
+        158854903,
+        166918522,
+        176444271,
+        184603050,
+        197199220,
+        205502680,
+        213612482,
+        221811133,
+        230715135,
+        239798872,
+        252396873,
+        260801109,
+        268748005,
+        276876420,
+        284911452,
+        293551655,
+        301817950,
+        310519126,
+        318764047,
+        327809966,
+        336410155,
+        345667352,
+        357877091,
+        366551038,
+        374993421,
+        383251830,
+        391852380,
+        400213144,
+        408488982,
+        416732003,
+        425103156,
+        437827059,
+        450610964,
+        460774205,
+        468999403,
+        477344556,
+        485687644,
+        494360884,
+        502639695,
+        511021567,
+        519337835,
+        527606815,
+        536779156,
+        545896970,
+        556273566,
+        567280519,
+        575937158,
+        584338806,
+        593510743,
+        603166454,
+        613922920,
+        622348018,
+        630528881,
+        638843152,
+        648234856,
+        659237237,
+        669767861,
+        678174628,
+        686821616,
+        695263451,
+        704044575,
+        712632866
+    ],
+    "finalCoverSize": 32,
+    "minSegCycles": [
+        "0_Gainesboro 1_Wartburg@0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 2_Scottsville 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 9_Crossville@0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 5_Johnson_City 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 5_Johnson_City 4_Greenville 5_Johnson_City 0_Gainesboro",
+        "0_Gainesboro 5_Johnson_City 4_Greenville 7_Morristown 0_Gainesboro",
+        "0_Gainesboro 8_Scott_County 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 14_Chattanooga 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 7_Morristown 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 7_Morristown 4_Greenville@5_Johnson_City 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 21_Brownsville 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 11_Rainsville 18_Ringgold 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 11_Rainsville 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 15_Dunlap 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 13_Chapel_Hill 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 34_Smyrna 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 18_Ringgold 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro@1_Wartburg 15_Dunlap 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro@1_Wartburg 12_Scottsboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 1_Wartburg@0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 10_Memphis 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 13_Chapel_Hill 17_McMinnville 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro@9_Crossville 15_Dunlap 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 19_Chickamauga 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 20_Trenton 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 18_Ringgold 11_Rainsville 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 12_Scottsboro 1_Wartburg@0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 5_Johnson_City 26_Ardmore 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 10_Memphis 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 13_Chapel_Hill 11_Rainsville 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 25_Pulaski 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 37_Trenton 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 38_Bruceton 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 10_Memphis 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 43_Paducah 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 39_Camden 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 40_New_Johnsonville 0_Gainesboro 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 38_Bruceton 43_Paducah 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 50_Franklin 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 39_Camden 44_Mayfield 10_Memphis 0_Gainesboro",
+        "0_Gainesboro 37_Trenton 46_Martin 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 39_Camden 45_Union_City 10_Memphis 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 38_Bruceton 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 41_Bowling_Green 0_Gainesboro 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 15_Dunlap 8_Scott_County 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 34_Smyrna 11_Rainsville 0_Gainesboro",
+        "0_Gainesboro 40_New_Johnsonville 44_Mayfield 40_New_Johnsonville 0_Gainesboro",
+        "0_Gainesboro 46_Martin 43_Paducah 21_Brownsville 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 9_Crossville 8_Scott_County 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 27_Waynesboro 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 11_Rainsville 34_Smyrna 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 9_Crossville 34_Smyrna 9_Crossville 0_Gainesboro",
+        "0_Gainesboro 14_Chattanooga 17_McMinnville 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 21_Brownsville 15_Dunlap 21_Brownsville 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 44_Mayfield 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 48_Paris 45_Union_City 39_Camden 0_Gainesboro",
+        "0_Gainesboro 13_Chapel_Hill 11_Rainsville 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 18_Ringgold 11_Rainsville 0_Gainesboro",
+        "0_Gainesboro 8_Scott_County 26_Ardmore 8_Scott_County 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 34_Smyrna 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 15_Dunlap 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 25_Pulaski 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 48_Paris 27_Waynesboro 48_Paris 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 8_Scott_County 30_Henderson 0_Gainesboro",
+        "0_Gainesboro 11_Rainsville 18_Ringgold 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 11_Rainsville 18_Ringgold 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 42_Glasgow 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 30_Henderson 5_Johnson_City 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 21_Brownsville 43_Paducah 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 46_Martin 49_Murray 0_Gainesboro",
+        "0_Gainesboro 40_New_Johnsonville 45_Union_City 46_Martin 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 42_Glasgow 43_Paducah 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 42_Glasgow 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 7_Morristown 4_Greenville 7_Morristown 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 50_Franklin 41_Bowling_Green 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 37_Trenton 50_Franklin 0_Gainesboro",
+        "0_Gainesboro 21_Brownsville 25_Pulaski 21_Brownsville 0_Gainesboro",
+        "0_Gainesboro 38_Bruceton 46_Martin 38_Bruceton 0_Gainesboro",
+        "0_Gainesboro 18_Ringgold 11_Rainsville 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 30_Henderson 16_Spencer 30_Henderson 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 43_Paducah 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 17_McMinnville 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 42_Glasgow 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 46_Martin 14_Chattanooga 46_Martin 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 43_Paducah 46_Martin 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 39_Camden 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 35_Mt_Juliet 36_Smithville 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 16_Spencer 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 39_Camden 15_Dunlap 39_Camden 0_Gainesboro",
+        "0_Gainesboro 8_Scott_County 4_Greenville 8_Scott_County 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 46_Martin 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 21_Brownsville 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 46_Martin 43_Paducah 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 12_Scottsboro 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 14_Chattanooga 43_Paducah 14_Chattanooga 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 50_Franklin 10_Memphis 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 26_Ardmore 18_Ringgold 11_Rainsville 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 12_Scottsboro 15_Dunlap 41_Bowling_Green 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 42_Glasgow 50_Franklin 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 50_Franklin 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 37_Trenton 46_Martin 14_Chattanooga 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 14_Chattanooga 43_Paducah 0_Gainesboro",
+        "0_Gainesboro 39_Camden 45_Union_City 39_Camden 0_Gainesboro",
+        "0_Gainesboro 14_Chattanooga 43_Paducah 46_Martin 0_Gainesboro",
+        "0_Gainesboro 40_New_Johnsonville 45_Union_City 40_New_Johnsonville 0_Gainesboro",
+        "0_Gainesboro 10_Memphis 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 11_Rainsville 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 5_Johnson_City 26_Ardmore 0_Gainesboro",
+        "0_Gainesboro 25_Pulaski 45_Union_City 39_Camden 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 1_Wartburg 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 28_Loretto 15_Dunlap 50_Franklin 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 21_Brownsville 41_Bowling_Green 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 15_Dunlap 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 31_Columbia 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 14_Chattanooga 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 37_Trenton 42_Glasgow 37_Trenton 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 34_Smyrna 42_Glasgow 0_Gainesboro",
+        "0_Gainesboro 42_Glasgow 30_Henderson 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 19_Chickamauga 12_Scottsboro 19_Chickamauga 0_Gainesboro",
+        "0_Gainesboro 43_Paducah 46_Martin 14_Chattanooga 0_Gainesboro"
+    ],
+    "values": [
+        28,
+        24,
+        22,
+        21.5,
+        19,
+        19,
+        18.5,
+        18,
+        18,
+        18,
+        18,
+        16.75,
+        15.75,
+        15.75,
+        15.5,
+        15.5,
+        15.5,
+        14,
+        13.625,
+        13.625,
+        13.5,
+        13.416666666666664,
+        13.270833333333332,
+        12.985714285714284,
+        12.899999999999999,
+        12.80952380952381,
+        12.74285714285714,
+        12.673076923076918,
+        12.448275862068966,
+        12.299999999999995,
+        12.299999999999995,
+        12.299999999999997,
+        12.299999999999999,
+        11.799999999999997,
+        11.769999999999998,
+        11.769999999999998,
+        11.497727272727273,
+        11.497727272727273,
+        11.426829268292684,
+        11.318840579710146,
+        11.214285714285712,
+        11.214285714285714,
+        11.107142857142858,
+        11.107142857142858,
+        11.107142857142858,
+        11.091836734693878,
+        11.091836734693878,
+        11.084745762711867,
+        11.07451923076923,
+        11.060931899641576,
+        11.029761904761905,
+        11.028477546549832,
+        11.027548209366392,
+        11.027548209366392,
+        11.027259684361553,
+        11.02568567696996,
+        11.011363636363637,
+        11.011363636363637,
+        11.006906077348068,
+        10.997790404040407,
+        10.996037695437996,
+        10.990304709141272,
+        10.910614525139668,
+        10.904003639672426,
+        10.880952380952378,
+        10.870370370370368,
+        10.862282878411909,
+        10.860074626865671,
+        10.86007462686567,
+        10.84961439588689,
+        10.848360655737704,
+        10.846153846153845,
+        10.846153846153847,
+        10.846153846153845,
+        10.846153846153845,
+        10.8394495412844,
+        10.837349397590364,
+        10.836244541484715,
+        10.833333333333329,
+        10.83333333333333,
+        10.83333333333333
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 14,
+    "runtime": 889193460,
+    "lpBound": 10.83333333333333,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 1_Wartburg@0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 2_Scottsville 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 9_Crossville@0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 34_Smyrna 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 5_Johnson_City 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 41_Bowling_Green 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 42_Glasgow 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 50_Franklin 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 5_Johnson_City 4_Greenville 5_Johnson_City 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 5_Johnson_City 4_Greenville 7_Morristown 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 8_Scott_County 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 14_Chattanooga 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 7_Morristown 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 7_Morristown 4_Greenville@5_Johnson_City 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 17_McMinnville 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 21_Brownsville 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 11_Rainsville 18_Ringgold 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 11_Rainsville 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 15_Dunlap 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 13_Chapel_Hill 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 34_Smyrna 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 25_Pulaski 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 18_Ringgold 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro@1_Wartburg 15_Dunlap 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro@1_Wartburg 12_Scottsboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 1_Wartburg@0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 10_Memphis 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 13_Chapel_Hill 17_McMinnville 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro@9_Crossville 15_Dunlap 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 19_Chickamauga 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 20_Trenton 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 18_Ringgold 11_Rainsville 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 12_Scottsboro 1_Wartburg@0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 5_Johnson_City 26_Ardmore 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 28_Loretto 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 25_Pulaski 10_Memphis 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 13_Chapel_Hill 11_Rainsville 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 25_Pulaski 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 37_Trenton 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 38_Bruceton 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 43_Paducah 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 34_Smyrna 10_Memphis 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 43_Paducah 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 39_Camden 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 40_New_Johnsonville 0_Gainesboro 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 38_Bruceton 43_Paducah 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 41_Bowling_Green 50_Franklin 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 39_Camden 44_Mayfield 10_Memphis 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 37_Trenton 46_Martin 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 39_Camden 45_Union_City 10_Memphis 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 43_Paducah 38_Bruceton 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 50_Franklin 41_Bowling_Green 0_Gainesboro 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 28_Loretto 15_Dunlap 8_Scott_County 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 17_McMinnville 34_Smyrna 11_Rainsville 0_Gainesboro"
+        },
+        {
+            "x": 0.3888888888888889,
+            "cycle": "0_Gainesboro 40_New_Johnsonville 44_Mayfield 40_New_Johnsonville 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "0_Gainesboro 46_Martin 43_Paducah 21_Brownsville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 9_Crossville 8_Scott_County 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777779,
+            "cycle": "0_Gainesboro 15_Dunlap 27_Waynesboro 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 11_Rainsville 34_Smyrna 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 9_Crossville 34_Smyrna 9_Crossville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 14_Chattanooga 17_McMinnville 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_Gainesboro 21_Brownsville 15_Dunlap 21_Brownsville 0_Gainesboro"
+        },
+        {
+            "x": 0.7777777777777778,
+            "cycle": "0_Gainesboro 25_Pulaski 44_Mayfield 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 48_Paris 45_Union_City 39_Camden 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 13_Chapel_Hill 11_Rainsville 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_Gainesboro 17_McMinnville 18_Ringgold 11_Rainsville 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_Gainesboro 8_Scott_County 26_Ardmore 8_Scott_County 0_Gainesboro"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Gainesboro 28_Loretto 25_Pulaski 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_Gainesboro 42_Glasgow 34_Smyrna 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 42_Glasgow 15_Dunlap 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Gainesboro 17_McMinnville 25_Pulaski 28_Loretto 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 48_Paris 27_Waynesboro 48_Paris 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 34_Smyrna 8_Scott_County 30_Henderson 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_Gainesboro 11_Rainsville 18_Ringgold 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 34_Smyrna 11_Rainsville 18_Ringgold 0_Gainesboro"
+        },
+        {
+            "x": 0.05555555555555561,
+            "cycle": "0_Gainesboro 28_Loretto 42_Glasgow 28_Loretto 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 30_Henderson 5_Johnson_City 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 21_Brownsville 43_Paducah 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 43_Paducah 46_Martin 49_Murray 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 40_New_Johnsonville 45_Union_City 46_Martin 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 43_Paducah 42_Glasgow 43_Paducah 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 17_McMinnville 42_Glasgow 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gainesboro 7_Morristown 4_Greenville 7_Morristown 0_Gainesboro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gainesboro 41_Bowling_Green 50_Franklin 41_Bowling_Green 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 50_Franklin 37_Trenton 50_Franklin 0_Gainesboro"
+        },
+        {
+            "x": 0.055555555555555525,
+            "cycle": "0_Gainesboro 21_Brownsville 25_Pulaski 21_Brownsville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 38_Bruceton 46_Martin 38_Bruceton 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 18_Ringgold 11_Rainsville 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 30_Henderson 16_Spencer 30_Henderson 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 43_Paducah 28_Loretto 0_Gainesboro"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_Gainesboro 50_Franklin 17_McMinnville 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0.16666666666666663,
+            "cycle": "0_Gainesboro 15_Dunlap 42_Glasgow 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 46_Martin 14_Chattanooga 46_Martin 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "0_Gainesboro 28_Loretto 43_Paducah 46_Martin 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 25_Pulaski 39_Camden 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 35_Mt_Juliet 36_Smithville 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 25_Pulaski 16_Spencer 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 39_Camden 15_Dunlap 39_Camden 0_Gainesboro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gainesboro 8_Scott_County 4_Greenville 8_Scott_County 0_Gainesboro"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Gainesboro 43_Paducah 46_Martin 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 42_Glasgow 21_Brownsville 25_Pulaski 0_Gainesboro"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Gainesboro 15_Dunlap 46_Martin 43_Paducah 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 12_Scottsboro 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 14_Chattanooga 43_Paducah 14_Chattanooga 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 41_Bowling_Green 50_Franklin 10_Memphis 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 41_Bowling_Green 25_Pulaski 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 26_Ardmore 18_Ringgold 11_Rainsville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 50_Franklin 25_Pulaski 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 12_Scottsboro 15_Dunlap 41_Bowling_Green 0_Gainesboro"
+        },
+        {
+            "x": 0.25000000000000006,
+            "cycle": "0_Gainesboro 50_Franklin 42_Glasgow 50_Franklin 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 34_Smyrna 50_Franklin 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 37_Trenton 46_Martin 14_Chattanooga 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "0_Gainesboro 43_Paducah 14_Chattanooga 43_Paducah 0_Gainesboro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gainesboro 39_Camden 45_Union_City 39_Camden 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 14_Chattanooga 43_Paducah 46_Martin 0_Gainesboro"
+        },
+        {
+            "x": 0.1111111111111111,
+            "cycle": "0_Gainesboro 40_New_Johnsonville 45_Union_City 40_New_Johnsonville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 10_Memphis 25_Pulaski 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0.7222222222222222,
+            "cycle": "0_Gainesboro 34_Smyrna 11_Rainsville 34_Smyrna 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 5_Johnson_City 26_Ardmore 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 25_Pulaski 45_Union_City 39_Camden 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 1_Wartburg 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 28_Loretto 15_Dunlap 50_Franklin 0_Gainesboro"
+        },
+        {
+            "x": 0.055555555555555525,
+            "cycle": "0_Gainesboro 17_McMinnville 25_Pulaski 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 41_Bowling_Green 21_Brownsville 41_Bowling_Green 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222221,
+            "cycle": "0_Gainesboro 50_Franklin 15_Dunlap 28_Loretto 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 15_Dunlap 31_Columbia 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "0_Gainesboro 17_McMinnville 14_Chattanooga 17_McMinnville 0_Gainesboro"
+        },
+        {
+            "x": 0.027777777777777762,
+            "cycle": "0_Gainesboro 37_Trenton 42_Glasgow 37_Trenton 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 42_Glasgow 34_Smyrna 42_Glasgow 0_Gainesboro"
+        },
+        {
+            "x": 0.2222222222222221,
+            "cycle": "0_Gainesboro 42_Glasgow 30_Henderson 15_Dunlap 0_Gainesboro"
+        },
+        {
+            "x": 0.7222222222222222,
+            "cycle": "0_Gainesboro 19_Chickamauga 12_Scottsboro 19_Chickamauga 0_Gainesboro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gainesboro 43_Paducah 46_Martin 14_Chattanooga 0_Gainesboro"
+        }
+    ],
+    "greedySolution": [
+        "0_Gainesboro 25_Pulaski 44_Mayfield 25_Pulaski 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 8_Scott_County 30_Henderson 0_Gainesboro",
+        "0_Gainesboro 21_Brownsville 43_Paducah 15_Dunlap 0_Gainesboro",
+        "0_Gainesboro 7_Morristown 4_Greenville 7_Morristown 0_Gainesboro",
+        "0_Gainesboro 41_Bowling_Green 50_Franklin 41_Bowling_Green 0_Gainesboro",
+        "0_Gainesboro 15_Dunlap 43_Paducah 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 8_Scott_County 4_Greenville 8_Scott_County 0_Gainesboro",
+        "0_Gainesboro 12_Scottsboro 15_Dunlap 41_Bowling_Green 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 42_Glasgow 50_Franklin 0_Gainesboro",
+        "0_Gainesboro 40_New_Johnsonville 45_Union_City 40_New_Johnsonville 0_Gainesboro",
+        "0_Gainesboro 34_Smyrna 11_Rainsville 34_Smyrna 0_Gainesboro",
+        "0_Gainesboro 17_McMinnville 25_Pulaski 17_McMinnville 0_Gainesboro",
+        "0_Gainesboro 50_Franklin 15_Dunlap 28_Loretto 0_Gainesboro",
+        "0_Gainesboro 19_Chickamauga 12_Scottsboro 19_Chickamauga 0_Gainesboro"
+    ]
+}

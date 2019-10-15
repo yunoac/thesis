@@ -1,0 +1,114 @@
+{
+    "initialCoverSize": 16,
+    "times": [
+        8066972,
+        10448342,
+        13585446,
+        17449353,
+        20361934,
+        22307900
+    ],
+    "finalCoverSize": 6,
+    "minSegCycles": [
+        "0_Salt_Lake_City 1_Minneapolis 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 10_Los_Angeles 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 5_Philadelphia 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 1_Minneapolis 8_New_York 0_Salt_Lake_City",
+        "0_Salt_Lake_City 8_New_York 1_Minneapolis 0_Salt_Lake_City",
+        "0_Salt_Lake_City 17_San_Diego 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 20_Dallas 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 13_Seattle 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 18_Phoenix 0_Salt_Lake_City 0_Salt_Lake_City",
+        "0_Salt_Lake_City 10_Los_Angeles 5_Philadelphia 0_Salt_Lake_City",
+        "0_Salt_Lake_City 1_Minneapolis 17_San_Diego 0_Salt_Lake_City",
+        "0_Salt_Lake_City 5_Philadelphia 10_Los_Angeles 0_Salt_Lake_City",
+        "0_Salt_Lake_City 17_San_Diego 1_Minneapolis 0_Salt_Lake_City",
+        "0_Salt_Lake_City 11_Houston 4_Pittsburgh 0_Salt_Lake_City",
+        "0_Salt_Lake_City 13_Seattle 8_New_York 0_Salt_Lake_City",
+        "0_Salt_Lake_City 13_Seattle 1_Minneapolis 0_Salt_Lake_City"
+    ],
+    "values": [
+        4,
+        4,
+        4,
+        4,
+        3.5,
+        3.3333333333333335
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 4,
+    "runtime": 38813942,
+    "lpBound": 3.3333333333333335,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 1_Minneapolis 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 10_Los_Angeles 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 5_Philadelphia 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 1_Minneapolis 8_New_York 0_Salt_Lake_City"
+        },
+        {
+            "x": 0.33333333333333326,
+            "cycle": "0_Salt_Lake_City 8_New_York 1_Minneapolis 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 17_San_Diego 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 20_Dallas 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 13_Seattle 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 18_Phoenix 0_Salt_Lake_City 0_Salt_Lake_City"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "0_Salt_Lake_City 10_Los_Angeles 5_Philadelphia 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 1_Minneapolis 17_San_Diego 0_Salt_Lake_City"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Salt_Lake_City 5_Philadelphia 10_Los_Angeles 0_Salt_Lake_City"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Salt_Lake_City 17_San_Diego 1_Minneapolis 0_Salt_Lake_City"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Salt_Lake_City 11_Houston 4_Pittsburgh 0_Salt_Lake_City"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_Salt_Lake_City 13_Seattle 8_New_York 0_Salt_Lake_City"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_Salt_Lake_City 13_Seattle 1_Minneapolis 0_Salt_Lake_City"
+        }
+    ],
+    "greedySolution": [
+        "0_Salt_Lake_City 10_Los_Angeles 5_Philadelphia 0_Salt_Lake_City",
+        "0_Salt_Lake_City 5_Philadelphia 10_Los_Angeles 0_Salt_Lake_City",
+        "0_Salt_Lake_City 13_Seattle 8_New_York 0_Salt_Lake_City",
+        "0_Salt_Lake_City 13_Seattle 1_Minneapolis 0_Salt_Lake_City"
+    ]
+}

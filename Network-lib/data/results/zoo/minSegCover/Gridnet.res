@@ -1,0 +1,32 @@
+{
+    "numberOfSegments": 4,
+    "nbCycles": 24,
+    "runtime": 16960251,
+    "cycles": [
+        "5_Washington,_DC 0_Houston 8_Miami 5_Washington,_DC",
+        "5_Washington,_DC 8_Miami 0_Houston 5_Washington,_DC",
+        "5_Washington,_DC 0_Houston 2_Los_Angeles 5_Washington,_DC",
+        "5_Washington,_DC 2_Los_Angeles 0_Houston 5_Washington,_DC",
+        "5_Washington,_DC 0_Houston 3_New_York 5_Washington,_DC",
+        "5_Washington,_DC 3_New_York 0_Houston 5_Washington,_DC",
+        "5_Washington,_DC,1_San_Francisco 4_Newark,5_Washington,_DC",
+        "5_Washington,_DC,4_Newark 1_San_Francisco,5_Washington,_DC",
+        "5_Washington,_DC,1_San_Francisco 6_Atlanta,5_Washington,_DC",
+        "5_Washington,_DC,6_Atlanta 1_San_Francisco,5_Washington,_DC",
+        "5_Washington,_DC,1_San_Francisco 7_Dallas,5_Washington,_DC",
+        "5_Washington,_DC,7_Dallas 1_San_Francisco,5_Washington,_DC",
+        "5_Washington,_DC 2_Los_Angeles 3_New_York 5_Washington,_DC",
+        "5_Washington,_DC 3_New_York 2_Los_Angeles 5_Washington,_DC",
+        "5_Washington,_DC 2_Los_Angeles 8_Miami 5_Washington,_DC",
+        "5_Washington,_DC 8_Miami 2_Los_Angeles 5_Washington,_DC",
+        "5_Washington,_DC 3_New_York 8_Miami 5_Washington,_DC",
+        "5_Washington,_DC 8_Miami 3_New_York 5_Washington,_DC",
+        "5_Washington,_DC,4_Newark 6_Atlanta,5_Washington,_DC",
+        "5_Washington,_DC,6_Atlanta 4_Newark,5_Washington,_DC",
+        "5_Washington,_DC,4_Newark 7_Dallas,5_Washington,_DC",
+        "5_Washington,_DC,7_Dallas 4_Newark,5_Washington,_DC",
+        "5_Washington,_DC,6_Atlanta 7_Dallas,5_Washington,_DC",
+        "5_Washington,_DC,7_Dallas 6_Atlanta,5_Washington,_DC"
+    ],
+    "source": "5_Washington,_DC"
+}

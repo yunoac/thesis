@@ -1,0 +1,290 @@
+{
+    "initialCoverSize": 66,
+    "times": [
+        3610575,
+        4710090,
+        5745124,
+        6798610,
+        7901364,
+        8968689,
+        10138775
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Houston 1_Pompano_Beach,0_Houston 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 3_Dallas,0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 0_Houston,3_Dallas 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 2_Austell 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 1_Pompano_Beach,2_Austell 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 2_Austell,1_Pompano_Beach 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 10_Greensboro 0_Houston 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 2_Austell 3_Dallas,0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 9_Washington,_DC 0_Houston 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston,1_Pompano_Beach 6_Los_Angeles 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 3_Dallas,0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston,3_Dallas 2_Austell 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 4_Charlton 0_Houston 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 14_Denver 0_Houston 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 6_Los_Angeles 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 4_Charlton 8_West_Orange 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 4_Charlton,8_West_Orange 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 4_Charlton 1_Pompano_Beach,0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 5_New_York 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 5_New_York 6_Los_Angeles 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 5_New_York,8_West_Orange 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 6_Los_Angeles 5_New_York 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 6_Los_Angeles,7_Rialto 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 6_Los_Angeles 1_Pompano_Beach,0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 7_Rialto,6_Los_Angeles 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 11_Seattle 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 7_Rialto,12_San_Francisco 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 8_West_Orange 4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 8_West_Orange,4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 8_West_Orange,5_New_York 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 8_West_Orange 1_Pompano_Beach,0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 8_West_Orange,9_Washington,_DC 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 18_North_Royalton 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 8_West_Orange,18_North_Royalton 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston,1_Pompano_Beach 4_Charlton 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston,1_Pompano_Beach 8_West_Orange 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 9_Washington,_DC,8_West_Orange 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 9_Washington,_DC 15_Independence 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 4_Charlton 10_Greensboro 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 10_Greensboro 4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 11_Seattle,12_San_Francisco 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 11_Seattle 4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 12_San_Francisco,7_Rialto 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 12_San_Francisco,11_Seattle 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 13_Sacramento 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 12_San_Francisco,13_Sacramento 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 12_San_Francisco,14_Denver 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 13_Sacramento,12_San_Francisco 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 4_Charlton 11_Seattle 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 14_Denver,12_San_Francisco 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 11_Seattle 16_Willow_Springs 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 15_Independence 4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 15_Independence 9_Washington,_DC 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 16_Willow_Springs 11_Seattle 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 17_Downers_Grove 0_Houston 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 16_Willow_Springs,17_Downers_Grove 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 17_Downers_Grove,16_Willow_Springs 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 17_Downers_Grove 18_North_Royalton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 18_North_Royalton,8_West_Orange 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 18_North_Royalton 17_Downers_Grove 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 8_West_Orange 7_Rialto 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 7_Rialto 8_West_Orange 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 16_Willow_Springs 10_Greensboro 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 10_Greensboro 16_Willow_Springs 0_Houston"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Houston 6_Los_Angeles 4_Charlton 0_Houston"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Houston 2_Austell 3_Dallas,0_Houston"
+        }
+    ],
+    "values": [
+        42,
+        41,
+        40,
+        40,
+        40,
+        40,
+        39
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 172132,
+    "lpBound": 39
+}

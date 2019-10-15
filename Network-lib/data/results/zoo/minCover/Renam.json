@@ -1,0 +1,26 @@
+{
+    "initialCoverSize": 4,
+    "times": [820202],
+    "solution": [
+        {
+            "x": 1,
+            "cycle": "0_Chisinau 1_Balti,0_Chisinau"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chisinau 2________Cahul,0_Chisinau"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chisinau 3_StarNet_ISP,0_Chisinau"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chisinau 4_RoEduNet,0_Chisinau"
+        }
+    ],
+    "values": [4],
+    "initialCoverSeg": 3,
+    "runtime": 10923,
+    "lpBound": 4
+}

@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "3_GEANT",
+            "nbpSR": 1,
+            "runtime": 361927713,
+            "dest": "23_MIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_MI-2",
+            "nbpSR": 2,
+            "runtime": 554891024,
+            "dest": "35_GE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_VSIX",
+            "nbpSR": 1,
+            "runtime": 373129584,
+            "dest": "55_PI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_TS-1",
+            "nbpSR": 2,
+            "runtime": 507425769,
+            "dest": "6_AQ-1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_MI-1",
+            "nbpSR": 1,
+            "runtime": 568279016,
+            "dest": "18_ME",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_MI-4",
+            "nbpSR": 1,
+            "runtime": 519517337,
+            "dest": "54_Pv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Fi",
+            "nbpSR": 1,
+            "runtime": 358070247,
+            "dest": "15_VSIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "45_BA",
+            "nbpSR": 1,
+            "runtime": 389537652,
+            "dest": "7_SS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_AQ-1",
+            "nbpSR": 1,
+            "runtime": 479574033,
+            "dest": "47_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_FG",
+            "nbpSR": 1,
+            "runtime": 391293922,
+            "dest": "10_PG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_NA",
+            "nbpSR": 1,
+            "runtime": 573267113,
+            "dest": "49_BS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_TELIA",
+            "nbpSR": 1,
+            "runtime": 424172097,
+            "dest": "23_MIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_LE",
+            "nbpSR": 1,
+            "runtime": 361570700,
+            "dest": "34_MI-4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "49_BS",
+            "nbpSR": 1,
+            "runtime": 369517925,
+            "dest": "43_MT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_VE",
+            "nbpSR": 1,
+            "runtime": 365945180,
+            "dest": "17_NA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_TS-1",
+            "nbpSR": 1,
+            "runtime": 494784164,
+            "dest": "50_TO-PIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NAMEX",
+            "nbpSR": 1,
+            "runtime": 341414075,
+            "dest": "6_AQ-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_MIX",
+            "nbpSR": 1,
+            "runtime": 363179193,
+            "dest": "33_MI-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_AQ",
+            "nbpSR": 1,
+            "runtime": 471932968,
+            "dest": "8_PA-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_BO",
+            "nbpSR": 1,
+            "runtime": 477034946,
+            "dest": "54_Pv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_TO",
+            "nbpSR": 2,
+            "runtime": 404987491,
+            "dest": "20_CT",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_MI-1",
+            "nbpSR": 1,
+            "runtime": 490512390,
+            "dest": "10_PG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_TELIA",
+            "nbpSR": 1,
+            "runtime": 393646117,
+            "dest": "5_NAMEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_CA-1",
+            "nbpSR": 1,
+            "runtime": 450072496,
+            "dest": "19_CS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_MI-1",
+            "nbpSR": 1,
+            "runtime": 553925732,
+            "dest": "1_CA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_PA",
+            "nbpSR": 1,
+            "runtime": 444163503,
+            "dest": "17_NA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_PD-2",
+            "nbpSR": 1,
+            "runtime": 359713864,
+            "dest": "52_CO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "43_MT",
+            "nbpSR": 1,
+            "runtime": 377457155,
+            "dest": "6_AQ-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_GEANT",
+            "nbpSR": 1,
+            "runtime": 346741823,
+            "dest": "45_BA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_GE",
+            "nbpSR": 2,
+            "runtime": 455666507,
+            "dest": "41_AQ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "39_CB",
+            "nbpSR": 1,
+            "runtime": 353293829,
+            "dest": "5_NAMEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_PZ",
+            "nbpSR": 1,
+            "runtime": 379761939,
+            "dest": "23_MIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_PD",
+            "nbpSR": 1,
+            "runtime": 532404761,
+            "dest": "44_LE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_TN",
+            "nbpSR": 1,
+            "runtime": 374693090,
+            "dest": "28_PD-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_CB",
+            "nbpSR": 1,
+            "runtime": 354466280,
+            "dest": "24_TELIA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_GE",
+            "nbpSR": 1,
+            "runtime": 544121998,
+            "dest": "50_TO-PIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_MI-1",
+            "nbpSR": 1,
+            "runtime": 493320996,
+            "dest": "12_TIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_LE",
+            "nbpSR": 1,
+            "runtime": 410153475,
+            "dest": "17_NA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Fi",
+            "nbpSR": 1,
+            "runtime": 420891357,
+            "dest": "8_PA-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_GEANT",
+            "nbpSR": 1,
+            "runtime": 350755436,
+            "dest": "16_TS-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_RM-2",
+            "nbpSR": 3,
+            "runtime": 484703061,
+            "dest": "17_NA",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "36_TO",
+            "nbpSR": 1,
+            "runtime": 468278115,
+            "dest": "47_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_MI-1",
+            "nbpSR": 1,
+            "runtime": 472735321,
+            "dest": "3_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Svizzera",
+            "nbpSR": 1,
+            "runtime": 427318965,
+            "dest": "31_MI-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_PI",
+            "nbpSR": 2,
+            "runtime": 515703195,
+            "dest": "36_TO",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "35_GE",
+            "nbpSR": 2,
+            "runtime": 497459617,
+            "dest": "31_MI-1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "52_CO",
+            "nbpSR": 1,
+            "runtime": 479341934,
+            "dest": "24_TELIA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "43_MT",
+            "nbpSR": 1,
+            "runtime": 417730450,
+            "dest": "33_MI-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_VE",
+            "nbpSR": 1,
+            "runtime": 388698126,
+            "dest": "52_CO",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Global_Crossing",
+            "nbpSR": 1,
+            "runtime": 448947632,
+            "dest": "49_BS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_MI-3",
+            "nbpSR": 1,
+            "runtime": 522995661,
+            "dest": "7_SS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_SS",
+            "nbpSR": 1,
+            "runtime": 345214426,
+            "dest": "25_FUC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_PA",
+            "nbpSR": 1,
+            "runtime": 469076697,
+            "dest": "43_MT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_GEANT",
+            "nbpSR": 1,
+            "runtime": 381745058,
+            "dest": "4_CA-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_FG",
+            "nbpSR": 1,
+            "runtime": 388408153,
+            "dest": "30_PD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_CA-1",
+            "nbpSR": 1,
+            "runtime": 402996114,
+            "dest": "25_FUC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "52_CO",
+            "nbpSR": 1,
+            "runtime": 617480190,
+            "dest": "0_Svizzera",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_AQ-1",
+            "nbpSR": 2,
+            "runtime": 641424101,
+            "dest": "55_PI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Fi",
+            "nbpSR": 1,
+            "runtime": 463278179,
+            "dest": "12_TIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_TO",
+            "nbpSR": 1,
+            "runtime": 648159688,
+            "dest": "10_PG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_AQ-1",
+            "nbpSR": 1,
+            "runtime": 599072613,
+            "dest": "44_LE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_PG",
+            "nbpSR": 1,
+            "runtime": 467694628,
+            "dest": "25_FUC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_VSIX",
+            "nbpSR": 1,
+            "runtime": 521525190,
+            "dest": "46_FG",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_VSIX",
+            "nbpSR": 1,
+            "runtime": 611832954,
+            "dest": "9_RM-1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "49_BS",
+            "nbpSR": 1,
+            "runtime": 449187565,
+            "dest": "50_TO-PIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_FUC",
+            "nbpSR": 1,
+            "runtime": 398034505,
+            "dest": "39_CB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_BO",
+            "nbpSR": 1,
+            "runtime": 615326645,
+            "dest": "11_CZ",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_PG",
+            "nbpSR": 1,
+            "runtime": 443590804,
+            "dest": "21_PA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_LE",
+            "nbpSR": 1,
+            "runtime": 470029266,
+            "dest": "54_Pv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_TO",
+            "nbpSR": 1,
+            "runtime": 602371166,
+            "dest": "44_LE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_CZ",
+            "nbpSR": 1,
+            "runtime": 750961621,
+            "dest": "56_Ur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_TIX",
+            "nbpSR": 1,
+            "runtime": 574991268,
+            "dest": "49_BS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "50_TO-PIX",
+            "nbpSR": 1,
+            "runtime": 566710701,
+            "dest": "42_AN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_MI-4",
+            "nbpSR": 1,
+            "runtime": 642316706,
+            "dest": "39_CB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_FG",
+            "nbpSR": 1,
+            "runtime": 507586273,
+            "dest": "17_NA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_MI-4",
+            "nbpSR": 1,
+            "runtime": 637314307,
+            "dest": "5_NAMEX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_CA-1",
+            "nbpSR": 1,
+            "runtime": 524868169,
+            "dest": "43_MT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_PI",
+            "nbpSR": 1,
+            "runtime": 761555508,
+            "dest": "21_PA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "54_Pv",
+            "nbpSR": 1,
+            "runtime": 511477542,
+            "dest": "39_CB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "50_TO-PIX",
+            "nbpSR": 1,
+            "runtime": 412717029,
+            "dest": "34_MI-4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_TELIA",
+            "nbpSR": 1,
+            "runtime": 442141842,
+            "dest": "7_SS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_CB",
+            "nbpSR": 1,
+            "runtime": 422183882,
+            "dest": "27_Fi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_RM-2",
+            "nbpSR": 1,
+            "runtime": 526458059,
+            "dest": "54_Pv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_SA",
+            "nbpSR": 1,
+            "runtime": 615642065,
+            "dest": "35_GE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "26_FI",
+            "nbpSR": 2,
+            "runtime": 716993437,
+            "dest": "52_CO",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "55_PI",
+            "nbpSR": 4,
+            "runtime": 635631236,
+            "dest": "13_BO",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "14_MI-3",
+            "nbpSR": 2,
+            "runtime": 573301419,
+            "dest": "41_AQ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "47_Google",
+            "nbpSR": 1,
+            "runtime": 392656780,
+            "dest": "30_PD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_SS",
+            "nbpSR": 1,
+            "runtime": 382422123,
+            "dest": "54_Pv",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_RM-2",
+            "nbpSR": 1,
+            "runtime": 516525894,
+            "dest": "56_Ur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_CZ",
+            "nbpSR": 1,
+            "runtime": 488962066,
+            "dest": "55_PI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Svizzera",
+            "nbpSR": 1,
+            "runtime": 444156513,
+            "dest": "37_SA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_CZ",
+            "nbpSR": 1,
+            "runtime": 588882754,
+            "dest": "28_PD-2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_CA-1",
+            "nbpSR": 2,
+            "runtime": 458975648,
+            "dest": "55_PI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_TIX",
+            "nbpSR": 1,
+            "runtime": 360585845,
+            "dest": "44_LE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_VE",
+            "nbpSR": 1,
+            "runtime": 418404887,
+            "dest": "12_TIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "54_Pv",
+            "nbpSR": 1,
+            "runtime": 360471506,
+            "dest": "25_FUC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_VE",
+            "nbpSR": 1,
+            "runtime": 340949695,
+            "dest": "38_PZ",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_AQ-1",
+            "nbpSR": 1,
+            "runtime": 468644603,
+            "dest": "56_Ur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "43_MT",
+            "nbpSR": 1,
+            "runtime": 354712911,
+            "dest": "26_FI",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

@@ -1,0 +1,90 @@
+{
+    "initialCoverSize": 18,
+    "times": [
+        2290033,
+        2820157,
+        3311286
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 1_Moree,0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 2_None 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 5_Newcastle 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 7_Geelong 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 4_Albury 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 4_Albury 7_Geelong 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo,1_Moree 12_Sydney 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 9_Perth 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 7_Geelong,10_Adelaide 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 15_Kalgoorlie 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 10_Adelaide,7_Geelong 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 16_Port_Augusta 0_Dubbo 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 7_Geelong 4_Albury 0_Dubbo"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dubbo 2_None 5_Newcastle 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 15_Kalgoorlie 16_Port_Augusta 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 16_Port_Augusta 15_Kalgoorlie 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 7_Geelong 5_Newcastle 0_Dubbo"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dubbo 5_Newcastle 7_Geelong 0_Dubbo"
+        }
+    ],
+    "values": [
+        8,
+        7,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 282351,
+    "lpBound": 7
+}

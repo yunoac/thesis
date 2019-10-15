@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 7998192,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 12286598,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 7169477,
+            "dest": "10_Rustavi_CO14",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 14189151,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 8410465,
+            "dest": "2_Cisco_2511_Kutaisi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 16945026,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6327202,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 15206002,
+            "dest": "2_Cisco_2511_Kutaisi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 19946207,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 13823448,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 13063554,
+            "dest": "4_Cisco_3640_Poti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Cisco_3640_Samtredia",
+            "nbpSR": 1,
+            "runtime": 11799886,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 11997235,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 12659186,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 6556367,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5737136,
+            "dest": "5_Cisco_3640_Zugididi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cisco_3640_Poti",
+            "nbpSR": 1,
+            "runtime": 16498854,
+            "dest": "15_Cisco_3640_Kutaisi_C07",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 15507120,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 13410262,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6313485,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 15077769,
+            "dest": "2_Cisco_2511_Kutaisi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 9777997,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5834282,
+            "dest": "4_Cisco_3640_Poti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 5543120,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 5530696,
+            "dest": "1_Cisco_2621_Batumi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5595887,
+            "dest": "15_Cisco_3640_Kutaisi_C07",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 12783326,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 16893082,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6313291,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6070261,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 11650676,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 13641634,
+            "dest": "15_Cisco_3640_Kutaisi_C07",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Cisco_3640_Samtredia",
+            "nbpSR": 1,
+            "runtime": 12095822,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 11837995,
+            "dest": "3_Cisco_3640_Kutaisi_C04",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 5569195,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5544593,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Rustavi_CO15",
+            "nbpSR": 1,
+            "runtime": 18038928,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 14347483,
+            "dest": "1_Cisco_2621_Batumi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 14976501,
+            "dest": "10_Rustavi_CO14",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 6294122,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5529656,
+            "dest": "3_Cisco_3640_Kutaisi_C04",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 6136774,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 18765227,
+            "dest": "5_Cisco_3640_Zugididi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 12383688,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 6428237,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 17552101,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 10474609,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 13916998,
+            "dest": "3_Cisco_3640_Kutaisi_C04",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Rustavi_CO15",
+            "nbpSR": 1,
+            "runtime": 15637044,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6213643,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 15038377,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 5632524,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5640327,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 5550357,
+            "dest": "2_Cisco_2511_Kutaisi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 14418319,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 20399151,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 16811966,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 13927889,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cisco_3640_Poti",
+            "nbpSR": 1,
+            "runtime": 19065632,
+            "dest": "10_Rustavi_CO14",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 8376259,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 5580187,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 15509557,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Rustavi_CO15",
+            "nbpSR": 1,
+            "runtime": 15971255,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 10431305,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 6403465,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 13813945,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Cisco_3640_Samtredia",
+            "nbpSR": 1,
+            "runtime": 12036662,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Rustavi_CO15",
+            "nbpSR": 1,
+            "runtime": 21015476,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6003125,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cisco_3640_Poti",
+            "nbpSR": 1,
+            "runtime": 14077069,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 5553073,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cisco_3640_Poti",
+            "nbpSR": 1,
+            "runtime": 16605240,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 9471627,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 12100573,
+            "dest": "3_Cisco_3640_Kutaisi_C04",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 12430992,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 13206851,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 19613106,
+            "dest": "10_Rustavi_CO14",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Cisco_3640_Zugididi",
+            "nbpSR": 1,
+            "runtime": 6004662,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 7946005,
+            "dest": "2_Cisco_2511_Kutaisi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 16536525,
+            "dest": "7_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cisco_3640_Poti",
+            "nbpSR": 1,
+            "runtime": 17927656,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 13021233,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Cisco_3640_Gori",
+            "nbpSR": 1,
+            "runtime": 12610017,
+            "dest": "6_Cisco_3640_Khashuri",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Tbilisi_GRENA_Network",
+            "nbpSR": 1,
+            "runtime": 17969143,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Cisco_2621_Batumi",
+            "nbpSR": 1,
+            "runtime": 8373883,
+            "dest": "11_Cisco_3640_Telavi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Cisco_2621_Batumi",
+            "nbpSR": 1,
+            "runtime": 5891781,
+            "dest": "4_Cisco_3640_Poti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 12795501,
+            "dest": "1_Cisco_2621_Batumi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Cisco_3640_Khashuri",
+            "nbpSR": 1,
+            "runtime": 11913912,
+            "dest": "5_Cisco_3640_Zugididi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Cisco_3640_Samtredia",
+            "nbpSR": 1,
+            "runtime": 11973018,
+            "dest": "5_Cisco_3640_Zugididi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 5572520,
+            "dest": "1_Cisco_2621_Batumi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 19150550,
+            "dest": "15_Cisco_3640_Kutaisi_C07",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Cisco_3640_Kutaisi_C07",
+            "nbpSR": 1,
+            "runtime": 15479075,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Cisco_2511_Kutaisi",
+            "nbpSR": 1,
+            "runtime": 9964894,
+            "dest": "14_Cisco_3640_Gori",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 9889310,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Cisco_3640_Samtredia",
+            "nbpSR": 1,
+            "runtime": 12433448,
+            "dest": "9_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Rustavi_CO14",
+            "nbpSR": 1,
+            "runtime": 12729053,
+            "dest": "12_Corecess_DX6524",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 6762976,
+            "dest": "0_Cisco_3640_Samtredia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Corecess_DX6524",
+            "nbpSR": 1,
+            "runtime": 7945624,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Cisco_3640_Kutaisi_C04",
+            "nbpSR": 1,
+            "runtime": 20570051,
+            "dest": "8_Tbilisi_GRENA_Network",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Cisco_3640_Telavi",
+            "nbpSR": 1,
+            "runtime": 5751009,
+            "dest": "13_Rustavi_CO15",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

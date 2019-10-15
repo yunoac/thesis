@@ -1,0 +1,152 @@
+{
+    "initialCoverSize": 31,
+    "times": [
+        1422491,
+        3686971,
+        6042510,
+        8316717,
+        10545351,
+        12833365,
+        15134024,
+        17413057
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux,0_New_Orleans 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 3_Gulfport,0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 2_Covington 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 5_Lafayette 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 2_Covington 3_Gulfport 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 26_Slidell 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 2_Covington 5_Lafayette 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 5_Lafayette 2_Covington 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 8_Alexandria 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 10_San_Antonio 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 12_College_Station 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 9_Derry 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 9_Derry 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 11_Austin 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 11_Austin 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux,0_New_Orleans 11_Austin 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux,0_New_Orleans 9_Derry 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 19_Fort_Polk 1_Thi'bodaux 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 3_Gulfport 2_Covington 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 33_Ruston 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 31_Bossier_City 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 32_Minden 0_New_Orleans 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 31_Bossier_City 33_Ruston 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 33_Ruston 31_Bossier_City 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 26_Slidell 19_Fort_Polk 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 11_Austin 9_Derry 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 9_Derry 11_Austin 1_Thi'bodaux"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Thi'bodaux 5_Lafayette 26_Slidell 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 9_Derry 26_Slidell 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 2_Covington 10_San_Antonio 1_Thi'bodaux"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Thi'bodaux 11_Austin 26_Slidell 1_Thi'bodaux"
+        }
+    ],
+    "values": [
+        11,
+        9,
+        8,
+        7,
+        6,
+        6,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 424914,
+    "lpBound": 6
+}

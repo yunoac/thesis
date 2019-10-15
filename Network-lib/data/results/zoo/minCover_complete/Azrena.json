@@ -1,0 +1,194 @@
+{
+    "initialCoverSize": 39,
+    "times": [
+        1340762,
+        2219059,
+        3012939,
+        3779298,
+        4558561,
+        5358888,
+        6166580,
+        6937386,
+        7739078,
+        8553302,
+        9328238,
+        10154151,
+        10989653
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_None 1_Dialup_server,0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 2_Wireless_server,0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 3_Wireless_router,0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 13_NOC,0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 4_Geology 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 6_ANAS_users 0_None 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 1_Dialup_server,6_ANAS_users 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 18_Technical_Uni 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 19_RENASCENE 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 20_Architecture-Building_Uni 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 12_Khazar_Uni 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 21_Foreign_Language_Uni. 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 5_Physics 0_None 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 6_ANAS_users,1_Dialup_server 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 8_Information_Tech. 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 9_Baku_Uni 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 10_Shamsa_Obs. 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 11_Cybenetics 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 16_Silk_Highway 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 14_Economical_Uni 0_None 0_None"
+        },
+        {
+            "x": 0,
+            "cycle": "0_None 15_Local_ISP 0_None 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 13_NOC,15_Local_ISP 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 13_NOC,15_Local_ISP 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 1,
+            "cycle": "0_None 15_Local_ISP,13_NOC 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 5_Physics 4_Geology 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 9_Baku_Uni 4_Geology 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 9_Baku_Uni 5_Physics 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 11_Cybenetics 10_Shamsa_Obs. 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 12_Khazar_Uni 10_Shamsa_Obs. 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 12_Khazar_Uni 11_Cybenetics 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 16_Silk_Highway 14_Economical_Uni 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 18_Technical_Uni 16_Silk_Highway 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 18_Technical_Uni 14_Economical_Uni 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 20_Architecture-Building_Uni 19_RENASCENE 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 21_Foreign_Language_Uni. 19_RENASCENE 0_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_None 21_Foreign_Language_Uni. 20_Architecture-Building_Uni 0_None"
+        }
+    ],
+    "values": [
+        20,
+        19,
+        19,
+        18.5,
+        17.5,
+        17.5,
+        17,
+        16,
+        16,
+        15.5,
+        14.5,
+        14.5,
+        14
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 174260,
+    "lpBound": 14
+}

@@ -1,0 +1,256 @@
+{
+    "initialCoverSize": 40,
+    "times": [
+        1694918,
+        7195444,
+        12701831,
+        18006208,
+        23544790,
+        28906301,
+        34255138,
+        39843965,
+        45172289,
+        50696109,
+        56222831,
+        61555902
+    ],
+    "finalCoverSize": 16,
+    "minSegCycles": [
+        "10_? 0_Montevideo 1_Rosario 10_?",
+        "10_? 22_Mendoza 0_Montevideo 10_?",
+        "10_? 4_? 0_Montevideo 10_?",
+        "10_? 42_Londrina 0_Montevideo 10_?",
+        "10_? 3_Port_Alegre 0_Montevideo 10_?",
+        "10_? 5_La_Paz 0_Montevideo 10_?",
+        "10_? 6_Santiago 8_Lima 10_?",
+        "10_? 6_Santiago 1_Rosario 10_?",
+        "10_? 1_Rosario 47_New_York 10_?",
+        "10_? 43_Sucre 0_Montevideo 10_?",
+        "10_? 8_Lima 6_Santiago 10_?",
+        "10_? 9_Cuenca 0_Montevideo 10_?",
+        "10_? 13_Costa_Rica 10_? 10_?",
+        "10_? 11_Durango 0_Montevideo 10_?",
+        "10_? 12_Guadajajara 0_Montevideo 10_?",
+        "10_? 13_Costa_Rica 31_Honduras 10_?",
+        "10_? 17_Mexico_City 0_Montevideo 10_?",
+        "10_? 45_Cordoba 0_Montevideo 10_?",
+        "10_? 0_Montevideo 25_? 10_?",
+        "10_? 31_Honduras 0_Montevideo 10_?",
+        "10_? 26_? 0_Montevideo 10_?",
+        "10_? 49_Brasilia 0_Montevideo 10_?",
+        "10_? 31_Honduras 13_Costa_Rica 10_?",
+        "10_? 34_Cali 0_Montevideo 10_?",
+        "10_? 34_Cali 9_Cuenca 10_?",
+        "10_? 9_Cuenca 34_Cali 10_?",
+        "10_? 6_Santiago 49_Brasilia 10_?",
+        "10_? 44_Tarija 0_Montevideo 10_?",
+        "10_? 49_Brasilia 6_Santiago 10_?",
+        "10_? 45_Cordoba 8_Lima 10_?",
+        "10_? 3_Port_Alegre 26_? 10_?",
+        "10_? 8_Lima 45_Cordoba 10_?",
+        "10_? 11_Durango 5_La_Paz 10_?",
+        "10_? 12_Guadajajara 5_La_Paz 10_?",
+        "10_? 12_Guadajajara 11_Durango 10_?",
+        "10_? 25_? 17_Mexico_City 10_?",
+        "10_? 42_Londrina 17_Mexico_City 10_?",
+        "10_? 42_Londrina 25_? 10_?",
+        "10_? 25_? 3_Port_Alegre 10_?",
+        "10_? 26_? 44_Tarija 10_?"
+    ],
+    "values": [
+        20,
+        18,
+        17,
+        16,
+        15,
+        15,
+        14.5,
+        13.5,
+        13.5,
+        13.5,
+        13.166666666666668,
+        13
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 14,
+    "runtime": 106562797,
+    "lpBound": 13,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "10_? 0_Montevideo 1_Rosario 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 22_Mendoza 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 4_? 0_Montevideo 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 42_Londrina 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 3_Port_Alegre 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 5_La_Paz 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 6_Santiago 8_Lima 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 6_Santiago 1_Rosario 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 1_Rosario 47_New_York 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 43_Sucre 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 8_Lima 6_Santiago 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 9_Cuenca 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 13_Costa_Rica 10_? 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 11_Durango 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 12_Guadajajara 0_Montevideo 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 13_Costa_Rica 31_Honduras 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 17_Mexico_City 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 45_Cordoba 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 0_Montevideo 25_? 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 31_Honduras 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 26_? 0_Montevideo 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 49_Brasilia 0_Montevideo 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 31_Honduras 13_Costa_Rica 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 34_Cali 0_Montevideo 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 34_Cali 9_Cuenca 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 9_Cuenca 34_Cali 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 6_Santiago 49_Brasilia 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 44_Tarija 0_Montevideo 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 49_Brasilia 6_Santiago 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 45_Cordoba 8_Lima 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 3_Port_Alegre 26_? 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 8_Lima 45_Cordoba 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 11_Durango 5_La_Paz 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 12_Guadajajara 5_La_Paz 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 12_Guadajajara 11_Durango 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 25_? 17_Mexico_City 10_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "10_? 42_Londrina 17_Mexico_City 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 42_Londrina 25_? 10_?"
+        },
+        {
+            "x": 0,
+            "cycle": "10_? 25_? 3_Port_Alegre 10_?"
+        },
+        {
+            "x": 1,
+            "cycle": "10_? 26_? 44_Tarija 10_?"
+        }
+    ],
+    "greedySolution": [
+        "10_? 9_Cuenca 0_Montevideo 10_?",
+        "10_? 13_Costa_Rica 31_Honduras 10_?",
+        "10_? 31_Honduras 13_Costa_Rica 10_?",
+        "10_? 34_Cali 9_Cuenca 10_?",
+        "10_? 9_Cuenca 34_Cali 10_?",
+        "10_? 6_Santiago 49_Brasilia 10_?",
+        "10_? 49_Brasilia 6_Santiago 10_?",
+        "10_? 45_Cordoba 8_Lima 10_?",
+        "10_? 3_Port_Alegre 26_? 10_?",
+        "10_? 8_Lima 45_Cordoba 10_?",
+        "10_? 11_Durango 5_La_Paz 10_?",
+        "10_? 12_Guadajajara 5_La_Paz 10_?",
+        "10_? 42_Londrina 17_Mexico_City 10_?",
+        "10_? 26_? 44_Tarija 10_?"
+    ]
+}

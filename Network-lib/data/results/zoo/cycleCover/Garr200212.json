@@ -1,0 +1,307 @@
+{
+    "initialCoverSize": 46,
+    "times": [
+        1412042,
+        2720220,
+        3972662,
+        5406033,
+        6672583,
+        7943508,
+        9275067,
+        10498117,
+        11685188,
+        12952619,
+        14275143,
+        15577734,
+        16776343,
+        18113128,
+        19374168,
+        20656048,
+        21964284,
+        23323312,
+        24657531,
+        26052939,
+        27370693
+    ],
+    "finalCoverSize": 21,
+    "minSegCycles": [
+        "12_KQ 0_CT 1_PA 12_KQ",
+        "12_KQ 3_CS 0_CT 12_KQ",
+        "12_KQ 0_CT 4_MI 12_KQ",
+        "12_KQ 10_NA 0_CT 12_KQ",
+        "12_KQ 18_BA 0_CT 12_KQ",
+        "12_KQ 4_MI 0_CT 12_KQ",
+        "12_KQ 5_TO 0_CT 12_KQ",
+        "12_KQ 6_TS 0_CT 12_KQ",
+        "12_KQ 7_PD 0_CT 12_KQ",
+        "12_KQ 8_GE 0_CT 12_KQ",
+        "12_KQ 4_MI@13_BO 12_KQ",
+        "12_KQ 4_MI@13_BO 12_KQ",
+        "12_KQ 14_MIX 0_CT 12_KQ",
+        "12_KQ 15_MI 0_CT 12_KQ",
+        "12_KQ 20_GEANT 0_CT 12_KQ",
+        "12_KQ 21_GX 0_CT 12_KQ",
+        "12_KQ 9_FI 11_BO 12_KQ",
+        "12_KQ 13_BO@4_MI 12_KQ",
+        "12_KQ 13_BO@4_MI 12_KQ",
+        "12_KQ 19_PI 9_FI 12_KQ",
+        "12_KQ 16_RM 0_CT 12_KQ",
+        "12_KQ 17_FRA 0_CT 12_KQ",
+        "12_KQ 22_CA 0_CT 12_KQ",
+        "12_KQ 23_NAMEX 0_CT 12_KQ",
+        "12_KQ 25_PG 0_CT 12_KQ",
+        "12_KQ 26_AQ 0_CT 12_KQ",
+        "12_KQ 1_PA 5_TO 12_KQ",
+        "12_KQ 3_CS 6_TS 12_KQ",
+        "12_KQ 3_CS 1_PA 12_KQ",
+        "12_KQ 5_TO 3_CS 12_KQ",
+        "12_KQ 8_GE 7_PD 12_KQ",
+        "12_KQ 10_NA 8_GE 12_KQ",
+        "12_KQ 10_NA 7_PD 12_KQ",
+        "12_KQ 16_RM 11_BO 12_KQ",
+        "12_KQ 17_FRA 11_BO 12_KQ",
+        "12_KQ 15_MI 14_MIX 12_KQ",
+        "12_KQ 16_RM 15_MI 12_KQ",
+        "12_KQ 16_RM 14_MIX 12_KQ",
+        "12_KQ 18_BA 17_FRA 12_KQ",
+        "12_KQ 20_GEANT 18_BA 12_KQ",
+        "12_KQ 22_CA 19_PI 12_KQ",
+        "12_KQ 17_FRA 9_FI 12_KQ",
+        "12_KQ 21_GX 20_GEANT 12_KQ",
+        "12_KQ 25_PG 23_NAMEX 12_KQ",
+        "12_KQ 26_AQ 23_NAMEX 12_KQ",
+        "12_KQ 26_AQ 25_PG 12_KQ"
+    ],
+    "values": [
+        25,
+        23,
+        22,
+        22,
+        22,
+        21,
+        21,
+        20.5,
+        19.5,
+        19.5,
+        18.5,
+        18.5,
+        18,
+        17.5,
+        17,
+        17,
+        16.5,
+        16.25,
+        15.25,
+        15.25,
+        15
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 17,
+    "runtime": 40755520,
+    "lpBound": 15,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "12_KQ 0_CT 1_PA 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 3_CS 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 0_CT 4_MI 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 10_NA 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 18_BA 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 4_MI 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 5_TO 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 6_TS 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 7_PD 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 8_GE 0_CT 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 4_MI@13_BO 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 4_MI@13_BO 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 14_MIX 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 15_MI 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 20_GEANT 0_CT 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 21_GX 0_CT 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 9_FI 11_BO 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 13_BO@4_MI 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 13_BO@4_MI 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 19_PI 9_FI 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 16_RM 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 17_FRA 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 22_CA 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 23_NAMEX 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 25_PG 0_CT 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 26_AQ 0_CT 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 1_PA 5_TO 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 3_CS 6_TS 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 3_CS 1_PA 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 5_TO 3_CS 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 8_GE 7_PD 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 10_NA 8_GE 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 10_NA 7_PD 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 16_RM 11_BO 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 17_FRA 11_BO 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 15_MI 14_MIX 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 16_RM 15_MI 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 16_RM 14_MIX 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 18_BA 17_FRA 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 20_GEANT 18_BA 12_KQ"
+        },
+        {
+            "x": 1,
+            "cycle": "12_KQ 22_CA 19_PI 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 17_FRA 9_FI 12_KQ"
+        },
+        {
+            "x": 0,
+            "cycle": "12_KQ 21_GX 20_GEANT 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 25_PG 23_NAMEX 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 26_AQ 23_NAMEX 12_KQ"
+        },
+        {
+            "x": 0.5,
+            "cycle": "12_KQ 26_AQ 25_PG 12_KQ"
+        }
+    ],
+    "greedySolution": [
+        "12_KQ 5_TO 0_CT 12_KQ",
+        "12_KQ 4_MI@13_BO 12_KQ",
+        "12_KQ 4_MI@13_BO 12_KQ",
+        "12_KQ 9_FI 11_BO 12_KQ",
+        "12_KQ 13_BO@4_MI 12_KQ",
+        "12_KQ 13_BO@4_MI 12_KQ",
+        "12_KQ 1_PA 5_TO 12_KQ",
+        "12_KQ 3_CS 6_TS 12_KQ",
+        "12_KQ 10_NA 8_GE 12_KQ",
+        "12_KQ 10_NA 7_PD 12_KQ",
+        "12_KQ 15_MI 14_MIX 12_KQ",
+        "12_KQ 16_RM 15_MI 12_KQ",
+        "12_KQ 18_BA 17_FRA 12_KQ",
+        "12_KQ 22_CA 19_PI 12_KQ",
+        "12_KQ 21_GX 20_GEANT 12_KQ",
+        "12_KQ 25_PG 23_NAMEX 12_KQ",
+        "12_KQ 26_AQ 23_NAMEX 12_KQ"
+    ]
+}

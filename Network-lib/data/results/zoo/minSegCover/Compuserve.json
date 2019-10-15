@@ -1,0 +1,23 @@
+{
+    "nbCycles": 15,
+    "runtime": 2346635,
+    "cycles": [
+        "0_1 1_1 0_1 0_1 0_1",
+        "0_1 11_Atlanta 0_1 0_1 0_1",
+        "0_1 5_New_York 0_1 0_1 0_1",
+        "0_1 3_1 0_1 0_1 0_1",
+        "0_1 4_Boston 2_Washington,_DC 0_1 0_1",
+        "0_1 2_Washington,_DC 4_Boston 0_1 0_1",
+        "0_1 4_Boston 6_Seattle 4_Boston 0_1",
+        "0_1 4_Boston 6_Seattle 7_San_Francisco 0_1",
+        "0_1 7_San_Francisco 6_Seattle 4_Boston 0_1",
+        "0_1 7_San_Francisco 8_Los_Angeles,7_San_Francisco 0_1",
+        "0_1 7_San_Francisco 8_Los_Angeles 9_Dallas 0_1",
+        "0_1 9_Dallas 8_Los_Angeles,7_San_Francisco 0_1",
+        "0_1 10_Houston 0_1 0_1 0_1",
+        "0_1 9_Dallas 11_Atlanta 0_1 0_1",
+        "0_1 2_Washington,_DC 10_Houston 0_1 0_1"
+    ],
+    "segmentCost": 5,
+    "source": "0_1"
+}

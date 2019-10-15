@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 1,
+            "runtime": 79137721,
+            "dest": "26_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Reims",
+            "nbpSR": 1,
+            "runtime": 79597873,
+            "dest": "20_Nantes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Limoges",
+            "nbpSR": 2,
+            "runtime": 65388329,
+            "dest": "19_Internet_mondial",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Internet_mondial",
+            "nbpSR": 2,
+            "runtime": 158222221,
+            "dest": "9_Nice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Geant2",
+            "nbpSR": 1,
+            "runtime": 72229370,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 2,
+            "runtime": 144088937,
+            "dest": "9_Nice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Nice",
+            "nbpSR": 2,
+            "runtime": 87488572,
+            "dest": "15_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Reims",
+            "nbpSR": 1,
+            "runtime": 65532570,
+            "dest": "10_Connexion_vers_le_Star_Tap",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 1,
+            "runtime": 144956381,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Dijon",
+            "nbpSR": 1,
+            "runtime": 62687751,
+            "dest": "22_Strasbourg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 81208703,
+            "dest": "1_Toulouse",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Nice",
+            "nbpSR": 2,
+            "runtime": 73037065,
+            "dest": "8_Grenoble",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Connexion_Asie_Pacifique",
+            "nbpSR": 1,
+            "runtime": 73290146,
+            "dest": "19_Internet_mondial",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 74523917,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 2,
+            "runtime": 85296621,
+            "dest": "22_Strasbourg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Grenoble",
+            "nbpSR": 2,
+            "runtime": 88998230,
+            "dest": "5_Besancon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Marseille",
+            "nbpSR": 1,
+            "runtime": 76847755,
+            "dest": "26_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Poiters",
+            "nbpSR": 1,
+            "runtime": 148440940,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Nantes",
+            "nbpSR": 2,
+            "runtime": 137521691,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Nice",
+            "nbpSR": 2,
+            "runtime": 76429563,
+            "dest": "8_Grenoble",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Connexion_vers_le_Star_Tap",
+            "nbpSR": 1,
+            "runtime": 57474029,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 1,
+            "runtime": 145449432,
+            "dest": "26_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Geant2",
+            "nbpSR": 1,
+            "runtime": 57702143,
+            "dest": "10_Connexion_vers_le_Star_Tap",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Paris",
+            "nbpSR": 1,
+            "runtime": 74030100,
+            "dest": "16_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 2,
+            "runtime": 120788081,
+            "dest": "20_Nantes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 1,
+            "runtime": 79068754,
+            "dest": "25_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Strasbourg",
+            "nbpSR": 2,
+            "runtime": 62961062,
+            "dest": "12_Lyon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 1,
+            "runtime": 80313810,
+            "dest": "24_Reims",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 59380486,
+            "dest": "11_Connexion_Asie_Pacifique",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 1,
+            "runtime": 161541451,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Corte",
+            "nbpSR": 1,
+            "runtime": 151788390,
+            "dest": "2_Orleans",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 1,
+            "runtime": 134690167,
+            "dest": "17_SFINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Rennes",
+            "nbpSR": 2,
+            "runtime": 139564229,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 1,
+            "runtime": 66607678,
+            "dest": "18_Martinique,_Guadeloupe,_Guyane,_La_Reunion,_Nouvelle_Caledonie,_Tahiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 2,
+            "runtime": 135562431,
+            "dest": "29_Rennes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Paris",
+            "nbpSR": 4,
+            "runtime": 69087225,
+            "dest": "21_Poiters",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 2,
+            "runtime": 56996833,
+            "dest": "23_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Marseille",
+            "nbpSR": 1,
+            "runtime": 139128527,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Nice",
+            "nbpSR": 2,
+            "runtime": 135050260,
+            "dest": "13_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 2,
+            "runtime": 88874867,
+            "dest": "23_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 1,
+            "runtime": 78675778,
+            "dest": "26_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 72236101,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 2,
+            "runtime": 142552790,
+            "dest": "19_Internet_mondial",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Strasbourg",
+            "nbpSR": 2,
+            "runtime": 57510549,
+            "dest": "3_Limoges",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Nancy",
+            "nbpSR": 2,
+            "runtime": 75990713,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Paris",
+            "nbpSR": 2,
+            "runtime": 105322915,
+            "dest": "27_Rouen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Paris",
+            "nbpSR": 2,
+            "runtime": 151756613,
+            "dest": "9_Nice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 57213966,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Rennes",
+            "nbpSR": 2,
+            "runtime": 143555242,
+            "dest": "22_Strasbourg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 57261917,
+            "dest": "25_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Connexion_vers_le_Star_Tap",
+            "nbpSR": 1,
+            "runtime": 59696039,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 1,
+            "runtime": 69864019,
+            "dest": "16_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 1,
+            "runtime": 187149327,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Connexion_vers_le_Star_Tap",
+            "nbpSR": 1,
+            "runtime": 82742315,
+            "dest": "27_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 62737069,
+            "dest": "13_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Geant2",
+            "nbpSR": 1,
+            "runtime": 60984962,
+            "dest": "6_Montpellier",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Martinique,_Guadeloupe,_Guyane,_La_Reunion,_Nouvelle_Caledonie,_Tahiti",
+            "nbpSR": 1,
+            "runtime": 57397993,
+            "dest": "19_Internet_mondial",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 2,
+            "runtime": 152315432,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Reims",
+            "nbpSR": 1,
+            "runtime": 83716247,
+            "dest": "1_Toulouse",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Poiters",
+            "nbpSR": 1,
+            "runtime": 67550805,
+            "dest": "2_Orleans",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Clermont-Ferrand",
+            "nbpSR": 2,
+            "runtime": 109051317,
+            "dest": "22_Strasbourg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Limoges",
+            "nbpSR": 1,
+            "runtime": 72309747,
+            "dest": "10_Connexion_vers_le_Star_Tap",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 3,
+            "runtime": 61332501,
+            "dest": "12_Lyon",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "22_Strasbourg",
+            "nbpSR": 2,
+            "runtime": 79229766,
+            "dest": "8_Grenoble",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 2,
+            "runtime": 72285150,
+            "dest": "15_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 162274587,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 59362276,
+            "dest": "15_Marseille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Lille",
+            "nbpSR": 1,
+            "runtime": 70155197,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Marseille",
+            "nbpSR": 2,
+            "runtime": 79662126,
+            "dest": "5_Besancon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Connexion_Asie_Pacifique",
+            "nbpSR": 1,
+            "runtime": 57597176,
+            "dest": "23_Nancy",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 2,
+            "runtime": 102736451,
+            "dest": "13_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "26_Lille",
+            "nbpSR": 1,
+            "runtime": 83546228,
+            "dest": "27_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 2,
+            "runtime": 139592200,
+            "dest": "9_Nice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Clermont-Ferrand",
+            "nbpSR": 1,
+            "runtime": 61804878,
+            "dest": "2_Orleans",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Caen",
+            "nbpSR": 1,
+            "runtime": 170289366,
+            "dest": "14_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Geant2",
+            "nbpSR": 1,
+            "runtime": 62627871,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Caen",
+            "nbpSR": 2,
+            "runtime": 139521366,
+            "dest": "12_Lyon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Marseille",
+            "nbpSR": 2,
+            "runtime": 79483489,
+            "dest": "3_Limoges",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 75487067,
+            "dest": "25_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 1,
+            "runtime": 140364094,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Rouen",
+            "nbpSR": 2,
+            "runtime": 148866526,
+            "dest": "3_Limoges",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Lyon",
+            "nbpSR": 2,
+            "runtime": 71221380,
+            "dest": "3_Limoges",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Geant2",
+            "nbpSR": 1,
+            "runtime": 69545844,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grenoble",
+            "nbpSR": 2,
+            "runtime": 78915304,
+            "dest": "13_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Internet_mondial",
+            "nbpSR": 2,
+            "runtime": 85155173,
+            "dest": "28_Caen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Connexion_Asie_Pacifique",
+            "nbpSR": 1,
+            "runtime": 130294596,
+            "dest": "29_Rennes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Nantes",
+            "nbpSR": 2,
+            "runtime": 132325412,
+            "dest": "21_Poiters",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Compiegne",
+            "nbpSR": 1,
+            "runtime": 57368286,
+            "dest": "18_Martinique,_Guadeloupe,_Guyane,_La_Reunion,_Nouvelle_Caledonie,_Tahiti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Poiters",
+            "nbpSR": 1,
+            "runtime": 71644904,
+            "dest": "2_Orleans",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Rennes",
+            "nbpSR": 1,
+            "runtime": 149897433,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Martinique,_Guadeloupe,_Guyane,_La_Reunion,_Nouvelle_Caledonie,_Tahiti",
+            "nbpSR": 1,
+            "runtime": 69917866,
+            "dest": "16_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Corte",
+            "nbpSR": 1,
+            "runtime": 140890268,
+            "dest": "13_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Strasbourg",
+            "nbpSR": 1,
+            "runtime": 70343904,
+            "dest": "16_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Caen",
+            "nbpSR": 2,
+            "runtime": 149876743,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_Rennes",
+            "nbpSR": 2,
+            "runtime": 143357298,
+            "dest": "5_Besancon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Reims",
+            "nbpSR": 1,
+            "runtime": 78660390,
+            "dest": "12_Lyon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Internet_mondial",
+            "nbpSR": 1,
+            "runtime": 71147647,
+            "dest": "26_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grenoble",
+            "nbpSR": 2,
+            "runtime": 151627705,
+            "dest": "21_Poiters",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Corte",
+            "nbpSR": 1,
+            "runtime": 139719637,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_SFINX",
+            "nbpSR": 1,
+            "runtime": 57077056,
+            "dest": "13_Paris",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

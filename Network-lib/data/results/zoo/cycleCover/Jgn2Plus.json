@@ -1,0 +1,92 @@
+{
+    "initialCoverSize": 13,
+    "times": [1377931],
+    "finalCoverSize": 11,
+    "minSegCycles": [
+        "0_Chugoku 1_Kinki@0_Chugoku",
+        "0_Chugoku 2_Kyushu@0_Chugoku",
+        "0_Chugoku 3_Shikoku 0_Chugoku",
+        "0_Chugoku 4_Shinetsu 0_Chugoku",
+        "0_Chugoku 9_Okinawa 0_Chugoku",
+        "0_Chugoku 5_Busan 0_Chugoku",
+        "0_Chugoku 7_Hokuriku 0_Chugoku",
+        "0_Chugoku 8_Hongkong 0_Chugoku",
+        "0_Chugoku 10_Hokkaido 0_Chugoku",
+        "0_Chugoku 13_Chicago 0_Chugoku",
+        "0_Chugoku 16_Singapore 0_Chugoku",
+        "0_Chugoku 17_Bangkok 0_Chugoku",
+        "0_Chugoku 14_Los_Angeles 0_Chugoku"
+    ],
+    "values": [11],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 11,
+    "runtime": 3800158,
+    "lpBound": 11,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 1_Kinki@0_Chugoku"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chugoku 2_Kyushu@0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 3_Shikoku 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 4_Shinetsu 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 9_Okinawa 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 5_Busan 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 7_Hokuriku 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 8_Hongkong 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 10_Hokkaido 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 13_Chicago 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 16_Singapore 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 17_Bangkok 0_Chugoku"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Chugoku 14_Los_Angeles 0_Chugoku"
+        }
+    ],
+    "greedySolution": [
+        "0_Chugoku 3_Shikoku 0_Chugoku",
+        "0_Chugoku 4_Shinetsu 0_Chugoku",
+        "0_Chugoku 9_Okinawa 0_Chugoku",
+        "0_Chugoku 5_Busan 0_Chugoku",
+        "0_Chugoku 7_Hokuriku 0_Chugoku",
+        "0_Chugoku 8_Hongkong 0_Chugoku",
+        "0_Chugoku 10_Hokkaido 0_Chugoku",
+        "0_Chugoku 13_Chicago 0_Chugoku",
+        "0_Chugoku 16_Singapore 0_Chugoku",
+        "0_Chugoku 17_Bangkok 0_Chugoku",
+        "0_Chugoku 14_Los_Angeles 0_Chugoku"
+    ]
+}

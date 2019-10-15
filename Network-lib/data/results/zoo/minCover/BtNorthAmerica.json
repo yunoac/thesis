@@ -1,0 +1,894 @@
+{
+    "initialCoverSize": 174,
+    "times": [
+        3372489,
+        7979629,
+        12593543,
+        17127257,
+        21755154,
+        26448780,
+        31043085,
+        35673744,
+        40170248,
+        44884487,
+        49542876,
+        54078161,
+        58733212,
+        66311133,
+        71861435,
+        76486152,
+        81171366,
+        85691705,
+        90149729,
+        94571799,
+        99330551,
+        103827792,
+        108287743,
+        112859933,
+        117488899,
+        121985596,
+        126571912,
+        131088384,
+        135847291,
+        140389313,
+        144858165,
+        149448599,
+        154107695,
+        158478157,
+        165846912,
+        175510493,
+        180972976,
+        186562120,
+        191179477,
+        196097356,
+        200568723,
+        205080816,
+        209661245,
+        214289118,
+        218835850,
+        223523538,
+        230203805,
+        236087397,
+        241158230,
+        246218078,
+        251286978,
+        256361254,
+        262092877,
+        268655863,
+        273476739,
+        278519674,
+        283328590,
+        287912140,
+        292727912,
+        297620081,
+        302598719,
+        307497300,
+        312306636,
+        317270132,
+        322016155,
+        326784199,
+        332718016,
+        340522326,
+        347884669,
+        353158126,
+        358221017,
+        363104073,
+        367667427,
+        372628919,
+        377410888,
+        382535187,
+        387744780,
+        392519051,
+        397384347,
+        402407164,
+        407309332,
+        412425631,
+        417293592,
+        422239366,
+        427059214,
+        433887658,
+        438956599,
+        446395490,
+        451767098,
+        456794777,
+        461767775,
+        466641311,
+        471613671
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 1_Salt_Lake,0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 1_Salt_Lake 2_Denver,0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 22_Cermak 0_Cheyenne 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 1_Salt_Lake 28_Sunnyvale,1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 29_Boise 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 10_Newark 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 2_Denver 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 4_Portland 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 4_Portland 15_Tukwita 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 1_Salt_Lake 7_Seattle 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 10_Newark 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 5_Eugene 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 30_Helena 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 20_Tucson 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 9_Los_Angeles 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 21_Phoenix 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 8_Burbank 17_Chicago 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 10_Newark 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 11_New_York 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 12_Boston 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 13_Eckington 3_? 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 14_Europe 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 6_Spokane 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 11_New_York 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 12_Boston 16_Washington 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 11_New_York 12_Boston 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 11_New_York 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 10_Newark 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 11_New_York 6_Spokane 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 13_Eckington 16_Washington 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 22_Cermak 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 24_Tampa 3_? 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 25_Houston 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 5_Eugene 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 14_Europe 16_Washington 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 15_Tukwita 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 29_Boise 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 16_Washington 12_Boston 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 6_Spokane 16_Washington 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 16_Washington 14_Europe 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 14_Europe 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 17_Chicago 22_Cermak 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 17_Chicago 8_Burbank 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 18_Dallas 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 18_Dallas 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 18_Dallas 19_Albuquerque 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 18_Dallas 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 13_Eckington 3_? 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 7_Seattle 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 1_Salt_Lake 32_Fargo 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 3_? 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 23_Atlanta 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 23_Atlanta 14_Europe 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 0_Cheyenne 23_Atlanta 24_Tampa 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 23_Atlanta 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 24_Tampa 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 24_Tampa 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_?,2_Denver 25_Houston 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 18_Dallas 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 24_Tampa 3_? 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 26_? 34_Sioux_City 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 26_? 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 32_Fargo 1_Salt_Lake 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 34_Sioux_City 0_Cheyenne 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 13_Eckington 3_? 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 29_Boise 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 7_Seattle 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 32_Fargo 34_Sioux_City 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 32_Fargo 2_Denver,0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 34_Sioux_City 32_Fargo 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 34_Sioux_City 26_? 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 24_Tampa 20_Tucson 24_Tampa 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 30_Helena 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 32_Fargo 18_Dallas 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 32_Fargo 19_Albuquerque 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 29_Boise 7_Seattle 22_Cermak 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 23_Atlanta 21_Phoenix 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 5_Eugene 4_Portland 29_Boise 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 10_Newark 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 9_Los_Angeles 4_Portland 10_Newark 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 21_Phoenix 26_? 21_Phoenix 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 24_Tampa 21_Phoenix 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 18_Dallas 23_Atlanta 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 30_Helena 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 30_Helena 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 15_Tukwita 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 4_Portland 18_Dallas 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 7_Seattle 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 7_Seattle 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 15_Tukwita 4_Portland 5_Eugene 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 5_Eugene 13_Eckington 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 20_Tucson 6_Spokane 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 15_Tukwita 4_Portland 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 17_Chicago 8_Burbank 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 7_Seattle 10_Newark 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 9_Los_Angeles 10_Newark 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 9_Los_Angeles 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 24_Tampa 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 13_Eckington 23_Atlanta 18_Dallas 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 4_Portland 32_Fargo 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 17_Chicago 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 9_Los_Angeles 24_Tampa 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 15_Tukwita 4_Portland 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 11_New_York 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 13_Eckington 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 7_Seattle 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 13_Eckington 5_Eugene 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 10_Newark 13_Eckington 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 13_Eckington 5_Eugene 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 28_Sunnyvale 13_Eckington 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 12_Boston 16_Washington 12_Boston 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 10_Newark 11_New_York 13_Eckington 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 13_Eckington 11_New_York 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 12_Boston 16_Washington 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 16_Washington 12_Boston 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 13_Eckington 22_Cermak 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 23_Atlanta 13_Eckington 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 13_Eckington 25_Houston 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 18_Dallas 28_Sunnyvale 1_Salt_Lake 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 15_Tukwita 18_Dallas 19_Albuquerque 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 21_Phoenix 18_Dallas 15_Tukwita 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 18_Dallas 19_Albuquerque 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 25_Houston 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 23_Atlanta 14_Europe 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 14_Europe 23_Atlanta 9_Los_Angeles 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 14_Europe 23_Atlanta 13_Eckington 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 24_Tampa 23_Atlanta 14_Europe 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 6_Spokane 20_Tucson 15_Tukwita 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 7_Seattle 2_Denver 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 17_Chicago 8_Burbank 17_Chicago 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 26_? 34_Sioux_City 26_? 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 26_? 34_Sioux_City 32_Fargo 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 31_Billings 7_Seattle 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 13_Eckington 22_Cermak 17_Chicago 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 0_Cheyenne 4_Portland 24_Tampa 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 32_Fargo 34_Sioux_City 26_? 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 34_Sioux_City 21_Phoenix 34_Sioux_City 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 32_Fargo 4_Portland 32_Fargo 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 21_Phoenix 9_Los_Angeles 21_Phoenix 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 18_Dallas 24_Tampa 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 32_Fargo 23_Atlanta 0_Cheyenne 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 17_Chicago 22_Cermak 13_Eckington 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 19_Albuquerque 20_Tucson 15_Tukwita 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 6_Spokane 11_New_York 21_Phoenix 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 29_Boise 23_Atlanta 22_Cermak 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 9_Los_Angeles 23_Atlanta 24_Tampa 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 34_Sioux_City 30_Helena 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 4_Portland 0_Cheyenne 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 0_Cheyenne 30_Helena 10_Newark 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 22_Cermak 23_Atlanta 32_Fargo 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 34_Sioux_City 32_Fargo 2_Denver 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 15_Tukwita 20_Tucson 6_Spokane 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 15_Tukwita 20_Tucson 15_Tukwita 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 4_Portland 5_Eugene 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 29_Boise 4_Portland 5_Eugene 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 10_Newark 7_Seattle 22_Cermak 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 13_Eckington 22_Cermak 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 22_Cermak 7_Seattle 31_Billings 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 10_Newark 4_Portland 15_Tukwita 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 8_Burbank 17_Chicago 3_?"
+        },
+        {
+            "x": 0,
+            "cycle": "3_? 5_Eugene 4_Portland 24_Tampa 3_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_? 10_Newark 4_Portland 24_Tampa 3_?"
+        },
+        {
+            "x": 1,
+            "cycle": "3_? 19_Albuquerque 18_Dallas 15_Tukwita 3_?"
+        }
+    ],
+    "values": [
+        58,
+        55,
+        54,
+        53,
+        53,
+        52,
+        52,
+        50,
+        49,
+        47,
+        47,
+        47,
+        47,
+        46,
+        46,
+        46,
+        46,
+        46,
+        46,
+        45,
+        44,
+        44,
+        44,
+        44,
+        43,
+        43,
+        43,
+        43,
+        42.333333333333336,
+        42,
+        42,
+        42.00000000000001,
+        41.333333333333336,
+        40.333333333333336,
+        40.333333333333336,
+        40.33333333333333,
+        39.33333333333333,
+        39.33333333333333,
+        39.33333333333333,
+        39.33333333333332,
+        38.33333333333333,
+        38.33333333333333,
+        38.33333333333333,
+        38.33333333333333,
+        38.33333333333333,
+        37.33333333333333,
+        36.8,
+        36.8,
+        36.8,
+        36.8,
+        36.666666666666664,
+        36.5,
+        36.41176470588234,
+        36.25,
+        35.83333333333333,
+        35.33333333333332,
+        35.33333333333332,
+        35.33333333333332,
+        35,
+        35,
+        34,
+        34,
+        34,
+        33.666666666666664,
+        33.57142857142857,
+        33.57142857142858,
+        33.57142857142858,
+        33.22222222222222,
+        32.9,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.5,
+        32.50000000000001,
+        32.5,
+        32.50000000000001,
+        32.44444444444445,
+        32.357142857142854,
+        32.3,
+        32.28571428571428,
+        32.28571428571428,
+        32.02941176470588,
+        32.029411764705884,
+        32.029411764705884,
+        32.029411764705884,
+        32,
+        32
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 612791,
+    "lpBound": 32
+}

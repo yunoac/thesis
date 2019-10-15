@@ -1,0 +1,135 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        1235700,
+        2340402,
+        3505369,
+        4598639,
+        5674420,
+        6757201
+    ],
+    "finalCoverSize": 5,
+    "minSegCycles": [
+        "0_ILLINOIS 1_MITRE 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 8_Tinker 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 1_MITRE 4_ETAC 0_ILLINOIS",
+        "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 1_MITRE 0_ILLINOIS",
+        "0_ILLINOIS 8_Tinker 1_MITRE 0_ILLINOIS",
+        "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 13_AMES 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 12_RAND 17_SRI 0_ILLINOIS",
+        "0_ILLINOIS 20_Stanford 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 9_AMES 12_RAND 0_ILLINOIS",
+        "0_ILLINOIS 1_MITRE 8_Tinker 0_ILLINOIS",
+        "0_ILLINOIS 18_UCSB 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 17_SRI 12_RAND 0_ILLINOIS",
+        "0_ILLINOIS 1_MITRE 13_AMES 0_ILLINOIS",
+        "0_ILLINOIS 13_AMES 4_ETAC 0_ILLINOIS",
+        "0_ILLINOIS 15_BBN 5_AFGWC 0_ILLINOIS",
+        "0_ILLINOIS 5_AFGWC 1_MITRE 0_ILLINOIS",
+        "0_ILLINOIS 13_AMES 1_MITRE 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 5_AFGWC 0_ILLINOIS"
+    ],
+    "values": [
+        8,
+        6,
+        6,
+        6,
+        5,
+        5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 5,
+    "runtime": 12694202,
+    "lpBound": 5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 1_MITRE 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 8_Tinker 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 1_MITRE 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 1_MITRE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 8_Tinker 1_MITRE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_AMES 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ILLINOIS 12_RAND 17_SRI 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 20_Stanford 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 9_AMES 12_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 1_MITRE 8_Tinker 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_UCSB 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ILLINOIS 17_SRI 12_RAND 0_ILLINOIS"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ILLINOIS 1_MITRE 13_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ILLINOIS 13_AMES 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_BBN 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 1_MITRE 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 13_AMES 1_MITRE 0_ILLINOIS"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ILLINOIS 4_ETAC 5_AFGWC 0_ILLINOIS"
+        }
+    ],
+    "greedySolution": [
+        "0_ILLINOIS 12_RAND 17_SRI 0_ILLINOIS",
+        "0_ILLINOIS 17_SRI 12_RAND 0_ILLINOIS",
+        "0_ILLINOIS 1_MITRE 13_AMES 0_ILLINOIS",
+        "0_ILLINOIS 15_BBN 5_AFGWC 0_ILLINOIS",
+        "0_ILLINOIS 13_AMES 1_MITRE 0_ILLINOIS"
+    ]
+}

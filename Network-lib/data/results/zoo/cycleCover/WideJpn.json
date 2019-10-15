@@ -1,0 +1,318 @@
+{
+    "initialCoverSize": 49,
+    "times": [
+        1608754,
+        3271873,
+        4958184,
+        6580513,
+        8206263,
+        9949153,
+        11630980,
+        13269317,
+        14942616,
+        16602076,
+        18252941,
+        19961959,
+        21608546,
+        23233199,
+        24924226,
+        26682010,
+        28367197,
+        30052314
+    ],
+    "finalCoverSize": 24,
+    "minSegCycles": [
+        "0_KDDI_Otemachi 1_Nezu@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 4_Hachioji@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 5_Bangkok 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 12_TITECH@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 17_DIX-IE@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 18_KDDI@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 19_APAN@0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 11_PAIX 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 2_Yagami 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 28_Sendai 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 3_ShinKawasaki 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 15_AI3 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 7_Tsukuba 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 8_NSPIXP-3 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 13_T-Lex 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 14_JGN2Plus 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 27_Komatsu 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 9_JGN2Plus 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 22_Nara 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 23_Fukuoka 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 24_Hiroshima 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 25_Kurashiki 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 26_Sakyo 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 16_LAIIX 0_KDDI_Otemachi 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 21_Fujisawa@22_Nara 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 22_Nara@21_Fujisawa 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 22_Nara 26_Sakyo 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 23_Fukuoka@24_Hiroshima 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 23_Fukuoka 25_Kurashiki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 24_Hiroshima@23_Fukuoka 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 25_Kurashiki 23_Fukuoka 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 26_Sakyo 22_Nara 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 4_Hachioji 3_ShinKawasaki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 5_Bangkok 4_Hachioji 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 5_Bangkok 3_ShinKawasaki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 8_NSPIXP-3 7_Tsukuba 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 9_JGN2Plus 7_Tsukuba 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 9_JGN2Plus 8_NSPIXP-3 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 12_TITECH 11_PAIX 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 13_T-Lex 12_TITECH 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 13_T-Lex 11_PAIX 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 15_AI3 14_JGN2Plus 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 16_LAIIX 14_JGN2Plus 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 16_LAIIX 15_AI3 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 18_KDDI 17_DIX-IE 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 19_APAN 17_DIX-IE 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 19_APAN 18_KDDI 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 28_Sendai 27_Komatsu 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 28_Sendai 3_ShinKawasaki 0_KDDI_Otemachi"
+    ],
+    "values": [
+        25,
+        24,
+        24,
+        23.5,
+        22.5,
+        22.5,
+        22,
+        21,
+        21,
+        20.5,
+        19.5,
+        19.5,
+        19,
+        18,
+        18,
+        17.5,
+        16.5,
+        16.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 19,
+    "runtime": 49142943,
+    "lpBound": 16.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 1_Nezu@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 4_Hachioji@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 5_Bangkok 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 12_TITECH@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 17_DIX-IE@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 18_KDDI@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 19_APAN@0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 11_PAIX 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 2_Yagami 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 28_Sendai 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 3_ShinKawasaki 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 15_AI3 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 7_Tsukuba 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 8_NSPIXP-3 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 13_T-Lex 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 14_JGN2Plus 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 27_Komatsu 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 9_JGN2Plus 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 22_Nara 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 23_Fukuoka 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 24_Hiroshima 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 25_Kurashiki 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 26_Sakyo 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 16_LAIIX 0_KDDI_Otemachi 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 21_Fujisawa@22_Nara 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 22_Nara@21_Fujisawa 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 22_Nara 26_Sakyo 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 23_Fukuoka@24_Hiroshima 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 23_Fukuoka 25_Kurashiki 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 24_Hiroshima@23_Fukuoka 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 25_Kurashiki 23_Fukuoka 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 26_Sakyo 22_Nara 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 4_Hachioji 3_ShinKawasaki 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 5_Bangkok 4_Hachioji 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 5_Bangkok 3_ShinKawasaki 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 8_NSPIXP-3 7_Tsukuba 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 9_JGN2Plus 7_Tsukuba 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 9_JGN2Plus 8_NSPIXP-3 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 12_TITECH 11_PAIX 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 13_T-Lex 12_TITECH 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 13_T-Lex 11_PAIX 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 15_AI3 14_JGN2Plus 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 16_LAIIX 14_JGN2Plus 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 16_LAIIX 15_AI3 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 18_KDDI 17_DIX-IE 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 19_APAN 17_DIX-IE 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_KDDI_Otemachi 19_APAN 18_KDDI 0_KDDI_Otemachi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_KDDI_Otemachi 28_Sendai 27_Komatsu 0_KDDI_Otemachi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_KDDI_Otemachi 28_Sendai 3_ShinKawasaki 0_KDDI_Otemachi"
+        }
+    ],
+    "greedySolution": [
+        "0_KDDI_Otemachi 21_Fujisawa@22_Nara 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 22_Nara@21_Fujisawa 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 22_Nara 26_Sakyo 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 23_Fukuoka@24_Hiroshima 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 23_Fukuoka 25_Kurashiki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 24_Hiroshima@23_Fukuoka 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 25_Kurashiki 23_Fukuoka 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 26_Sakyo 22_Nara 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 4_Hachioji 3_ShinKawasaki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 5_Bangkok 3_ShinKawasaki 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 8_NSPIXP-3 7_Tsukuba 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 9_JGN2Plus 7_Tsukuba 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 12_TITECH 11_PAIX 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 13_T-Lex 11_PAIX 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 15_AI3 14_JGN2Plus 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 16_LAIIX 15_AI3 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 18_KDDI 17_DIX-IE 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 19_APAN 17_DIX-IE 0_KDDI_Otemachi",
+        "0_KDDI_Otemachi 28_Sendai 27_Komatsu 0_KDDI_Otemachi"
+    ]
+}

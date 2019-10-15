@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "21_Frankfurt",
+            "nbpSR": 1,
+            "runtime": 24693782,
+            "dest": "20_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Radom",
+            "nbpSR": 2,
+            "runtime": 54974639,
+            "dest": "11_Krakow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Gorzow_Wilkp",
+            "nbpSR": 1,
+            "runtime": 29819482,
+            "dest": "10_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Gdyia",
+            "nbpSR": 1,
+            "runtime": 54687013,
+            "dest": "15_Tarnow",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Rzeszow",
+            "nbpSR": 1,
+            "runtime": 54771520,
+            "dest": "15_Tarnow",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Opole",
+            "nbpSR": 2,
+            "runtime": 59423846,
+            "dest": "3_Plock",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Gorzow_Wilkp",
+            "nbpSR": 1,
+            "runtime": 32449053,
+            "dest": "9_Lodz",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Torun",
+            "nbpSR": 2,
+            "runtime": 55005704,
+            "dest": "28_Kolobrzeg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Zielona_Gora",
+            "nbpSR": 1,
+            "runtime": 23690441,
+            "dest": "32_Pila",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Kolobrzeg",
+            "nbpSR": 1,
+            "runtime": 57466857,
+            "dest": "22_Berlin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Krakow",
+            "nbpSR": 2,
+            "runtime": 97102696,
+            "dest": "31_Poznan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Zielona_Gora",
+            "nbpSR": 1,
+            "runtime": 27937276,
+            "dest": "17_Kielce",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Szczecin",
+            "nbpSR": 2,
+            "runtime": 71437997,
+            "dest": "28_Kolobrzeg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Bialystok",
+            "nbpSR": 1,
+            "runtime": 57223460,
+            "dest": "19_Prague",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Krakow",
+            "nbpSR": 2,
+            "runtime": 119392135,
+            "dest": "17_Kielce",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 1,
+            "runtime": 79583358,
+            "dest": "20_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Slupsk",
+            "nbpSR": 2,
+            "runtime": 68668077,
+            "dest": "3_Plock",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 2,
+            "runtime": 76354745,
+            "dest": "27_Koszalin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Kielce",
+            "nbpSR": 2,
+            "runtime": 69015793,
+            "dest": "32_Pila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Rzeszow",
+            "nbpSR": 2,
+            "runtime": 74862580,
+            "dest": "24_Torun",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Warsaw",
+            "nbpSR": 2,
+            "runtime": 218614786,
+            "dest": "26_Slupsk",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 93426529,
+            "dest": "16_Kalowice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Lodz",
+            "nbpSR": 2,
+            "runtime": 52069320,
+            "dest": "2_Wlocawek",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Opole",
+            "nbpSR": 2,
+            "runtime": 53455741,
+            "dest": "27_Koszalin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 2,
+            "runtime": 66664873,
+            "dest": "1_Bialystok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Opole",
+            "nbpSR": 2,
+            "runtime": 66741932,
+            "dest": "31_Poznan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Zielona_Gora",
+            "nbpSR": 1,
+            "runtime": 28564348,
+            "dest": "24_Torun",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Plock",
+            "nbpSR": 2,
+            "runtime": 55185196,
+            "dest": "17_Kielce",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Bratislava",
+            "nbpSR": 1,
+            "runtime": 32134641,
+            "dest": "9_Lodz",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Kielce",
+            "nbpSR": 2,
+            "runtime": 52675207,
+            "dest": "11_Krakow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 1,
+            "runtime": 68794782,
+            "dest": "30_Gorzow_Wilkp",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Pila",
+            "nbpSR": 2,
+            "runtime": 79242536,
+            "dest": "17_Kielce",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Kalowice",
+            "nbpSR": 1,
+            "runtime": 50457533,
+            "dest": "12_Zielona_Gora",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 2,
+            "runtime": 56879526,
+            "dest": "5_Wroclaw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Wroclaw",
+            "nbpSR": 2,
+            "runtime": 52992110,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Lublin",
+            "nbpSR": 2,
+            "runtime": 62107800,
+            "dest": "23_Bydgoszcz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Olszlyn",
+            "nbpSR": 1,
+            "runtime": 55594706,
+            "dest": "21_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Wroclaw",
+            "nbpSR": 2,
+            "runtime": 65927454,
+            "dest": "6_Lublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Rzeszow",
+            "nbpSR": 2,
+            "runtime": 55239356,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 2,
+            "runtime": 77327333,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Krakow",
+            "nbpSR": 1,
+            "runtime": 105758269,
+            "dest": "19_Prague",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Tarnow",
+            "nbpSR": 1,
+            "runtime": 44817967,
+            "dest": "30_Gorzow_Wilkp",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 2,
+            "runtime": 127423396,
+            "dest": "27_Koszalin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Krakow",
+            "nbpSR": 2,
+            "runtime": 109338538,
+            "dest": "25_Gdyia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Prague",
+            "nbpSR": 1,
+            "runtime": 34427169,
+            "dest": "18_Radom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 105845691,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Bratislava",
+            "nbpSR": 1,
+            "runtime": 24190026,
+            "dest": "31_Poznan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Slupsk",
+            "nbpSR": 2,
+            "runtime": 53293335,
+            "dest": "25_Gdyia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Bydgoszcz",
+            "nbpSR": 1,
+            "runtime": 66941667,
+            "dest": "19_Prague",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Gdyia",
+            "nbpSR": 2,
+            "runtime": 61031994,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Frankfurt",
+            "nbpSR": 1,
+            "runtime": 24329639,
+            "dest": "19_Prague",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Lublin",
+            "nbpSR": 2,
+            "runtime": 55363991,
+            "dest": "10_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Berlin",
+            "nbpSR": 1,
+            "runtime": 41819520,
+            "dest": "27_Koszalin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 2,
+            "runtime": 119732585,
+            "dest": "1_Bialystok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 1,
+            "runtime": 104061267,
+            "dest": "21_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Torun",
+            "nbpSR": 2,
+            "runtime": 52078776,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 1,
+            "runtime": 58646046,
+            "dest": "21_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Gorzow_Wilkp",
+            "nbpSR": 1,
+            "runtime": 28114388,
+            "dest": "4_Opole",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Tarnow",
+            "nbpSR": 1,
+            "runtime": 24094381,
+            "dest": "8_Kalisz",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Kolobrzeg",
+            "nbpSR": 2,
+            "runtime": 64789478,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 2,
+            "runtime": 63490215,
+            "dest": "1_Bialystok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Lodz",
+            "nbpSR": 1,
+            "runtime": 52574670,
+            "dest": "30_Gorzow_Wilkp",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Gdansk",
+            "nbpSR": 3,
+            "runtime": 73376571,
+            "dest": "23_Bydgoszcz",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 106693529,
+            "dest": "0_Warsaw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 1,
+            "runtime": 118567185,
+            "dest": "20_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Gdyia",
+            "nbpSR": 2,
+            "runtime": 66052608,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 2,
+            "runtime": 91904398,
+            "dest": "24_Torun",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Frankfurt",
+            "nbpSR": 1,
+            "runtime": 28114227,
+            "dest": "14_Olszlyn",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Krakow",
+            "nbpSR": 3,
+            "runtime": 92077276,
+            "dest": "32_Pila",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 1,
+            "runtime": 51037564,
+            "dest": "22_Berlin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Wroclaw",
+            "nbpSR": 2,
+            "runtime": 61319003,
+            "dest": "6_Lublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Gdansk",
+            "nbpSR": 2,
+            "runtime": 103063615,
+            "dest": "18_Radom",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 2,
+            "runtime": 113253003,
+            "dest": "11_Krakow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Opole",
+            "nbpSR": 2,
+            "runtime": 79966100,
+            "dest": "5_Wroclaw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Gdyia",
+            "nbpSR": 2,
+            "runtime": 59696002,
+            "dest": "16_Kalowice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Opole",
+            "nbpSR": 2,
+            "runtime": 58189271,
+            "dest": "18_Radom",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 2,
+            "runtime": 67662024,
+            "dest": "5_Wroclaw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_None",
+            "nbpSR": 2,
+            "runtime": 100170494,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Berlin",
+            "nbpSR": 1,
+            "runtime": 29340953,
+            "dest": "3_Plock",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Plock",
+            "nbpSR": 2,
+            "runtime": 57423447,
+            "dest": "6_Lublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Zielona_Gora",
+            "nbpSR": 1,
+            "runtime": 33078742,
+            "dest": "28_Kolobrzeg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Olszlyn",
+            "nbpSR": 2,
+            "runtime": 60890654,
+            "dest": "8_Kalisz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Poznan",
+            "nbpSR": 2,
+            "runtime": 129967567,
+            "dest": "25_Gdyia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Kalowice",
+            "nbpSR": 2,
+            "runtime": 67011213,
+            "dest": "32_Pila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "32_Pila",
+            "nbpSR": 2,
+            "runtime": 86760786,
+            "dest": "29_Szczecin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Tarnow",
+            "nbpSR": 1,
+            "runtime": 28757808,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Lublin",
+            "nbpSR": 2,
+            "runtime": 61430598,
+            "dest": "3_Plock",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Bratislava",
+            "nbpSR": 1,
+            "runtime": 24020683,
+            "dest": "31_Poznan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Koszalin",
+            "nbpSR": 2,
+            "runtime": 60528910,
+            "dest": "28_Kolobrzeg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Wlocawek",
+            "nbpSR": 2,
+            "runtime": 51918216,
+            "dest": "4_Opole",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Berlin",
+            "nbpSR": 1,
+            "runtime": 23642828,
+            "dest": "31_Poznan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Prague",
+            "nbpSR": 1,
+            "runtime": 29938595,
+            "dest": "0_Warsaw",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Kalisz",
+            "nbpSR": 2,
+            "runtime": 85160071,
+            "dest": "2_Wlocawek",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Plock",
+            "nbpSR": 2,
+            "runtime": 50618642,
+            "dest": "0_Warsaw",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Bialystok",
+            "nbpSR": 2,
+            "runtime": 63839866,
+            "dest": "14_Olszlyn",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Wlocawek",
+            "nbpSR": 2,
+            "runtime": 62436336,
+            "dest": "9_Lodz",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "32_Pila",
+            "nbpSR": 2,
+            "runtime": 70002671,
+            "dest": "4_Opole",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "32_Pila",
+            "nbpSR": 2,
+            "runtime": 93208718,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_Szczecin",
+            "nbpSR": 2,
+            "runtime": 53736233,
+            "dest": "32_Pila",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Gdansk",
+            "nbpSR": 2,
+            "runtime": 109718431,
+            "dest": "7_Rzeszow",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

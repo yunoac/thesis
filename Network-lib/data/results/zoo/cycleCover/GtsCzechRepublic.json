@@ -1,0 +1,256 @@
+{
+    "initialCoverSize": 39,
+    "times": [
+        6515472,
+        10096972,
+        12793248,
+        14793621,
+        16758488,
+        18793959,
+        22288630,
+        26230283,
+        30897744,
+        35050088,
+        42387996,
+        48724832,
+        52714641,
+        58478610,
+        62989719,
+        66029403,
+        68416621
+    ],
+    "finalCoverSize": 12,
+    "minSegCycles": [
+        "0_Klatovy 1_Pisek 0_Klatovy 0_Klatovy",
+        "0_Klatovy 12_Usti_nad_Labem 0_Klatovy 0_Klatovy",
+        "0_Klatovy 5_Havlickuv_Brod 0_Klatovy 0_Klatovy",
+        "0_Klatovy 8_Zmjno 0_Klatovy 0_Klatovy",
+        "0_Klatovy 7_Tabor 0_Klatovy 0_Klatovy",
+        "0_Klatovy 17_Hodonin 0_Klatovy 0_Klatovy",
+        "0_Klatovy 18_Bratislava 0_Klatovy 0_Klatovy",
+        "0_Klatovy 10_None 0_Klatovy 0_Klatovy",
+        "0_Klatovy 28_Semily 0_Klatovy 0_Klatovy",
+        "0_Klatovy 14_Ostrava 0_Klatovy 0_Klatovy",
+        "0_Klatovy 27_Liberec 0_Klatovy 0_Klatovy",
+        "0_Klatovy 13_Kolin 0_Klatovy 0_Klatovy",
+        "0_Klatovy 24_Opava 0_Klatovy 0_Klatovy",
+        "0_Klatovy 20_Warsaw 0_Klatovy 0_Klatovy",
+        "0_Klatovy 15_Zlin 0_Klatovy 0_Klatovy",
+        "0_Klatovy 14_Ostrava 5_Havlickuv_Brod 0_Klatovy",
+        "0_Klatovy 4_Jindrichuv_Hradec 15_Zlin 0_Klatovy",
+        "0_Klatovy 19_Frankfurt 0_Klatovy 0_Klatovy",
+        "0_Klatovy 21_Prostejov 0_Klatovy 0_Klatovy",
+        "0_Klatovy 2_Chomutov 10_None 0_Klatovy",
+        "0_Klatovy 1_Pisek 12_Usti_nad_Labem 0_Klatovy",
+        "0_Klatovy 29_Kladno 0_Klatovy 0_Klatovy",
+        "0_Klatovy 31_Mlada_Boleslay 0_Klatovy 0_Klatovy",
+        "0_Klatovy 20_Warsaw 8_Zmjno 0_Klatovy",
+        "0_Klatovy 21_Prostejov 18_Bratislava 0_Klatovy",
+        "0_Klatovy 8_Zmjno 21_Prostejov 0_Klatovy",
+        "0_Klatovy 18_Bratislava 20_Warsaw 0_Klatovy",
+        "0_Klatovy 24_Opava 2_Chomutov 0_Klatovy",
+        "0_Klatovy 4_Jindrichuv_Hradec 1_Pisek 0_Klatovy",
+        "0_Klatovy 5_Havlickuv_Brod 1_Pisek 0_Klatovy",
+        "0_Klatovy 7_Tabor 1_Pisek 0_Klatovy",
+        "0_Klatovy 8_Zmjno 1_Pisek 0_Klatovy",
+        "0_Klatovy 24_Opava 5_Havlickuv_Brod 0_Klatovy",
+        "0_Klatovy 7_Tabor 2_Chomutov 0_Klatovy",
+        "0_Klatovy 12_Usti_nad_Labem 13_Kolin 0_Klatovy",
+        "0_Klatovy 13_Kolin 10_None 0_Klatovy",
+        "0_Klatovy 29_Kladno 19_Frankfurt 0_Klatovy",
+        "0_Klatovy 31_Mlada_Boleslay 19_Frankfurt 0_Klatovy",
+        "0_Klatovy 31_Mlada_Boleslay 29_Kladno 0_Klatovy"
+    ],
+    "values": [
+        14,
+        12,
+        11,
+        11,
+        10,
+        10,
+        10,
+        10,
+        9,
+        9,
+        9,
+        9,
+        9,
+        8.5,
+        7.5,
+        7.5,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 9,
+    "runtime": 98982193,
+    "lpBound": 7,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 1_Pisek 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 12_Usti_nad_Labem 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 5_Havlickuv_Brod 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 8_Zmjno 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 7_Tabor 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 17_Hodonin 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 18_Bratislava 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 10_None 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 28_Semily 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 14_Ostrava 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 27_Liberec 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 13_Kolin 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 24_Opava 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 20_Warsaw 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 15_Zlin 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 14_Ostrava 5_Havlickuv_Brod 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 4_Jindrichuv_Hradec 15_Zlin 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 19_Frankfurt 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 21_Prostejov 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 2_Chomutov 10_None 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 1_Pisek 12_Usti_nad_Labem 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 29_Kladno 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 31_Mlada_Boleslay 0_Klatovy 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 20_Warsaw 8_Zmjno 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 21_Prostejov 18_Bratislava 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 8_Zmjno 21_Prostejov 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 18_Bratislava 20_Warsaw 0_Klatovy"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Klatovy 24_Opava 2_Chomutov 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 4_Jindrichuv_Hradec 1_Pisek 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 5_Havlickuv_Brod 1_Pisek 0_Klatovy"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Klatovy 7_Tabor 1_Pisek 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 8_Zmjno 1_Pisek 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 24_Opava 5_Havlickuv_Brod 0_Klatovy"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Klatovy 7_Tabor 2_Chomutov 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 12_Usti_nad_Labem 13_Kolin 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 13_Kolin 10_None 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 29_Kladno 19_Frankfurt 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 31_Mlada_Boleslay 19_Frankfurt 0_Klatovy"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Klatovy 31_Mlada_Boleslay 29_Kladno 0_Klatovy"
+        }
+    ],
+    "greedySolution": [
+        "0_Klatovy 2_Chomutov 10_None 0_Klatovy",
+        "0_Klatovy 20_Warsaw 8_Zmjno 0_Klatovy",
+        "0_Klatovy 8_Zmjno 21_Prostejov 0_Klatovy",
+        "0_Klatovy 18_Bratislava 20_Warsaw 0_Klatovy",
+        "0_Klatovy 24_Opava 2_Chomutov 0_Klatovy",
+        "0_Klatovy 7_Tabor 1_Pisek 0_Klatovy",
+        "0_Klatovy 12_Usti_nad_Labem 13_Kolin 0_Klatovy",
+        "0_Klatovy 29_Kladno 19_Frankfurt 0_Klatovy",
+        "0_Klatovy 31_Mlada_Boleslay 19_Frankfurt 0_Klatovy"
+    ]
+}

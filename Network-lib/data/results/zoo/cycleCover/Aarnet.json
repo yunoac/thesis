@@ -1,0 +1,275 @@
+{
+    "initialCoverSize": 40,
+    "times": [
+        1781036,
+        2984078,
+        4045425,
+        5191138,
+        6247735,
+        7385888,
+        24662722,
+        25749876,
+        26838979,
+        27956820,
+        29110979,
+        30288711,
+        31448459,
+        48731330,
+        49926385,
+        51095525,
+        52319014,
+        53521332,
+        54718808,
+        55929015,
+        69372861,
+        70687717,
+        71866245,
+        73460464
+    ],
+    "finalCoverSize": 9,
+    "minSegCycles": [
+        "1_Brisbane2@3_Sydney2 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2@3_Sydney2 0_Sydney1 4_Townsville 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 9_Hobart 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 2_Canberra1 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 8_Armidale 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 5_Cairns 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 14_Adelaide2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 12_Perth2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2@16_Melbourne2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 1_Brisbane2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 16_Melbourne2@14_Adelaide2 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 18_Darwin 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 17_Alice_Springs 1_Brisbane2 1_Brisbane2",
+        "1_Brisbane2 5_Cairns 2_Canberra1 5_Cairns 1_Brisbane2",
+        "1_Brisbane2 8_Armidale 0_Sydney1 8_Armidale 1_Brisbane2",
+        "1_Brisbane2 9_Hobart 2_Canberra1 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 14_Adelaide2 12_Perth2 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 14_Adelaide2@16_Melbourne2 1_Brisbane2",
+        "1_Brisbane2 11_Perth1 2_Canberra1 11_Perth1 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 2_Canberra1 12_Perth2 1_Brisbane2",
+        "1_Brisbane2 16_Melbourne2@14_Adelaide2 12_Perth2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 17_Alice_Springs 12_Perth2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 2_Canberra1 14_Adelaide2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 2_Canberra1 18_Darwin 1_Brisbane2",
+        "1_Brisbane2 9_Hobart 0_Sydney1 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 2_Canberra1 17_Alice_Springs 1_Brisbane2",
+        "1_Brisbane2 16_Melbourne2@14_Adelaide2 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 18_Darwin 17_Alice_Springs 1_Brisbane2",
+        "1_Brisbane2 4_Townsville 1_Brisbane2 4_Townsville 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 9_Hobart 18_Darwin 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 18_Darwin 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 14_Adelaide2@16_Melbourne2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 17_Alice_Springs 18_Darwin 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2 14_Adelaide2 12_Perth2 14_Adelaide2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 12_Perth2 17_Alice_Springs 1_Brisbane2"
+    ],
+    "values": [
+        11,
+        10.5,
+        9.5,
+        9,
+        8,
+        8,
+        8,
+        8,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        6.5,
+        6.5,
+        6.25,
+        6.25,
+        6.25,
+        6.25,
+        6.25,
+        6.25,
+        6.25
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 9,
+    "runtime": 121394771,
+    "lpBound": 6.25,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2@3_Sydney2 10_Canberra2 3_Sydney2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2@3_Sydney2 0_Sydney1 4_Townsville 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 4_Townsville 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 9_Hobart 10_Canberra2 3_Sydney2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 4_Townsville 2_Canberra1 9_Hobart 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 8_Armidale 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 5_Cairns 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 12_Perth2 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 12_Perth2 14_Adelaide2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 18_Darwin 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2 12_Perth2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2@16_Melbourne2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 17_Alice_Springs 1_Brisbane2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 16_Melbourne2@14_Adelaide2 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 17_Alice_Springs 18_Darwin 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 18_Darwin 17_Alice_Springs 1_Brisbane2 1_Brisbane2"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brisbane2 5_Cairns 2_Canberra1 5_Cairns 1_Brisbane2"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Brisbane2 8_Armidale 0_Sydney1 8_Armidale 1_Brisbane2"
+        },
+        {
+            "x": 0.75,
+            "cycle": "1_Brisbane2 9_Hobart 2_Canberra1 9_Hobart 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 12_Perth2 14_Adelaide2 12_Perth2 1_Brisbane2"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brisbane2 12_Perth2 14_Adelaide2@16_Melbourne2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 11_Perth1 2_Canberra1 11_Perth1 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 12_Perth2 2_Canberra1 12_Perth2 1_Brisbane2"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brisbane2 16_Melbourne2@14_Adelaide2 12_Perth2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 18_Darwin 17_Alice_Springs 12_Perth2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2 2_Canberra1 14_Adelaide2 1_Brisbane2"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_Brisbane2 18_Darwin 2_Canberra1 18_Darwin 1_Brisbane2"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Brisbane2 9_Hobart 0_Sydney1 9_Hobart 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 17_Alice_Springs 2_Canberra1 17_Alice_Springs 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 16_Melbourne2@14_Adelaide2 9_Hobart 1_Brisbane2"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brisbane2 17_Alice_Springs 18_Darwin 17_Alice_Springs 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 4_Townsville 1_Brisbane2 4_Townsville 1_Brisbane2"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_Brisbane2 18_Darwin 9_Hobart 18_Darwin 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 17_Alice_Springs 18_Darwin 9_Hobart 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 18_Darwin 14_Adelaide2@16_Melbourne2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 18_Darwin 17_Alice_Springs 18_Darwin 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2 10_Canberra2 3_Sydney2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 14_Adelaide2 12_Perth2 14_Adelaide2 1_Brisbane2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brisbane2 17_Alice_Springs 12_Perth2 17_Alice_Springs 1_Brisbane2"
+        }
+    ],
+    "greedySolution": [
+        "1_Brisbane2 9_Hobart 10_Canberra2 3_Sydney2 1_Brisbane2",
+        "1_Brisbane2 5_Cairns 2_Canberra1 5_Cairns 1_Brisbane2",
+        "1_Brisbane2 8_Armidale 0_Sydney1 8_Armidale 1_Brisbane2",
+        "1_Brisbane2 12_Perth2 14_Adelaide2 12_Perth2 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 2_Canberra1 17_Alice_Springs 1_Brisbane2",
+        "1_Brisbane2 16_Melbourne2@14_Adelaide2 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 17_Alice_Springs 18_Darwin 9_Hobart 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 14_Adelaide2@16_Melbourne2 1_Brisbane2",
+        "1_Brisbane2 18_Darwin 17_Alice_Springs 18_Darwin 1_Brisbane2"
+    ]
+}

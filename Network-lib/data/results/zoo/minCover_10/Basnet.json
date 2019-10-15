@@ -1,0 +1,80 @@
+{
+    "initialCoverSize": 13,
+    "times": [
+        1018857,
+        1273149,
+        1455204,
+        1623178,
+        1787226,
+        1964708,
+        2116177,
+        2296626
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Grodno 1_Minsk,0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 2_Vitebsk 0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 3_Mogilev 0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 4_Gomel 0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 5_Brest 0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 6_Pionier_GEANT_2 0_Grodno"
+        },
+        {
+            "x": 0.05555555555555556,
+            "cycle": "0_Grodno 3_Mogilev 2_Vitebsk 3_Mogilev 2_Vitebsk 3_Mogilev 2_Vitebsk 3_Mogilev 2_Vitebsk 0_Grodno"
+        },
+        {
+            "x": 0.20833333333333331,
+            "cycle": "0_Grodno 5_Brest 4_Gomel 5_Brest 4_Gomel 5_Brest 4_Gomel 5_Brest 4_Gomel 0_Grodno"
+        },
+        {
+            "x": 0.19444444444444445,
+            "cycle": "0_Grodno 6_Pionier_GEANT_2 2_Vitebsk 6_Pionier_GEANT_2 2_Vitebsk 6_Pionier_GEANT_2 2_Vitebsk 6_Pionier_GEANT_2 2_Vitebsk 0_Grodno"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Grodno 1_Minsk 0_Grodno 1_Minsk 0_Grodno 1_Minsk 0_Grodno 1_Minsk 0_Grodno"
+        },
+        {
+            "x": 0.11111111111111112,
+            "cycle": "0_Grodno 5_Brest 3_Mogilev 0_Grodno 3_Mogilev 0_Grodno 3_Mogilev 0_Grodno 3_Mogilev 0_Grodno"
+        },
+        {
+            "x": 0.04166666666666667,
+            "cycle": "0_Grodno 4_Gomel 3_Mogilev 4_Gomel 3_Mogilev 4_Gomel 3_Mogilev 4_Gomel 3_Mogilev 0_Grodno"
+        },
+        {
+            "x": 0.05555555555555556,
+            "cycle": "0_Grodno 6_Pionier_GEANT_2 5_Brest 3_Mogilev 6_Pionier_GEANT_2 3_Mogilev 6_Pionier_GEANT_2 3_Mogilev 6_Pionier_GEANT_2 0_Grodno"
+        }
+    ],
+    "values": [
+        5,
+        3.25,
+        1.5,
+        1,
+        0.8125,
+        0.75,
+        0.7,
+        0.6666666666666667
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 19371,
+    "lpBound": 0.6666666666666667
+}

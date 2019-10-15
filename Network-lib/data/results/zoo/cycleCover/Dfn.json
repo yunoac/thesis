@@ -1,0 +1,1146 @@
+{
+    "initialCoverSize": 180,
+    "times": [
+        12975029,
+        44173516,
+        70554048,
+        87977561,
+        103451948,
+        118780430,
+        139787304,
+        154478199,
+        168783368,
+        188721439,
+        207202118,
+        224207769,
+        243252481,
+        257860615,
+        272304951,
+        287236091,
+        305911128,
+        320720130,
+        335239390,
+        352435009,
+        369302783,
+        383859568,
+        398504033,
+        414762874,
+        433998600,
+        449087026,
+        465372233,
+        484403628,
+        499045926,
+        514772428,
+        533550787,
+        548289024,
+        563243611,
+        588028261,
+        605863541,
+        620354506,
+        635389218,
+        654983653,
+        670130207,
+        691206590,
+        706118616,
+        720859993,
+        735423841,
+        749906419,
+        764615278,
+        784492890,
+        802460534,
+        819044320,
+        833987191,
+        849321049,
+        865831831,
+        880196558,
+        894731255,
+        909314946,
+        924011715,
+        938366864,
+        955303490,
+        970816140,
+        986201994,
+        1001344198,
+        1018622380,
+        1034519420,
+        1054155822,
+        1086213305,
+        1121502839,
+        1156171460,
+        1189899306,
+        1226408082,
+        1253139090,
+        1273641518,
+        1304500110,
+        1334885193,
+        1360528461,
+        1386438868,
+        1406470218,
+        1436666999,
+        1468381758,
+        1503428113,
+        1534721477,
+        1567156131,
+        1603286789,
+        1623927259,
+        1650962014,
+        1669262399,
+        1684476040,
+        1699521590,
+        1714156369,
+        1728221538,
+        1742862614,
+        1760660944,
+        1775453464,
+        1790873781,
+        1805929001,
+        1821214681,
+        1835265147,
+        1850653687,
+        1868425341
+    ],
+    "finalCoverSize": 42,
+    "minSegCycles": [
+        "1_LEI@0_CHE 1_LEI@0_CHE 1_LEI",
+        "1_LEI@0_CHE 2_ADH 0_CHE 1_LEI",
+        "1_LEI 2_ADH 0_CHE 0_CHE 1_LEI",
+        "1_LEI 6_JEN 0_CHE 0_CHE 1_LEI",
+        "1_LEI 15_Telekom 0_CHE 0_CHE 1_LEI",
+        "1_LEI 2_ADH 49_HUB 0_CHE 1_LEI",
+        "1_LEI@0_CHE 3_DRE 40_FHM 1_LEI",
+        "1_LEI 4_GSI 1_LEI@0_CHE 1_LEI",
+        "1_LEI 4_GSI 5_HEI@4_GSI 1_LEI",
+        "1_LEI 4_GSI 5_HEI 10_FZK 1_LEI",
+        "1_LEI@6_JEN 7_ILM 2_ADH 1_LEI",
+        "1_LEI 2_ADH 7_ILM 6_JEN@1_LEI",
+        "1_LEI 8_DeCix 1_LEI@0_CHE 1_LEI",
+        "1_LEI 9_Geant 1_LEI@0_CHE 1_LEI",
+        "1_LEI 10_FZK 5_HEI@4_GSI 1_LEI",
+        "1_LEI 10_FZK 11_STU@10_FZK 1_LEI",
+        "1_LEI 10_FZK 36_KAI 1_LEI 1_LEI",
+        "1_LEI 10_FZK 11_STU 40_FHM 1_LEI",
+        "1_LEI 12_DeCix 0_CHE 0_CHE 1_LEI",
+        "1_LEI 13_Telia 0_CHE 0_CHE 1_LEI",
+        "1_LEI 24_PAD 1_LEI 0_CHE 1_LEI",
+        "1_LEI 14_BIE 25_EWE 1_LEI 1_LEI",
+        "1_LEI 16_GOE 1_LEI@0_CHE 1_LEI",
+        "1_LEI 23_KAS 1_LEI 0_CHE 1_LEI",
+        "1_LEI 25_EWE 1_LEI 0_CHE 1_LEI",
+        "1_LEI 31_HAM 1_LEI 0_CHE 1_LEI",
+        "1_LEI 18_WUP 1_LEI@0_CHE 1_LEI",
+        "1_LEI 4_GSI 38_DOR 4_GSI 1_LEI",
+        "1_LEI 18_WUP 20_BON 18_WUP 1_LEI",
+        "1_LEI 18_WUP 20_BON 44_DUI 1_LEI",
+        "1_LEI 21_MAR 1_LEI@0_CHE 1_LEI",
+        "1_LEI 21_MAR 14_BIE 1_LEI 1_LEI",
+        "1_LEI 14_BIE 21_MAR 1_LEI 1_LEI",
+        "1_LEI 17_BRE 27_MUE@14_BIE 1_LEI",
+        "1_LEI 26_Telekom 1_LEI@0_CHE 1_LEI",
+        "1_LEI 25_EWE 38_DOR 4_GSI 1_LEI",
+        "1_LEI 28_SAA 1_LEI@0_CHE 1_LEI",
+        "1_LEI 28_SAA 36_KAI 1_LEI 1_LEI",
+        "1_LEI 29_GC 1_LEI@0_CHE 1_LEI",
+        "1_LEI 30_DES 0_CHE 0_CHE 1_LEI",
+        "1_LEI 30_DES 17_BRE 1_LEI 1_LEI",
+        "1_LEI 17_BRE 30_DES 0_CHE 1_LEI",
+        "1_LEI 32_KIE 33_ROS 1_LEI 1_LEI",
+        "1_LEI 32_KIE 1_LEI@0_CHE 1_LEI",
+        "1_LEI 33_ROS 32_KIE 1_LEI 1_LEI",
+        "1_LEI 32_KIE 37_GRE 0_CHE 1_LEI",
+        "1_LEI 34_MAG 35_BRA 1_LEI 1_LEI",
+        "1_LEI 34_MAG 0_CHE 0_CHE 1_LEI",
+        "1_LEI 35_BRA 34_MAG 0_CHE 1_LEI",
+        "1_LEI 36_KAI 5_HEI@4_GSI 1_LEI",
+        "1_LEI 36_KAI 28_SAA 1_LEI 1_LEI",
+        "1_LEI 37_GRE 32_KIE 1_LEI 1_LEI",
+        "1_LEI 18_WUP 27_MUE@14_BIE 1_LEI",
+        "1_LEI 40_FHM 4_GSI 1_LEI 1_LEI",
+        "1_LEI 42_AUG 11_STU@10_FZK 1_LEI",
+        "1_LEI 42_AUG 1_LEI@0_CHE 1_LEI",
+        "1_LEI 40_FHM 42_AUG 1_LEI 1_LEI",
+        "1_LEI 16_GOE 45_FZJ 4_GSI 1_LEI",
+        "1_LEI 44_DUI 20_BON 18_WUP 1_LEI",
+        "1_LEI 47_WUE 4_GSI 1_LEI 1_LEI",
+        "1_LEI 47_WUE 1_LEI@0_CHE 1_LEI",
+        "1_LEI 30_DES 56_ZIB 0_CHE 1_LEI",
+        "1_LEI 49_HUB 0_CHE 0_CHE 1_LEI",
+        "1_LEI 30_DES 57_ZEU 2_ADH 1_LEI",
+        "1_LEI 49_HUB 2_ADH 0_CHE 1_LEI",
+        "1_LEI 14_BIE 4_GSI 1_LEI 1_LEI",
+        "1_LEI 14_BIE 12_DeCix 0_CHE 1_LEI",
+        "1_LEI 14_BIE 55_FFO 0_CHE 1_LEI",
+        "1_LEI 2_ADH 43_GAR 2_ADH 1_LEI",
+        "1_LEI 46_AAC 1_LEI 0_CHE 1_LEI",
+        "1_LEI 4_GSI 47_WUE 1_LEI 1_LEI",
+        "1_LEI 4_GSI 14_BIE 1_LEI 1_LEI",
+        "1_LEI 12_DeCix 14_BIE 1_LEI 1_LEI",
+        "1_LEI 2_ADH 54_BAY 1_LEI 1_LEI",
+        "1_LEI@0_CHE 55_FFO 0_CHE 1_LEI",
+        "1_LEI 40_FHM 3_DRE@0_CHE 1_LEI",
+        "1_LEI 54_BAY 1_LEI 0_CHE 1_LEI",
+        "1_LEI 54_BAY 2_ADH 0_CHE 1_LEI",
+        "1_LEI@0_CHE 55_FFO 14_BIE 1_LEI",
+        "1_LEI@0_CHE 55_FFO 2_ADH 1_LEI",
+        "1_LEI 56_ZIB 30_DES 0_CHE 1_LEI",
+        "1_LEI 2_ADH 55_FFO 0_CHE 1_LEI",
+        "1_LEI 2_ADH 57_ZEU 2_ADH 1_LEI",
+        "1_LEI 2_ADH 57_ZEU 30_DES 1_LEI",
+        "1_LEI 33_ROS 8_DeCix 33_ROS 1_LEI",
+        "1_LEI 13_Telia 23_KAS 13_Telia 1_LEI",
+        "1_LEI 9_Geant 26_Telekom 9_Geant 1_LEI",
+        "1_LEI 8_DeCix 47_WUE 8_DeCix 1_LEI",
+        "1_LEI 12_DeCix 54_BAY 12_DeCix 1_LEI",
+        "1_LEI 23_KAS 55_FFO 23_KAS 1_LEI",
+        "1_LEI 31_HAM 56_ZIB 31_HAM 1_LEI",
+        "1_LEI 47_WUE 3_DRE 47_WUE 1_LEI",
+        "1_LEI 29_GC 40_FHM 15_Telekom 1_LEI",
+        "1_LEI 26_Telekom 49_HUB 2_ADH 1_LEI",
+        "1_LEI 15_Telekom 31_HAM 15_Telekom 1_LEI",
+        "1_LEI 21_MAR 27_MUE 18_WUP 1_LEI",
+        "1_LEI 46_AAC 12_DeCix 25_EWE 1_LEI",
+        "1_LEI 25_EWE 38_DOR 25_EWE 1_LEI",
+        "1_LEI 40_FHM 45_FZJ 25_EWE 1_LEI",
+        "1_LEI 46_AAC 13_Telia 46_AAC 1_LEI",
+        "1_LEI 36_KAI 5_HEI 36_KAI 1_LEI",
+        "1_LEI 29_GC 38_DOR 29_GC 1_LEI",
+        "1_LEI 33_ROS 37_GRE 9_Geant 1_LEI",
+        "1_LEI 21_MAR 27_MUE 21_MAR 1_LEI",
+        "1_LEI 14_BIE 43_GAR 14_BIE 1_LEI",
+        "1_LEI 36_KAI 11_STU 42_AUG 1_LEI",
+        "1_LEI 40_FHM 38_DOR 47_WUE 1_LEI",
+        "1_LEI 49_HUB 2_ADH 10_FZK 1_LEI",
+        "1_LEI 24_PAD 55_FFO 24_PAD 1_LEI",
+        "1_LEI 47_WUE 38_DOR 10_FZK 1_LEI",
+        "1_LEI 54_BAY 49_HUB 26_Telekom 1_LEI",
+        "1_LEI 21_MAR 14_BIE 29_GC 1_LEI",
+        "1_LEI 54_BAY 40_FHM 29_GC 1_LEI",
+        "1_LEI 42_AUG 3_DRE 42_AUG 1_LEI",
+        "1_LEI 25_EWE 14_BIE 10_FZK 1_LEI",
+        "1_LEI 21_MAR 12_DeCix 21_MAR 1_LEI",
+        "1_LEI 40_FHM 42_AUG 40_FHM 1_LEI",
+        "1_LEI 10_FZK 13_Telia 54_BAY 1_LEI",
+        "1_LEI 40_FHM 11_STU 36_KAI 1_LEI",
+        "1_LEI 54_BAY 15_Telekom 54_BAY 1_LEI",
+        "1_LEI 44_DUI 20_BON 46_AAC 1_LEI",
+        "1_LEI 2_ADH 55_FFO 39_BOC 1_LEI",
+        "1_LEI 54_BAY 55_FFO 54_BAY 1_LEI",
+        "1_LEI 33_ROS 55_FFO 2_ADH 1_LEI",
+        "1_LEI 40_FHM 3_DRE 12_DeCix 1_LEI",
+        "1_LEI 6_JEN 7_ILM 6_JEN 1_LEI",
+        "1_LEI 28_SAA 36_KAI 28_SAA 1_LEI",
+        "1_LEI 37_GRE 32_KIE 29_GC 1_LEI",
+        "1_LEI 23_KAS 22_GIE 14_BIE 1_LEI",
+        "1_LEI 4_GSI 25_EWE 14_BIE 1_LEI",
+        "1_LEI 28_SAA 36_KAI 14_BIE 1_LEI",
+        "1_LEI 28_SAA 14_BIE 25_EWE 1_LEI",
+        "1_LEI 24_PAD 22_GIE 14_BIE 1_LEI",
+        "1_LEI 30_DES 57_ZEU 30_DES 1_LEI",
+        "1_LEI 32_KIE 37_GRE 32_KIE 1_LEI",
+        "1_LEI 37_GRE 7_ILM 37_GRE 1_LEI",
+        "1_LEI 29_GC 32_KIE 33_ROS 1_LEI",
+        "1_LEI 47_WUE 38_DOR 32_KIE 1_LEI",
+        "1_LEI 34_MAG 35_BRA 34_MAG 1_LEI",
+        "1_LEI 35_BRA 29_GC 35_BRA 1_LEI",
+        "1_LEI 9_Geant 40_FHM 9_Geant 1_LEI",
+        "1_LEI 14_BIE 7_ILM 14_BIE 1_LEI",
+        "1_LEI 0_CHE 12_DeCix 26_Telekom 1_LEI",
+        "1_LEI 9_Geant 2_ADH 49_HUB 1_LEI",
+        "1_LEI 30_DES 27_MUE 23_KAS 1_LEI",
+        "1_LEI 24_PAD 16_GOE 9_Geant 1_LEI",
+        "1_LEI 31_HAM 56_ZIB 54_BAY 1_LEI",
+        "1_LEI 2_ADH 57_ZEU 31_HAM 1_LEI",
+        "1_LEI 33_ROS 28_SAA 36_KAI 1_LEI",
+        "1_LEI 14_BIE 25_EWE 9_Geant 1_LEI",
+        "1_LEI 47_WUE 43_GAR 33_ROS 1_LEI",
+        "1_LEI 28_SAA 7_ILM 28_SAA 1_LEI",
+        "1_LEI 35_BRA 36_KAI 28_SAA 1_LEI",
+        "1_LEI 8_DeCix 7_ILM 8_DeCix 1_LEI",
+        "1_LEI 40_FHM 11_STU 40_FHM 1_LEI",
+        "1_LEI 47_WUE 38_DOR 40_FHM 1_LEI",
+        "1_LEI 16_GOE 12_DeCix 29_GC 1_LEI",
+        "1_LEI 46_AAC 7_ILM 46_AAC 1_LEI",
+        "1_LEI 40_FHM 3_DRE 40_FHM 1_LEI",
+        "1_LEI 54_BAY 7_ILM 54_BAY 1_LEI",
+        "1_LEI 18_WUP 27_MUE 18_WUP 1_LEI",
+        "1_LEI 25_EWE 38_DOR 47_WUE 1_LEI",
+        "1_LEI 18_WUP 27_MUE 21_MAR 1_LEI",
+        "1_LEI 37_GRE 43_GAR 47_WUE 1_LEI",
+        "1_LEI 37_GRE 29_GC 15_Telekom 1_LEI",
+        "1_LEI 47_WUE 38_DOR 25_EWE 1_LEI",
+        "1_LEI 35_BRA 43_GAR 37_GRE 1_LEI",
+        "1_LEI 8_DeCix 35_BRA 15_Telekom 1_LEI",
+        "1_LEI 49_HUB 57_ZEU 49_HUB 1_LEI",
+        "1_LEI 2_ADH 49_HUB 2_ADH 1_LEI",
+        "1_LEI 18_WUP 39_BOC 15_Telekom 1_LEI",
+        "1_LEI 32_KIE 12_DeCix 32_KIE 1_LEI",
+        "1_LEI 6_JEN 7_ILM 9_Geant 1_LEI",
+        "1_LEI 2_ADH 55_FFO 33_ROS 1_LEI",
+        "1_LEI 29_GC 7_ILM 29_GC 1_LEI",
+        "1_LEI 13_Telia 43_GAR 26_Telekom 1_LEI",
+        "1_LEI 9_Geant 12_DeCix 9_Geant 1_LEI",
+        "1_LEI 28_SAA 36_KAI 15_Telekom 1_LEI",
+        "1_LEI 15_Telekom 6_JEN 15_Telekom 1_LEI",
+        "1_LEI 15_Telekom 8_DeCix 15_Telekom 1_LEI"
+    ],
+    "values": [
+        54,
+        50,
+        48,
+        47,
+        46.5,
+        45.5,
+        44.5,
+        41.5,
+        39.5,
+        38.5,
+        38,
+        38,
+        38,
+        37.5,
+        36.5,
+        36.5,
+        36.2,
+        35.2,
+        35,
+        35,
+        34.125,
+        33.7,
+        33.7,
+        33.5,
+        33.166666666666664,
+        32.75,
+        32.5,
+        32.199999999999996,
+        32.2,
+        31.84999999999999,
+        31.849999999999998,
+        31.84999999999999,
+        31.84375,
+        31.785714285714285,
+        31.5,
+        31.5,
+        31.45833333333333,
+        31.458333333333332,
+        31.458333333333332,
+        31.25,
+        31.21590909090909,
+        31.175,
+        31.175,
+        30.175,
+        30,
+        30,
+        30,
+        30,
+        29.999999999999996,
+        29.990384615384624,
+        29.99038461538462,
+        29.99038461538462,
+        29.175000000000004,
+        29.128378378378372,
+        29.128378378378372,
+        29.128378378378372,
+        28.395833333333332,
+        28.23958333333332,
+        28.1328125,
+        27.860119047619055,
+        27.660714285714278,
+        27.660714285714278,
+        27.660714285714274,
+        27.660714285714278,
+        27.660714285714278,
+        27.66071428571428,
+        27.660714285714278,
+        27.635638297872337,
+        27.63563829787234,
+        27.611842105263158,
+        27.53517587939698,
+        27.53517587939698,
+        27.46875,
+        27.460379464285722,
+        27.318524096385545,
+        27.31643952299829,
+        27.30928853754941,
+        27.30928853754941,
+        27.30928853754941,
+        27.30928853754941,
+        27.30177111716621,
+        27.25,
+        27.190023752969118,
+        27.157142857142855,
+        27.109375000000007,
+        27.109375000000007,
+        27.088059701492533,
+        27.088059701492536,
+        27.088059701492533,
+        27.088059701492536,
+        27.051724137931032,
+        27,
+        27,
+        27,
+        27,
+        26.999999999999996,
+        27
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 34,
+    "runtime": 2422182067,
+    "lpBound": 27,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_LEI@0_CHE 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI@0_CHE 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 6_JEN 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 49_HUB 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI@0_CHE 3_DRE 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 4_GSI 5_HEI@4_GSI 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 4_GSI 5_HEI 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI@6_JEN 7_ILM 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 7_ILM 6_JEN@1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 8_DeCix 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 9_Geant 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 10_FZK 5_HEI@4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 11_STU@10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 36_KAI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 10_FZK 11_STU 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 13_Telia 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 25_EWE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 23_KAS 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 31_HAM 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 38_DOR 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 20_BON 18_WUP 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 18_WUP 20_BON 44_DUI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 21_MAR 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 17_BRE 27_MUE@14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 26_Telekom 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 38_DOR 4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 36_KAI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 17_BRE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 17_BRE 30_DES 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 33_ROS 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 32_KIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 37_GRE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 34_MAG 35_BRA 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 34_MAG 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 35_BRA 34_MAG 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 5_HEI@4_GSI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 36_KAI 28_SAA 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 37_GRE 32_KIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 27_MUE@14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 42_AUG 11_STU@10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 42_AUG 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 42_AUG 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 45_FZJ 4_GSI 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 44_DUI 20_BON 18_WUP 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 1_LEI@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 56_ZIB 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 0_CHE 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 57_ZEU 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 4_GSI 1_LEI 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 14_BIE 12_DeCix 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 43_GAR 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 46_AAC 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 47_WUE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 14_BIE 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 54_BAY 1_LEI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI@0_CHE 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 3_DRE@0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 1_LEI 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 2_ADH 0_CHE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI@0_CHE 55_FFO 14_BIE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI@0_CHE 55_FFO 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 56_ZIB 30_DES 0_CHE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 2_ADH 55_FFO 0_CHE 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 2_ADH 57_ZEU 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 57_ZEU 30_DES 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 8_DeCix 33_ROS 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 13_Telia 23_KAS 13_Telia 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 9_Geant 26_Telekom 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 8_DeCix 47_WUE 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 12_DeCix 54_BAY 12_DeCix 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 23_KAS 55_FFO 23_KAS 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 31_HAM 56_ZIB 31_HAM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 3_DRE 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 40_FHM 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 26_Telekom 49_HUB 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 31_HAM 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 27_MUE 18_WUP 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 46_AAC 12_DeCix 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 38_DOR 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 45_FZJ 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 46_AAC 13_Telia 46_AAC 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 36_KAI 5_HEI 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 38_DOR 29_GC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 37_GRE 9_Geant 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 21_MAR 27_MUE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 43_GAR 14_BIE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 36_KAI 11_STU 42_AUG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 38_DOR 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 49_HUB 2_ADH 10_FZK 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 24_PAD 55_FFO 24_PAD 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 38_DOR 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 49_HUB 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 14_BIE 29_GC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 40_FHM 29_GC 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 42_AUG 3_DRE 42_AUG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 25_EWE 14_BIE 10_FZK 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 21_MAR 12_DeCix 21_MAR 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 40_FHM 42_AUG 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 10_FZK 13_Telia 54_BAY 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 40_FHM 11_STU 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 15_Telekom 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 44_DUI 20_BON 46_AAC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 55_FFO 39_BOC 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 54_BAY 55_FFO 54_BAY 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 33_ROS 55_FFO 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 3_DRE 12_DeCix 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 6_JEN 7_ILM 6_JEN 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 28_SAA 36_KAI 28_SAA 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 37_GRE 32_KIE 29_GC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 23_KAS 22_GIE 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 4_GSI 25_EWE 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 36_KAI 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 14_BIE 25_EWE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 22_GIE 14_BIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 57_ZEU 30_DES 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 32_KIE 37_GRE 32_KIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 37_GRE 7_ILM 37_GRE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 29_GC 32_KIE 33_ROS 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 38_DOR 32_KIE 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 34_MAG 35_BRA 34_MAG 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 35_BRA 29_GC 35_BRA 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 9_Geant 40_FHM 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 7_ILM 14_BIE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 0_CHE 12_DeCix 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 9_Geant 2_ADH 49_HUB 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 30_DES 27_MUE 23_KAS 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 24_PAD 16_GOE 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 31_HAM 56_ZIB 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 2_ADH 57_ZEU 31_HAM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 33_ROS 28_SAA 36_KAI 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 14_BIE 25_EWE 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 43_GAR 33_ROS 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 7_ILM 28_SAA 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 35_BRA 36_KAI 28_SAA 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 8_DeCix 7_ILM 8_DeCix 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 11_STU 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 47_WUE 38_DOR 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 16_GOE 12_DeCix 29_GC 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 46_AAC 7_ILM 46_AAC 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 40_FHM 3_DRE 40_FHM 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 54_BAY 7_ILM 54_BAY 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 27_MUE 18_WUP 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 25_EWE 38_DOR 47_WUE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 27_MUE 21_MAR 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 37_GRE 43_GAR 47_WUE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 37_GRE 29_GC 15_Telekom 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 47_WUE 38_DOR 25_EWE 1_LEI"
+        },
+        {
+            "x": 0.75,
+            "cycle": "1_LEI 35_BRA 43_GAR 37_GRE 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 8_DeCix 35_BRA 15_Telekom 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 49_HUB 57_ZEU 49_HUB 1_LEI"
+        },
+        {
+            "x": 1,
+            "cycle": "1_LEI 2_ADH 49_HUB 2_ADH 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 18_WUP 39_BOC 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 32_KIE 12_DeCix 32_KIE 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 6_JEN 7_ILM 9_Geant 1_LEI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_LEI 2_ADH 55_FFO 33_ROS 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 29_GC 7_ILM 29_GC 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 13_Telia 43_GAR 26_Telekom 1_LEI"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_LEI 9_Geant 12_DeCix 9_Geant 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 28_SAA 36_KAI 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 6_JEN 15_Telekom 1_LEI"
+        },
+        {
+            "x": 0,
+            "cycle": "1_LEI 15_Telekom 8_DeCix 15_Telekom 1_LEI"
+        }
+    ],
+    "greedySolution": [
+        "1_LEI@0_CHE 2_ADH 0_CHE 1_LEI",
+        "1_LEI 4_GSI 5_HEI@4_GSI 1_LEI",
+        "1_LEI 18_WUP 20_BON 18_WUP 1_LEI",
+        "1_LEI 42_AUG 11_STU@10_FZK 1_LEI",
+        "1_LEI 16_GOE 45_FZJ 4_GSI 1_LEI",
+        "1_LEI 30_DES 57_ZEU 2_ADH 1_LEI",
+        "1_LEI 2_ADH 57_ZEU 30_DES 1_LEI",
+        "1_LEI 31_HAM 56_ZIB 31_HAM 1_LEI",
+        "1_LEI 47_WUE 3_DRE 47_WUE 1_LEI",
+        "1_LEI 29_GC 40_FHM 15_Telekom 1_LEI",
+        "1_LEI 21_MAR 27_MUE 18_WUP 1_LEI",
+        "1_LEI 40_FHM 45_FZJ 25_EWE 1_LEI",
+        "1_LEI 36_KAI 5_HEI 36_KAI 1_LEI",
+        "1_LEI 33_ROS 37_GRE 9_Geant 1_LEI",
+        "1_LEI 36_KAI 11_STU 42_AUG 1_LEI",
+        "1_LEI 54_BAY 49_HUB 26_Telekom 1_LEI",
+        "1_LEI 10_FZK 13_Telia 54_BAY 1_LEI",
+        "1_LEI 44_DUI 20_BON 46_AAC 1_LEI",
+        "1_LEI 54_BAY 55_FFO 54_BAY 1_LEI",
+        "1_LEI 33_ROS 55_FFO 2_ADH 1_LEI",
+        "1_LEI 6_JEN 7_ILM 6_JEN 1_LEI",
+        "1_LEI 28_SAA 36_KAI 28_SAA 1_LEI",
+        "1_LEI 23_KAS 22_GIE 14_BIE 1_LEI",
+        "1_LEI 32_KIE 37_GRE 32_KIE 1_LEI",
+        "1_LEI 47_WUE 38_DOR 32_KIE 1_LEI",
+        "1_LEI 34_MAG 35_BRA 34_MAG 1_LEI",
+        "1_LEI 30_DES 27_MUE 23_KAS 1_LEI",
+        "1_LEI 31_HAM 56_ZIB 54_BAY 1_LEI",
+        "1_LEI 8_DeCix 7_ILM 8_DeCix 1_LEI",
+        "1_LEI 16_GOE 12_DeCix 29_GC 1_LEI",
+        "1_LEI 37_GRE 43_GAR 47_WUE 1_LEI",
+        "1_LEI 35_BRA 43_GAR 37_GRE 1_LEI",
+        "1_LEI 2_ADH 49_HUB 2_ADH 1_LEI",
+        "1_LEI 2_ADH 55_FFO 33_ROS 1_LEI"
+    ]
+}

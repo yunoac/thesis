@@ -1,0 +1,180 @@
+{
+    "initialCoverSize": 28,
+    "times": [
+        1370225,
+        2015164,
+        2706565,
+        3428736,
+        4109356,
+        4700097
+    ],
+    "finalCoverSize": 10,
+    "minSegCycles": [
+        "0_Hartford 1_New_York@0_Hartford 0_Hartford",
+        "0_Hartford 2_Chicago 0_Hartford 0_Hartford",
+        "0_Hartford@1_New_York 2_Chicago 0_Hartford",
+        "0_Hartford 4_Greensboro 0_Hartford 0_Hartford",
+        "0_Hartford 7_Reston 0_Hartford 0_Hartford",
+        "0_Hartford 10_Seattle 0_Hartford 0_Hartford",
+        "0_Hartford 2_Chicago 5_Atlanta 0_Hartford",
+        "0_Hartford 2_Chicago 1_New_York@0_Hartford",
+        "0_Hartford 5_Atlanta 0_Hartford 0_Hartford",
+        "0_Hartford 4_Greensboro 14_Los_Angeles 0_Hartford",
+        "0_Hartford 4_Greensboro 7_Reston 0_Hartford",
+        "0_Hartford 7_Reston 4_Greensboro 0_Hartford",
+        "0_Hartford 8_Dallas 0_Hartford 0_Hartford",
+        "0_Hartford 7_Reston 2_Chicago 0_Hartford",
+        "0_Hartford 5_Atlanta 2_Chicago 0_Hartford",
+        "0_Hartford 13_San_Jose 0_Hartford 0_Hartford",
+        "0_Hartford 2_Chicago 7_Reston 0_Hartford",
+        "0_Hartford 10_Seattle 8_Dallas 0_Hartford",
+        "0_Hartford 12_San_Francisco 0_Hartford 0_Hartford",
+        "0_Hartford 8_Dallas 10_Seattle 0_Hartford",
+        "0_Hartford 14_Los_Angeles 0_Hartford 0_Hartford",
+        "0_Hartford 10_Seattle 15_Albuquerque 0_Hartford",
+        "0_Hartford 16_Hawaii 0_Hartford 0_Hartford",
+        "0_Hartford 12_San_Francisco 6_Washington,_DC 0_Hartford",
+        "0_Hartford 16_Hawaii 10_Seattle 0_Hartford",
+        "0_Hartford 6_Washington,_DC 12_San_Francisco 0_Hartford",
+        "0_Hartford 13_San_Jose 6_Washington,_DC 0_Hartford",
+        "0_Hartford 10_Seattle 16_Hawaii 0_Hartford"
+    ],
+    "values": [
+        14,
+        12,
+        12,
+        10,
+        10,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 9910965,
+    "lpBound": 10,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Hartford 1_New_York@0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 2_Chicago 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford@1_New_York 2_Chicago 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 4_Greensboro 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 7_Reston 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 10_Seattle 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 2_Chicago 5_Atlanta 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 2_Chicago 1_New_York@0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 5_Atlanta 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 4_Greensboro 14_Los_Angeles 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 4_Greensboro 7_Reston 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 7_Reston 4_Greensboro 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 8_Dallas 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 7_Reston 2_Chicago 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 5_Atlanta 2_Chicago 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 13_San_Jose 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 2_Chicago 7_Reston 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 10_Seattle 8_Dallas 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 12_San_Francisco 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 8_Dallas 10_Seattle 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 14_Los_Angeles 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 10_Seattle 15_Albuquerque 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 16_Hawaii 0_Hartford 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 12_San_Francisco 6_Washington,_DC 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 16_Hawaii 10_Seattle 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 6_Washington,_DC 12_San_Francisco 0_Hartford"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hartford 13_San_Jose 6_Washington,_DC 0_Hartford"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hartford 10_Seattle 16_Hawaii 0_Hartford"
+        }
+    ],
+    "greedySolution": [
+        "0_Hartford@1_New_York 2_Chicago 0_Hartford",
+        "0_Hartford 2_Chicago 5_Atlanta 0_Hartford",
+        "0_Hartford 2_Chicago 1_New_York@0_Hartford",
+        "0_Hartford 7_Reston 2_Chicago 0_Hartford",
+        "0_Hartford 5_Atlanta 2_Chicago 0_Hartford",
+        "0_Hartford 2_Chicago 7_Reston 0_Hartford",
+        "0_Hartford 12_San_Francisco 6_Washington,_DC 0_Hartford",
+        "0_Hartford 16_Hawaii 10_Seattle 0_Hartford",
+        "0_Hartford 6_Washington,_DC 12_San_Francisco 0_Hartford",
+        "0_Hartford 10_Seattle 16_Hawaii 0_Hartford"
+    ]
+}

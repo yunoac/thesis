@@ -1,0 +1,124 @@
+{
+    "initialCoverSize": 22,
+    "times": [
+        1102016,
+        1525378,
+        1861453,
+        2177136,
+        2505561,
+        2834399,
+        3151463,
+        3464092,
+        3774268,
+        4098934,
+        4397819,
+        4757712
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Lviv 1_Oslo 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 2_Kaunas 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 3_Warsaw 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 4_Tallinn 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 5_Riga 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 8_Copenhagen 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 9_Reykjavik 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 10_TEN-34 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 11_USA 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 12_Petrozavodsk 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 13_St_Petersburg 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 2_Kaunas 1_Oslo 2_Kaunas 1_Oslo 2_Kaunas 1_Oslo 2_Kaunas 1_Oslo 0_Lviv"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Lviv 4_Tallinn 3_Warsaw 4_Tallinn 3_Warsaw 4_Tallinn 3_Warsaw 4_Tallinn 3_Warsaw 0_Lviv"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Lviv 8_Copenhagen 5_Riga 8_Copenhagen 5_Riga 8_Copenhagen 5_Riga 8_Copenhagen 5_Riga 0_Lviv"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Lviv 10_TEN-34 9_Reykjavik 10_TEN-34 9_Reykjavik 10_TEN-34 9_Reykjavik 10_TEN-34 9_Reykjavik 0_Lviv"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Lviv 12_Petrozavodsk 11_USA 12_Petrozavodsk 11_USA 12_Petrozavodsk 11_USA 12_Petrozavodsk 11_USA 0_Lviv"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Lviv 13_St_Petersburg 1_Oslo 13_St_Petersburg 1_Oslo 13_St_Petersburg 1_Oslo 13_St_Petersburg 1_Oslo 0_Lviv"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Lviv 4_Tallinn 2_Kaunas 4_Tallinn 2_Kaunas 4_Tallinn 2_Kaunas 4_Tallinn 2_Kaunas 0_Lviv"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Lviv 3_Warsaw 2_Kaunas 3_Warsaw 2_Kaunas 3_Warsaw 2_Kaunas 3_Warsaw 2_Kaunas 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 10_TEN-34 8_Copenhagen 10_TEN-34 8_Copenhagen 10_TEN-34 8_Copenhagen 10_TEN-34 8_Copenhagen 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 9_Reykjavik 8_Copenhagen 9_Reykjavik 8_Copenhagen 9_Reykjavik 8_Copenhagen 9_Reykjavik 8_Copenhagen 0_Lviv"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Lviv 13_St_Petersburg 12_Petrozavodsk 13_St_Petersburg 12_Petrozavodsk 13_St_Petersburg 12_Petrozavodsk 13_St_Petersburg 12_Petrozavodsk 0_Lviv"
+        }
+    ],
+    "values": [
+        11,
+        9.25,
+        7.5,
+        5.75,
+        4,
+        2.25,
+        1.5,
+        1.5,
+        1.375,
+        1.375,
+        1.375,
+        1.375
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 64260,
+    "lpBound": 1.375
+}

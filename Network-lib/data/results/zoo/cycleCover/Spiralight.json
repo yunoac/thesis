@@ -1,0 +1,70 @@
+{
+    "initialCoverSize": 10,
+    "times": [1200206],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "0_Milwaukee 3_Waukesha@0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 1_Rockford 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee",
+        "0_Milwaukee 5_Madison 1_Rockford 0_Milwaukee",
+        "0_Milwaukee 11_Appleton 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 6_Camp_Douglas 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 7_Minneaopolis 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 9_Wausau 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 7_Minneaopolis 11_Appleton 0_Milwaukee",
+        "0_Milwaukee 11_Appleton 7_Minneaopolis 0_Milwaukee"
+    ],
+    "values": [4],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 4,
+    "runtime": 3243167,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 3_Waukesha@0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 1_Rockford 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 5_Madison 1_Rockford 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 11_Appleton 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 6_Camp_Douglas 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 7_Minneaopolis 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 9_Wausau 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 7_Minneaopolis 11_Appleton 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 11_Appleton 7_Minneaopolis 0_Milwaukee"
+        }
+    ],
+    "greedySolution": [
+        "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee",
+        "0_Milwaukee 5_Madison 1_Rockford 0_Milwaukee",
+        "0_Milwaukee 7_Minneaopolis 11_Appleton 0_Milwaukee",
+        "0_Milwaukee 11_Appleton 7_Minneaopolis 0_Milwaukee"
+    ]
+}

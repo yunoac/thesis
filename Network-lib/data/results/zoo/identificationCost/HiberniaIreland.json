@@ -1,0 +1,44 @@
+{
+    "originalCover": {
+        "runtime": 351451,
+        "cycles": [
+            "0_Dublin 3_Cork 0_Dublin 0_Dublin",
+            "0_Dublin 1_Galway 0_Dublin 0_Dublin",
+            "0_Dublin 14 0_Dublin",
+            "0_Dublin 15 0_Dublin",
+            "0_Dublin 1_Galway 3_Cork 0_Dublin",
+            "0_Dublin 3_Cork 1_Galway 0_Dublin"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Dublin 3_Cork 0_Dublin 0_Dublin",
+            "0_Dublin 1_Galway 0_Dublin 0_Dublin",
+            "0_Dublin 14 0_Dublin",
+            "0_Dublin 15 0_Dublin",
+            "0_Dublin 1_Galway 3_Cork 0_Dublin",
+            "0_Dublin 3_Cork 1_Galway 0_Dublin"
+        ],
+        "source": 0,
+        "runetime": 284641,
+        "maxSeg": 4
+    }
+}

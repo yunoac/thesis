@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 1,
+            "runtime": 44696061,
+            "dest": "20_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 2,
+            "runtime": 74413309,
+            "dest": "14_Nantes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Limoges",
+            "nbpSR": 1,
+            "runtime": 49878568,
+            "dest": "13_Marseille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 3,
+            "runtime": 41575131,
+            "dest": "15_Poiters",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Dijon",
+            "nbpSR": 1,
+            "runtime": 91468829,
+            "dest": "12_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 37565049,
+            "dest": "3_Limoges",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 1,
+            "runtime": 84393759,
+            "dest": "21_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Reims",
+            "nbpSR": 1,
+            "runtime": 76023006,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 1,
+            "runtime": 87384311,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Strasbourg",
+            "nbpSR": 2,
+            "runtime": 36949639,
+            "dest": "11_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 53156306,
+            "dest": "15_Poiters",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Orleans",
+            "nbpSR": 1,
+            "runtime": 41121531,
+            "dest": "23_Rennes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Marseille",
+            "nbpSR": 1,
+            "runtime": 93387500,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Marseille",
+            "nbpSR": 1,
+            "runtime": 87165879,
+            "dest": "20_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Rennes",
+            "nbpSR": 2,
+            "runtime": 55781416,
+            "dest": "10_Lyon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Nantes",
+            "nbpSR": 2,
+            "runtime": 50285628,
+            "dest": "5_Besancon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 87670617,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 87781411,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Orleans",
+            "nbpSR": 1,
+            "runtime": 42317556,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 88647968,
+            "dest": "2_Orleans",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Strasbourg",
+            "nbpSR": 1,
+            "runtime": 82549520,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 1,
+            "runtime": 47429660,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Strasbourg",
+            "nbpSR": 1,
+            "runtime": 81047548,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 40040576,
+            "dest": "16_Strasbourg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Reims",
+            "nbpSR": 1,
+            "runtime": 71724750,
+            "dest": "14_Nantes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 1,
+            "runtime": 44022605,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Caen",
+            "nbpSR": 1,
+            "runtime": 90920389,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 2,
+            "runtime": 86414239,
+            "dest": "11_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Rennes",
+            "nbpSR": 1,
+            "runtime": 50392761,
+            "dest": "3_Limoges",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Nantes",
+            "nbpSR": 2,
+            "runtime": 97256083,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 2,
+            "runtime": 46054296,
+            "dest": "17_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 99150612,
+            "dest": "12_Corte",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 2,
+            "runtime": 97259805,
+            "dest": "11_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 1,
+            "runtime": 55772066,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 2,
+            "runtime": 67446388,
+            "dest": "17_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Rennes",
+            "nbpSR": 1,
+            "runtime": 95713575,
+            "dest": "9_Sophia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Lille",
+            "nbpSR": 1,
+            "runtime": 91465047,
+            "dest": "9_Sophia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 2,
+            "runtime": 90552548,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Nancy",
+            "nbpSR": 2,
+            "runtime": 88834970,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Lille",
+            "nbpSR": 1,
+            "runtime": 38510321,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corte",
+            "nbpSR": 1,
+            "runtime": 114199820,
+            "dest": "21_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 41988023,
+            "dest": "16_Strasbourg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Sophia",
+            "nbpSR": 1,
+            "runtime": 89043428,
+            "dest": "11_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 1,
+            "runtime": 41071694,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 3,
+            "runtime": 46235462,
+            "dest": "1_Toulouse",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 95152446,
+            "dest": "23_Rennes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Clermont-Ferrand",
+            "nbpSR": 1,
+            "runtime": 46032519,
+            "dest": "5_Besancon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 2,
+            "runtime": 48170935,
+            "dest": "17_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Marseille",
+            "nbpSR": 1,
+            "runtime": 103380166,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 88948921,
+            "dest": "6_Montpellier",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Strasbourg",
+            "nbpSR": 1,
+            "runtime": 41554051,
+            "dest": "3_Limoges",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Dijon",
+            "nbpSR": 1,
+            "runtime": 42118653,
+            "dest": "3_Limoges",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 1,
+            "runtime": 41263145,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 2,
+            "runtime": 85097710,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 2,
+            "runtime": 77322136,
+            "dest": "13_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Sophia",
+            "nbpSR": 1,
+            "runtime": 89836208,
+            "dest": "6_Montpellier",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 2,
+            "runtime": 90674111,
+            "dest": "13_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Sophia",
+            "nbpSR": 1,
+            "runtime": 107337719,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Marseille",
+            "nbpSR": 2,
+            "runtime": 84805743,
+            "dest": "16_Strasbourg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 48221998,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Corte",
+            "nbpSR": 1,
+            "runtime": 107800978,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Grenoble",
+            "nbpSR": 1,
+            "runtime": 42744985,
+            "dest": "1_Toulouse",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 2,
+            "runtime": 58370759,
+            "dest": "13_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Lille",
+            "nbpSR": 1,
+            "runtime": 43193545,
+            "dest": "7_Clermont-Ferrand",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Limoges",
+            "nbpSR": 1,
+            "runtime": 73627407,
+            "dest": "14_Nantes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 1,
+            "runtime": 42515217,
+            "dest": "3_Limoges",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Rennes",
+            "nbpSR": 2,
+            "runtime": 57648560,
+            "dest": "17_Nancy",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Paris",
+            "nbpSR": 1,
+            "runtime": 54424877,
+            "dest": "21_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 1,
+            "runtime": 47831319,
+            "dest": "20_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Limoges",
+            "nbpSR": 1,
+            "runtime": 49284365,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 1,
+            "runtime": 51161877,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Orleans",
+            "nbpSR": 1,
+            "runtime": 41818418,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Lille",
+            "nbpSR": 1,
+            "runtime": 43060929,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 1,
+            "runtime": 80013794,
+            "dest": "22_Caen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Bordeaux",
+            "nbpSR": 2,
+            "runtime": 40440682,
+            "dest": "15_Poiters",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Poiters",
+            "nbpSR": 2,
+            "runtime": 42950575,
+            "dest": "5_Besancon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Toulouse",
+            "nbpSR": 2,
+            "runtime": 52534386,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Dijon",
+            "nbpSR": 1,
+            "runtime": 107270453,
+            "dest": "9_Sophia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 91383966,
+            "dest": "18_Reims",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 103340481,
+            "dest": "10_Lyon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Orleans",
+            "nbpSR": 1,
+            "runtime": 39945517,
+            "dest": "19_Compiegne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 47285978,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Besancon",
+            "nbpSR": 2,
+            "runtime": 39382431,
+            "dest": "23_Rennes",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Grenoble",
+            "nbpSR": 1,
+            "runtime": 78515700,
+            "dest": "21_Rouen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Clermont-Ferrand",
+            "nbpSR": 1,
+            "runtime": 84156611,
+            "dest": "6_Montpellier",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 93773348,
+            "dest": "20_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Nancy",
+            "nbpSR": 2,
+            "runtime": 42089792,
+            "dest": "10_Lyon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Corte",
+            "nbpSR": 1,
+            "runtime": 105008576,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Nantes",
+            "nbpSR": 2,
+            "runtime": 53768863,
+            "dest": "1_Toulouse",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 1,
+            "runtime": 49395636,
+            "dest": "4_Dijon",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 2,
+            "runtime": 90270994,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Rennes",
+            "nbpSR": 2,
+            "runtime": 46299868,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Montpellier",
+            "nbpSR": 2,
+            "runtime": 84556256,
+            "dest": "1_Toulouse",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Orleans",
+            "nbpSR": 1,
+            "runtime": 76955737,
+            "dest": "14_Nantes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Rouen",
+            "nbpSR": 1,
+            "runtime": 86726533,
+            "dest": "20_Lille",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Compiegne",
+            "nbpSR": 1,
+            "runtime": 37516422,
+            "dest": "23_Rennes",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Clermont-Ferrand",
+            "nbpSR": 1,
+            "runtime": 37465902,
+            "dest": "8_Grenoble",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Nancy",
+            "nbpSR": 2,
+            "runtime": 60016831,
+            "dest": "13_Marseille",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Lyon",
+            "nbpSR": 2,
+            "runtime": 87095047,
+            "dest": "6_Montpellier",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Nantes",
+            "nbpSR": 2,
+            "runtime": 45251053,
+            "dest": "0_Bordeaux",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

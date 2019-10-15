@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 23912410,
+            "dest": "4_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 21300534,
+            "dest": "2_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 1,
+            "runtime": 104032029,
+            "dest": "9_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_PIPE",
+            "nbpSR": 1,
+            "runtime": 19521704,
+            "dest": "7_Transact",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Sydney2",
+            "nbpSR": 1,
+            "runtime": 301695694,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 86670447,
+            "dest": "20_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_AARNET",
+            "nbpSR": 1,
+            "runtime": 19113752,
+            "dest": "6_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PIPE",
+            "nbpSR": 1,
+            "runtime": 18927490,
+            "dest": "4_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 18996019,
+            "dest": "19_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Darwin",
+            "nbpSR": 1,
+            "runtime": 21924570,
+            "dest": "1_Velocix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 86977453,
+            "dest": "18_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 1,
+            "runtime": 92464041,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Sydney2",
+            "nbpSR": 1,
+            "runtime": 316675333,
+            "dest": "1_Velocix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 26662690,
+            "dest": "4_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 1,
+            "runtime": 93331634,
+            "dest": "14_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 18695656,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_PIPE",
+            "nbpSR": 1,
+            "runtime": 19058407,
+            "dest": "8_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_PIPE",
+            "nbpSR": 1,
+            "runtime": 18805047,
+            "dest": "12_REACH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Perth",
+            "nbpSR": 1,
+            "runtime": 191446298,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 1,
+            "runtime": 80030346,
+            "dest": "12_REACH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_AARNET",
+            "nbpSR": 1,
+            "runtime": 18753194,
+            "dest": "9_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 1,
+            "runtime": 89891233,
+            "dest": "22_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 18930414,
+            "dest": "17_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Velocix",
+            "nbpSR": 1,
+            "runtime": 26622772,
+            "dest": "25_Perth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 2,
+            "runtime": 104092024,
+            "dest": "25_Perth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_PIPE",
+            "nbpSR": 1,
+            "runtime": 34428073,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_AARNET",
+            "nbpSR": 1,
+            "runtime": 22112927,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 2,
+            "runtime": 102874489,
+            "dest": "24_Adelaide",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_AARNET",
+            "nbpSR": 1,
+            "runtime": 18958932,
+            "dest": "2_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_PIPE",
+            "nbpSR": 1,
+            "runtime": 18838787,
+            "dest": "8_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PIPE",
+            "nbpSR": 1,
+            "runtime": 18797169,
+            "dest": "29_Canberra",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 23567061,
+            "dest": "7_Transact",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 1,
+            "runtime": 87876350,
+            "dest": "13_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Velocix",
+            "nbpSR": 1,
+            "runtime": 18884124,
+            "dest": "5_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_VOCUS",
+            "nbpSR": 1,
+            "runtime": 18915828,
+            "dest": "2_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_GOOGLE",
+            "nbpSR": 1,
+            "runtime": 19743534,
+            "dest": "17_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 22508446,
+            "dest": "24_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Sydney1",
+            "nbpSR": 1,
+            "runtime": 135844029,
+            "dest": "9_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 1,
+            "runtime": 96199189,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AARNET",
+            "nbpSR": 1,
+            "runtime": 21996107,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_WADE",
+            "nbpSR": 1,
+            "runtime": 27224559,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 19860028,
+            "dest": "12_REACH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Darwin",
+            "nbpSR": 1,
+            "runtime": 23975357,
+            "dest": "10_VOCUS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Sydney1",
+            "nbpSR": 1,
+            "runtime": 158983287,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PIPE",
+            "nbpSR": 1,
+            "runtime": 19503585,
+            "dest": "1_Velocix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Google",
+            "nbpSR": 1,
+            "runtime": 23157574,
+            "dest": "2_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Transact",
+            "nbpSR": 1,
+            "runtime": 18877788,
+            "dest": "22_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_PIPE",
+            "nbpSR": 1,
+            "runtime": 18951129,
+            "dest": "14_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 92388659,
+            "dest": "19_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 24062345,
+            "dest": "8_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 19715479,
+            "dest": "14_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_WADE",
+            "nbpSR": 1,
+            "runtime": 39671828,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_PIPE",
+            "nbpSR": 1,
+            "runtime": 25906991,
+            "dest": "2_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_VOCUS",
+            "nbpSR": 1,
+            "runtime": 19361112,
+            "dest": "8_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Adelaide",
+            "nbpSR": 1,
+            "runtime": 100260586,
+            "dest": "17_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_VOCUS",
+            "nbpSR": 1,
+            "runtime": 21993419,
+            "dest": "6_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Transact",
+            "nbpSR": 1,
+            "runtime": 18956901,
+            "dest": "17_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_AARNET",
+            "nbpSR": 1,
+            "runtime": 18989651,
+            "dest": "19_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 23875959,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_AARNET",
+            "nbpSR": 1,
+            "runtime": 22082931,
+            "dest": "7_Transact",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 21210268,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AARNET",
+            "nbpSR": 1,
+            "runtime": 24208163,
+            "dest": "14_GOOGLE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_TELSTRA",
+            "nbpSR": 1,
+            "runtime": 35264848,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 18962565,
+            "dest": "17_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_TELSTRA",
+            "nbpSR": 2,
+            "runtime": 42054962,
+            "dest": "27_Sydney1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 90980011,
+            "dest": "18_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 1,
+            "runtime": 83448098,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Sydney1",
+            "nbpSR": 1,
+            "runtime": 160328106,
+            "dest": "18_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AARNET",
+            "nbpSR": 1,
+            "runtime": 23386772,
+            "dest": "6_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_PIPE",
+            "nbpSR": 1,
+            "runtime": 22167339,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_PIPE",
+            "nbpSR": 1,
+            "runtime": 19231391,
+            "dest": "8_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Pipe",
+            "nbpSR": 1,
+            "runtime": 22344057,
+            "dest": "22_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 91904834,
+            "dest": "6_Pipe",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Canberra",
+            "nbpSR": 1,
+            "runtime": 101484465,
+            "dest": "10_VOCUS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Velocix",
+            "nbpSR": 1,
+            "runtime": 18845550,
+            "dest": "19_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_VOCUS",
+            "nbpSR": 1,
+            "runtime": 18860377,
+            "dest": "7_Transact",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Google",
+            "nbpSR": 1,
+            "runtime": 31452732,
+            "dest": "13_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Brisbane",
+            "nbpSR": 1,
+            "runtime": 83739729,
+            "dest": "10_VOCUS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_GOOGLE",
+            "nbpSR": 1,
+            "runtime": 19803029,
+            "dest": "29_Canberra",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 24423383,
+            "dest": "12_REACH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Google",
+            "nbpSR": 1,
+            "runtime": 19273997,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PIPE",
+            "nbpSR": 1,
+            "runtime": 22158761,
+            "dest": "0_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_AARNET",
+            "nbpSR": 1,
+            "runtime": 23519341,
+            "dest": "24_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Equinix",
+            "nbpSR": 1,
+            "runtime": 24060397,
+            "dest": "24_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Pipe",
+            "nbpSR": 1,
+            "runtime": 19092592,
+            "dest": "18_AARNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 20018179,
+            "dest": "22_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_PIPE",
+            "nbpSR": 1,
+            "runtime": 23566204,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Equinix",
+            "nbpSR": 1,
+            "runtime": 21878621,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 21640390,
+            "dest": "26_Brisbane",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 2,
+            "runtime": 95635766,
+            "dest": "29_Canberra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Melbourne",
+            "nbpSR": 1,
+            "runtime": 66376022,
+            "dest": "16_PIPE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AKAMAI",
+            "nbpSR": 1,
+            "runtime": 23568076,
+            "dest": "24_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Hobart",
+            "nbpSR": 1,
+            "runtime": 35850240,
+            "dest": "1_Velocix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Sydney1",
+            "nbpSR": 1,
+            "runtime": 126856238,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_TELSTRA",
+            "nbpSR": 2,
+            "runtime": 41501268,
+            "dest": "28_Sydney2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_WADE",
+            "nbpSR": 1,
+            "runtime": 18846925,
+            "dest": "10_VOCUS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_GOOGLE",
+            "nbpSR": 1,
+            "runtime": 22382258,
+            "dest": "21_Hobart",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Darwin",
+            "nbpSR": 1,
+            "runtime": 19219355,
+            "dest": "19_AKAMAI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Equinix",
+            "nbpSR": 1,
+            "runtime": 22563833,
+            "dest": "28_Sydney2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_AARNET",
+            "nbpSR": 1,
+            "runtime": 21921541,
+            "dest": "3_WADE",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

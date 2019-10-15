@@ -1,0 +1,466 @@
+{
+    "initialCoverSize": 70,
+    "times": [
+        1558435,
+        2611821,
+        3599857,
+        4528122,
+        5487146,
+        6433791,
+        7346154,
+        8287373,
+        9282039,
+        10242246,
+        11151780,
+        12069704,
+        13016631,
+        13960683,
+        14957070,
+        15924633,
+        16830326,
+        17768168,
+        18718579,
+        19679470,
+        20632157,
+        21589398,
+        22502605,
+        23431946,
+        24345019,
+        25295416,
+        26274822,
+        27301312,
+        28281419,
+        29195259,
+        30178725,
+        31191229,
+        32172221,
+        33090092,
+        34039117,
+        34988567,
+        35944739,
+        36856175,
+        37803230,
+        38730143,
+        39678880
+    ],
+    "finalCoverSize": 12,
+    "minSegCycles": [
+        "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_@3_Liege_2 2_Arlon 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_@3_Liege_2 2_Arlon 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_ 4_Leuven1 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 4_Leuven1@5_Leuven2 5_Leuven2@8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 4_Leuven1@5_Leuven2 5_Leuven2@8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 13_Brugge 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science@1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+    ],
+    "values": [
+        22,
+        21,
+        21,
+        20,
+        20,
+        20,
+        19,
+        19,
+        19,
+        19,
+        18,
+        17,
+        17,
+        17,
+        17,
+        17,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        13,
+        13,
+        12,
+        12
+    ],
+    "initialCoverSeg": 7,
+    "greedyCoverSize": 16,
+    "runtime": 57610221,
+    "lpBound": 12,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_@3_Liege_2 2_Arlon 10_Louvain-la-Neuve 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_@3_Liege_2 2_Arlon 10_Louvain-la-Neuve 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 0_Liege_1_ 4_Leuven1 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 4_Leuven1@5_Leuven2 5_Leuven2@8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 4_Leuven1@5_Leuven2 5_Leuven2@8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 6_Evere@7_Vilvoorde 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 13_Brugge 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science@1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus@12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 15_Gent2@14_Gent1 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+        }
+    ],
+    "greedySolution": [
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus 1_Brussels_Campus 1_Brussels_Campus",
+        "1_Brussels_Campus@12_Brussels_Science 4_Leuven1@5_Leuven2 5_Leuven2@8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 0_Liege_1_ 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science@1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 4_Leuven1@5_Leuven2 8_Hasselt 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 8_Hasselt 5_Leuven2@4_Leuven1 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus 7_Vilvoorde@6_Evere 0_Liege_1_@3_Liege_2 10_Louvain-la-Neuve 1_Brussels_Campus",
+        "1_Brussels_Campus 10_Louvain-la-Neuve 3_Liege_2@0_Liege_1_ 6_Evere@7_Vilvoorde 1_Brussels_Campus",
+        "1_Brussels_Campus 14_Gent1@15_Gent2 16_Antwerpen1@17_Antwerpen_2 12_Brussels_Science 1_Brussels_Campus",
+        "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus",
+        "1_Brussels_Campus 12_Brussels_Science 17_Antwerpen_2@16_Antwerpen1 15_Gent2@14_Gent1 1_Brussels_Campus"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "nbCycles": 19,
+    "runtime": 5503322,
+    "cycles": [
+        "1_London 0_Miami 16_Houston,0_Miami 1_London",
+        "1_London 3_New_York 0_Miami 0_Miami 1_London",
+        "1_London 4_Paris 0_Miami 0_Miami 1_London",
+        "1_London 6_Amsterdam 0_Miami 0_Miami 1_London",
+        "1_London 8_Hong_Kong 1_London 0_Miami 1_London",
+        "1_London,3_New_York 4_Paris 0_Miami 1_London",
+        "1_London,4_Paris 3_New_York 0_Miami 1_London",
+        "1_London,3_New_York 5_Milan 3_New_York 1_London",
+        "1_London,6_Amsterdam 5_Milan 3_New_York 1_London",
+        "1_London,3_New_York 5_Milan 6_Amsterdam,1_London",
+        "1_London 8_Hong_Kong 9_Singapore,8_Hong_Kong 1_London",
+        "1_London 8_Hong_Kong 10_Los_Angeles 1_London 1_London",
+        "1_London 10_Los_Angeles 8_Hong_Kong 1_London 1_London",
+        "1_London 17_Las_Vegas 1_London 0_Miami 1_London",
+        "1_London 10_Los_Angeles 13_Seattle 1_London 1_London",
+        "1_London 13_Seattle 10_Los_Angeles 1_London 1_London",
+        "1_London 8_Hong_Kong 16_Houston,0_Miami 1_London",
+        "1_London 18_Phoenix 11_Kansas_City 1_London 1_London",
+        "1_London 0_Miami 16_Houston 8_Hong_Kong 1_London"
+    ],
+    "segmentCost": 5,
+    "source": "1_London"
+}

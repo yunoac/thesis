@@ -1,0 +1,72 @@
+{
+    "initialCoverSize": 10,
+    "times": [1246006],
+    "finalCoverSize": 6,
+    "minSegCycles": [
+        "1_Chicago 0_Palo_Alto 2_New_York@1_Chicago",
+        "1_Chicago 0_Palo_Alto 1_Chicago 1_Chicago",
+        "1_Chicago 2_New_York 0_Palo_Alto 1_Chicago",
+        "1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago",
+        "1_Chicago 3_Baltimore 1_Chicago 1_Chicago",
+        "1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago",
+        "1_Chicago@2_New_York 5_Miami 1_Chicago",
+        "1_Chicago 3_Baltimore 6_Atlanta@1_Chicago",
+        "1_Chicago 5_Miami 2_New_York@1_Chicago",
+        "1_Chicago@6_Atlanta 3_Baltimore 1_Chicago"
+    ],
+    "values": [6],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 6,
+    "runtime": 1985799,
+    "lpBound": 6,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "1_Chicago 0_Palo_Alto 2_New_York@1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 1_Chicago 1_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Chicago 2_New_York 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 1_Chicago 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Chicago@2_New_York 5_Miami 1_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Chicago 3_Baltimore 6_Atlanta@1_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Chicago 5_Miami 2_New_York@1_Chicago"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Chicago@6_Atlanta 3_Baltimore 1_Chicago"
+        }
+    ],
+    "greedySolution": [
+        "1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago",
+        "1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago",
+        "1_Chicago@2_New_York 5_Miami 1_Chicago",
+        "1_Chicago 3_Baltimore 6_Atlanta@1_Chicago",
+        "1_Chicago 5_Miami 2_New_York@1_Chicago",
+        "1_Chicago@6_Atlanta 3_Baltimore 1_Chicago"
+    ]
+}

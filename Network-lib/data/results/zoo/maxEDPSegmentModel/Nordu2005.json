@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 6776145,
+            "dest": "2_Helsinki",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1950424,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 6835876,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 2047364,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 2039494,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1956917,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1988917,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1957838,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 4182783,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 13255276,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 11072015,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 2004255,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 2010320,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 10202207,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3242569,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3201154,
+            "dest": "2_Helsinki",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1985374,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 2614225,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 4124512,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 3102095,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 4816936,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 3859663,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 4969574,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 9796933,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1982900,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 1874845,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1862213,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1979765,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3434605,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3176249,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 1894732,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 12038792,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 9817067,
+            "dest": "2_Helsinki",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3053481,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 6592509,
+            "dest": "2_Helsinki",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 1879339,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3065496,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1982688,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3008964,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 4189555,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 2117361,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 10956715,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 8663715,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 4332122,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 3539504,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 2067341,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 2013067,
+            "dest": "2_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1923777,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 2048049,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1966830,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1960973,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1938129,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1875248,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1855014,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1996139,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1917628,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 7795866,
+            "dest": "1_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 9528193,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 13088028,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 2060539,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 6885825,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 2014588,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1978331,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3344986,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 7010784,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 7495084,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3929372,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 2741548,
+            "dest": "2_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 2955599,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 2731413,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 5545789,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 5341663,
+            "dest": "1_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1899958,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1923371,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3097826,
+            "dest": "1_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1918691,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1847913,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3152628,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 11030106,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3140197,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 1903353,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 2628261,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 10264355,
+            "dest": "2_Helsinki",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 5331972,
+            "dest": "1_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 7635081,
+            "dest": "1_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3109515,
+            "dest": "7_St_Petersburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1829228,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 9706717,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3268797,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1921029,
+            "dest": "1_Stockholm",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 3104862,
+            "dest": "8_Oslo",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_NETNOD",
+            "nbpSR": 1,
+            "runtime": 1860209,
+            "dest": "5_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_St_Petersburg",
+            "nbpSR": 1,
+            "runtime": 1915317,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Reykjavik",
+            "nbpSR": 1,
+            "runtime": 1832790,
+            "dest": "8_Oslo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3002056,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Stockholm",
+            "nbpSR": 1,
+            "runtime": 9577419,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT",
+            "nbpSR": 1,
+            "runtime": 1997299,
+            "dest": "6_General_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Helsinki",
+            "nbpSR": 1,
+            "runtime": 2986831,
+            "dest": "4_Reykjavik",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Oslo",
+            "nbpSR": 1,
+            "runtime": 3147770,
+            "dest": "3_Copenhagen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_General_Internet",
+            "nbpSR": 1,
+            "runtime": 1923222,
+            "dest": "0_NETNOD",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

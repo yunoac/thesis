@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "20_Phoenix",
+            "nbpSR": 2,
+            "runtime": 37138687,
+            "dest": "2_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Atlanta",
+            "nbpSR": 3,
+            "runtime": 35240175,
+            "dest": "13_Dallas",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 52800298,
+            "dest": "22_Chicago",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 60711631,
+            "dest": "10_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Atlanta",
+            "nbpSR": 2,
+            "runtime": 34520739,
+            "dest": "0_Washington_CDC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 37952721,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 25735108,
+            "dest": "1_New_York",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Portland",
+            "nbpSR": 2,
+            "runtime": 32327357,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 4,
+            "runtime": 47094573,
+            "dest": "0_Washington_CDC",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "19_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 29231837,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 3,
+            "runtime": 37476276,
+            "dest": "1_New_York",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_Houston",
+            "nbpSR": 3,
+            "runtime": 57441241,
+            "dest": "18_San_Francisco",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 3,
+            "runtime": 34624682,
+            "dest": "1_New_York",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 2,
+            "runtime": 58242226,
+            "dest": "12_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Baltimore",
+            "nbpSR": 2,
+            "runtime": 25195232,
+            "dest": "3_Miami",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 39176458,
+            "dest": "21_Denver",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Houston",
+            "nbpSR": 2,
+            "runtime": 53772081,
+            "dest": "3_Miami",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 32028402,
+            "dest": "11_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Tokyo",
+            "nbpSR": 1,
+            "runtime": 16098609,
+            "dest": "22_Chicago",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Boston",
+            "nbpSR": 2,
+            "runtime": 25415917,
+            "dest": "21_Denver",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 42045802,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Chicago",
+            "nbpSR": 3,
+            "runtime": 34040409,
+            "dest": "2_Atlanta",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Atlanta",
+            "nbpSR": 2,
+            "runtime": 35221919,
+            "dest": "21_Denver",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 32389969,
+            "dest": "3_Miami",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 44362519,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Miami",
+            "nbpSR": 2,
+            "runtime": 26363257,
+            "dest": "10_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 42346527,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Philadelphia",
+            "nbpSR": 2,
+            "runtime": 23679076,
+            "dest": "11_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 31712060,
+            "dest": "5_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 57660863,
+            "dest": "20_Phoenix",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 36912446,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Atlanta",
+            "nbpSR": 2,
+            "runtime": 39709820,
+            "dest": "1_New_York",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Seattle",
+            "nbpSR": 1,
+            "runtime": 30882946,
+            "dest": "17_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Chicago",
+            "nbpSR": 3,
+            "runtime": 40600462,
+            "dest": "2_Atlanta",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "19_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 28951855,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Boston",
+            "nbpSR": 2,
+            "runtime": 24623406,
+            "dest": "8_Amsterdam",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Denver",
+            "nbpSR": 2,
+            "runtime": 29615011,
+            "dest": "20_Phoenix",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Austin",
+            "nbpSR": 2,
+            "runtime": 26986081,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Portland",
+            "nbpSR": 2,
+            "runtime": 31715982,
+            "dest": "9_Frankfurt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 47679235,
+            "dest": "2_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 2,
+            "runtime": 49503110,
+            "dest": "21_Denver",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 37837039,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 2,
+            "runtime": 42819303,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 68002693,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 39555071,
+            "dest": "17_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 2,
+            "runtime": 37172580,
+            "dest": "10_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Austin",
+            "nbpSR": 2,
+            "runtime": 21127226,
+            "dest": "22_Chicago",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 33486871,
+            "dest": "18_San_Francisco",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 44996640,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Austin",
+            "nbpSR": 1,
+            "runtime": 21204896,
+            "dest": "17_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Philadelphia",
+            "nbpSR": 2,
+            "runtime": 23286740,
+            "dest": "4_Boston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Miami",
+            "nbpSR": 2,
+            "runtime": 24830868,
+            "dest": "7_Baltimore",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Seattle",
+            "nbpSR": 2,
+            "runtime": 33484676,
+            "dest": "10_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Chicago",
+            "nbpSR": 3,
+            "runtime": 32377242,
+            "dest": "18_San_Francisco",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "18_San_Francisco",
+            "nbpSR": 2,
+            "runtime": 62895522,
+            "dest": "7_Baltimore",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 4,
+            "runtime": 42387398,
+            "dest": "0_Washington_CDC",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 30010854,
+            "dest": "21_Denver",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 33898891,
+            "dest": "17_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Houston",
+            "nbpSR": 2,
+            "runtime": 65724291,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 40712659,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 3,
+            "runtime": 59402013,
+            "dest": "2_Atlanta",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 3,
+            "runtime": 48316308,
+            "dest": "2_Atlanta",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 41734251,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 34988478,
+            "dest": "5_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Boston",
+            "nbpSR": 2,
+            "runtime": 25946987,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 2,
+            "runtime": 39703081,
+            "dest": "14_Austin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Tokyo",
+            "nbpSR": 1,
+            "runtime": 14385758,
+            "dest": "16_Portland",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 23031368,
+            "dest": "14_Austin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 28053055,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Tokyo",
+            "nbpSR": 1,
+            "runtime": 16002045,
+            "dest": "9_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Seattle",
+            "nbpSR": 2,
+            "runtime": 25399517,
+            "dest": "8_Amsterdam",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Chicago",
+            "nbpSR": 2,
+            "runtime": 29853252,
+            "dest": "1_New_York",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Houston",
+            "nbpSR": 2,
+            "runtime": 62539233,
+            "dest": "9_Frankfurt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 26747643,
+            "dest": "4_Boston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Tokyo",
+            "nbpSR": 1,
+            "runtime": 15592462,
+            "dest": "12_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Austin",
+            "nbpSR": 2,
+            "runtime": 30763293,
+            "dest": "12_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 25609229,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Austin",
+            "nbpSR": 2,
+            "runtime": 26353762,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Baltimore",
+            "nbpSR": 2,
+            "runtime": 26842721,
+            "dest": "2_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 48276766,
+            "dest": "2_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 2,
+            "runtime": 46043746,
+            "dest": "6_Philadelphia",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 32914935,
+            "dest": "13_Dallas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 57362337,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Denver",
+            "nbpSR": 2,
+            "runtime": 25521268,
+            "dest": "10_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Washington_CDC",
+            "nbpSR": 2,
+            "runtime": 45476591,
+            "dest": "7_Baltimore",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 32833356,
+            "dest": "1_New_York",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Dallas",
+            "nbpSR": 2,
+            "runtime": 46921932,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 3,
+            "runtime": 30729424,
+            "dest": "10_Houston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Baltimore",
+            "nbpSR": 2,
+            "runtime": 25455979,
+            "dest": "19_Los_Angeles",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Paris",
+            "nbpSR": 2,
+            "runtime": 23677995,
+            "dest": "9_Frankfurt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Washington_CDC",
+            "nbpSR": 2,
+            "runtime": 42151986,
+            "dest": "11_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Phoenix",
+            "nbpSR": 2,
+            "runtime": 32233447,
+            "dest": "8_Amsterdam",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_London",
+            "nbpSR": 2,
+            "runtime": 50734273,
+            "dest": "9_Frankfurt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_San_Francisco",
+            "nbpSR": 2,
+            "runtime": 57008803,
+            "dest": "15_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 3,
+            "runtime": 41059677,
+            "dest": "22_Chicago",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 40500243,
+            "dest": "16_Portland",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Baltimore",
+            "nbpSR": 2,
+            "runtime": 44464753,
+            "dest": "22_Chicago",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_New_York",
+            "nbpSR": 2,
+            "runtime": 40838784,
+            "dest": "11_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Portland",
+            "nbpSR": 2,
+            "runtime": 31286991,
+            "dest": "11_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_San_Francisco",
+            "nbpSR": 3,
+            "runtime": 60521609,
+            "dest": "22_Chicago",
+            "nbpFlow": 3
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

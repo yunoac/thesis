@@ -1,0 +1,83 @@
+{
+    "initialCoverSize": 11,
+    "times": [
+        1169241,
+        1611162,
+        1928977
+    ],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "2_None 9_Buffalo 0_New_York 2_None",
+        "2_None 1_None 0_New_York 2_None",
+        "2_None 3_Moncton 0_New_York 2_None",
+        "2_None 5_Edmundston 0_New_York 2_None",
+        "2_None 5_Edmundston 1_None 2_None",
+        "2_None 0_New_York 5_Edmundston 2_None",
+        "2_None 8_Toronto 2_None 2_None",
+        "2_None 8_Toronto 9_Buffalo 2_None",
+        "2_None 9_Buffalo 8_Toronto 2_None",
+        "2_None 7_Montreal 1_None 2_None",
+        "2_None 1_None 7_Montreal 2_None"
+    ],
+    "values": [
+        5,
+        4,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 4,
+    "runtime": 3270133,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 1_None 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 3_Moncton 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 5_Edmundston 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 5_Edmundston 1_None 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 0_New_York 5_Edmundston 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 8_Toronto 2_None 2_None"
+        },
+        {
+            "x": 1,
+            "cycle": "2_None 8_Toronto 9_Buffalo 2_None"
+        },
+        {
+            "x": 1,
+            "cycle": "2_None 9_Buffalo 8_Toronto 2_None"
+        },
+        {
+            "x": 1,
+            "cycle": "2_None 7_Montreal 1_None 2_None"
+        },
+        {
+            "x": 1,
+            "cycle": "2_None 1_None 7_Montreal 2_None"
+        }
+    ],
+    "greedySolution": [
+        "2_None 8_Toronto 9_Buffalo 2_None",
+        "2_None 9_Buffalo 8_Toronto 2_None",
+        "2_None 7_Montreal 1_None 2_None",
+        "2_None 1_None 7_Montreal 2_None"
+    ]
+}

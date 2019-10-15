@@ -1,0 +1,375 @@
+{
+    "initialCoverSize": 60,
+    "times": [
+        2263948,
+        6656518,
+        11858055,
+        16056381,
+        20051145,
+        24202899,
+        29093949,
+        33486528,
+        37863179,
+        42879083,
+        48705967,
+        52866909,
+        57164440,
+        63419539
+    ],
+    "finalCoverSize": 33,
+    "minSegCycles": [
+        "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom",
+        "1_Radom 1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 2_Belarus 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 5_Ukraine 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 13_Gorzow_Wlkp 0_Warszawa@1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 12_Sochaczew@6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom 1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom 1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 37_Russia 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 29_Lithuania 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 12_Sochaczew 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 15_DFN 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 14_SURFnet/NORDUnet 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 15_DFN 10_Elblag 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 25_Wroclaw 0_Warszawa@1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 16_GEANT3 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 17_Internet 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 21_CESNET 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 22_SANET 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 24_Geant2/Internet 0_Warszawa@1_Radom 1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 33_Zielona_gora 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 15_DFN 0_Warszawa@1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 10_Elblag 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 6_Lodz 0_Warszawa@1_Radom 1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 12_Sochaczew@6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 14_SURFnet/NORDUnet 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 16_GEANT3 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 17_Internet 16_GEANT3 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 24_Geant2/Internet 14_SURFnet/NORDUnet 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 17_Internet 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 24_Geant2/Internet 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 24_Geant2/Internet 17_Internet 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 14_SURFnet/NORDUnet 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 15_DFN 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 17_Internet 15_DFN 0_Warszawa@1_Radom"
+    ],
+    "values": [
+        37,
+        34,
+        32,
+        31,
+        31,
+        30,
+        29,
+        28.5,
+        28,
+        28,
+        28,
+        28,
+        27.666666666666668,
+        27.500000000000004
+    ],
+    "initialCoverSeg": 7,
+    "greedyCoverSize": 29,
+    "runtime": 164672058,
+    "lpBound": 27.500000000000004,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 13_Gorzow_Wlkp 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@0_Warszawa 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom 1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 2_Belarus 30_Gdansk 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin 25_Wroclaw 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 20_Czechtochowa 5_Ukraine 20_Czechtochowa 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 13_Gorzow_Wlkp 0_Warszawa@1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 12_Sochaczew@6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@7_Pulawy 7_Pulawy@1_Radom 1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@9_Kielce 9_Kielce@1_Radom 1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 13_Gorzow_Wlkp 37_Russia 13_Gorzow_Wlkp 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 29_Lithuania 30_Gdansk 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 12_Sochaczew 13_Gorzow_Wlkp 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 15_DFN 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 14_SURFnet/NORDUnet 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 15_DFN 10_Elblag 13_Gorzow_Wlkp 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 13_Gorzow_Wlkp 25_Wroclaw 0_Warszawa@1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 16_GEANT3 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 17_Internet 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 21_CESNET 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 22_SANET 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 24_Geant2/Internet 0_Warszawa@1_Radom 1_Radom 1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 33_Zielona_gora 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 15_DFN 0_Warszawa@1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 25_Wroclaw 10_Elblag 13_Gorzow_Wlkp 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 13_Gorzow_Wlkp 6_Lodz 0_Warszawa@1_Radom 1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 13_Gorzow_Wlkp 12_Sochaczew@6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.055555555555555615,
+            "cycle": "1_Radom@0_Warszawa 14_SURFnet/NORDUnet 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.6111111111111112,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 16_GEANT3 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.38888888888888884,
+            "cycle": "1_Radom@0_Warszawa 17_Internet 16_GEANT3 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.7777777777777778,
+            "cycle": "1_Radom@0_Warszawa 24_Geant2/Internet 14_SURFnet/NORDUnet 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@7_Pulawy 7_Pulawy@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@9_Kielce 9_Kielce@1_Radom"
+        },
+        {
+            "x": 0.2777777777777777,
+            "cycle": "1_Radom@0_Warszawa 17_Internet 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 24_Geant2/Internet 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Radom@0_Warszawa 24_Geant2/Internet 17_Internet 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.1666666666666666,
+            "cycle": "1_Radom@0_Warszawa 6_Lodz 14_SURFnet/NORDUnet 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Radom@0_Warszawa 30_Gdansk 25_Wroclaw 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "1_Radom@0_Warszawa 15_DFN 6_Lodz 0_Warszawa@1_Radom"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "1_Radom@0_Warszawa 17_Internet 15_DFN 0_Warszawa@1_Radom"
+        }
+    ],
+    "greedySolution": [
+        "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 0_Warszawa@3_Bialystok 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 2_Belarus 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 3_Bialystok@0_Warszawa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 4_Lublin@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 5_Ukraine 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@4_Lublin 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@23_Krakow 20_Czechtochowa 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 37_Russia 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 29_Lithuania 30_Gdansk 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 12_Sochaczew 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 21_CESNET 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 22_SANET 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 20_Czechtochowa 23_Krakow@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 25_Wroclaw 10_Elblag 13_Gorzow_Wlkp 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 13_Gorzow_Wlkp 12_Sochaczew@6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 14_SURFnet/NORDUnet 6_Lodz 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 6_Lodz 16_GEANT3 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 24_Geant2/Internet 14_SURFnet/NORDUnet 0_Warszawa@1_Radom",
+        "1_Radom@7_Pulawy 7_Pulawy@1_Radom",
+        "1_Radom@9_Kielce 9_Kielce@1_Radom",
+        "1_Radom@0_Warszawa 30_Gdansk 25_Wroclaw 0_Warszawa@1_Radom",
+        "1_Radom@0_Warszawa 17_Internet 15_DFN 0_Warszawa@1_Radom"
+    ]
+}

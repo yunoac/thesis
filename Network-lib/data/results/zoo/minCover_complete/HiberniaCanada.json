@@ -1,0 +1,80 @@
+{
+    "initialCoverSize": 14,
+    "times": [
+        1140021,
+        1505165,
+        1883467,
+        2251818,
+        2602279,
+        2976903
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Edmundston 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_None 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_None 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Moncton 0_New_York 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 1_None 5_Edmundston 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Edmundston 1_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Toronto 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Moncton 9_Buffalo 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 9_Buffalo 3_Moncton 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 2_None 1_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Montreal 1_None 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 5_Edmundston 2_None 0_New_York"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_New_York 2_None 5_Edmundston 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 5_Edmundston 9_Buffalo 0_New_York"
+        }
+    ],
+    "values": [
+        4.5,
+        4,
+        4,
+        4,
+        3.666666666666667,
+        3.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 65100,
+    "lpBound": 3.5
+}

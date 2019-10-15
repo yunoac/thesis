@@ -1,0 +1,462 @@
+{
+    "initialCoverSize": 75,
+    "times": [
+        19814795,
+        64929417,
+        74656017,
+        111340683,
+        136214924,
+        161087778,
+        186556842,
+        203876377,
+        246571587,
+        289306911,
+        314122087,
+        338867846,
+        363524301,
+        391940203,
+        432992651,
+        468635566,
+        490289457
+    ],
+    "finalCoverSize": 28,
+    "minSegCycles": [
+        "2_DK 1_BE@0_NL 2_DK",
+        "2_DK@0_NL 3_PL 2_DK",
+        "2_DK 0_NL@34_UK 2_DK",
+        "2_DK 0_NL@30_LT 2_DK",
+        "2_DK 33_IE 0_NL 2_DK",
+        "2_DK 32_IS 0_NL 2_DK",
+        "2_DK 35_NO 0_NL 2_DK",
+        "2_DK 3_PL 0_NL 2_DK",
+        "2_DK 30_LT@0_NL 2_DK",
+        "2_DK 36_SE 0_NL 2_DK",
+        "2_DK 31_RU@2_DK 2_DK",
+        "2_DK 10_UA 0_NL 2_DK",
+        "2_DK 19_BY 0_NL 2_DK",
+        "2_DK 3_PL 5_CZ 2_DK",
+        "2_DK@0_NL 30_LT 2_DK",
+        "2_DK 5_CZ 0_NL 2_DK",
+        "2_DK 6_LU 0_NL 2_DK",
+        "2_DK 8_CH 0_NL 2_DK",
+        "2_DK 16_CY 0_NL 2_DK",
+        "2_DK 17_IL 0_NL 2_DK",
+        "2_DK 9_IT 0_NL 2_DK",
+        "2_DK 3_PL 31_RU@2_DK",
+        "2_DK 5_CZ 3_PL 2_DK",
+        "2_DK 3_PL 11_MD 2_DK",
+        "2_DK 7_FR 0_NL 2_DK",
+        "2_DK 7_FR 8_CH 2_DK",
+        "2_DK 6_LU 9_IT 2_DK",
+        "2_DK 34_UK@0_NL 2_DK",
+        "2_DK 8_CH 7_FR 2_DK",
+        "2_DK 8_CH 9_IT 2_DK",
+        "2_DK 24_PT 0_NL 2_DK",
+        "2_DK 9_IT 8_CH 2_DK",
+        "2_DK 9_IT 6_LU 2_DK",
+        "2_DK 18_MT 0_NL 2_DK",
+        "2_DK 7_FR 11_MD 2_DK",
+        "2_DK 14_TR 0_NL 2_DK",
+        "2_DK 20_MK 0_NL 2_DK",
+        "2_DK 7_FR 22_HU 2_DK",
+        "2_DK 11_MD 3_PL 2_DK",
+        "2_DK 11_MD 14_TR 2_DK",
+        "2_DK 14_TR 11_MD 2_DK",
+        "2_DK 11_MD 7_FR 2_DK",
+        "2_DK 16_CY 1_BE 2_DK",
+        "2_DK 17_IL 30_LT 2_DK",
+        "2_DK 21_ME 0_NL@2_DK",
+        "2_DK 5_CZ 12_BG 2_DK",
+        "2_DK 26_RS 0_NL 2_DK",
+        "2_DK 5_CZ 21_ME 2_DK",
+        "2_DK 1_BE 25_ES 2_DK",
+        "2_DK 21_ME 5_CZ 2_DK",
+        "2_DK 30_LT 0_NL@2_DK",
+        "2_DK 30_LT 17_IL 2_DK",
+        "2_DK@31_RU 3_PL 2_DK",
+        "2_DK@32_IS 24_PT 2_DK",
+        "2_DK 1_BE 16_CY 2_DK",
+        "2_DK 24_PT 32_IS@2_DK",
+        "2_DK@35_NO 36_SE@2_DK",
+        "2_DK@36_SE 35_NO@2_DK",
+        "2_DK 37_FI 0_NL 2_DK",
+        "2_DK 26_RS 8_CH 2_DK",
+        "2_DK 20_MK 21_ME 2_DK",
+        "2_DK 18_MT 5_CZ 2_DK",
+        "2_DK 31_RU 5_CZ 2_DK",
+        "2_DK 18_MT 6_LU 2_DK",
+        "2_DK 20_MK 7_FR 2_DK",
+        "2_DK 26_RS 7_FR 2_DK",
+        "2_DK 34_UK 8_CH 2_DK",
+        "2_DK 11_MD 10_UA 2_DK",
+        "2_DK 18_MT 10_UA 2_DK",
+        "2_DK 19_BY 10_UA 2_DK",
+        "2_DK 19_BY 11_MD 2_DK",
+        "2_DK 5_CZ 19_BY 2_DK",
+        "2_DK 31_RU 30_LT 2_DK",
+        "2_DK 30_LT 31_RU 2_DK",
+        "2_DK 37_FI 35_NO 2_DK"
+    ],
+    "values": [
+        35,
+        33,
+        33,
+        32,
+        32,
+        31,
+        31,
+        31,
+        31,
+        30,
+        30,
+        30,
+        29,
+        29,
+        29,
+        29,
+        28
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 35,
+    "runtime": 902091100,
+    "lpBound": 28,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "2_DK 1_BE@0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK@0_NL 3_PL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 0_NL@34_UK 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 0_NL@30_LT 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 33_IE 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 32_IS 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 35_NO 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 3_PL 0_NL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 30_LT@0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 36_SE 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 31_RU@2_DK 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 10_UA 0_NL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 19_BY 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 3_PL 5_CZ 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK@0_NL 30_LT 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 5_CZ 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 6_LU 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 8_CH 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 16_CY 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 17_IL 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 9_IT 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 3_PL 31_RU@2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 5_CZ 3_PL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 3_PL 11_MD 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 7_FR 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 7_FR 8_CH 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 6_LU 9_IT 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 34_UK@0_NL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 8_CH 7_FR 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 8_CH 9_IT 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 24_PT 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 9_IT 8_CH 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 9_IT 6_LU 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 18_MT 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 7_FR 11_MD 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 14_TR 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 20_MK 0_NL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 7_FR 22_HU 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 11_MD 3_PL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 11_MD 14_TR 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 14_TR 11_MD 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 11_MD 7_FR 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 16_CY 1_BE 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 17_IL 30_LT 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 21_ME 0_NL@2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 5_CZ 12_BG 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 26_RS 0_NL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 5_CZ 21_ME 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 1_BE 25_ES 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 21_ME 5_CZ 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 30_LT 0_NL@2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 30_LT 17_IL 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK@31_RU 3_PL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK@32_IS 24_PT 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 1_BE 16_CY 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 24_PT 32_IS@2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK@35_NO 36_SE@2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK@36_SE 35_NO@2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 37_FI 0_NL 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 26_RS 8_CH 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 20_MK 21_ME 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 18_MT 5_CZ 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 31_RU 5_CZ 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 18_MT 6_LU 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 20_MK 7_FR 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 26_RS 7_FR 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 34_UK 8_CH 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 11_MD 10_UA 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 18_MT 10_UA 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 19_BY 10_UA 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 19_BY 11_MD 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 5_CZ 19_BY 2_DK"
+        },
+        {
+            "x": 0,
+            "cycle": "2_DK 31_RU 30_LT 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 30_LT 31_RU 2_DK"
+        },
+        {
+            "x": 1,
+            "cycle": "2_DK 37_FI 35_NO 2_DK"
+        }
+    ],
+    "greedySolution": [
+        "2_DK 0_NL@34_UK 2_DK",
+        "2_DK 0_NL@30_LT 2_DK",
+        "2_DK 30_LT@0_NL 2_DK",
+        "2_DK@0_NL 30_LT 2_DK",
+        "2_DK 16_CY 0_NL 2_DK",
+        "2_DK 17_IL 0_NL 2_DK",
+        "2_DK 34_UK@0_NL 2_DK",
+        "2_DK 8_CH 7_FR 2_DK",
+        "2_DK 8_CH 9_IT 2_DK",
+        "2_DK 24_PT 0_NL 2_DK",
+        "2_DK 9_IT 8_CH 2_DK",
+        "2_DK 7_FR 11_MD 2_DK",
+        "2_DK 14_TR 0_NL 2_DK",
+        "2_DK 11_MD 14_TR 2_DK",
+        "2_DK 14_TR 11_MD 2_DK",
+        "2_DK 16_CY 1_BE 2_DK",
+        "2_DK 17_IL 30_LT 2_DK",
+        "2_DK 26_RS 0_NL 2_DK",
+        "2_DK 1_BE 25_ES 2_DK",
+        "2_DK 21_ME 5_CZ 2_DK",
+        "2_DK 30_LT 17_IL 2_DK",
+        "2_DK@32_IS 24_PT 2_DK",
+        "2_DK 1_BE 16_CY 2_DK",
+        "2_DK 24_PT 32_IS@2_DK",
+        "2_DK@35_NO 36_SE@2_DK",
+        "2_DK 20_MK 21_ME 2_DK",
+        "2_DK 26_RS 7_FR 2_DK",
+        "2_DK 34_UK 8_CH 2_DK",
+        "2_DK 11_MD 10_UA 2_DK",
+        "2_DK 18_MT 10_UA 2_DK",
+        "2_DK 19_BY 11_MD 2_DK",
+        "2_DK 5_CZ 19_BY 2_DK",
+        "2_DK 31_RU 30_LT 2_DK",
+        "2_DK 30_LT 31_RU 2_DK",
+        "2_DK 37_FI 35_NO 2_DK"
+    ]
+}

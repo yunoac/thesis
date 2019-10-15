@@ -1,0 +1,92 @@
+{
+    "initialCoverSize": 13,
+    "times": [1242598],
+    "finalCoverSize": 11,
+    "minSegCycles": [
+        "0_Bor 1_Kosovska_Mitrovica 0_Bor",
+        "0_Bor 2_Novi_Pazar 0_Bor",
+        "0_Bor 4_Vranje 0_Bor",
+        "0_Bor 6_Pirot 0_Bor",
+        "0_Bor 11_HUNGARNET 0_Bor",
+        "0_Bor 18_Sombor 0_Bor",
+        "0_Bor 19_Zrenjanin 0_Bor",
+        "0_Bor 10_Bosnia_and_Herzegovina 0_Bor",
+        "0_Bor 13_Pancevo 0_Bor",
+        "0_Bor 14_Telekom_Serbia 0_Bor",
+        "0_Bor 21_Valjevo 0_Bor",
+        "0_Bor 22_Uzice 0_Bor",
+        "0_Bor 23_Cacak 0_Bor"
+    ],
+    "values": [11],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 11,
+    "runtime": 5046868,
+    "lpBound": 11,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_Bor 1_Kosovska_Mitrovica 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 2_Novi_Pazar 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 4_Vranje 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 6_Pirot 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 11_HUNGARNET 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 18_Sombor 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 19_Zrenjanin 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 10_Bosnia_and_Herzegovina 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 13_Pancevo 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 14_Telekom_Serbia 0_Bor"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bor 21_Valjevo 0_Bor"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bor 22_Uzice 0_Bor"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bor 23_Cacak 0_Bor"
+        }
+    ],
+    "greedySolution": [
+        "0_Bor 1_Kosovska_Mitrovica 0_Bor",
+        "0_Bor 2_Novi_Pazar 0_Bor",
+        "0_Bor 4_Vranje 0_Bor",
+        "0_Bor 6_Pirot 0_Bor",
+        "0_Bor 11_HUNGARNET 0_Bor",
+        "0_Bor 18_Sombor 0_Bor",
+        "0_Bor 19_Zrenjanin 0_Bor",
+        "0_Bor 10_Bosnia_and_Herzegovina 0_Bor",
+        "0_Bor 13_Pancevo 0_Bor",
+        "0_Bor 14_Telekom_Serbia 0_Bor",
+        "0_Bor 23_Cacak 0_Bor"
+    ]
+}

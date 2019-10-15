@@ -1,0 +1,138 @@
+{
+    "initialCoverSize": 30,
+    "times": [
+        1289316,
+        1817466,
+        2300097
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_? 1_NRT 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 2_SKA 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 1_NRT,2_SKA 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 1_NRT 12_NPM 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 2_SKA,1_NRT 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 1_NRT 3_CBI 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 3_CBI 1_NRT 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 3_CBI,4_BKK 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 4_BKK,3_CBI 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 1_NRT 5_CRI 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 1_NRT 9_UBI 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 4_BKK,11_NRM 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 12_NPM 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 5_CRI 1_NRT 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 5_CRI,6_CMI 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 6_CMI,5_CRI 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 9_UBI 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 8_SKN,10_KKN 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 8_SKN 11_NRM 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 9_UBI,11_NRM 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 10_KKN,8_SKN 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 11_NRM 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 10_KKN,11_NRM 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 9_UBI 1_NRT 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 11_NRM,4_BKK 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 11_NRM,9_UBI 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 11_NRM,10_KKN 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 12_NPM 1_NRT 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 9_UBI 5_CRI 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 5_CRI 9_UBI 0_?"
+        }
+    ],
+    "values": [
+        22,
+        21,
+        20
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 72805,
+    "lpBound": 20
+}

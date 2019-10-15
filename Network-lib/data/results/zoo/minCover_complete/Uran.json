@@ -1,0 +1,138 @@
+{
+    "initialCoverSize": 26,
+    "times": [
+        1675629,
+        3221687,
+        4702471,
+        6170581,
+        7640364,
+        9121721,
+        10036451,
+        10929118,
+        11837841,
+        12715730,
+        13584161
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Kherson 1_Mykolaiv,0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 2_Sevastopol 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 4_Vinnitsa 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 6_Odessa 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 5_Khmelnitsky 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Kherson 4_Vinnitsa 9_Poznan_(GEANT_&_Internet) 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 11_Odessa-IX 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 7_Kamianets-Podilsky 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 8_Frankfurt_(Internet) 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 12_Kharkiv-IX 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 13_UA-IX 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 14_Zaporizhia 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 23_Donetsk 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Kherson 9_Poznan_(GEANT_&_Internet) 4_Vinnitsa 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 17_Lutsk 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 20_Pereyaslav 0_Kherson 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 7_Kamianets-Podilsky 2_Sevastopol 0_Kherson"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Kherson 8_Frankfurt_(Internet) 2_Sevastopol 0_Kherson"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Kherson 8_Frankfurt_(Internet) 7_Kamianets-Podilsky 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 12_Kharkiv-IX 11_Odessa-IX 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 13_UA-IX 11_Odessa-IX 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 13_UA-IX 12_Kharkiv-IX 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 17_Lutsk 14_Zaporizhia 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 20_Pereyaslav 14_Zaporizhia 0_Kherson"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Kherson 20_Pereyaslav 17_Lutsk 0_Kherson"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Kherson 23_Donetsk 2_Sevastopol 0_Kherson"
+        }
+    ],
+    "values": [
+        12,
+        11,
+        11,
+        10.5,
+        9.5,
+        9.5,
+        9,
+        8,
+        8,
+        7.5,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 321059,
+    "lpBound": 7
+}

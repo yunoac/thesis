@@ -1,0 +1,1001 @@
+{
+    "initialCoverSize": 157,
+    "times": [
+        3787322,
+        5269525,
+        6655824,
+        8046303,
+        11758336,
+        14427415,
+        16171745,
+        17720076,
+        20044015,
+        21599544,
+        23010683,
+        24333025,
+        28095837,
+        30611478,
+        32359353,
+        34192088,
+        35846585,
+        37346410,
+        38922516,
+        40286034,
+        41995313,
+        44837688,
+        47233306,
+        49376928,
+        51239405,
+        53441059,
+        56360611,
+        59239006,
+        64734604,
+        67742456,
+        71478172,
+        75894617,
+        80487157,
+        83653792,
+        85464633,
+        88914444,
+        93092626,
+        96594717,
+        101515100,
+        106074273,
+        110905488,
+        115338001,
+        121458645,
+        125523381,
+        128213654,
+        132201550,
+        137058775,
+        140166106,
+        143779534,
+        149285715,
+        153768918,
+        156027482,
+        159864304,
+        164218090,
+        169536516,
+        173292287,
+        176724098,
+        183707072,
+        189866847,
+        193284770,
+        199594922,
+        203995179,
+        207861997,
+        213546710,
+        220241999,
+        223721265,
+        226918458,
+        231301970,
+        237813037,
+        243513570,
+        249610035,
+        257623462,
+        262650446,
+        268555779,
+        271956532,
+        275121662,
+        282116926,
+        290241690,
+        294441277,
+        303478697,
+        308518448,
+        313085031,
+        318555758
+    ],
+    "finalCoverSize": 64,
+    "minSegCycles": [
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 3_Sao_Paulo 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 7_Brussels 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@8_New_York 8_New_York@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@8_New_York 8_New_York@17_Ashburn 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 10_Seattle 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles 15_Chicago@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 14_Dallas@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 14_Dallas@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 14_Dallas@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 10_Seattle 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@8_New_York 8_New_York@15_Chicago 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@8_New_York 8_New_York@15_Chicago 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 14_Dallas 10_Seattle 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 16_Toronto 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@4_Amsterdam 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@9_Atlanta 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@9_Atlanta 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles 16_Toronto 12_Los_Angeles 16_Toronto 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@17_Ashburn",
+        "17_Ashburn@14_Dallas 15_Chicago@8_New_York 16_Toronto 14_Dallas 15_Chicago@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 16_Toronto 8_New_York@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 9_Atlanta@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 2_Miami@9_Atlanta 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 10_Seattle 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn@15_Chicago 16_Toronto 9_Atlanta 16_Toronto 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 16_Toronto 10_Seattle 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 14_Dallas@17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 13_Phoenix@14_Dallas 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 14_Dallas 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 10_Seattle 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@14_Dallas 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 16_Toronto 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@13_Phoenix 13_Phoenix@14_Dallas 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@17_Ashburn 17_Ashburn@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@17_Ashburn 17_Ashburn@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@15_Chicago 9_Atlanta@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 10_Seattle 16_Toronto 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 15_Chicago@8_New_York 16_Toronto 9_Atlanta@17_Ashburn",
+        "17_Ashburn@15_Chicago 15_Chicago@8_New_York 8_New_York@15_Chicago 9_Atlanta@17_Ashburn",
+        "17_Ashburn@9_Atlanta 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 10_Seattle 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@15_Chicago 15_Chicago@17_Ashburn",
+        "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@15_Chicago 9_Atlanta@17_Ashburn",
+        "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 2_Miami@9_Atlanta 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@8_New_York 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@15_Chicago 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn"
+    ],
+    "values": [
+        66,
+        63,
+        61.5,
+        57.5,
+        55.5,
+        52.5,
+        50.5,
+        49.5,
+        49.5,
+        47.5,
+        45.5,
+        44,
+        42,
+        42,
+        40.5,
+        39.5,
+        39.5,
+        37.5,
+        37,
+        36.66666666666666,
+        35.166666666666664,
+        34.5,
+        34.5,
+        33.699999999999996,
+        33.25,
+        32.77777777777777,
+        32.5625,
+        31.75,
+        31.5,
+        31.5,
+        31.272727272727273,
+        31,
+        30.25,
+        29.5,
+        29.5,
+        29.25,
+        29.119999999999997,
+        28.375,
+        28.242537313432834,
+        28.1875,
+        28.018518518518526,
+        27.97297297297297,
+        27.92857142857143,
+        27.916666666666668,
+        27.70192307692308,
+        27.68681318681318,
+        27.629629629629626,
+        27.46577946768061,
+        27.46577946768061,
+        26.46577946768061,
+        26.46577946768061,
+        25.465779467680616,
+        25.465779467680616,
+        24.465779467680616,
+        24.465779467680616,
+        24.465779467680616,
+        24.465779467680616,
+        24.402838427947597,
+        24.23527349228611,
+        24.14391951006124,
+        24.06281833616299,
+        24.03725299643667,
+        24.009703047668665,
+        23.96771070615034,
+        23.9440867003367,
+        23.93896618553123,
+        23.93022950975952,
+        23.90555555555556,
+        23.877176616915428,
+        23.837796743182267,
+        23.8313128591954,
+        23.829797221179124,
+        23.781607234216985,
+        23.74297127054847,
+        23.717891523831884,
+        23.713419611451634,
+        23.706844581679164,
+        23.684404636459433,
+        23.68440463645943,
+        23.68386675375571,
+        23.68140996856758,
+        23.668847874720356,
+        23.66666666666667
+    ],
+    "initialCoverSeg": 9,
+    "greedyCoverSize": 32,
+    "runtime": 397852981,
+    "lpBound": 23.66666666666667,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 3_Sao_Paulo 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 7_Brussels 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0.6649999999999987,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0.6649999999999987,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@8_New_York 8_New_York@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0.3350000000000013,
+            "cycle": "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@8_New_York 8_New_York@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0.33500000000000135,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 10_Seattle 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 12_Los_Angeles 15_Chicago@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.1820000000000056,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.06833333333332958,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.604333333333331,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 14_Dallas@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 14_Dallas@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 14_Dallas@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 10_Seattle 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@8_New_York 8_New_York@15_Chicago 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@8_New_York 8_New_York@15_Chicago 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 14_Dallas 10_Seattle 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 16_Toronto 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn 11_San_Jose/San_Francisco@10_Seattle 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@4_Amsterdam 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@9_Atlanta 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@9_Atlanta 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@14_Dallas 2_Miami@9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 17_Ashburn@15_Chicago 9_Atlanta 9_Atlanta 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles 16_Toronto 12_Los_Angeles 16_Toronto 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@14_Dallas 15_Chicago@8_New_York 16_Toronto 14_Dallas 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 16_Toronto 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.1649999999999987,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.6456666666666666,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.11233333333333376,
+            "cycle": "17_Ashburn@9_Atlanta 9_Atlanta@2_Miami 2_Miami@9_Atlanta 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.019333333333332092,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@9_Atlanta 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.6623333333333338,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.06666666666666389,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.060333333333330436,
+            "cycle": "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 2_Miami@9_Atlanta 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@9_Atlanta 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.18866666666666485,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.022000000000000575,
+            "cycle": "17_Ashburn@14_Dallas 10_Seattle 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 16_Toronto 9_Atlanta 16_Toronto 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.2773333333333351,
+            "cycle": "17_Ashburn@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.278999999999998,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 16_Toronto 10_Seattle 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.022000000000000575,
+            "cycle": "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0.9779999999999994,
+            "cycle": "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0.033333333333336546,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta 13_Phoenix@14_Dallas 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.7623333333333342,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.368000000000002,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 14_Dallas 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 10_Seattle 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.12433333333333292,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.753,
+            "cycle": "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@14_Dallas 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.4833333333333317,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 10_Seattle 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 16_Toronto 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.2376666666666658,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.17733333333333534,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@13_Phoenix 13_Phoenix@14_Dallas 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.4043333333333334,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@17_Ashburn 17_Ashburn@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@17_Ashburn 17_Ashburn@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.5956666666666666,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.05166666666666614,
+            "cycle": "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@15_Chicago 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.4043333333333334,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0.6649999999999987,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0.3350000000000013,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0.3350000000000013,
+            "cycle": "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn"
+        },
+        {
+            "x": 0.1453333333333339,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.4906666666666658,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.14533333333333387,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 10_Seattle 16_Toronto 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.12699999999999825,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.13599999999999968,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.33500000000000135,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@8_New_York 16_Toronto 15_Chicago@8_New_York 16_Toronto 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 15_Chicago@8_New_York 8_New_York@15_Chicago 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@9_Atlanta 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.009333333333334193,
+            "cycle": "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.6990000000000014,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.12333333333333352,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 10_Seattle 11_San_Jose/San_Francisco@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn@15_Chicago 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.6099999999999974,
+            "cycle": "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn"
+        },
+        {
+            "x": 0.21833333333333366,
+            "cycle": "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 15_Chicago@8_New_York 8_New_York@17_Ashburn"
+        },
+        {
+            "x": 0.08633333333333243,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@15_Chicago 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.1059999999999999,
+            "cycle": "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 2_Miami@9_Atlanta 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.04999999999999988,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@8_New_York 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0.10500000000000076,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 8_New_York@15_Chicago 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0.022000000000000575,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn"
+        },
+        {
+            "x": 0.05866666666666824,
+            "cycle": "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.10633333333333375,
+            "cycle": "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+        },
+        {
+            "x": 0.009333333333334193,
+            "cycle": "17_Ashburn@8_New_York 8_New_York@15_Chicago 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn"
+        }
+    ],
+    "greedySolution": [
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 3_Sao_Paulo 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 7_Brussels 4_Amsterdam@17_Ashburn 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 7_Brussels 1_Paris 6_London@8_New_York 8_New_York@17_Ashburn 17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 1_Paris@7_Brussels 4_Amsterdam@17_Ashburn 17_Ashburn",
+        "17_Ashburn@14_Dallas 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 2_Miami@9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 17_Ashburn@8_New_York 8_New_York@15_Chicago 9_Atlanta 10_Seattle 11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@14_Dallas 15_Chicago@8_New_York 16_Toronto 14_Dallas 15_Chicago@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 8_New_York@15_Chicago 16_Toronto 8_New_York@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@8_New_York 8_New_York@6_London 6_London@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@9_Atlanta 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@11_San_Jose/San_Francisco 11_San_Jose/San_Francisco@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn@14_Dallas 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 9_Atlanta@2_Miami 14_Dallas@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 16_Toronto 14_Dallas 16_Toronto 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 12_Los_Angeles@11_San_Jose/San_Francisco 10_Seattle 15_Chicago@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@5_Frankfurt 5_Frankfurt@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@4_Amsterdam 4_Amsterdam@6_London 6_London@4_Amsterdam 4_Amsterdam@17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@14_Dallas 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn",
+        "17_Ashburn@8_New_York 16_Toronto 9_Atlanta@2_Miami 12_Los_Angeles@11_San_Jose/San_Francisco 17_Ashburn",
+        "17_Ashburn@9_Atlanta 13_Phoenix@12_Los_Angeles 15_Chicago@8_New_York 8_New_York@17_Ashburn",
+        "17_Ashburn@15_Chicago 14_Dallas@13_Phoenix 13_Phoenix@12_Los_Angeles 15_Chicago@17_Ashburn",
+        "17_Ashburn 11_San_Jose/San_Francisco@12_Los_Angeles 2_Miami@0_Rio_De_Janeiro 0_Rio_De_Janeiro@2_Miami 14_Dallas@17_Ashburn",
+        "17_Ashburn@15_Chicago 9_Atlanta@2_Miami 12_Los_Angeles@13_Phoenix 9_Atlanta@17_Ashburn"
+    ]
+}

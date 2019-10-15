@@ -1,0 +1,126 @@
+{
+    "initialCoverSize": 23,
+    "times": [
+        1245368,
+        1852016,
+        2439570,
+        2998598,
+        3574123,
+        4161741,
+        4896340,
+        5461680,
+        6050712,
+        6612877,
+        7243016
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 1_CCRN 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 2_Ettelbruck 4_GEANT_Paris_(FR) 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 2_Ettelbruck 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 5_Internet_via_Bruxelles_(BE) 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 6_ADSL_(via_EPT) 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 7_France 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 8_GEANT_Frankfurt_(DE) 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 13_Rollingergrund 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Walferdange 4_GEANT_Paris_(FR) 2_Ettelbruck 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 11_ADSL_(via_Tango) 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 12_UNI.iu 0_Walferdange 0_Walferdange"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Walferdange 12_UNI.iu 7_France 0_Walferdange"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Walferdange 7_France 12_UNI.iu 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 5_Internet_via_Bruxelles_(BE) 1_CCRN 0_Walferdange"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Walferdange 6_ADSL_(via_EPT) 1_CCRN 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 5_Internet_via_Bruxelles_(BE) 2_Ettelbruck 0_Walferdange"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Walferdange 2_Ettelbruck 5_Internet_via_Bruxelles_(BE) 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 6_ADSL_(via_EPT) 2_Ettelbruck 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 2_Ettelbruck 1_CCRN 0_Walferdange"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Walferdange 11_ADSL_(via_Tango) 8_GEANT_Frankfurt_(DE) 0_Walferdange"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Walferdange 13_Rollingergrund 8_GEANT_Frankfurt_(DE) 0_Walferdange"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Walferdange 13_Rollingergrund 11_ADSL_(via_Tango) 0_Walferdange"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Walferdange 13_Rollingergrund 12_UNI.iu 0_Walferdange"
+        }
+    ],
+    "values": [
+        10,
+        9,
+        9,
+        8,
+        8,
+        8,
+        8,
+        7,
+        7,
+        6.5,
+        6.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 128358,
+    "lpBound": 6.5
+}

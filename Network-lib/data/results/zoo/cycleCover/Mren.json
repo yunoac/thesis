@@ -1,0 +1,40 @@
+{
+    "initialCoverSize": 4,
+    "times": [1165883],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje",
+        "0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje",
+        "0_Bijelo_Polje 4_Kotor 0_Bijelo_Polje",
+        "0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje"
+    ],
+    "values": [4],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 4,
+    "runtime": 1726634,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bijelo_Polje 4_Kotor 0_Bijelo_Polje"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje"
+        }
+    ],
+    "greedySolution": [
+        "0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje",
+        "0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje",
+        "0_Bijelo_Polje 4_Kotor 0_Bijelo_Polje",
+        "0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje"
+    ]
+}

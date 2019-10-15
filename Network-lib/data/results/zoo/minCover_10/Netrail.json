@@ -1,0 +1,174 @@
+{
+    "initialCoverSize": 30,
+    "times": [
+        1239687,
+        1551106,
+        1872154,
+        2117532,
+        2390421,
+        2675683,
+        2945357,
+        3222093,
+        3519763,
+        3777439,
+        4157040,
+        4524246,
+        4847957,
+        5192825,
+        5543847,
+        5871385,
+        6142947,
+        6489419,
+        6834033,
+        7234229,
+        7604829
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 2_New_York,1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 1_Chicago 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 2_New_York 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 1_Chicago 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago,2_New_York 5_Miami 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 6_Atlanta,1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 2_New_York,1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago,6_Atlanta 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 2_New_York 0_Palo_Alto 2_New_York 0_Palo_Alto 2_New_York 0_Palo_Alto 2_New_York 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "1_Chicago 0_Palo_Alto 2_New_York 5_Miami 2_New_York 5_Miami 3_Baltimore 6_Atlanta 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 1_Chicago 5_Miami 1_Chicago 5_Miami 1_Chicago 5_Miami 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 1_Chicago 3_Baltimore 0_Palo_Alto 2_New_York 3_Baltimore 1_Chicago 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 6_Atlanta 3_Baltimore 6_Atlanta 3_Baltimore 6_Atlanta 3_Baltimore 6_Atlanta 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.14285714285714282,
+            "cycle": "1_Chicago 0_Palo_Alto 6_Atlanta 3_Baltimore 0_Palo_Alto 1_Chicago 0_Palo_Alto 1_Chicago 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 2_New_York 5_Miami 1_Chicago 2_New_York 5_Miami 1_Chicago 2_New_York 5_Miami 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 2_New_York 0_Palo_Alto 1_Chicago 5_Miami 2_New_York 5_Miami 2_New_York 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 3_Baltimore 2_New_York 5_Miami 3_Baltimore 2_New_York 5_Miami 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.14285714285714288,
+            "cycle": "1_Chicago 3_Baltimore 5_Miami 6_Atlanta 3_Baltimore 5_Miami 6_Atlanta 3_Baltimore 5_Miami 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago 3_Baltimore 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0.19047619047619044,
+            "cycle": "1_Chicago 5_Miami 3_Baltimore 1_Chicago 5_Miami 3_Baltimore 1_Chicago 5_Miami 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.2857142857142857,
+            "cycle": "1_Chicago 3_Baltimore 6_Atlanta 3_Baltimore 6_Atlanta 0_Palo_Alto 3_Baltimore 6_Atlanta 5_Miami 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 6_Atlanta 3_Baltimore 0_Palo_Alto 6_Atlanta 3_Baltimore 2_New_York 0_Palo_Alto 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 2_New_York 3_Baltimore 0_Palo_Alto 2_New_York 0_Palo_Alto 2_New_York 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "1_Chicago 5_Miami 2_New_York 0_Palo_Alto 6_Atlanta 3_Baltimore 0_Palo_Alto 6_Atlanta 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 5_Miami 1_Chicago 5_Miami 1_Chicago 5_Miami 1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago 0_Palo_Alto 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.09523809523809526,
+            "cycle": "1_Chicago 3_Baltimore 5_Miami 1_Chicago 3_Baltimore 1_Chicago 3_Baltimore 1_Chicago 3_Baltimore 1_Chicago"
+        },
+        {
+            "x": 0.19047619047619047,
+            "cycle": "1_Chicago 3_Baltimore 0_Palo_Alto 2_New_York 0_Palo_Alto 2_New_York 0_Palo_Alto 2_New_York 5_Miami 1_Chicago"
+        }
+    ],
+    "values": [
+        6,
+        5.25,
+        4.666666666666667,
+        2.9166666666666665,
+        2.6500000000000004,
+        1.75,
+        1.503048780487805,
+        1.503048780487805,
+        1.4353146853146854,
+        1.430112293144208,
+        1.4230921312771847,
+        1.412746079412746,
+        1.39890180878553,
+        1.360341643582641,
+        1.358843537414966,
+        1.3552891865953738,
+        1.3507580900656257,
+        1.3467202141900938,
+        1.3436243769094711,
+        1.3401673147166253,
+        1.3333333333333335
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 32601,
+    "lpBound": 1.3333333333333335
+}

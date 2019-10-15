@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 2,
+            "runtime": 200566937,
+            "dest": "26_Szekesfehervar",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Zalaegerszeg",
+            "nbpSR": 2,
+            "runtime": 145195623,
+            "dest": "20_Budapest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Godollo",
+            "nbpSR": 1,
+            "runtime": 175012856,
+            "dest": "19_Bekescsaba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bekescsaba",
+            "nbpSR": 1,
+            "runtime": 184032870,
+            "dest": "9_Baja",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 63660820,
+            "dest": "0_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Miskolc",
+            "nbpSR": 1,
+            "runtime": 68546698,
+            "dest": "9_Baja",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Baja",
+            "nbpSR": 1,
+            "runtime": 69520933,
+            "dest": "15_Szekszard",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Zalaegerszeg",
+            "nbpSR": 1,
+            "runtime": 140005866,
+            "dest": "10_Pecs",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 1,
+            "runtime": 188252414,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Szolnok",
+            "nbpSR": 2,
+            "runtime": 148925692,
+            "dest": "22_Sopron",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 148681281,
+            "dest": "1_Miskolc",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Baja",
+            "nbpSR": 1,
+            "runtime": 91167787,
+            "dest": "8_Kecskemet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 101686530,
+            "dest": "19_Bekescsaba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 91389860,
+            "dest": "8_Kecskemet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Dunaujvaros",
+            "nbpSR": 2,
+            "runtime": 160962060,
+            "dest": "22_Sopron",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Kecskemet",
+            "nbpSR": 2,
+            "runtime": 186625129,
+            "dest": "5_Dunaujvaros",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Szekszard",
+            "nbpSR": 1,
+            "runtime": 103816841,
+            "dest": "26_Szekesfehervar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Vac",
+            "nbpSR": 1,
+            "runtime": 64121492,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Budapest",
+            "nbpSR": 2,
+            "runtime": 113537484,
+            "dest": "7_Debrecen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Baja",
+            "nbpSR": 1,
+            "runtime": 85943064,
+            "dest": "8_Kecskemet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pecs",
+            "nbpSR": 1,
+            "runtime": 91800043,
+            "dest": "4_Szolnok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 2,
+            "runtime": 183388623,
+            "dest": "26_Szekesfehervar",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 66468618,
+            "dest": "10_Pecs",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Siofok",
+            "nbpSR": 1,
+            "runtime": 72414625,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Nyiregyhaza",
+            "nbpSR": 1,
+            "runtime": 64550713,
+            "dest": "20_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Miskolc",
+            "nbpSR": 1,
+            "runtime": 76137991,
+            "dest": "25_Nagykanizsa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Sopron",
+            "nbpSR": 2,
+            "runtime": 198094935,
+            "dest": "12_Szeged",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Nyiregyhaza",
+            "nbpSR": 1,
+            "runtime": 83673031,
+            "dest": "24_Zalaegerszeg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 197867559,
+            "dest": "11_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 1,
+            "runtime": 145192802,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Kaposvar",
+            "nbpSR": 1,
+            "runtime": 71520747,
+            "dest": "2_Salgotarjan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_None",
+            "nbpSR": 1,
+            "runtime": 90707344,
+            "dest": "17_Vienna",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Tatabanya",
+            "nbpSR": 2,
+            "runtime": 169555482,
+            "dest": "7_Debrecen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 1,
+            "runtime": 200419259,
+            "dest": "18_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Dunaujvaros",
+            "nbpSR": 2,
+            "runtime": 158156763,
+            "dest": "29_Tatabanya",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Siofok",
+            "nbpSR": 1,
+            "runtime": 68712731,
+            "dest": "21_Vac",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Dunaujvaros",
+            "nbpSR": 2,
+            "runtime": 172484636,
+            "dest": "23_Szombathely",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Szekszard",
+            "nbpSR": 1,
+            "runtime": 62111475,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Baja",
+            "nbpSR": 1,
+            "runtime": 67085014,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 2,
+            "runtime": 209192245,
+            "dest": "23_Szombathely",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 2,
+            "runtime": 186464328,
+            "dest": "26_Szekesfehervar",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 68064375,
+            "dest": "0_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 1,
+            "runtime": 184935651,
+            "dest": "19_Bekescsaba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Sopron",
+            "nbpSR": 1,
+            "runtime": 145309922,
+            "dest": "3_Godollo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Szombathely",
+            "nbpSR": 2,
+            "runtime": 180448735,
+            "dest": "7_Debrecen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Siofok",
+            "nbpSR": 1,
+            "runtime": 86103306,
+            "dest": "27_Veszprem",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Siofok",
+            "nbpSR": 1,
+            "runtime": 69321346,
+            "dest": "9_Baja",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 164738710,
+            "dest": "7_Debrecen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Tatabanya",
+            "nbpSR": 2,
+            "runtime": 149374490,
+            "dest": "22_Sopron",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 139278538,
+            "dest": "25_Nagykanizsa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pecs",
+            "nbpSR": 1,
+            "runtime": 91998676,
+            "dest": "7_Debrecen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 1,
+            "runtime": 191994589,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 2,
+            "runtime": 161809027,
+            "dest": "4_Szolnok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Pecs",
+            "nbpSR": 1,
+            "runtime": 93955387,
+            "dest": "27_Veszprem",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 69099856,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 68779796,
+            "dest": "6_Nyiregyhaza",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Bratislava",
+            "nbpSR": 1,
+            "runtime": 187561897,
+            "dest": "19_Bekescsaba",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 1,
+            "runtime": 151631666,
+            "dest": "0_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_Zalaegerszeg",
+            "nbpSR": 1,
+            "runtime": 141891396,
+            "dest": "1_Miskolc",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Vac",
+            "nbpSR": 1,
+            "runtime": 69688673,
+            "dest": "2_Salgotarjan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Debrecen",
+            "nbpSR": 2,
+            "runtime": 144231577,
+            "dest": "22_Sopron",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Godollo",
+            "nbpSR": 1,
+            "runtime": 72112287,
+            "dest": "10_Pecs",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Nyiregyhaza",
+            "nbpSR": 1,
+            "runtime": 168158686,
+            "dest": "12_Szeged",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Sopron",
+            "nbpSR": 2,
+            "runtime": 166109678,
+            "dest": "8_Kecskemet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Miskolc",
+            "nbpSR": 1,
+            "runtime": 62006074,
+            "dest": "15_Szekszard",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 66998211,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 63577684,
+            "dest": "15_Szekszard",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Szekesfehervar",
+            "nbpSR": 1,
+            "runtime": 140669084,
+            "dest": "0_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Szekszard",
+            "nbpSR": 1,
+            "runtime": 86951548,
+            "dest": "5_Dunaujvaros",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 189784440,
+            "dest": "23_Szombathely",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 1,
+            "runtime": 149217412,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_Szekesfehervar",
+            "nbpSR": 2,
+            "runtime": 172153824,
+            "dest": "27_Veszprem",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Miskolc",
+            "nbpSR": 1,
+            "runtime": 60649855,
+            "dest": "9_Baja",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Debrecen",
+            "nbpSR": 1,
+            "runtime": 158195978,
+            "dest": "2_Salgotarjan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Gyor",
+            "nbpSR": 1,
+            "runtime": 135561056,
+            "dest": "14_Kaposvar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 86154072,
+            "dest": "4_Szolnok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Gyor",
+            "nbpSR": 2,
+            "runtime": 189687637,
+            "dest": "12_Szeged",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Szekszard",
+            "nbpSR": 1,
+            "runtime": 60936670,
+            "dest": "3_Godollo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 140460184,
+            "dest": "25_Nagykanizsa",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_None",
+            "nbpSR": 1,
+            "runtime": 89370706,
+            "dest": "4_Szolnok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Veszprem",
+            "nbpSR": 1,
+            "runtime": 140160842,
+            "dest": "3_Godollo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Szeged",
+            "nbpSR": 1,
+            "runtime": 179443866,
+            "dest": "3_Godollo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 86879576,
+            "dest": "8_Kecskemet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Kecskemet",
+            "nbpSR": 1,
+            "runtime": 161256519,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bekescsaba",
+            "nbpSR": 1,
+            "runtime": 187431096,
+            "dest": "28_Gyor",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_None",
+            "nbpSR": 1,
+            "runtime": 173341251,
+            "dest": "29_Tatabanya",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Budapest",
+            "nbpSR": 1,
+            "runtime": 176968739,
+            "dest": "21_Vac",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_Nagykanizsa",
+            "nbpSR": 1,
+            "runtime": 136150490,
+            "dest": "18_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Vac",
+            "nbpSR": 1,
+            "runtime": 70201974,
+            "dest": "2_Salgotarjan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Tatabanya",
+            "nbpSR": 2,
+            "runtime": 170708007,
+            "dest": "4_Szolnok",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Bratislava",
+            "nbpSR": 1,
+            "runtime": 135715988,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Kaposvar",
+            "nbpSR": 1,
+            "runtime": 66055002,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Sopron",
+            "nbpSR": 1,
+            "runtime": 159726879,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Gyor",
+            "nbpSR": 1,
+            "runtime": 142415816,
+            "dest": "6_Nyiregyhaza",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Tatabanya",
+            "nbpSR": 2,
+            "runtime": 165129327,
+            "dest": "5_Dunaujvaros",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_Zalaegerszeg",
+            "nbpSR": 2,
+            "runtime": 192510811,
+            "dest": "12_Szeged",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Bekescsaba",
+            "nbpSR": 1,
+            "runtime": 182020585,
+            "dest": "26_Szekesfehervar",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Kecskemet",
+            "nbpSR": 1,
+            "runtime": 160343197,
+            "dest": "21_Vac",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Kaposvar",
+            "nbpSR": 1,
+            "runtime": 96474286,
+            "dest": "7_Debrecen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Vienna",
+            "nbpSR": 1,
+            "runtime": 148429594,
+            "dest": "13_Siofok",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

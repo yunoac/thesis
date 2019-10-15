@@ -1,0 +1,192 @@
+{
+    "initialCoverSize": 36,
+    "times": [
+        2003054,
+        3673300,
+        5157300,
+        6702106,
+        8215965,
+        9715900,
+        11206174,
+        12654418,
+        14089626,
+        15571266,
+        17384624,
+        18812787,
+        20259803,
+        21714707,
+        23161535,
+        24700377,
+        26241146,
+        27660559
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 1_Qnet_AS 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 27_Farafenni 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 11_Gamtel_House 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 10_Mansk_Gambia 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 6_Quantum_Net 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 4_MDI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 5_GTMI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 7_MRC 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 8_Univ_Gambia 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 9_GTMI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 12_Action_Ltd 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 13_UNDP 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 14_Teleglobe_Canada 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 17_Gantd_Center 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 18_Basse 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 19_Bansang 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 22_Kotu 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 18_Basse 2_Kerewan 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 2_Kerewan 18_Basse 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 19_Bansang 6_Quantum_Net 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 4_MDI 1_Qnet_AS 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 5_GTMI 1_Qnet_AS 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 5_GTMI 4_MDI 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 8_Univ_Gambia 7_MRC 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 9_GTMI 7_MRC 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 9_GTMI 8_Univ_Gambia 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 11_Gamtel_House 10_Mansk_Gambia 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 12_Action_Ltd 11_Gamtel_House 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 12_Action_Ltd 10_Mansk_Gambia 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 14_Teleglobe_Canada 13_UNDP 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 17_Gantd_Center 13_UNDP 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 17_Gantd_Center 14_Teleglobe_Canada 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 22_Kotu 1_Qnet_AS 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 18_Basse 10_Mansk_Gambia 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 6_Quantum_Net 18_Basse 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 10_Mansk_Gambia 19_Bansang 0_Gamnet"
+        }
+    ],
+    "values": [
+        17,
+        15,
+        14,
+        14,
+        13.5,
+        12.5,
+        12.5,
+        12,
+        11,
+        11,
+        10.5,
+        9.5,
+        9.5,
+        9,
+        8.5,
+        8.5,
+        8.5,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 633057,
+    "lpBound": 8
+}

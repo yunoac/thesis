@@ -1,0 +1,64 @@
+{
+    "originalCover": {
+        "runtime": 2002989,
+        "cycles": [
+            "0_Salt_Lake_City 1_Minneapolis 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 10_Los_Angeles 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 5_Philadelphia 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 1_Minneapolis 8_New_York 0_Salt_Lake_City",
+            "0_Salt_Lake_City 8_New_York 1_Minneapolis 0_Salt_Lake_City",
+            "0_Salt_Lake_City 17_San_Diego 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 20_Dallas 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 13_Seattle 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 18_Phoenix 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 10_Los_Angeles 5_Philadelphia 0_Salt_Lake_City",
+            "0_Salt_Lake_City 1_Minneapolis 17_San_Diego 0_Salt_Lake_City"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Salt_Lake_City 1_Minneapolis 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 10_Los_Angeles 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 5_Philadelphia 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 1_Minneapolis 8_New_York 0_Salt_Lake_City",
+            "0_Salt_Lake_City 8_New_York 1_Minneapolis 0_Salt_Lake_City",
+            "0_Salt_Lake_City 17_San_Diego 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 19_Tucson 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 13_Seattle 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 18_Phoenix 0_Salt_Lake_City 0_Salt_Lake_City",
+            "0_Salt_Lake_City 10_Los_Angeles 5_Philadelphia 0_Salt_Lake_City",
+            "0_Salt_Lake_City 1_Minneapolis 17_San_Diego 0_Salt_Lake_City"
+        ],
+        "source": 0,
+        "runetime": 1897328,
+        "maxSeg": 4
+    }
+}

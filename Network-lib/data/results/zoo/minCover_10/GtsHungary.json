@@ -1,0 +1,328 @@
+{
+    "initialCoverSize": 60,
+    "times": [
+        1378149,
+        3231720,
+        5770351,
+        7407738,
+        9058209,
+        10659967,
+        12374514,
+        13938373,
+        15478674,
+        17122963,
+        18781553,
+        20580509,
+        22262517,
+        23914111,
+        25604148,
+        27260578,
+        28920643,
+        30564959,
+        32263931,
+        33932294,
+        35608884,
+        37359784,
+        39090304,
+        40828108,
+        42572325,
+        44363465,
+        46123357,
+        47910889,
+        49658172,
+        51381587,
+        53153127,
+        54891327,
+        56715264,
+        58479113,
+        60250115,
+        62097818,
+        63972901,
+        65602923
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 0_None 1_Miskolc 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 2_Salgotarjan 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 3_Godollo 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 7_Debrecen 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 5_Dunaujvaros 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 5_Dunaujvaros 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 6_Nyiregyhaza 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 11_None 4_Szolnok 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 9_Baja 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 10_Pecs 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 4_Szolnok 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 13_Siofok 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 14_Kaposvar 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 15_Szekszard 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 16_None 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 17_Vienna 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 18_Bratislava 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 21_Vac 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 25_Nagykanizsa 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 24_Zalaegerszeg 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 17_Vienna 24_Zalaegerszeg 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 24_Zalaegerszeg 17_Vienna 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 1_Miskolc 8_Kecskemet 1_Miskolc 8_Kecskemet 1_Miskolc 8_Kecskemet 2_Salgotarjan 1_Miskolc 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 18_Bratislava 23_Szombathely 18_Bratislava 23_Szombathely 18_Bratislava 23_Szombathely 18_Bratislava 2_Salgotarjan 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 5_Dunaujvaros 19_Bekescsaba 5_Dunaujvaros 19_Bekescsaba 5_Dunaujvaros 19_Bekescsaba 5_Dunaujvaros 4_Szolnok"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Szolnok 3_Godollo 2_Salgotarjan 3_Godollo 2_Salgotarjan 3_Godollo 2_Salgotarjan 3_Godollo 2_Salgotarjan 4_Szolnok"
+        },
+        {
+            "x": 0.25,
+            "cycle": "4_Szolnok 9_Baja 6_Nyiregyhaza 9_Baja 6_Nyiregyhaza 9_Baja 6_Nyiregyhaza 9_Baja 6_Nyiregyhaza 4_Szolnok"
+        },
+        {
+            "x": 0.13422062750333769,
+            "cycle": "4_Szolnok 13_Siofok 10_Pecs 13_Siofok 10_Pecs 13_Siofok 10_Pecs 13_Siofok 10_Pecs 4_Szolnok"
+        },
+        {
+            "x": 0.04120076769025366,
+            "cycle": "4_Szolnok 15_Szekszard 14_Kaposvar 15_Szekszard 14_Kaposvar 15_Szekszard 14_Kaposvar 15_Szekszard 14_Kaposvar 4_Szolnok"
+        },
+        {
+            "x": 0.04120076769025366,
+            "cycle": "4_Szolnok 21_Vac 16_None 21_Vac 16_None 21_Vac 16_None 21_Vac 16_None 4_Szolnok"
+        },
+        {
+            "x": 0.024365821094793044,
+            "cycle": "4_Szolnok 25_Nagykanizsa 24_Zalaegerszeg 25_Nagykanizsa 24_Zalaegerszeg 25_Nagykanizsa 24_Zalaegerszeg 25_Nagykanizsa 24_Zalaegerszeg 4_Szolnok"
+        },
+        {
+            "x": 0.13434579439252334,
+            "cycle": "4_Szolnok 24_Zalaegerszeg 18_Bratislava 24_Zalaegerszeg 18_Bratislava 24_Zalaegerszeg 18_Bratislava 24_Zalaegerszeg 18_Bratislava 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 17_Vienna 7_Debrecen 17_Vienna 7_Debrecen 17_Vienna 7_Debrecen 17_Vienna 7_Debrecen 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 0_None 8_Kecskemet 7_Debrecen 8_Kecskemet 7_Debrecen 8_Kecskemet 7_Debrecen 11_None 4_Szolnok"
+        },
+        {
+            "x": 0.11732309746328431,
+            "cycle": "4_Szolnok 0_None 17_Vienna 24_Zalaegerszeg 0_None 1_Miskolc 0_None 1_Miskolc 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 11_None 19_Bekescsaba 11_None 19_Bekescsaba 11_None 19_Bekescsaba 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 17_Vienna 24_Zalaegerszeg 5_Dunaujvaros 17_Vienna 24_Zalaegerszeg 5_Dunaujvaros 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 18_Bratislava 8_Kecskemet 18_Bratislava 8_Kecskemet 18_Bratislava 0_None 8_Kecskemet 18_Bratislava 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 6_Nyiregyhaza 3_Godollo 6_Nyiregyhaza 3_Godollo 6_Nyiregyhaza 3_Godollo 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 9_Baja 3_Godollo 9_Baja 3_Godollo 9_Baja 3_Godollo 9_Baja 3_Godollo 4_Szolnok"
+        },
+        {
+            "x": 0.05690921228304404,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 14_Kaposvar 10_Pecs 14_Kaposvar 10_Pecs 14_Kaposvar 10_Pecs 4_Szolnok"
+        },
+        {
+            "x": 0.2783989764129951,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 16_None 15_Szekszard 16_None 15_Szekszard 16_None 15_Szekszard 4_Szolnok"
+        },
+        {
+            "x": 0.0639741878059635,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 21_Vac 17_Vienna 21_Vac 17_Vienna 21_Vac 17_Vienna 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 5_Dunaujvaros 13_Siofok 25_Nagykanizsa 5_Dunaujvaros 13_Siofok 5_Dunaujvaros 13_Siofok 5_Dunaujvaros 4_Szolnok"
+        },
+        {
+            "x": 0.09746328437917236,
+            "cycle": "4_Szolnok 25_Nagykanizsa 10_Pecs 25_Nagykanizsa 10_Pecs 25_Nagykanizsa 10_Pecs 5_Dunaujvaros 19_Bekescsaba 4_Szolnok"
+        },
+        {
+            "x": 0.01810747663551414,
+            "cycle": "4_Szolnok 17_Vienna 13_Siofok 14_Kaposvar 13_Siofok 14_Kaposvar 13_Siofok 14_Kaposvar 13_Siofok 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 7_Debrecen 21_Vac 7_Debrecen 21_Vac 7_Debrecen 21_Vac 5_Dunaujvaros 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 24_Zalaegerszeg 17_Vienna 8_Kecskemet 7_Debrecen 24_Zalaegerszeg 17_Vienna 5_Dunaujvaros 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 4_Szolnok 19_Bekescsaba 4_Szolnok 19_Bekescsaba 4_Szolnok 19_Bekescsaba 4_Szolnok"
+        },
+        {
+            "x": 0.01985981308411221,
+            "cycle": "4_Szolnok 18_Bratislava 24_Zalaegerszeg 1_Miskolc 18_Bratislava 24_Zalaegerszeg 1_Miskolc 18_Bratislava 24_Zalaegerszeg 4_Szolnok"
+        },
+        {
+            "x": 0.2100300400534045,
+            "cycle": "4_Szolnok 21_Vac 17_Vienna 27_Veszprem 17_Vienna 27_Veszprem 17_Vienna 5_Dunaujvaros 11_None 4_Szolnok"
+        },
+        {
+            "x": 0.19534379172229632,
+            "cycle": "4_Szolnok 11_None 5_Dunaujvaros 21_Vac 13_Siofok 21_Vac 13_Siofok 5_Dunaujvaros 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 5_Dunaujvaros 26_Szekesfehervar 18_Bratislava 26_Szekesfehervar 18_Bratislava 5_Dunaujvaros 19_Bekescsaba 4_Szolnok"
+        },
+        {
+            "x": 0.3628170894526035,
+            "cycle": "4_Szolnok 19_Bekescsaba 5_Dunaujvaros 1_Miskolc 24_Zalaegerszeg 1_Miskolc 24_Zalaegerszeg 5_Dunaujvaros 19_Bekescsaba 4_Szolnok"
+        },
+        {
+            "x": 0.15253671562082768,
+            "cycle": "4_Szolnok 25_Nagykanizsa 14_Kaposvar 25_Nagykanizsa 14_Kaposvar 25_Nagykanizsa 14_Kaposvar 25_Nagykanizsa 14_Kaposvar 4_Szolnok"
+        },
+        {
+            "x": 0.13434579439252328,
+            "cycle": "4_Szolnok 18_Bratislava 0_None 18_Bratislava 0_None 18_Bratislava 0_None 5_Dunaujvaros 19_Bekescsaba 4_Szolnok"
+        },
+        {
+            "x": 0.042556742323097606,
+            "cycle": "4_Szolnok 19_Bekescsaba 5_Dunaujvaros 0_None 21_Vac 0_None 24_Zalaegerszeg 17_Vienna 0_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 19_Bekescsaba 11_None 4_Szolnok 11_None 4_Szolnok 11_None 4_Szolnok 11_None 4_Szolnok"
+        },
+        {
+            "x": 0,
+            "cycle": "4_Szolnok 11_None 8_Kecskemet 7_Debrecen 8_Kecskemet 7_Debrecen 8_Kecskemet 7_Debrecen 11_None 4_Szolnok"
+        }
+    ],
+    "values": [
+        18,
+        17,
+        16,
+        14.25,
+        13,
+        11.25,
+        9.5,
+        7.75,
+        6,
+        6,
+        4.333333333333333,
+        4.333333333333333,
+        3.5833333333333335,
+        3.5625,
+        3.0069444444444446,
+        2.9176587301587302,
+        2.8874999999999997,
+        2.874731654957065,
+        2.8602245862884166,
+        2.8602245862884166,
+        2.8602245862884166,
+        2.8554796918767504,
+        2.8270165208940723,
+        2.808677469942498,
+        2.782892635186154,
+        2.7775254620711456,
+        2.7573304242519145,
+        2.749160785595222,
+        2.718394377697629,
+        2.71839437769763,
+        2.6839128915563593,
+        2.6839128915563593,
+        2.6536170567315045,
+        2.648167352351161,
+        2.6270448348985154,
+        2.625,
+        2.625,
+        2.625
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 341091,
+    "lpBound": 2.625
+}

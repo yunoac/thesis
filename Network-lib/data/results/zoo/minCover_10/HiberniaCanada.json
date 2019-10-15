@@ -1,0 +1,134 @@
+{
+    "initialCoverSize": 23,
+    "times": [
+        1067080,
+        1496889,
+        1894017,
+        2256711,
+        2625796,
+        3020243,
+        3403503,
+        3799571,
+        4220142,
+        4685419,
+        5127923,
+        5567707,
+        5985099,
+        6422502,
+        6842165
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 1_None 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 3_Moncton 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 5_Edmundston 0_New_York 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 5_Edmundston 1_None 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 0_New_York 5_Edmundston 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 8_Toronto 2_None 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 8_Toronto 9_Buffalo 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 8_Toronto 2_None"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "2_None 7_Montreal 1_None 7_Montreal 1_None 7_Montreal 1_None 7_Montreal 1_None 2_None"
+        },
+        {
+            "x": 0.1851851851851852,
+            "cycle": "2_None 9_Buffalo 8_Toronto 9_Buffalo 8_Toronto 9_Buffalo 8_Toronto 9_Buffalo 8_Toronto 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 10_Albany 3_Moncton 8_Toronto 2_None 8_Toronto 2_None 8_Toronto 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 2_None 9_Buffalo 2_None 9_Buffalo 2_None 9_Buffalo 2_None"
+        },
+        {
+            "x": 0.14814814814814814,
+            "cycle": "2_None 8_Toronto 9_Buffalo 2_None 8_Toronto 9_Buffalo 2_None 8_Toronto 9_Buffalo 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 10_Albany 3_Moncton 0_New_York 5_Edmundston 11_Boston 6_Quebec 1_None 7_Montreal 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 10_Albany 3_Moncton 10_Albany 3_Moncton 10_Albany 3_Moncton 8_Toronto 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 1_None 9_Buffalo 1_None 9_Buffalo 1_None 7_Montreal 8_Toronto 2_None"
+        },
+        {
+            "x": 0.16666666666666663,
+            "cycle": "2_None 9_Buffalo 1_None 7_Montreal 1_None 7_Montreal 1_None 7_Montreal 8_Toronto 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 9_Buffalo 8_Toronto 2_None 0_New_York 2_None 0_New_York 2_None 0_New_York 2_None"
+        },
+        {
+            "x": 0.12962962962962965,
+            "cycle": "2_None 9_Buffalo 8_Toronto 2_None 8_Toronto 2_None 8_Toronto 2_None 8_Toronto 2_None"
+        },
+        {
+            "x": 0.12962962962962962,
+            "cycle": "2_None 9_Buffalo 2_None 9_Buffalo 2_None 9_Buffalo 2_None 9_Buffalo 8_Toronto 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 10_Albany 3_Moncton 10_Albany 3_Moncton 10_Albany 3_Moncton 8_Toronto 9_Buffalo 2_None"
+        },
+        {
+            "x": 0,
+            "cycle": "2_None 10_Albany 3_Moncton 10_Albany 3_Moncton 10_Albany 3_Moncton 10_Albany 3_Moncton 2_None"
+        }
+    ],
+    "values": [
+        5,
+        2.3333333333333335,
+        2.3333333333333335,
+        1.5,
+        1.125,
+        0.9583333333333334,
+        0.9583333333333334,
+        0.9583333333333334,
+        0.9583333333333334,
+        0.9583333333333334,
+        0.9583333333333334,
+        0.9388888888888889,
+        0.9259259259259259,
+        0.9259259259259259,
+        0.9259259259259259
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 66954,
+    "lpBound": 0.9259259259259259
+}

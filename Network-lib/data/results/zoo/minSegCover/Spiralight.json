@@ -1,0 +1,18 @@
+{
+    "nbCycles": 10,
+    "runtime": 2430562,
+    "cycles": [
+        "0_Milwaukee 3_Waukesha,0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 1_Rockford 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee",
+        "0_Milwaukee 5_Madison 1_Rockford 0_Milwaukee",
+        "0_Milwaukee 11_Appleton 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 6_Camp_Douglas 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 7_Minneaopolis 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 9_Wausau 0_Milwaukee 0_Milwaukee",
+        "0_Milwaukee 7_Minneaopolis 11_Appleton 0_Milwaukee",
+        "0_Milwaukee 11_Appleton 7_Minneaopolis 0_Milwaukee"
+    ],
+    "segmentCost": 4,
+    "source": "0_Milwaukee"
+}

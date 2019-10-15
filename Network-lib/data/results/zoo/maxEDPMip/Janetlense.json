@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 2,
+            "runtime": 38711648,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 56318328,
+            "dest": "10_Wymering",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 1,
+            "runtime": 60837807,
+            "dest": "9_Hampton_Park_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 76846035,
+            "dest": "19_Aldershot_Aggregation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Brighton",
+            "nbpSR": 2,
+            "runtime": 29298396,
+            "dest": "0_Southampton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_Chichester",
+            "nbpSR": 2,
+            "runtime": 36567033,
+            "dest": "19_Aldershot_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Aldershot_Aggregation",
+            "nbpSR": 1,
+            "runtime": 58728601,
+            "dest": "5_Bere_Regis_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Aldershot_Core",
+            "nbpSR": 2,
+            "runtime": 63948555,
+            "dest": "10_Wymering",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 27876516,
+            "dest": "4_Bournemouth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 30985576,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 73390713,
+            "dest": "11_Chichester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Aldershot_Aggregation",
+            "nbpSR": 2,
+            "runtime": 28009850,
+            "dest": "18_Surrey",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_Chichester",
+            "nbpSR": 1,
+            "runtime": 63312899,
+            "dest": "9_Hampton_Park_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 1,
+            "runtime": 76342603,
+            "dest": "5_Bere_Regis_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Isle_of_Wight_Colocation",
+            "nbpSR": 1,
+            "runtime": 75270842,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 28061102,
+            "dest": "18_Surrey",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 71306063,
+            "dest": "16_Brighton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 27817585,
+            "dest": "4_Bournemouth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Wymering",
+            "nbpSR": 2,
+            "runtime": 87403032,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 70362999,
+            "dest": "18_Surrey",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Southampton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 28843149,
+            "dest": "14_Aldershot_Core",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 71403692,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Brighton",
+            "nbpSR": 2,
+            "runtime": 58455110,
+            "dest": "10_Wymering",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 35320762,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Solent",
+            "nbpSR": 2,
+            "runtime": 59245440,
+            "dest": "10_Wymering",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 58175096,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 32736462,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Solent",
+            "nbpSR": 2,
+            "runtime": 29308037,
+            "dest": "14_Aldershot_Core",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 69652216,
+            "dest": "11_Chichester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 68082584,
+            "dest": "14_Aldershot_Core",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Aldershot_Core",
+            "nbpSR": 2,
+            "runtime": 37584292,
+            "dest": "2_Winchester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Wymering",
+            "nbpSR": 2,
+            "runtime": 72494205,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 76861293,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 2,
+            "runtime": 31860477,
+            "dest": "18_Surrey",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 1,
+            "runtime": 36045974,
+            "dest": "9_Hampton_Park_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 31456987,
+            "dest": "11_Chichester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 68814470,
+            "dest": "3_Portsmouth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 72254583,
+            "dest": "4_Bournemouth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 66864400,
+            "dest": "13_Southampton_Core",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 27110996,
+            "dest": "13_Southampton_Core",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 28786880,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 69276051,
+            "dest": "0_Southampton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "17_Sussex",
+            "nbpSR": 2,
+            "runtime": 48079622,
+            "dest": "19_Aldershot_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 2,
+            "runtime": 27475363,
+            "dest": "13_Southampton_Core",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 29389619,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 59479206,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Southampton_Core",
+            "nbpSR": 1,
+            "runtime": 55843716,
+            "dest": "9_Hampton_Park_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 1,
+            "runtime": 74691793,
+            "dest": "9_Hampton_Park_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 29227783,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 76590506,
+            "dest": "10_Wymering",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 70507952,
+            "dest": "2_Winchester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Brighton",
+            "nbpSR": 2,
+            "runtime": 59853051,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 34627175,
+            "dest": "0_Southampton_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 1,
+            "runtime": 31696907,
+            "dest": "5_Bere_Regis_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 28721646,
+            "dest": "6_Solent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Solent",
+            "nbpSR": 1,
+            "runtime": 55358231,
+            "dest": "8_Isle_of_Wight_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 73607150,
+            "dest": "17_Sussex",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Wymering",
+            "nbpSR": 2,
+            "runtime": 70983141,
+            "dest": "4_Bournemouth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 29882187,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Sussex",
+            "nbpSR": 2,
+            "runtime": 27686695,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Southampton_Core",
+            "nbpSR": 2,
+            "runtime": 60615707,
+            "dest": "10_Wymering",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Brighton",
+            "nbpSR": 2,
+            "runtime": 27959267,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 1,
+            "runtime": 56368712,
+            "dest": "8_Isle_of_Wight_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 56239144,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 70719402,
+            "dest": "4_Bournemouth",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 69128004,
+            "dest": "6_Solent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Southampton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 55507240,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 69892599,
+            "dest": "1_Southampton",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 28294274,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Southampton_Core",
+            "nbpSR": 2,
+            "runtime": 39089803,
+            "dest": "16_Brighton",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 66953207,
+            "dest": "11_Chichester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Aldershot_Aggregation",
+            "nbpSR": 2,
+            "runtime": 78692810,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 1,
+            "runtime": 56850816,
+            "dest": "8_Isle_of_Wight_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 30993313,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Aldershot_Core",
+            "nbpSR": 2,
+            "runtime": 38609543,
+            "dest": "18_Surrey",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 2,
+            "runtime": 58221783,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Portsmouth",
+            "nbpSR": 2,
+            "runtime": 32060480,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Bere_Regis_Colocation",
+            "nbpSR": 1,
+            "runtime": 67423489,
+            "dest": "0_Southampton_Aggregation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 31576617,
+            "dest": "17_Sussex",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Southampton_Core",
+            "nbpSR": 2,
+            "runtime": 36877539,
+            "dest": "2_Winchester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Southampton_Core",
+            "nbpSR": 2,
+            "runtime": 33857279,
+            "dest": "6_Solent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Surrey",
+            "nbpSR": 2,
+            "runtime": 31159866,
+            "dest": "3_Portsmouth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Aldershot_Aggregation",
+            "nbpSR": 1,
+            "runtime": 56437114,
+            "dest": "8_Isle_of_Wight_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 29838083,
+            "dest": "19_Aldershot_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "0_Southampton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 29711540,
+            "dest": "1_Southampton",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "15_Brighton_Aggregation",
+            "nbpSR": 2,
+            "runtime": 69576296,
+            "dest": "18_Surrey",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "1_Southampton",
+            "nbpSR": 2,
+            "runtime": 30174188,
+            "dest": "12_Janet_SJ5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 65840239,
+            "dest": "14_Aldershot_Core",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Isle_of_Wight_Colocation",
+            "nbpSR": 1,
+            "runtime": 69003851,
+            "dest": "16_Brighton",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Aldershot_Core",
+            "nbpSR": 16,
+            "runtime": 22426204,
+            "dest": "13_Southampton_Core",
+            "nbpFlow": 16
+        },
+        {
+            "orig": "2_Winchester",
+            "nbpSR": 2,
+            "runtime": 33341152,
+            "dest": "16_Brighton",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Surrey",
+            "nbpSR": 2,
+            "runtime": 27449555,
+            "dest": "6_Solent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Aldershot_Aggregation",
+            "nbpSR": 2,
+            "runtime": 55929923,
+            "dest": "15_Brighton_Aggregation",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 32131488,
+            "dest": "2_Winchester",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 69256009,
+            "dest": "6_Solent",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Surrey",
+            "nbpSR": 2,
+            "runtime": 27794055,
+            "dest": "1_Southampton",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "4_Bournemouth",
+            "nbpSR": 2,
+            "runtime": 55961957,
+            "dest": "7_Bournemouth_Aggregation",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Bournemouth_Aggregation",
+            "nbpSR": 2,
+            "runtime": 68025276,
+            "dest": "3_Portsmouth",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Janet_SJ5",
+            "nbpSR": 1,
+            "runtime": 55849864,
+            "dest": "5_Bere_Regis_Colocation",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Hampton_Park_Colocation",
+            "nbpSR": 1,
+            "runtime": 67175056,
+            "dest": "2_Winchester",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

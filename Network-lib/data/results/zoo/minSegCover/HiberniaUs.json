@@ -1,0 +1,31 @@
+{
+    "nbCycles": 23,
+    "runtime": 7825761,
+    "cycles": [
+        "0_Pittsburgh 1_Philadelphia 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 14_Chicago,0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 15_Cleveland,0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 9_New_York,1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 2_Newark 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 1_Philadelphia 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 2_Newark 9_New_York,1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 16_Buffalo 2_Newark 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 4_Raleigh 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 5_Charlotte 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 8_Atlanta 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 16_Buffalo 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 13_Stamford 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 10_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 11_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh,14_Chicago 15_Cleveland,0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh,15_Cleveland 14_Chicago,0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh",
+        "0_Pittsburgh 17_Toronto 10_None 12_White_Plains 0_Pittsburgh",
+        "0_Pittsburgh 12_White_Plains 10_None 17_Toronto 0_Pittsburgh",
+        "0_Pittsburgh 1_Philadelphia 18_Montreal 1_Philadelphia 0_Pittsburgh",
+        "0_Pittsburgh 20_Boston 0_Pittsburgh 0_Pittsburgh 0_Pittsburgh"
+    ],
+    "segmentCost": 5,
+    "source": "0_Pittsburgh"
+}

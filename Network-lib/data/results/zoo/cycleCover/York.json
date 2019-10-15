@@ -1,0 +1,169 @@
+{
+    "initialCoverSize": 25,
+    "times": [
+        1419832,
+        2435327,
+        3287250,
+        4103771,
+        4960164,
+        5843351,
+        6814360,
+        7697212,
+        8518672,
+        9385837,
+        10253820
+    ],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "0_Leicester 1_Northampton@0_Leicester 0_Leicester",
+        "0_Leicester 2_Sheffield 0_Leicester 0_Leicester",
+        "0_Leicester 4_Croydon 0_Leicester 0_Leicester",
+        "0_Leicester 15_Glasgow 0_Leicester 0_Leicester",
+        "0_Leicester 8_Reading 0_Leicester 0_Leicester",
+        "0_Leicester 9_Banbury 0_Leicester 0_Leicester",
+        "0_Leicester 10_Brighton 0_Leicester 0_Leicester",
+        "0_Leicester 11_Bristol 0_Leicester 0_Leicester",
+        "0_Leicester 12_Birmingham 0_Leicester 0_Leicester",
+        "0_Leicester 13_Preston 0_Leicester 0_Leicester",
+        "0_Leicester@1_Northampton 22_Carlisle 0_Leicester",
+        "0_Leicester 22_Carlisle 0_Leicester 0_Leicester",
+        "0_Leicester 19_Harrogate 12_Birmingham 0_Leicester",
+        "0_Leicester 19_Harrogate 0_Leicester 0_Leicester",
+        "0_Leicester 12_Birmingham 19_Harrogate 0_Leicester",
+        "0_Leicester 10_Brighton 4_Croydon 0_Leicester",
+        "0_Leicester 11_Bristol 4_Croydon 0_Leicester",
+        "0_Leicester 11_Bristol 10_Brighton 0_Leicester",
+        "0_Leicester 15_Glasgow 19_Harrogate 0_Leicester",
+        "0_Leicester 19_Harrogate 15_Glasgow 0_Leicester",
+        "0_Leicester 9_Banbury 4_Croydon 0_Leicester",
+        "0_Leicester 12_Birmingham 4_Croydon 0_Leicester",
+        "0_Leicester 13_Preston 4_Croydon 0_Leicester",
+        "0_Leicester 15_Glasgow 4_Croydon 0_Leicester",
+        "0_Leicester 17_Newcastle 4_Croydon 0_Leicester"
+    ],
+    "values": [
+        6,
+        5,
+        5,
+        4.5,
+        4.5,
+        4.5,
+        4.5,
+        4.5,
+        4.5,
+        4,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 4,
+    "runtime": 15706293,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Leicester 1_Northampton@0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 2_Sheffield 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 4_Croydon 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 15_Glasgow 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 8_Reading 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 9_Banbury 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 10_Brighton 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 11_Bristol 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 12_Birmingham 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 13_Preston 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester@1_Northampton 22_Carlisle 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 22_Carlisle 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Leicester 19_Harrogate 12_Birmingham 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 19_Harrogate 0_Leicester 0_Leicester"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Leicester 12_Birmingham 19_Harrogate 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 10_Brighton 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 11_Bristol 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Leicester 11_Bristol 10_Brighton 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 15_Glasgow 19_Harrogate 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 19_Harrogate 15_Glasgow 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 9_Banbury 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 12_Birmingham 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 13_Preston 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Leicester 15_Glasgow 4_Croydon 0_Leicester"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Leicester 17_Newcastle 4_Croydon 0_Leicester"
+        }
+    ],
+    "greedySolution": [
+        "0_Leicester 12_Birmingham 19_Harrogate 0_Leicester",
+        "0_Leicester 11_Bristol 10_Brighton 0_Leicester",
+        "0_Leicester 19_Harrogate 15_Glasgow 0_Leicester",
+        "0_Leicester 15_Glasgow 4_Croydon 0_Leicester"
+    ]
+}

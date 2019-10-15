@@ -1,0 +1,44 @@
+{
+    "initialCoverSize": 7,
+    "times": [
+        1147521,
+        1424345
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Dublin 3_Cork 0_Dublin 0_Dublin"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dublin 1_Galway 0_Dublin 0_Dublin"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dublin 6_None,0_Dublin 0_Dublin"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dublin 7_None,0_Dublin 0_Dublin"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dublin 1_Galway 3_Cork 0_Dublin"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dublin 3_Cork 1_Galway 0_Dublin"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dublin 7_None 6_None 0_Dublin"
+        }
+    ],
+    "values": [
+        4,
+        3
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 32369,
+    "lpBound": 3
+}

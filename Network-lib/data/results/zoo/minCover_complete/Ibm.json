@@ -1,0 +1,158 @@
+{
+    "initialCoverSize": 32,
+    "times": [
+        1282796,
+        2020144,
+        2635901,
+        3302042,
+        3867092,
+        4528582,
+        5158147,
+        5807005,
+        6425168
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Montreal 2_Detroit 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 1_White_Plains 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 1_White_Plains 9_St_Louis 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 1_White_Plains 2_Detroit 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 9_St_Louis 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 4_Columbus 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 8_Schaumburg 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 5_Bethesda 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 2_Detroit 6_New_York 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 2_Detroit 1_White_Plains 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 1_White_Plains 15_Atlanta 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 6_New_York 2_Detroit 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 15_Atlanta 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 12_Los_Angeles 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 10_Vancouver 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 1_White_Plains 12_Los_Angeles 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 4_Columbus 10_Vancouver 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 13_Phoenix 0_Montreal 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 8_Schaumburg 14_Dallas 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 1_White_Plains 13_Phoenix 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 9_St_Louis 15_Atlanta 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 13_Phoenix 5_Bethesda 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 4_Columbus 14_Dallas 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 9_St_Louis 1_White_Plains 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 15_Atlanta 1_White_Plains 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 12_Los_Angeles 1_White_Plains 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 10_Vancouver 13_Phoenix 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 17_Chicago 4_Columbus 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 5_Bethesda 10_Vancouver 0_Montreal"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Montreal 16_Tampa 9_St_Louis 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 15_Atlanta 10_Vancouver 0_Montreal"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Montreal 15_Atlanta 12_Los_Angeles 0_Montreal"
+        }
+    ],
+    "values": [
+        11,
+        10,
+        10,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 139722,
+    "lpBound": 9
+}

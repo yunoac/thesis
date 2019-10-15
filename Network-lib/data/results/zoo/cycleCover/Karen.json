@@ -1,0 +1,426 @@
+{
+    "initialCoverSize": 64,
+    "times": [
+        1553340,
+        2957229,
+        4361466,
+        5786091,
+        7142575,
+        8465866,
+        9857655,
+        11676899,
+        13918378,
+        16345633,
+        18448153,
+        19985750,
+        21436675,
+        22840446,
+        24309058,
+        25832713,
+        27302215,
+        28714550,
+        30104681,
+        31544079,
+        32989973,
+        34588073,
+        36177628,
+        38362743,
+        40539865,
+        42021711,
+        43580811,
+        45001222,
+        46500940,
+        51026893,
+        54742548,
+        57402707,
+        60015589,
+        62512857,
+        66262609,
+        70324688,
+        74946971,
+        77775345,
+        80857352
+    ],
+    "finalCoverSize": 20,
+    "minSegCycles": [
+        "24_AKL 0_WLG@1_DUD 0_WLG 0_WLG 24_AKL",
+        "24_AKL 0_WLG 2_AVL@0_WLG 0_WLG 24_AKL",
+        "24_AKL 1_DUD@0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 9_NLS@0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 7_INV 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 0_WLG 20_POR 0_WLG 0_WLG 24_AKL",
+        "24_AKL 0_WLG 2_AVL 14_MUP@3_PNR 24_AKL",
+        "24_AKL 12_NPL 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 13_WAG 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 14_MUP@2_AVL 0_WLG 0_WLG 24_AKL",
+        "24_AKL 8_TPO 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 1_DUD 9_NLS@0_WLG 0_WLG 24_AKL",
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 9_NLS 1_DUD@0_WLG 0_WLG 24_AKL",
+        "24_AKL@10_Syd 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL@11_MTA 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL@3_PNR 19_GIS 2_AVL 0_WLG 24_AKL",
+        "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL 24_AKL",
+        "24_AKL@15_NSH 15_NSH@24_AKL 0_WLG 24_AKL",
+        "24_AKL@17_LAX 0_WLG 0_WLG 0_WLG 24_AKL",
+        "24_AKL 18_TAU 2_AVL@0_WLG 0_WLG 24_AKL",
+        "24_AKL 14_MUP 18_TAU 2_AVL 0_WLG 24_AKL",
+        "24_AKL 18_TAU 10_Syd 0_WLG 0_WLG 24_AKL",
+        "24_AKL 24_AKL@15_NSH 15_NSH@24_AKL 24_AKL",
+        "24_AKL 7_INV 20_POR 18_TAU 11_MTA 24_AKL",
+        "24_AKL 7_INV 9_NLS 8_TPO 7_INV 24_AKL",
+        "24_AKL 12_NPL 19_GIS 12_NPL 8_TPO 24_AKL",
+        "24_AKL 10_Syd 9_NLS 10_Syd 9_NLS 24_AKL",
+        "24_AKL 17_LAX 13_WAG 17_LAX 13_WAG 24_AKL",
+        "24_AKL 18_TAU 2_AVL 19_GIS 13_WAG 24_AKL",
+        "24_AKL 14_MUP 11_MTA 14_MUP 11_MTA 24_AKL",
+        "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL",
+        "24_AKL 10_Syd 0_WLG@1_DUD 9_NLS 24_AKL",
+        "24_AKL 18_TAU 17_LAX 18_TAU 17_LAX 24_AKL",
+        "24_AKL 10_Syd 8_TPO 2_AVL 8_TPO 24_AKL",
+        "24_AKL 9_NLS 20_POR 0_WLG@1_DUD 24_AKL",
+        "24_AKL 18_TAU 20_POR 1_DUD@0_WLG 24_AKL",
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 17_LAX 11_MTA 17_LAX 11_MTA 24_AKL",
+        "24_AKL 13_WAG 19_GIS 18_TAU 11_MTA 24_AKL",
+        "24_AKL 9_NLS 1_DUD 9_NLS 1_DUD 24_AKL",
+        "24_AKL 14_MUP 10_Syd 14_MUP 10_Syd 24_AKL",
+        "24_AKL 9_NLS 8_TPO 0_WLG@1_DUD 24_AKL",
+        "24_AKL 8_TPO 9_NLS 8_TPO 9_NLS 24_AKL",
+        "24_AKL 17_LAX 10_Syd 17_LAX 10_Syd 24_AKL",
+        "24_AKL 14_MUP 2_AVL 18_TAU 17_LAX 24_AKL",
+        "24_AKL 18_TAU 19_GIS 18_TAU 14_MUP 24_AKL",
+        "24_AKL 9_NLS 7_INV 9_NLS 7_INV 24_AKL",
+        "24_AKL 12_NPL 9_NLS 2_AVL 18_TAU 24_AKL",
+        "24_AKL 1_DUD@0_WLG 2_AVL 18_TAU 24_AKL",
+        "24_AKL 9_NLS 24_AKL@15_NSH 15_NSH@24_AKL",
+        "24_AKL 12_NPL 24_AKL@15_NSH 15_NSH@24_AKL",
+        "24_AKL 14_MUP 24_AKL@15_NSH 15_NSH@24_AKL",
+        "24_AKL 14_MUP 24_AKL@15_NSH 15_NSH@24_AKL",
+        "24_AKL 17_LAX 18_TAU 19_GIS 13_WAG 24_AKL",
+        "24_AKL 17_LAX 13_WAG 19_GIS 13_WAG 24_AKL",
+        "24_AKL 17_LAX 24_AKL@15_NSH 15_NSH@24_AKL",
+        "24_AKL 11_MTA 10_Syd 11_MTA 10_Syd 24_AKL",
+        "24_AKL 18_TAU 2_AVL 18_TAU 10_Syd 24_AKL",
+        "24_AKL 18_TAU 11_MTA 18_TAU 11_MTA 24_AKL",
+        "24_AKL 12_NPL 19_GIS 12_NPL 11_MTA 24_AKL",
+        "24_AKL 13_WAG 19_GIS 13_WAG 11_MTA 24_AKL"
+    ],
+    "values": [
+        19,
+        17,
+        17,
+        14,
+        13.5,
+        12,
+        12,
+        11.833333333333336,
+        10.833333333333334,
+        9.5,
+        9.5,
+        9.40909090909091,
+        9.333333333333334,
+        9.0625,
+        9.0625,
+        9.015625,
+        8.931818181818183,
+        8.9,
+        8.870192307692308,
+        8.857142857142858,
+        8.841346153846155,
+        8.763157894736842,
+        8.761363636363638,
+        8.730978260869563,
+        8.665364583333332,
+        8.659465020576132,
+        8.567073170731707,
+        8.545454545454545,
+        8.375,
+        8.375,
+        8.34,
+        8.34,
+        8.316666666666666,
+        8.314102564102564,
+        8.292056074766355,
+        8.275000000000002,
+        8.275,
+        8.262295081967212,
+        8.25
+    ],
+    "initialCoverSeg": 6,
+    "greedyCoverSize": 10,
+    "runtime": 115992274,
+    "lpBound": 8.25,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "24_AKL 0_WLG@1_DUD 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 0_WLG 2_AVL@0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 1_DUD@0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 9_NLS@0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 1,
+            "cycle": "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 7_INV 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 0_WLG 20_POR 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 0_WLG 2_AVL 14_MUP@3_PNR 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 12_NPL 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 13_WAG 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP@2_AVL 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 8_TPO 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 1_DUD 9_NLS@0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 9_NLS 1_DUD@0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@10_Syd 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@11_MTA 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@3_PNR 19_GIS 2_AVL 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@15_NSH 15_NSH@24_AKL 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL@17_LAX 0_WLG 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 2_AVL@0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 18_TAU 2_AVL 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 10_Syd 0_WLG 0_WLG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 24_AKL@15_NSH 15_NSH@24_AKL 24_AKL"
+        },
+        {
+            "x": 0.055555555555555525,
+            "cycle": "24_AKL 7_INV 20_POR 18_TAU 11_MTA 24_AKL"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "24_AKL 7_INV 9_NLS 8_TPO 7_INV 24_AKL"
+        },
+        {
+            "x": 0.055555555555555525,
+            "cycle": "24_AKL 12_NPL 19_GIS 12_NPL 8_TPO 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 10_Syd 9_NLS 10_Syd 9_NLS 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 17_LAX 13_WAG 17_LAX 13_WAG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 2_AVL 19_GIS 13_WAG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 11_MTA 14_MUP 11_MTA 24_AKL"
+        },
+        {
+            "x": 1,
+            "cycle": "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL"
+        },
+        {
+            "x": 0.30555555555555547,
+            "cycle": "24_AKL 10_Syd 0_WLG@1_DUD 9_NLS 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 17_LAX 18_TAU 17_LAX 24_AKL"
+        },
+        {
+            "x": 0.05555555555555547,
+            "cycle": "24_AKL 10_Syd 8_TPO 2_AVL 8_TPO 24_AKL"
+        },
+        {
+            "x": 0.41666666666666674,
+            "cycle": "24_AKL 9_NLS 20_POR 0_WLG@1_DUD 24_AKL"
+        },
+        {
+            "x": 0.5277777777777778,
+            "cycle": "24_AKL 18_TAU 20_POR 1_DUD@0_WLG 24_AKL"
+        },
+        {
+            "x": 1,
+            "cycle": "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 17_LAX 11_MTA 17_LAX 11_MTA 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 13_WAG 19_GIS 18_TAU 11_MTA 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 9_NLS 1_DUD 9_NLS 1_DUD 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 10_Syd 14_MUP 10_Syd 24_AKL"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "24_AKL 9_NLS 8_TPO 0_WLG@1_DUD 24_AKL"
+        },
+        {
+            "x": 0.11111111111111112,
+            "cycle": "24_AKL 8_TPO 9_NLS 8_TPO 9_NLS 24_AKL"
+        },
+        {
+            "x": 0.08333333333333337,
+            "cycle": "24_AKL 17_LAX 10_Syd 17_LAX 10_Syd 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 2_AVL 18_TAU 17_LAX 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 19_GIS 18_TAU 14_MUP 24_AKL"
+        },
+        {
+            "x": 0.13888888888888887,
+            "cycle": "24_AKL 9_NLS 7_INV 9_NLS 7_INV 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 12_NPL 9_NLS 2_AVL 18_TAU 24_AKL"
+        },
+        {
+            "x": 0.4722222222222222,
+            "cycle": "24_AKL 1_DUD@0_WLG 2_AVL 18_TAU 24_AKL"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "24_AKL 9_NLS 24_AKL@15_NSH 15_NSH@24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 12_NPL 24_AKL@15_NSH 15_NSH@24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 24_AKL@15_NSH 15_NSH@24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 14_MUP 24_AKL@15_NSH 15_NSH@24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 17_LAX 18_TAU 19_GIS 13_WAG 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 17_LAX 13_WAG 19_GIS 13_WAG 24_AKL"
+        },
+        {
+            "x": 0.8333333333333333,
+            "cycle": "24_AKL 17_LAX 24_AKL@15_NSH 15_NSH@24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 11_MTA 10_Syd 11_MTA 10_Syd 24_AKL"
+        },
+        {
+            "x": 0.4722222222222222,
+            "cycle": "24_AKL 18_TAU 2_AVL 18_TAU 10_Syd 24_AKL"
+        },
+        {
+            "x": 0,
+            "cycle": "24_AKL 18_TAU 11_MTA 18_TAU 11_MTA 24_AKL"
+        },
+        {
+            "x": 0.4444444444444445,
+            "cycle": "24_AKL 12_NPL 19_GIS 12_NPL 11_MTA 24_AKL"
+        },
+        {
+            "x": 0.5,
+            "cycle": "24_AKL 13_WAG 19_GIS 13_WAG 11_MTA 24_AKL"
+        }
+    ],
+    "greedySolution": [
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 9_NLS 1_DUD@0_WLG 0_WLG 24_AKL",
+        "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL 24_AKL",
+        "24_AKL 7_INV 20_POR 18_TAU 11_MTA 24_AKL",
+        "24_AKL 12_NPL 19_GIS 12_NPL 8_TPO 24_AKL",
+        "24_AKL@15_NSH 16_WRK 15_NSH@24_AKL",
+        "24_AKL 10_Syd 0_WLG@1_DUD 9_NLS 24_AKL",
+        "24_AKL 18_TAU 20_POR 1_DUD@0_WLG 24_AKL",
+        "24_AKL 1_DUD@6_IVM 6_IVM@1_DUD 24_AKL",
+        "24_AKL 17_LAX 18_TAU 19_GIS 13_WAG 24_AKL"
+    ]
+}

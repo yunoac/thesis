@@ -1,0 +1,62 @@
+{
+    "initialCoverSize": 13,
+    "times": [1674649],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 3_Waukesha,0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 1_Rockford 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 2_Janesville 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 5_Madison 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee,3_Waukesha 2_Janesville 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 11_Appleton 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 6_Camp_Douglas 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 7_Minneaopolis 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 9_Wausau 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 10_Green_Bay 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 6_Camp_Douglas 11_Appleton 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 11_Appleton 6_Camp_Douglas 0_Milwaukee"
+        }
+    ],
+    "values": [4],
+    "initialCoverSeg": 4,
+    "runtime": 152138,
+    "lpBound": 4
+}

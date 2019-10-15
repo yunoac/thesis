@@ -1,0 +1,499 @@
+{
+    "initialCoverSize": 78,
+    "times": [
+        2206335,
+        5359561,
+        8414096,
+        11766191,
+        15158728,
+        18333378,
+        22204003,
+        28799466,
+        32464409,
+        35579729,
+        38612121,
+        41856454,
+        45092797,
+        48271388,
+        51292617,
+        54429661,
+        57539730,
+        60689823,
+        63967706,
+        67112188,
+        70141326,
+        73374318,
+        76618637,
+        79773743,
+        82888465,
+        86634183,
+        90594511,
+        94179574,
+        98878942,
+        103829787,
+        107215328
+    ],
+    "finalCoverSize": 30,
+    "minSegCycles": [
+        "18_PT 0_NL 1_BE 18_PT",
+        "18_PT 0_NL 2_DK 18_PT",
+        "18_PT 0_NL 3_PL 18_PT",
+        "18_PT 0_NL 13_MT 18_PT",
+        "18_PT 1_BE 0_NL 18_PT",
+        "18_PT 2_DK 0_NL 18_PT",
+        "18_PT 32_EE 0_NL 18_PT",
+        "18_PT 2_DK 25_RU 18_PT",
+        "18_PT 26_IS 0_NL 18_PT",
+        "18_PT 29_NO 0_NL 18_PT",
+        "18_PT 30_SE 0_NL 18_PT",
+        "18_PT 24_LT 0_NL 18_PT",
+        "18_PT 3_PL 5_CZ 18_PT",
+        "18_PT 5_CZ 0_NL 18_PT",
+        "18_PT 0_NL 6_LU 18_PT",
+        "18_PT 12_IL 0_NL 18_PT",
+        "18_PT 0_NL 10_GR 18_PT",
+        "18_PT 25_RU@2_DK 18_PT",
+        "18_PT 5_CZ 3_PL 18_PT",
+        "18_PT 3_PL 15_RO 18_PT",
+        "18_PT 6_LU 0_NL 18_PT",
+        "18_PT 7_FR 8_CH 18_PT",
+        "18_PT 8_CH 7_FR 18_PT",
+        "18_PT 8_CH 9_IT 18_PT",
+        "18_PT 9_IT 8_CH 18_PT",
+        "18_PT 10_GR 0_NL 18_PT",
+        "18_PT 11_CY 8_CH 18_PT",
+        "18_PT 13_MT@0_NL 18_PT",
+        "18_PT 17_SK 3_PL 18_PT",
+        "18_PT 10_GR 11_CY 18_PT",
+        "18_PT 14_TR 0_NL 18_PT",
+        "18_PT 11_CY 10_GR 18_PT",
+        "18_PT 14_TR 15_RO 18_PT",
+        "18_PT 15_RO 14_TR 18_PT",
+        "18_PT 15_RO 3_PL 18_PT",
+        "18_PT 5_CZ 20_BG 18_PT",
+        "18_PT 5_CZ 21_HR 18_PT",
+        "18_PT 17_SK 9_IT 18_PT",
+        "18_PT 18_PT@28_UK 18_PT",
+        "18_PT 20_BG 5_CZ 18_PT",
+        "18_PT 21_HR 5_CZ 18_PT",
+        "18_PT 24_LT 32_EE 18_PT",
+        "18_PT 27_IE 0_NL 18_PT",
+        "18_PT 28_UK@18_PT 18_PT",
+        "18_PT 29_NO 30_SE 18_PT",
+        "18_PT 30_SE 29_NO 18_PT",
+        "18_PT 31_FI 0_NL 18_PT",
+        "18_PT 32_EE 24_LT 18_PT",
+        "18_PT 13_MT 26_IS 18_PT",
+        "18_PT 31_FI 27_IE 18_PT",
+        "18_PT 10_GR 1_BE 18_PT",
+        "18_PT 1_BE 2_DK 18_PT",
+        "18_PT 10_GR 6_LU 18_PT",
+        "18_PT 26_IS 28_UK@18_PT",
+        "18_PT 13_MT 8_CH 18_PT",
+        "18_PT 1_BE 10_GR 18_PT",
+        "18_PT 6_LU 10_GR 18_PT",
+        "18_PT 1_BE 12_IL 18_PT",
+        "18_PT 1_BE 13_MT 18_PT",
+        "18_PT 21_HR 15_RO 18_PT",
+        "18_PT 3_PL 17_SK 18_PT",
+        "18_PT 17_SK 20_BG 18_PT",
+        "18_PT 21_HR 20_BG 18_PT",
+        "18_PT 15_RO 21_HR 18_PT",
+        "18_PT 27_IE 31_FI 18_PT",
+        "18_PT 12_IL 5_CZ 18_PT",
+        "18_PT 12_IL 10_GR 18_PT",
+        "18_PT 6_LU 12_IL 18_PT",
+        "18_PT 31_FI 13_MT 18_PT",
+        "18_PT 8_CH 28_UK@18_PT",
+        "18_PT 13_MT 5_CZ 18_PT",
+        "18_PT 20_BG 17_SK 18_PT",
+        "18_PT 25_RU 5_CZ 18_PT",
+        "18_PT 27_IE 8_CH 18_PT",
+        "18_PT 26_IS 25_RU 18_PT",
+        "18_PT 5_CZ 1_BE 18_PT",
+        "18_PT 13_MT 6_LU 18_PT",
+        "18_PT 10_GR 17_SK 18_PT"
+    ],
+    "values": [
+        35,
+        33,
+        32,
+        32,
+        32,
+        31,
+        31,
+        31,
+        30,
+        30,
+        29,
+        29,
+        29,
+        29,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        27.5,
+        27.5,
+        27,
+        27,
+        26.5,
+        26.5,
+        26.25,
+        26.25,
+        26,
+        26,
+        26
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 29,
+    "runtime": 152708035,
+    "lpBound": 26,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 1_BE 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 2_DK 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 3_PL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 13_MT 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 1_BE 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 2_DK 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 32_EE 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 2_DK 25_RU 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 26_IS 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 29_NO 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 30_SE 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 24_LT 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 3_PL 5_CZ 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 5_CZ 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 6_LU 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 12_IL 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 0_NL 10_GR 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 25_RU@2_DK 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 5_CZ 3_PL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 3_PL 15_RO 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 6_LU 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 7_FR 8_CH 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 8_CH 7_FR 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 8_CH 9_IT 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 9_IT 8_CH 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 10_GR 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 11_CY 8_CH 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 13_MT@0_NL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 17_SK 3_PL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 10_GR 11_CY 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 14_TR 0_NL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 11_CY 10_GR 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 14_TR 15_RO 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 15_RO 14_TR 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 15_RO 3_PL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 5_CZ 20_BG 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 5_CZ 21_HR 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 17_SK 9_IT 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 18_PT@28_UK 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 20_BG 5_CZ 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 21_HR 5_CZ 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 24_LT 32_EE 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 27_IE 0_NL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 28_UK@18_PT 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 29_NO 30_SE 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 30_SE 29_NO 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 31_FI 0_NL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 32_EE 24_LT 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 13_MT 26_IS 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 31_FI 27_IE 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 10_GR 1_BE 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 1_BE 2_DK 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 10_GR 6_LU 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 26_IS 28_UK@18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 13_MT 8_CH 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 1_BE 10_GR 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 6_LU 10_GR 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 1_BE 12_IL 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 1_BE 13_MT 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 21_HR 15_RO 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 3_PL 17_SK 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 17_SK 20_BG 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 21_HR 20_BG 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 15_RO 21_HR 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 27_IE 31_FI 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 12_IL 5_CZ 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 12_IL 10_GR 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 6_LU 12_IL 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 31_FI 13_MT 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 8_CH 28_UK@18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 13_MT 5_CZ 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 20_BG 17_SK 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 25_RU 5_CZ 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 27_IE 8_CH 18_PT"
+        },
+        {
+            "x": 1,
+            "cycle": "18_PT 26_IS 25_RU 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 5_CZ 1_BE 18_PT"
+        },
+        {
+            "x": 0.5,
+            "cycle": "18_PT 13_MT 6_LU 18_PT"
+        },
+        {
+            "x": 0,
+            "cycle": "18_PT 10_GR 17_SK 18_PT"
+        }
+    ],
+    "greedySolution": [
+        "18_PT 25_RU@2_DK 18_PT",
+        "18_PT 8_CH 9_IT 18_PT",
+        "18_PT 11_CY 8_CH 18_PT",
+        "18_PT 10_GR 11_CY 18_PT",
+        "18_PT 14_TR 0_NL 18_PT",
+        "18_PT 11_CY 10_GR 18_PT",
+        "18_PT 14_TR 15_RO 18_PT",
+        "18_PT 15_RO 14_TR 18_PT",
+        "18_PT 15_RO 3_PL 18_PT",
+        "18_PT 5_CZ 21_HR 18_PT",
+        "18_PT 18_PT@28_UK 18_PT",
+        "18_PT 24_LT 32_EE 18_PT",
+        "18_PT 29_NO 30_SE 18_PT",
+        "18_PT 30_SE 29_NO 18_PT",
+        "18_PT 32_EE 24_LT 18_PT",
+        "18_PT 13_MT 26_IS 18_PT",
+        "18_PT 31_FI 27_IE 18_PT",
+        "18_PT 1_BE 10_GR 18_PT",
+        "18_PT 1_BE 13_MT 18_PT",
+        "18_PT 21_HR 15_RO 18_PT",
+        "18_PT 3_PL 17_SK 18_PT",
+        "18_PT 17_SK 20_BG 18_PT",
+        "18_PT 6_LU 12_IL 18_PT",
+        "18_PT 8_CH 28_UK@18_PT",
+        "18_PT 20_BG 17_SK 18_PT",
+        "18_PT 25_RU 5_CZ 18_PT",
+        "18_PT 27_IE 8_CH 18_PT",
+        "18_PT 26_IS 25_RU 18_PT",
+        "18_PT 13_MT 6_LU 18_PT"
+    ]
+}

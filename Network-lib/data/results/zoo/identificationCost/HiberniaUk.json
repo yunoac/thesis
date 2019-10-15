@@ -1,0 +1,52 @@
+{
+    "originalCover": {
+        "runtime": 1114593,
+        "cycles": [
+            "0_London 6 0_London",
+            "0_London 1_Southport 0_London 0_London",
+            "0_London 5_Peterborough 0_London 0_London",
+            "0_London 1_Southport 5_Peterborough 0_London",
+            "0_London 2_None 0_London 0_London",
+            "0_London 7_Sheffield 0_London 0_London",
+            "0_London 9_Bracewell 0_London 0_London",
+            "0_London 5_Peterborough 1_Southport 0_London"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        5,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        5,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_London 6 0_London",
+            "0_London 1_Southport 0_London 0_London",
+            "0_London 5_Peterborough 0_London 0_London",
+            "0_London 1_Southport 5_Peterborough 0_London",
+            "0_London 2_None 0_London 0_London",
+            "0_London 7_Sheffield 0_London 0_London",
+            "0_London 9_Bracewell 0_London 0_London",
+            "0_London 5_Peterborough 1_Southport 0_London"
+        ],
+        "source": 0,
+        "runetime": 998036,
+        "maxSeg": 4
+    }
+}

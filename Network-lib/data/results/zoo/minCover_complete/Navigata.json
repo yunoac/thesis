@@ -1,0 +1,134 @@
+{
+    "initialCoverSize": 26,
+    "times": [
+        1081162,
+        1424107,
+        1762442,
+        2111212,
+        2442255,
+        2790222,
+        3107553,
+        3448940,
+        3796924
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_New_York 1_Montreal 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 2_Halifax 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Los_Angeles 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_Regina 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Victoria 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 7_Seattle 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_Los_Angeles 8_Calgary 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 9_Edmonton 0_New_York 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 3_Los_Angeles 11_Regina 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Calgary 3_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 8_Calgary 9_Edmonton 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 8_Calgary 11_Regina 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 9_Edmonton 8_Calgary 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 12_Winnipeg 0_New_York 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_Regina 3_Los_Angeles 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 11_Regina 8_Calgary 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 11_Regina 12_Winnipeg 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 12_Winnipeg 11_Regina 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 2_Halifax 1_Montreal 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Victoria 1_Montreal 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 6_Victoria 2_Halifax 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 8_Calgary 7_Seattle 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 11_Regina 7_Seattle 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 8_Calgary 6_Victoria 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 11_Regina 6_Victoria 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 6_Victoria 8_Calgary 0_New_York"
+        }
+    ],
+    "values": [
+        14,
+        13,
+        13,
+        12.5,
+        11.5,
+        11.5,
+        11,
+        11,
+        11
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 63053,
+    "lpBound": 11
+}

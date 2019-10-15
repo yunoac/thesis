@@ -1,0 +1,714 @@
+{
+    "initialCoverSize": 138,
+    "times": [
+        1612157,
+        2029317,
+        2417306,
+        2794915,
+        3209212,
+        3584147,
+        3956418,
+        4380033,
+        4838812,
+        5224256,
+        5609530,
+        5993406,
+        6375617,
+        6802761,
+        7283948,
+        7678375,
+        8067732,
+        8456903,
+        8893712,
+        9401880,
+        9849260,
+        10249500,
+        10766058,
+        11243950,
+        11779007,
+        12271700,
+        12781038,
+        13259841,
+        13835649,
+        14288791,
+        14801055,
+        15398525,
+        15909158,
+        16428714,
+        16841015,
+        17363786,
+        17990819,
+        18533524,
+        19110184,
+        19799782,
+        20540375,
+        21206564,
+        21937837,
+        22739255,
+        23567792,
+        24493933,
+        25383655,
+        26218647,
+        27161317,
+        28169553,
+        29127211,
+        30244157,
+        31220945,
+        32308807,
+        33310407,
+        34377023,
+        35754857,
+        36844121,
+        38067230,
+        39428716,
+        40681525,
+        41712731,
+        42717204,
+        43940494,
+        44984160,
+        46276150,
+        47504181,
+        48807270,
+        50111532,
+        51464181,
+        53333298,
+        54809879,
+        56236782,
+        57454609,
+        58766803
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 1_Seattle,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 2_San_Jose,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 3_Phoenix,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 4_Dallas,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 5_Atlanta,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 6_Vienna,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 7_Whippany,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 8_Chicago,0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,1_Seattle 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,2_San_Jose 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,3_Phoenix 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,4_Dallas 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,5_Atlanta 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,6_Vienna 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,7_Whippany 8_Chicago,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 1_Seattle,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 2_San_Jose,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 3_Phoenix,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 4_Dallas,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 5_Atlanta,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 6_Vienna,0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis,8_Chicago 7_Whippany,0_Minneapolis"
+        },
+        {
+            "x": 0.11765556387044147,
+            "cycle": "0_Minneapolis 2_San_Jose 1_Seattle 2_San_Jose 1_Seattle 2_San_Jose 1_Seattle 2_San_Jose 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.11739462470696918,
+            "cycle": "0_Minneapolis 3_Phoenix 1_Seattle 3_Phoenix 1_Seattle 3_Phoenix 1_Seattle 3_Phoenix 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.19863497835078703,
+            "cycle": "0_Minneapolis 4_Dallas 1_Seattle 4_Dallas 1_Seattle 4_Dallas 1_Seattle 4_Dallas 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.14696124571443195,
+            "cycle": "0_Minneapolis 5_Atlanta 1_Seattle 5_Atlanta 1_Seattle 5_Atlanta 1_Seattle 5_Atlanta 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.0680498152582394,
+            "cycle": "0_Minneapolis 6_Vienna 1_Seattle 6_Vienna 1_Seattle 6_Vienna 1_Seattle 6_Vienna 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.18074189795157963,
+            "cycle": "0_Minneapolis 7_Whippany 1_Seattle 7_Whippany 1_Seattle 7_Whippany 1_Seattle 7_Whippany 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.17056187414755097,
+            "cycle": "0_Minneapolis 8_Chicago 1_Seattle 8_Chicago 1_Seattle 8_Chicago 1_Seattle 8_Chicago 1_Seattle 0_Minneapolis"
+        },
+        {
+            "x": 0.22166768160906444,
+            "cycle": "0_Minneapolis 1_Seattle 2_San_Jose 3_Phoenix 2_San_Jose 3_Phoenix 2_San_Jose 3_Phoenix 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.10642676665497317,
+            "cycle": "0_Minneapolis 4_Dallas 2_San_Jose 4_Dallas 2_San_Jose 4_Dallas 2_San_Jose 4_Dallas 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.1402142146554745,
+            "cycle": "0_Minneapolis 5_Atlanta 2_San_Jose 5_Atlanta 2_San_Jose 5_Atlanta 2_San_Jose 5_Atlanta 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.08617829481774472,
+            "cycle": "0_Minneapolis 6_Vienna 2_San_Jose 6_Vienna 2_San_Jose 6_Vienna 2_San_Jose 6_Vienna 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.1607070201245035,
+            "cycle": "0_Minneapolis 7_Whippany 2_San_Jose 7_Whippany 2_San_Jose 7_Whippany 2_San_Jose 7_Whippany 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.19679778103378676,
+            "cycle": "0_Minneapolis 8_Chicago 2_San_Jose 8_Chicago 2_San_Jose 8_Chicago 2_San_Jose 8_Chicago 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.13448427458238832,
+            "cycle": "0_Minneapolis 1_Seattle 3_Phoenix 4_Dallas 3_Phoenix 4_Dallas 3_Phoenix 4_Dallas 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.10935990097227871,
+            "cycle": "0_Minneapolis 5_Atlanta 3_Phoenix 5_Atlanta 3_Phoenix 5_Atlanta 3_Phoenix 5_Atlanta 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.1168278129525145,
+            "cycle": "0_Minneapolis 6_Vienna 3_Phoenix 6_Vienna 3_Phoenix 6_Vienna 3_Phoenix 6_Vienna 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.14577999482032555,
+            "cycle": "0_Minneapolis 7_Whippany 3_Phoenix 7_Whippany 3_Phoenix 7_Whippany 3_Phoenix 7_Whippany 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.2075825257402123,
+            "cycle": "0_Minneapolis 8_Chicago 3_Phoenix 8_Chicago 3_Phoenix 8_Chicago 3_Phoenix 8_Chicago 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.0774704659213172,
+            "cycle": "0_Minneapolis 1_Seattle 4_Dallas 5_Atlanta 4_Dallas 5_Atlanta 4_Dallas 5_Atlanta 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.12370784497627847,
+            "cycle": "0_Minneapolis 2_San_Jose 4_Dallas 6_Vienna 4_Dallas 6_Vienna 4_Dallas 6_Vienna 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.18999517193619553,
+            "cycle": "0_Minneapolis 7_Whippany 4_Dallas 7_Whippany 4_Dallas 7_Whippany 4_Dallas 7_Whippany 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.17165667618502012,
+            "cycle": "0_Minneapolis 8_Chicago 4_Dallas 8_Chicago 4_Dallas 8_Chicago 4_Dallas 8_Chicago 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.22261211341892229,
+            "cycle": "0_Minneapolis 1_Seattle 5_Atlanta 6_Vienna 5_Atlanta 6_Vienna 5_Atlanta 6_Vienna 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.19251870794242446,
+            "cycle": "0_Minneapolis 2_San_Jose 5_Atlanta 7_Whippany 5_Atlanta 7_Whippany 5_Atlanta 7_Whippany 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.19989151664759694,
+            "cycle": "0_Minneapolis 3_Phoenix 5_Atlanta 8_Chicago 5_Atlanta 8_Chicago 5_Atlanta 8_Chicago 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.18584828440255152,
+            "cycle": "0_Minneapolis 2_San_Jose 6_Vienna 7_Whippany 6_Vienna 7_Whippany 6_Vienna 7_Whippany 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.1897061289448493,
+            "cycle": "0_Minneapolis 3_Phoenix 6_Vienna 8_Chicago 6_Vienna 8_Chicago 6_Vienna 8_Chicago 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.24856894968234655,
+            "cycle": "0_Minneapolis 3_Phoenix 7_Whippany 8_Chicago 7_Whippany 8_Chicago 7_Whippany 8_Chicago 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 6_Vienna 0_Minneapolis 6_Vienna 0_Minneapolis 6_Vienna 0_Minneapolis 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 5_Atlanta 1_Seattle 7_Whippany 0_Minneapolis 5_Atlanta 3_Phoenix 2_San_Jose 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 4_Dallas 3_Phoenix 1_Seattle 8_Chicago 0_Minneapolis 4_Dallas 3_Phoenix 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.15963315071704545,
+            "cycle": "0_Minneapolis 1_Seattle 6_Vienna 4_Dallas 7_Whippany 1_Seattle 6_Vienna 4_Dallas 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 7_Whippany 0_Minneapolis 7_Whippany 0_Minneapolis 7_Whippany 5_Atlanta 2_San_Jose 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 5_Atlanta 0_Minneapolis 5_Atlanta 0_Minneapolis 5_Atlanta 0_Minneapolis 4_Dallas 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 5_Atlanta 7_Whippany 6_Vienna 2_San_Jose 8_Chicago 0_Minneapolis 2_San_Jose 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.029400839243979723,
+            "cycle": "0_Minneapolis 1_Seattle 3_Phoenix 5_Atlanta 4_Dallas 1_Seattle 5_Atlanta 4_Dallas 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.047755766873007206,
+            "cycle": "0_Minneapolis 1_Seattle 4_Dallas 8_Chicago 7_Whippany 5_Atlanta 1_Seattle 4_Dallas 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 8_Chicago 0_Minneapolis 8_Chicago 0_Minneapolis 8_Chicago 0_Minneapolis 8_Chicago 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.2812801980554426,
+            "cycle": "0_Minneapolis 4_Dallas 5_Atlanta 3_Phoenix 4_Dallas 5_Atlanta 3_Phoenix 4_Dallas 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.13819550458240615,
+            "cycle": "0_Minneapolis 6_Vienna 5_Atlanta 1_Seattle 3_Phoenix 5_Atlanta 1_Seattle 3_Phoenix 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 6_Vienna 7_Whippany 3_Phoenix 4_Dallas 0_Minneapolis 6_Vienna 3_Phoenix 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 2_San_Jose 3_Phoenix 5_Atlanta 2_San_Jose 3_Phoenix 5_Atlanta 2_San_Jose 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 6_Vienna 2_San_Jose 3_Phoenix 0_Minneapolis 6_Vienna 8_Chicago 2_San_Jose 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.16706894463135685,
+            "cycle": "0_Minneapolis 6_Vienna 7_Whippany 3_Phoenix 8_Chicago 1_Seattle 4_Dallas 6_Vienna 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.013540100666769882,
+            "cycle": "0_Minneapolis 7_Whippany 8_Chicago 5_Atlanta 4_Dallas 2_San_Jose 7_Whippany 8_Chicago 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.1069757076342755,
+            "cycle": "0_Minneapolis 1_Seattle 7_Whippany 2_San_Jose 1_Seattle 7_Whippany 2_San_Jose 5_Atlanta 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.1760592473528722,
+            "cycle": "0_Minneapolis 6_Vienna 3_Phoenix 1_Seattle 2_San_Jose 4_Dallas 1_Seattle 2_San_Jose 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.075508920017098,
+            "cycle": "0_Minneapolis 6_Vienna 8_Chicago 7_Whippany 4_Dallas 2_San_Jose 1_Seattle 8_Chicago 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.01576176033950339,
+            "cycle": "0_Minneapolis 2_San_Jose 7_Whippany 1_Seattle 3_Phoenix 7_Whippany 1_Seattle 3_Phoenix 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.13764420276692751,
+            "cycle": "0_Minneapolis 6_Vienna 2_San_Jose 7_Whippany 5_Atlanta 2_San_Jose 7_Whippany 5_Atlanta 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.00391344368684568,
+            "cycle": "0_Minneapolis 8_Chicago 2_San_Jose 4_Dallas 7_Whippany 3_Phoenix 2_San_Jose 4_Dallas 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.09640859711480616,
+            "cycle": "0_Minneapolis 5_Atlanta 6_Vienna 8_Chicago 5_Atlanta 6_Vienna 8_Chicago 5_Atlanta 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.2299052160988036,
+            "cycle": "0_Minneapolis 4_Dallas 3_Phoenix 6_Vienna 2_San_Jose 3_Phoenix 6_Vienna 2_San_Jose 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.06404412064895042,
+            "cycle": "0_Minneapolis 4_Dallas 6_Vienna 8_Chicago 1_Seattle 6_Vienna 8_Chicago 1_Seattle 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.15827843437773922,
+            "cycle": "0_Minneapolis 5_Atlanta 2_San_Jose 6_Vienna 4_Dallas 5_Atlanta 7_Whippany 8_Chicago 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.011391462661411604,
+            "cycle": "0_Minneapolis 4_Dallas 6_Vienna 1_Seattle 8_Chicago 3_Phoenix 4_Dallas 7_Whippany 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.14322050423343508,
+            "cycle": "0_Minneapolis 5_Atlanta 2_San_Jose 1_Seattle 6_Vienna 3_Phoenix 7_Whippany 2_San_Jose 4_Dallas 0_Minneapolis"
+        },
+        {
+            "x": 0.22122757339617272,
+            "cycle": "0_Minneapolis 7_Whippany 6_Vienna 1_Seattle 7_Whippany 6_Vienna 1_Seattle 5_Atlanta 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.03662356603693336,
+            "cycle": "0_Minneapolis 2_San_Jose 6_Vienna 1_Seattle 2_San_Jose 6_Vienna 1_Seattle 2_San_Jose 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 3_Phoenix 2_San_Jose 1_Seattle 8_Chicago 0_Minneapolis 3_Phoenix 2_San_Jose 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.1083172575296317,
+            "cycle": "0_Minneapolis 4_Dallas 8_Chicago 6_Vienna 3_Phoenix 2_San_Jose 8_Chicago 6_Vienna 7_Whippany 0_Minneapolis"
+        },
+        {
+            "x": 0.051901846552002064,
+            "cycle": "0_Minneapolis 5_Atlanta 8_Chicago 2_San_Jose 5_Atlanta 8_Chicago 2_San_Jose 5_Atlanta 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.19396815516082705,
+            "cycle": "0_Minneapolis 8_Chicago 5_Atlanta 4_Dallas 2_San_Jose 6_Vienna 5_Atlanta 4_Dallas 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.10509173907400313,
+            "cycle": "0_Minneapolis 3_Phoenix 8_Chicago 4_Dallas 6_Vienna 3_Phoenix 8_Chicago 2_San_Jose 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.012581675646942469,
+            "cycle": "0_Minneapolis 8_Chicago 7_Whippany 4_Dallas 2_San_Jose 7_Whippany 4_Dallas 3_Phoenix 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.15365525637983246,
+            "cycle": "0_Minneapolis 5_Atlanta 4_Dallas 3_Phoenix 5_Atlanta 4_Dallas 3_Phoenix 1_Seattle 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.046749771747424014,
+            "cycle": "0_Minneapolis 2_San_Jose 6_Vienna 4_Dallas 3_Phoenix 2_San_Jose 6_Vienna 4_Dallas 5_Atlanta 0_Minneapolis"
+        },
+        {
+            "x": 0.2007069974394187,
+            "cycle": "0_Minneapolis 2_San_Jose 7_Whippany 3_Phoenix 1_Seattle 8_Chicago 6_Vienna 1_Seattle 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.139347040944235,
+            "cycle": "0_Minneapolis 3_Phoenix 7_Whippany 4_Dallas 2_San_Jose 8_Chicago 4_Dallas 2_San_Jose 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.08800824110445267,
+            "cycle": "0_Minneapolis 7_Whippany 5_Atlanta 1_Seattle 3_Phoenix 2_San_Jose 1_Seattle 3_Phoenix 2_San_Jose 0_Minneapolis"
+        },
+        {
+            "x": 0.04293786839881465,
+            "cycle": "0_Minneapolis 8_Chicago 7_Whippany 1_Seattle 5_Atlanta 7_Whippany 1_Seattle 5_Atlanta 6_Vienna 0_Minneapolis"
+        },
+        {
+            "x": 0.022595317480538286,
+            "cycle": "0_Minneapolis 2_San_Jose 8_Chicago 1_Seattle 7_Whippany 3_Phoenix 4_Dallas 7_Whippany 3_Phoenix 0_Minneapolis"
+        },
+        {
+            "x": 0.03446725762084068,
+            "cycle": "0_Minneapolis 6_Vienna 8_Chicago 4_Dallas 7_Whippany 8_Chicago 4_Dallas 7_Whippany 8_Chicago 0_Minneapolis"
+        },
+        {
+            "x": 0.0578321857644864,
+            "cycle": "0_Minneapolis 2_San_Jose 1_Seattle 6_Vienna 2_San_Jose 1_Seattle 6_Vienna 4_Dallas 8_Chicago 0_Minneapolis"
+        }
+    ],
+    "values": [
+        56,
+        54.333333333333336,
+        52.66666666666667,
+        51.00000000000001,
+        49.33333333333334,
+        47.66666666666668,
+        46.000000000000014,
+        45.00000000000001,
+        43.02777777777779,
+        41.36111111111113,
+        39.694444444444464,
+        38.0277777777778,
+        36.361111111111136,
+        35.19444444444446,
+        33.22222222222223,
+        31.55555555555555,
+        29.888888888888882,
+        28.222222222222214,
+        27.05555555555555,
+        25.08333333333332,
+        23.1111111111111,
+        21.444444444444432,
+        20.111111111111107,
+        18.361111111111114,
+        16.388888888888893,
+        14.666666666666675,
+        12.861111111111118,
+        11.027777777777779,
+        9.972222222222225,
+        9.77777777777778,
+        9.416666666666668,
+        8.999999999999998,
+        8.892361111111109,
+        8.83796296296296,
+        8.83796296296296,
+        8.745192307692307,
+        8.642162364384586,
+        8.6034213664422,
+        8.60007409161055,
+        8.48415269308943,
+        8.459654414515523,
+        8.407986111111107,
+        8.37568017854554,
+        8.358089247946484,
+        8.325124108238695,
+        8.318288567690376,
+        8.293876178852004,
+        8.274387418620007,
+        8.269866515900839,
+        8.259043785893436,
+        8.231206115852478,
+        8.196961931868227,
+        8.19439135382538,
+        8.179304841852913,
+        8.175156244431124,
+        8.172820146879772,
+        8.171528952063857,
+        8.169930236228772,
+        8.163694799301568,
+        8.155975736920801,
+        8.153491043337567,
+        8.150595157935133,
+        8.147255182416274,
+        8.133108832482678,
+        8.129524916861914,
+        8.105138900046082,
+        8.092342708445596,
+        8.08331617142132,
+        8.07198347687531,
+        8.053940911135944,
+        8.021449273488034,
+        8.011465063980426,
+        8.006079829661665,
+        8.00321307718888,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 45265,
+    "lpBound": 8
+}

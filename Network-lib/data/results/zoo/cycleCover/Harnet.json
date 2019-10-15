@@ -1,0 +1,303 @@
+{
+    "initialCoverSize": 45,
+    "times": [
+        1449198,
+        2541467,
+        3922623,
+        4829255,
+        5776062,
+        6729930,
+        7521801,
+        8299663,
+        9110609,
+        9936118,
+        10740763,
+        11538364,
+        12342717,
+        13169861,
+        14059823,
+        14969233,
+        15747880,
+        16521770,
+        17383792,
+        18242558,
+        19903388,
+        20905599,
+        22070531,
+        23080162,
+        24092022
+    ],
+    "finalCoverSize": 14,
+    "minSegCycles": [
+        "15_HKU 0_ASGCNET 1_KREPNET2 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 3_APAN-JP 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 6_ASNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 7_GOOGLE 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 5_CERNET 4_International 5_CERNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 8_TEIN3 9_Vocational_Training_Council 17_PolyU@15_HKU 15_HKU",
+        "15_HKU 10_HKEAA 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@11_Open_Uni 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 12_Technology_Park 8_TEIN3 17_PolyU@15_HKU 15_HKU",
+        "15_HKU 10_HKEAA 4_International 5_CERNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 5_CERNET 4_International 10_HKEAA 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 15_HKU@17_PolyU 8_TEIN3 17_PolyU@15_HKU 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU 15_HKU",
+        "15_HKU@17_PolyU 17_PolyU@15_HKU 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 19_CityU 17_PolyU@15_HKU 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 18_CUHK@16_HKUST 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 18_CUHK@16_HKUST 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 8_TEIN3 20_HKBU 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU@17_PolyU 19_CityU 20_HKBU 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU@17_PolyU 8_TEIN3 20_HKBU 19_CityU 17_PolyU@15_HKU",
+        "15_HKU 1_KREPNET2 3_APAN-JP 1_KREPNET2 3_APAN-JP 1_KREPNET2 15_HKU",
+        "15_HKU 6_ASNET 7_GOOGLE 6_ASNET 7_GOOGLE 6_ASNET 15_HKU",
+        "15_HKU 10_HKEAA 4_International 10_HKEAA 4_International 10_HKEAA 15_HKU",
+        "15_HKU 10_HKEAA 11_Open_Uni 10_HKEAA 11_Open_Uni 10_HKEAA 15_HKU",
+        "15_HKU@17_PolyU 12_Technology_Park 9_Vocational_Training_Council 17_PolyU@15_HKU",
+        "15_HKU 3_APAN-JP 7_GOOGLE 3_APAN-JP 7_GOOGLE 3_APAN-JP 15_HKU",
+        "15_HKU 7_GOOGLE 11_Open_Uni 7_GOOGLE 11_Open_Uni 7_GOOGLE 15_HKU",
+        "15_HKU@17_PolyU 18_CUHK@16_HKUST 11_Open_Uni 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 12_Technology_Park 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU 11_Open_Uni 3_APAN-JP 11_Open_Uni 3_APAN-JP 11_Open_Uni 15_HKU",
+        "15_HKU 5_CERNET 4_International 5_CERNET 4_International 5_CERNET 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 20_HKBU 19_CityU 17_PolyU@15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 9_Vocational_Training_Council 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU 0_ASGCNET 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU",
+        "15_HKU 0_ASGCNET 16_HKUST@18_CUHK 12_Technology_Park 17_PolyU@15_HKU",
+        "15_HKU 0_ASGCNET 1_KREPNET2 0_ASGCNET 3_APAN-JP 0_ASGCNET 15_HKU",
+        "15_HKU 10_HKEAA 4_International 5_CERNET 4_International 5_CERNET 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 20_HKBU 19_CityU 17_PolyU@15_HKU",
+        "15_HKU@17_PolyU 9_Vocational_Training_Council 8_TEIN3 17_PolyU@15_HKU",
+        "15_HKU@17_PolyU 8_TEIN3 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU 1_KREPNET2 11_Open_Uni 1_KREPNET2 11_Open_Uni 1_KREPNET2 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 9_Vocational_Training_Council 8_TEIN3 17_PolyU@15_HKU",
+        "15_HKU 5_CERNET 4_International 5_CERNET 4_International 10_HKEAA 15_HKU",
+        "15_HKU 10_HKEAA 4_International 5_CERNET 4_International 10_HKEAA 15_HKU"
+    ],
+    "values": [
+        16,
+        14.5,
+        13,
+        13,
+        12,
+        9,
+        8.833333333333332,
+        8.777777777777777,
+        8.481481481481481,
+        7.777777777777777,
+        7.6,
+        7.5,
+        7.1000000000000005,
+        6.966666666666667,
+        6.5,
+        6.5,
+        6.433333333333332,
+        6.433333333333332,
+        6.433333333333333,
+        6.3999999999999995,
+        6.362433862433863,
+        6.357142857142858,
+        6.3,
+        6.266666666666667,
+        6.2
+    ],
+    "initialCoverSeg": 7,
+    "greedyCoverSize": 10,
+    "runtime": 63748046,
+    "lpBound": 6.2,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "15_HKU 0_ASGCNET 1_KREPNET2 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 3_APAN-JP 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 6_ASNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 7_GOOGLE 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 5_CERNET 4_International 5_CERNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 8_TEIN3 9_Vocational_Training_Council 17_PolyU@15_HKU 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 10_HKEAA 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@11_Open_Uni 0_ASGCNET 0_ASGCNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 12_Technology_Park 8_TEIN3 17_PolyU@15_HKU 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 10_HKEAA 4_International 5_CERNET 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 5_CERNET 4_International 10_HKEAA 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 15_HKU@17_PolyU 8_TEIN3 17_PolyU@15_HKU 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 17_PolyU@15_HKU 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 19_CityU 17_PolyU@15_HKU 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 18_CUHK@16_HKUST 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 18_CUHK@16_HKUST 0_ASGCNET 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 8_TEIN3 20_HKBU 18_CUHK@16_HKUST 15_HKU"
+        },
+        {
+            "x": 1,
+            "cycle": "15_HKU@17_PolyU 19_CityU 20_HKBU 18_CUHK@16_HKUST 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 8_TEIN3 20_HKBU 19_CityU 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 1_KREPNET2 3_APAN-JP 1_KREPNET2 3_APAN-JP 1_KREPNET2 15_HKU"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "15_HKU 6_ASNET 7_GOOGLE 6_ASNET 7_GOOGLE 6_ASNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 10_HKEAA 4_International 10_HKEAA 4_International 10_HKEAA 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 10_HKEAA 11_Open_Uni 10_HKEAA 11_Open_Uni 10_HKEAA 15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU@17_PolyU 12_Technology_Park 9_Vocational_Training_Council 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0.11428571428571428,
+            "cycle": "15_HKU 3_APAN-JP 7_GOOGLE 3_APAN-JP 7_GOOGLE 3_APAN-JP 15_HKU"
+        },
+        {
+            "x": 0.034920634920634935,
+            "cycle": "15_HKU 7_GOOGLE 11_Open_Uni 7_GOOGLE 11_Open_Uni 7_GOOGLE 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 18_CUHK@16_HKUST 11_Open_Uni 15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 12_Technology_Park 18_CUHK@16_HKUST 15_HKU"
+        },
+        {
+            "x": 0.16190476190476194,
+            "cycle": "15_HKU 11_Open_Uni 3_APAN-JP 11_Open_Uni 3_APAN-JP 11_Open_Uni 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 5_CERNET 4_International 5_CERNET 4_International 5_CERNET 15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 20_HKBU 19_CityU 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 9_Vocational_Training_Council 18_CUHK@16_HKUST 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 0_ASGCNET 16_HKUST@18_CUHK 8_TEIN3 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 0_ASGCNET 16_HKUST@18_CUHK 12_Technology_Park 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "15_HKU 0_ASGCNET 1_KREPNET2 0_ASGCNET 3_APAN-JP 0_ASGCNET 15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 10_HKEAA 4_International 5_CERNET 4_International 5_CERNET 15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 20_HKBU 19_CityU 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU@17_PolyU 9_Vocational_Training_Council 8_TEIN3 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU@17_PolyU 8_TEIN3 18_CUHK@16_HKUST 15_HKU"
+        },
+        {
+            "x": 0.22222222222222224,
+            "cycle": "15_HKU 1_KREPNET2 11_Open_Uni 1_KREPNET2 11_Open_Uni 1_KREPNET2 15_HKU"
+        },
+        {
+            "x": 0.5,
+            "cycle": "15_HKU 16_HKUST@18_CUHK 9_Vocational_Training_Council 8_TEIN3 17_PolyU@15_HKU"
+        },
+        {
+            "x": 0,
+            "cycle": "15_HKU 5_CERNET 4_International 5_CERNET 4_International 10_HKEAA 15_HKU"
+        },
+        {
+            "x": 1,
+            "cycle": "15_HKU 10_HKEAA 4_International 5_CERNET 4_International 10_HKEAA 15_HKU"
+        }
+    ],
+    "greedySolution": [
+        "15_HKU@17_PolyU 8_TEIN3 9_Vocational_Training_Council 17_PolyU@15_HKU 15_HKU",
+        "15_HKU 10_HKEAA 4_International 5_CERNET 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU 5_CERNET 4_International 10_HKEAA 0_ASGCNET 0_ASGCNET 15_HKU",
+        "15_HKU@17_PolyU 19_CityU 20_HKBU 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU 6_ASNET 7_GOOGLE 6_ASNET 7_GOOGLE 6_ASNET 15_HKU",
+        "15_HKU@17_PolyU 12_Technology_Park 9_Vocational_Training_Council 17_PolyU@15_HKU",
+        "15_HKU@17_PolyU 18_CUHK@16_HKUST 11_Open_Uni 15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 20_HKBU 19_CityU 17_PolyU@15_HKU",
+        "15_HKU 16_HKUST@18_CUHK 9_Vocational_Training_Council 18_CUHK@16_HKUST 15_HKU",
+        "15_HKU 0_ASGCNET 1_KREPNET2 0_ASGCNET 3_APAN-JP 0_ASGCNET 15_HKU"
+    ]
+}

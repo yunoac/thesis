@@ -1,0 +1,50 @@
+{
+    "initialCoverSize": 10,
+    "times": [1154513],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 3_Waukesha,0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 1_Rockford 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 1_Rockford 5_Madison 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 5_Madison 1_Rockford 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 11_Appleton 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 6_Camp_Douglas 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 7_Minneaopolis 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Milwaukee 9_Wausau 0_Milwaukee 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 7_Minneaopolis 11_Appleton 0_Milwaukee"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Milwaukee 11_Appleton 7_Minneaopolis 0_Milwaukee"
+        }
+    ],
+    "values": [4],
+    "initialCoverSeg": 4,
+    "runtime": 88527,
+    "lpBound": 4
+}

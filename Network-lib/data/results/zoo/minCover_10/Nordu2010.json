@@ -1,0 +1,134 @@
+{
+    "initialCoverSize": 24,
+    "times": [
+        1138271,
+        1670440,
+        2088356,
+        2516730,
+        2914049,
+        3322569,
+        3701727,
+        4074141,
+        4424740,
+        4814826,
+        5171138,
+        5576938,
+        6048415
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Poznan 1_GEANT 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 2_London 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 3_Amsterdam_GLORIAD 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 4_ICELINK:_Greenland,_Canada,_USA 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 5_London 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 7_INTERNET 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 8_INTERNET 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 9_New_York 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 11_Oslo 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 11_Oslo 7_INTERNET 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 7_INTERNET 11_Oslo 0_Poznan"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Poznan 14_Helsinki 0_Poznan 0_Poznan"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Poznan 14_Helsinki 11_Oslo 14_Helsinki 11_Oslo 14_Helsinki 11_Oslo 14_Helsinki 1_GEANT 0_Poznan"
+        },
+        {
+            "x": 0.015625,
+            "cycle": "0_Poznan 2_London 1_GEANT 2_London 1_GEANT 2_London 1_GEANT 2_London 1_GEANT 0_Poznan"
+        },
+        {
+            "x": 0.16927083333333331,
+            "cycle": "0_Poznan 4_ICELINK:_Greenland,_Canada,_USA 3_Amsterdam_GLORIAD 4_ICELINK:_Greenland,_Canada,_USA 3_Amsterdam_GLORIAD 4_ICELINK:_Greenland,_Canada,_USA 3_Amsterdam_GLORIAD 4_ICELINK:_Greenland,_Canada,_USA 3_Amsterdam_GLORIAD 0_Poznan"
+        },
+        {
+            "x": 0.171875,
+            "cycle": "0_Poznan 7_INTERNET 5_London 7_INTERNET 5_London 7_INTERNET 5_London 7_INTERNET 5_London 0_Poznan"
+        },
+        {
+            "x": 0.2109375,
+            "cycle": "0_Poznan 9_New_York 8_INTERNET 9_New_York 8_INTERNET 9_New_York 8_INTERNET 9_New_York 8_INTERNET 0_Poznan"
+        },
+        {
+            "x": 0.234375,
+            "cycle": "0_Poznan 11_Oslo 2_London 11_Oslo 2_London 11_Oslo 2_London 11_Oslo 2_London 0_Poznan"
+        },
+        {
+            "x": 0.08072916666666667,
+            "cycle": "0_Poznan 4_ICELINK:_Greenland,_Canada,_USA 1_GEANT 4_ICELINK:_Greenland,_Canada,_USA 1_GEANT 4_ICELINK:_Greenland,_Canada,_USA 1_GEANT 4_ICELINK:_Greenland,_Canada,_USA 1_GEANT 0_Poznan"
+        },
+        {
+            "x": 0.08072916666666669,
+            "cycle": "0_Poznan 3_Amsterdam_GLORIAD 1_GEANT 3_Amsterdam_GLORIAD 1_GEANT 3_Amsterdam_GLORIAD 1_GEANT 3_Amsterdam_GLORIAD 1_GEANT 0_Poznan"
+        },
+        {
+            "x": 0.0390625,
+            "cycle": "0_Poznan 9_New_York 5_London 9_New_York 5_London 9_New_York 5_London 9_New_York 5_London 0_Poznan"
+        },
+        {
+            "x": 0.0390625,
+            "cycle": "0_Poznan 8_INTERNET 5_London 8_INTERNET 5_London 8_INTERNET 5_London 8_INTERNET 5_London 0_Poznan"
+        },
+        {
+            "x": 0.0625,
+            "cycle": "0_Poznan 11_Oslo 7_INTERNET 11_Oslo 7_INTERNET 11_Oslo 7_INTERNET 11_Oslo 7_INTERNET 0_Poznan"
+        },
+        {
+            "x": 0.020833333333333332,
+            "cycle": "0_Poznan 7_INTERNET 11_Oslo 1_GEANT 7_INTERNET 11_Oslo 1_GEANT 7_INTERNET 11_Oslo 0_Poznan"
+        }
+    ],
+    "values": [
+        10,
+        8.5,
+        7.25,
+        5.5,
+        4.083333333333334,
+        2.333333333333333,
+        1.5,
+        1.5,
+        1.4166666666666665,
+        1.4166666666666665,
+        1.4166666666666665,
+        1.3916666666666668,
+        1.375
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 80819,
+    "lpBound": 1.375
+}

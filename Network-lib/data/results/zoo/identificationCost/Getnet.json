@@ -1,0 +1,56 @@
+{
+    "originalCover": {
+        "runtime": 672797,
+        "cycles": [
+            "2_Phoenix 0_Seattle 2",
+            "2_Phoenix 0_Seattle 10",
+            "2_Phoenix 6_Pittsburgh 0_Seattle 2_Phoenix",
+            "2_Phoenix 3_Tucson 0_Seattle 2_Phoenix",
+            "2_Phoenix 4_Washington,_DC 0_Seattle 2_Phoenix",
+            "2_Phoenix 5_Baltimore 2_Phoenix 2_Phoenix",
+            "2_Phoenix 5_Baltimore 6_Pittsburgh 2_Phoenix",
+            "2_Phoenix 6_Pittsburgh 5_Baltimore 2_Phoenix"
+        ],
+        "source": 2,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        7,
+        7,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Seattle 1 0_Seattle",
+            "0_Seattle 2_Phoenix 0_Seattle 0_Seattle",
+            "0_Seattle 4_Washington,_DC 0_Seattle 0_Seattle",
+            "0_Seattle 6_Pittsburgh 0_Seattle 0_Seattle",
+            "0_Seattle 3_Tucson 0_Seattle 0_Seattle",
+            "0_Seattle 2_Phoenix 4_Washington,_DC 0_Seattle",
+            "0_Seattle 4_Washington,_DC 2_Phoenix 0_Seattle",
+            "0_Seattle 5_Baltimore 0_Seattle 0_Seattle",
+            "0_Seattle 5_Baltimore 6_Pittsburgh 0_Seattle",
+            "0_Seattle 6_Pittsburgh 5_Baltimore 0_Seattle"
+        ],
+        "source": 0,
+        "runetime": 613820,
+        "maxSeg": 4
+    }
+}

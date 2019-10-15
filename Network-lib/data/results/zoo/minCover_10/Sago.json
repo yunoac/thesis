@@ -1,0 +1,68 @@
+{
+    "initialCoverSize": 11,
+    "times": [
+        1089932,
+        1638392,
+        2165287,
+        2668869,
+        3189186,
+        3669667
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 1_Melbourne,0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 4_West_Palm_Beach,0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 2_Lake_Alfred 0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 5_Tampa 0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 6_Miami 0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 9_Atlanta 0_Ft._Pierce"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Ft._Pierce 6_Miami 5_Tampa 6_Miami 5_Tampa 6_Miami 5_Tampa 6_Miami 5_Tampa 0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 8_Flovilla 5_Tampa 8_Flovilla 5_Tampa 8_Flovilla 5_Tampa 8_Flovilla 5_Tampa 0_Ft._Pierce"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Ft._Pierce 9_Atlanta 5_Tampa 9_Atlanta 5_Tampa 9_Atlanta 5_Tampa 9_Atlanta 5_Tampa 0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 9_Atlanta 4_West_Palm_Beach 9_Atlanta 4_West_Palm_Beach 9_Atlanta 4_West_Palm_Beach 9_Atlanta 4_West_Palm_Beach 0_Ft._Pierce"
+        },
+        {
+            "x": 0.125,
+            "cycle": "0_Ft._Pierce 9_Atlanta 6_Miami 9_Atlanta 6_Miami 9_Atlanta 6_Miami 9_Atlanta 6_Miami 0_Ft._Pierce"
+        }
+    ],
+    "values": [
+        3,
+        1.25,
+        1.25,
+        0.5,
+        0.5,
+        0.375
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 107192,
+    "lpBound": 0.375
+}

@@ -1,0 +1,25 @@
+{
+    "nbCycles": 17,
+    "runtime": 1604866,
+    "cycles": [
+        "2_Cat_6500_AS23814 0_Pacific_NW_Gigapop_(Seattle,_WA),3_ONS-15454 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 3_ONS-15454,0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 1_Future_IEEAF_Asian_Extension 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 2_Cat_6500_AS23814,3_ONS-15454 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 3_ONS-15454,2_Cat_6500_AS23814 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 4_DR_Data_Reservoir 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 4_DR_Data_Reservoir 2_Cat_6500_AS23814 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 0_Pacific_NW_Gigapop_(Seattle,_WA) 4_DR_Data_Reservoir 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 3_ONS-15454,10_BigIron_15000_AS23814 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 10_BigIron_15000_AS23814,3_ONS-15454 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 3_ONS-15454,10_BigIron_15000_AS23814 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 10_BigIron_15000_AS23814,3_ONS-15454 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 5_U-Tokyo_akihabara 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 6_JGN2 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 7_APAN-JP_AS7660 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 8_WIDE_AS2500 0_Pacific_NW_Gigapop_(Seattle,_WA) 2_Cat_6500_AS23814",
+        "2_Cat_6500_AS23814 9_ASCC/TW_AS9264 2_Cat_6500_AS23814 2_Cat_6500_AS23814"
+    ],
+    "segmentCost": 4,
+    "source": "2_Cat_6500_AS23814"
+}

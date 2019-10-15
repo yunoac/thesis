@@ -1,0 +1,449 @@
+{
+    "initialCoverSize": 70,
+    "times": [
+        2655375,
+        5805297,
+        8877163,
+        14020225,
+        17304500,
+        20299934,
+        23294545,
+        26372715,
+        31708058,
+        38685299,
+        43979837,
+        49222388,
+        52455332,
+        59850514,
+        64913098,
+        69836182,
+        74762781,
+        79697701,
+        84853993,
+        89768879,
+        94626662,
+        99596374,
+        104557904,
+        109674406,
+        114864505,
+        119933619,
+        124800646,
+        129843761,
+        135263716,
+        140352304,
+        146587879,
+        153363082
+    ],
+    "finalCoverSize": 33,
+    "minSegCycles": [
+        "29_Cyberjaya_PoP_(NOC) 0_UiTM 1_UTP 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 2_UUM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 3_UM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 4_UNIMAS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 5_UMS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 6_IUM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 7_UPSI 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@8_Nottingham_Malaysia 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@9_UPM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 10_UTHM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 11_UTM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 12_UMT 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 13_UMK 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 14_UDM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 15_UMP 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 16_UPNIM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 17_UTeM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@18_NOC 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@19_UKM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@20_MMU 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@21_USIM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@22_UNITEN 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@23_MIMOS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@24_Monash_Malaysia 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@25_TMRnD 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@26_MoHE 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 27_USM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 28_UniMAP 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 35_TEIN3 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 36_Commodity_Internet 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 10_UTHM 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 12_UMT 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 2_UUM 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 0_UiTM 10_UTHM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 0_UiTM 12_UMT 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 0_UiTM 2_UUM 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 1_UTP 11_UTM 9_UPM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 3_UM 1_UTP 13_UMK 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 3_UM 27_USM 9_UPM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 2_UUM 4_UNIMAS 2_UUM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 4_UNIMAS 5_UMS 4_UNIMAS 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 5_UMS 6_IUM 5_UMS 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 6_IUM 7_UPSI 6_IUM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 7_UPSI 10_UTHM 7_UPSI 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 10_UTHM 11_UTM 10_UTHM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 11_UTM 16_UPNIM 11_UTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 12_UMT 13_UMK 12_UMT 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 16_UPNIM 15_UMP 14_UDM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 17_UTeM 18_NOC 17_UTeM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 18_NOC 19_UKM 18_NOC 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 19_UKM 20_MMU 19_UKM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 20_MMU 21_USIM 20_MMU 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 21_USIM 22_UNITEN 21_USIM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 22_UNITEN 23_MIMOS 22_UNITEN 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 23_MIMOS 24_Monash_Malaysia 23_MIMOS 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 24_Monash_Malaysia 25_TMRnD 24_Monash_Malaysia 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 25_TMRnD 26_MoHE 25_TMRnD 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 26_MoHE 27_USM 26_MoHE 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 28_UniMAP 27_USM 28_UniMAP 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 8_Nottingham_Malaysia 10_UTHM 6_IUM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 8_Nottingham_Malaysia 12_UMT 3_UM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 13_UMK 15_UMP 13_UMK 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 16_UPNIM 27_USM 16_UPNIM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 14_UDM 6_IUM 28_UniMAP 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 27_USM 5_UMS 14_UDM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 28_UniMAP 3_UM 15_UMP 29_Cyberjaya_PoP_(NOC)"
+    ],
+    "values": [
+        34,
+        31,
+        29,
+        28,
+        27,
+        26.5,
+        25.75,
+        25.125,
+        24.4375,
+        23.78125,
+        23.109375,
+        23.109375,
+        22,
+        21.151785714285715,
+        20.637499999999996,
+        19.901785714285715,
+        19.276785714285715,
+        18.589285714285715,
+        17.933035714285715,
+        17.261160714285715,
+        16.597098214285715,
+        15.929129464285714,
+        15.3263922813874,
+        14.965169270833332,
+        14.519335937500001,
+        14.081380208333334,
+        13.081380208333334,
+        13.02232369355657,
+        12.94248026739691,
+        12.774762426900585,
+        12.723930038443035,
+        12.666666666666668
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 17,
+    "runtime": 255129474,
+    "lpBound": 12.666666666666668,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 0_UiTM 1_UTP 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 2_UUM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 3_UM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 4_UNIMAS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 5_UMS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 6_IUM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 7_UPSI 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@8_Nottingham_Malaysia 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@9_UPM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 10_UTHM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 11_UTM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 12_UMT 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 13_UMK 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 14_UDM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 15_UMP 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 16_UPNIM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 17_UTeM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@18_NOC 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@19_UKM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@20_MMU 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@21_USIM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@22_UNITEN 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@23_MIMOS 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@24_Monash_Malaysia 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@25_TMRnD 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@26_MoHE 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 27_USM 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 28_UniMAP 0_UiTM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC) 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 1,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@30_Border_Router 35_TEIN3 30_Border_Router@29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 1,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@30_Border_Router 36_Commodity_Internet 30_Border_Router@29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 10_UTHM 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 12_UMT 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.3363864942528735,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 2_UUM 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.27581716954022983,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 0_UiTM 10_UTHM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.055989583333333426,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 0_UiTM 12_UMT 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 0_UiTM 2_UUM 0_UiTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.9409572557471265,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 1_UTP 11_UTM 9_UPM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.059042744252873515,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 3_UM 1_UTP 13_UMK 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.059042744252873515,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 3_UM 27_USM 9_UPM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.33180675287356326,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 2_UUM 4_UNIMAS 2_UUM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.33409662356321834,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 4_UNIMAS 5_UMS 4_UNIMAS 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.21830100574712646,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 5_UMS 6_IUM 5_UMS 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 6_IUM 7_UPSI 6_IUM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.5,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 7_UPSI 10_UTHM 7_UPSI 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 10_UTHM 11_UTM 10_UTHM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.02952137212643674,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 11_UTM 16_UPNIM 11_UTM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.2522898706896551,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 12_UMT 13_UMK 12_UMT 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.2131824712643678,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 16_UPNIM 15_UMP 14_UDM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.5,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 17_UTeM 18_NOC 17_UTeM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.25,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 18_NOC 19_UKM 18_NOC 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.375,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 19_UKM 20_MMU 19_UKM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.3125,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 20_MMU 21_USIM 20_MMU 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.34375,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 21_USIM 22_UNITEN 21_USIM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.328125,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 22_UNITEN 23_MIMOS 22_UNITEN 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.3359375,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 23_MIMOS 24_Monash_Malaysia 23_MIMOS 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.33203125,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 24_Monash_Malaysia 25_TMRnD 24_Monash_Malaysia 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.333984375,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 25_TMRnD 26_MoHE 25_TMRnD 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.3330078125,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 26_MoHE 27_USM 26_MoHE 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 28_UniMAP 27_USM 28_UniMAP 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.22418283045977017,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 8_Nottingham_Malaysia 10_UTHM 6_IUM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.43943067528735635,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 8_Nottingham_Malaysia 12_UMT 3_UM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 1,
+            "cycle": "29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.34433369252873564,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 13_UMK 15_UMP 13_UMK 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.37864807830459773,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 16_UPNIM 27_USM 16_UPNIM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.5575161637931034,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 14_UDM 6_IUM 28_UniMAP 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.22930136494252876,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 27_USM 5_UMS 14_UDM 29_Cyberjaya_PoP_(NOC)"
+        },
+        {
+            "x": 0.4424838362068966,
+            "cycle": "29_Cyberjaya_PoP_(NOC) 28_UniMAP 3_UM 15_UMP 29_Cyberjaya_PoP_(NOC)"
+        }
+    ],
+    "greedySolution": [
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 35_TEIN3 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 36_Commodity_Internet 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 10_UTHM 8_Nottingham_Malaysia 0_UiTM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 1_UTP 11_UTM 9_UPM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 3_UM 1_UTP 13_UMK 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 2_UUM 4_UNIMAS 2_UUM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 7_UPSI 10_UTHM 7_UPSI 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 12_UMT 13_UMK 12_UMT 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 16_UPNIM 15_UMP 14_UDM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 17_UTeM 18_NOC 17_UTeM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 19_UKM 20_MMU 19_UKM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 21_USIM 22_UNITEN 21_USIM 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 23_MIMOS 24_Monash_Malaysia 23_MIMOS 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 25_TMRnD 26_MoHE 25_TMRnD 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC)@30_Border_Router 30_Border_Router@29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 14_UDM 6_IUM 28_UniMAP 29_Cyberjaya_PoP_(NOC)",
+        "29_Cyberjaya_PoP_(NOC) 27_USM 5_UMS 14_UDM 29_Cyberjaya_PoP_(NOC)"
+    ]
+}

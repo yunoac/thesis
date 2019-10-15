@@ -1,0 +1,70 @@
+{
+    "initialCoverSize": 13,
+    "times": [
+        1138785,
+        1377133,
+        1588705
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 2_New_York 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Chicago 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 1_Chicago 2_New_York 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 2_New_York 1_Chicago 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 1_Chicago 3_Baltimore 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 3_Baltimore 1_Chicago 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 5_Miami 0_Palo_Alto 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 3_Baltimore 6_Atlanta,0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 5_Miami 1_Chicago 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto,6_Atlanta 3_Baltimore 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 1_Chicago 5_Miami 0_Palo_Alto"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Palo_Alto 3_Baltimore 2_New_York 0_Palo_Alto"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Palo_Alto 2_New_York 3_Baltimore 0_Palo_Alto"
+        }
+    ],
+    "values": [
+        7,
+        7,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 23228,
+    "lpBound": 7
+}

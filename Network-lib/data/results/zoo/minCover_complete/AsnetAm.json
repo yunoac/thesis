@@ -1,0 +1,736 @@
+{
+    "initialCoverSize": 148,
+    "times": [
+        3368237,
+        18794843,
+        34093709,
+        49513148,
+        64737649,
+        80115819,
+        95459131,
+        112385501,
+        128370719,
+        144695420,
+        159987451,
+        175289905,
+        190903957,
+        206717048,
+        223639890,
+        239027663,
+        254352647,
+        271890478,
+        288361142,
+        303769124,
+        319217058,
+        337240517,
+        352974111,
+        368753373,
+        384191181,
+        400275078,
+        415604260,
+        433383903,
+        449492955,
+        464708589,
+        480139207,
+        498312289,
+        517574222,
+        533163004,
+        548607926,
+        564906040,
+        580222561,
+        597530648,
+        615971569,
+        631401957,
+        647249519,
+        664379749,
+        679718865,
+        696063586,
+        713326899,
+        729857734,
+        745390088,
+        763289614,
+        780489355,
+        796023708,
+        812644499,
+        829375450,
+        847494805,
+        862961658,
+        878483973,
+        893759915,
+        909122572,
+        931156972,
+        949060921,
+        964631230,
+        980204408,
+        997515607,
+        1013007417,
+        1028890569,
+        1044865256,
+        1061007113
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_? 1_Drug_Agency,0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 2_Inst._Radio_Meas.,0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 6_Inst._of_Health,0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 55_Institute_of_Applied_Physics 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 3_Isnt._Chemical_Physics 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 3_Isnt._Chemical_Physics 56_Inst._of_Molecular_Biology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 3_Isnt._Chemical_Physics 4_Inst._Biochem 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 4_Inst._Biochem 3_Isnt._Chemical_Physics 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 5_Inst._Geophysics 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 8_TV_station 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 10_? 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 46_Astrophysical_Obs. 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 7_Inst._Informatics,46_Astrophysical_Obs. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 47_Inst._Microbiology 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 45_Organic_Chem 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 50_research 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 12_Library 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 56_Inst._of_Molecular_Biology 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 9_Inst._Phylosophy 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 24_Min._of_Education 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 26_EEMC_MNP 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 27_? 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 28_Museum 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 61_Gallery 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 49_General_Chem 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 11_Organic_chem 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 13_Lib_Net 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 14_ICT 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 15_Geological 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 15_Geological,22_National_Academy 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 16_Inst._Math. 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 17_Inst._Mechanics 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 18_ASHMS 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 19_Inst._Physiology 20_Yeveran_Physics_Inst. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 19_Inst._Physiology 44_SCS 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 19_Inst._Physiology 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 20_Yeveran_Physics_Inst. 19_Inst._Physiology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 21_ArmESFo 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 22_National_Academy,15_Geological 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 37_American_Uni. 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 44_SCS 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 54_ARENA 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 23_NSSPA 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 12_Library 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 12_Library 28_Museum 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 12_Library 61_Gallery 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 62_Yerevan_University 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 63_State_Engineering_University 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 24_Min._of_Education 12_Library 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 31_? 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 28_Museum 12_Library 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 29_ISTC 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 30_Geophys._Obser. 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 32_Encycloped. 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 35_Linguistic_Inst 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 34_Economy 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 33_Literature 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 38_Oriental 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 39_Hist 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 40_Art 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 41_Hydroecol 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 42_Engineer_academy 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 43_education 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 44_SCS 19_Inst._Physiology 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 46_Astrophysical_Obs.,7_Inst._Informatics 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 46_Astrophysical_Obs. 47_Inst._Microbiology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 46_Astrophysical_Obs. 50_research 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 47_Inst._Microbiology 46_Astrophysical_Obs. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 51_engineering_center 0_? 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 50_research 46_Astrophysical_Obs. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 64_Yerevan_Medical_University 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 57_Agricultural_Academy 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 54_ARENA 62_Yerevan_University 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 54_ARENA 63_State_Engineering_University 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 58_Ecological_Center 0_? 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 56_Inst._of_Molecular_Biology 3_Isnt._Chemical_Physics 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 3_Isnt._Chemical_Physics 58_Ecological_Center 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 4_Inst._Biochem 58_Ecological_Center 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 55_Institute_of_Applied_Physics 57_Agricultural_Academy 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 61_Gallery 12_Library 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 62_Yerevan_University 54_ARENA 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 63_State_Engineering_University 54_ARENA 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 59_Intitute_of_Botany 4_Inst._Biochem 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 44_SCS 21_ArmESFo 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 5_Inst._Geophysics 59_Intitute_of_Botany 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 6_Inst._of_Health 1_Drug_Agency 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 9_Inst._Phylosophy 1_Drug_Agency 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 9_Inst._Phylosophy 6_Inst._of_Health 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 13_Lib_Net 11_Organic_chem 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 14_ICT 11_Organic_chem 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 14_ICT 13_Lib_Net 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 17_Inst._Mechanics 16_Inst._Math. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 18_ASHMS 16_Inst._Math. 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 18_ASHMS 17_Inst._Mechanics 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 24_Min._of_Education 23_NSSPA 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 26_EEMC_MNP 23_NSSPA 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 26_EEMC_MNP 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 29_ISTC 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 30_Geophys._Obser. 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 29_ISTC 26_EEMC_MNP 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 29_ISTC 28_Museum 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 30_Geophys._Obser. 26_EEMC_MNP 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 37_American_Uni. 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 32_Encycloped. 26_EEMC_MNP 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 30_Geophys._Obser. 28_Museum 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 24_Min._of_Education 29_ISTC 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 28_Museum 23_NSSPA 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 28_Museum 29_ISTC 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 32_Encycloped. 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 29_ISTC 23_NSSPA 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 34_Economy 33_Literature 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 35_Linguistic_Inst 34_Economy 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 35_Linguistic_Inst 33_Literature 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 38_Oriental 37_American_Uni. 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 38_Oriental 24_Min._of_Education 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 39_Hist 26_EEMC_MNP 0_?"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_? 39_Hist 32_Encycloped. 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 24_Min._of_Education 40_Art 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 41_Hydroecol 40_Art 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 42_Engineer_academy 41_Hydroecol 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 43_education 42_Engineer_academy 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 45_Organic_Chem 43_education 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 20_Yeveran_Physics_Inst. 44_SCS 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 45_Organic_Chem 19_Inst._Physiology 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 49_General_Chem 19_Inst._Physiology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 51_engineering_center 46_Astrophysical_Obs. 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 51_engineering_center 49_General_Chem 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 4_Inst._Biochem 56_Inst._of_Molecular_Biology 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 64_Yerevan_Medical_University 3_Isnt._Chemical_Physics 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 61_Gallery 58_Ecological_Center 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 58_Ecological_Center 61_Gallery 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 3_Isnt._Chemical_Physics 1_Drug_Agency 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 56_Inst._of_Molecular_Biology 1_Drug_Agency 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 61_Gallery 13_Lib_Net 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 46_Astrophysical_Obs. 51_engineering_center 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 62_Yerevan_University 57_Agricultural_Academy 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 62_Yerevan_University 58_Ecological_Center 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 4_Inst._Biochem 59_Intitute_of_Botany 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 13_Lib_Net 61_Gallery 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 58_Ecological_Center 62_Yerevan_University 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 61_Gallery 14_ICT 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 11_Organic_chem 1_Drug_Agency 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 61_Gallery 16_Inst._Math. 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 14_ICT 61_Gallery 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 64_Yerevan_Medical_University 62_Yerevan_University 0_?"
+        },
+        {
+            "x": 0,
+            "cycle": "0_? 58_Ecological_Center 63_State_Engineering_University 0_?"
+        },
+        {
+            "x": 1,
+            "cycle": "0_? 64_Yerevan_Medical_University 63_State_Engineering_University 0_?"
+        }
+    ],
+    "values": [
+        59,
+        58,
+        56,
+        55,
+        54,
+        54,
+        53.5,
+        52.5,
+        52.5,
+        52,
+        51,
+        51,
+        50.5,
+        49.5,
+        49.5,
+        49.5,
+        48.5,
+        48.5,
+        47.5,
+        47.5,
+        47.5,
+        46.5,
+        46.5,
+        46.5,
+        46.5,
+        45.5,
+        45.5,
+        45.5,
+        45.5,
+        44.5,
+        44.5,
+        44,
+        44,
+        43.5,
+        43.5,
+        43,
+        42.5,
+        42,
+        41.5,
+        41,
+        40.5,
+        40.5,
+        40,
+        39.5,
+        38.5,
+        38.5,
+        38.5,
+        37.5,
+        36.5,
+        35.5,
+        35.5,
+        35.5,
+        35.5,
+        35.5,
+        35.5,
+        35,
+        35,
+        35,
+        35,
+        35,
+        34.5,
+        34.5,
+        34.5,
+        34.5,
+        34,
+        34
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 1579694,
+    "lpBound": 34
+}

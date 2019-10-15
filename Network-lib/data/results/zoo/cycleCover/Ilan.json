@@ -1,0 +1,171 @@
+{
+    "initialCoverSize": 25,
+    "times": [
+        1183794,
+        1611628,
+        1944714,
+        2297513,
+        2642266,
+        2960338,
+        3307337,
+        3648349,
+        4009166,
+        4326514
+    ],
+    "finalCoverSize": 9,
+    "minSegCycles": [
+        "0_Tel_Aviv_GigaPoP 1_Int'l_backup_@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 7_Haifa_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 8_Technion@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 10_Hebrew_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 11_Ben_Gurion_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 13_Tel_Aviv_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 7_Haifa_University@0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 4_External_Users 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 5_GEANT_2_Germany 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 6_Open_University 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 9_Bar_Ilan_University@0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 13_Tel_Aviv_University@0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@9_Bar_Ilan_University 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@13_Tel_Aviv_University 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 1_Int'l_backup_ 8_Technion 1_Int'l_backup_ 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 8_Technion 10_Hebrew_University 8_Technion 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 10_Hebrew_University 11_Ben_Gurion_University 10_Hebrew_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 11_Ben_Gurion_University 12_Weizmann_Institute 11_Ben_Gurion_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 5_GEANT_2_Germany 13_Tel_Aviv_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute 7_Haifa_University 12_Weizmann_Institute 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 13_Tel_Aviv_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute 10_Hebrew_University 12_Weizmann_Institute 0_Tel_Aviv_GigaPoP"
+    ],
+    "values": [
+        12,
+        11,
+        10.5,
+        8.5,
+        7.75,
+        7.125,
+        6.125,
+        5.78125,
+        5.78125,
+        5.666666666666666
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 8,
+    "runtime": 6720949,
+    "lpBound": 5.666666666666666,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 1_Int'l_backup_@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 7_Haifa_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 8_Technion@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 10_Hebrew_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 11_Ben_Gurion_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 13_Tel_Aviv_University@0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 7_Haifa_University@0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 4_External_Users 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 5_GEANT_2_Germany 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 6_Open_University 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 9_Bar_Ilan_University@0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 13_Tel_Aviv_University@0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@9_Bar_Ilan_University 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP@13_Tel_Aviv_University 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Tel_Aviv_GigaPoP 1_Int'l_backup_ 8_Technion 1_Int'l_backup_ 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Tel_Aviv_GigaPoP 8_Technion 10_Hebrew_University 8_Technion 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0.2222222222222222,
+            "cycle": "0_Tel_Aviv_GigaPoP 10_Hebrew_University 11_Ben_Gurion_University 10_Hebrew_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0.3888888888888889,
+            "cycle": "0_Tel_Aviv_GigaPoP 11_Ben_Gurion_University 12_Weizmann_Institute 11_Ben_Gurion_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 5_GEANT_2_Germany 13_Tel_Aviv_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute 7_Haifa_University 12_Weizmann_Institute 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Tel_Aviv_GigaPoP 13_Tel_Aviv_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP"
+        },
+        {
+            "x": 0.3055555555555556,
+            "cycle": "0_Tel_Aviv_GigaPoP 12_Weizmann_Institute 10_Hebrew_University 12_Weizmann_Institute 0_Tel_Aviv_GigaPoP"
+        }
+    ],
+    "greedySolution": [
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 2_IIX 7_Haifa_University@0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP@7_Haifa_University 6_Open_University 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 1_Int'l_backup_ 8_Technion 1_Int'l_backup_ 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 10_Hebrew_University 11_Ben_Gurion_University 10_Hebrew_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 11_Ben_Gurion_University 12_Weizmann_Institute 11_Ben_Gurion_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 9_Bar_Ilan_University 5_GEANT_2_Germany 13_Tel_Aviv_University 0_Tel_Aviv_GigaPoP",
+        "0_Tel_Aviv_GigaPoP 13_Tel_Aviv_University 4_External_Users 9_Bar_Ilan_University 0_Tel_Aviv_GigaPoP"
+    ]
+}

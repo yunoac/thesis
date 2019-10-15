@@ -1,0 +1,851 @@
+{
+    "initialCoverSize": 133,
+    "times": [
+        29819910,
+        197601206,
+        352997647,
+        537477928,
+        688771737,
+        905741972,
+        1089277548,
+        1229782996,
+        1377769677,
+        1589518942,
+        1797145499,
+        1997815092,
+        2156360216,
+        2338389200,
+        2528363513,
+        2752614376,
+        2965358637,
+        3144414041,
+        3331533969,
+        3560287712,
+        3723364020,
+        3918409774,
+        4149333145,
+        4333131012,
+        4478457922,
+        4677960322,
+        4865565640,
+        5028320246,
+        5193350985,
+        5381583305,
+        5516762191,
+        5716948964,
+        5924607067,
+        6120321701,
+        6269588574,
+        6433924651,
+        6607413055,
+        6835102791,
+        6996821690,
+        7139836317,
+        7332657153,
+        7473044661,
+        7640527126,
+        7834424838,
+        7972459425,
+        8141612184,
+        8338400896,
+        8473968401,
+        8624849475,
+        8832416108,
+        9034770702,
+        9248876199,
+        9468267743,
+        9682185565,
+        9885882917,
+        10021701359,
+        10225098081,
+        10432324046,
+        10641571047,
+        10852343213,
+        11062972516,
+        11257417578,
+        11494291330,
+        11702037219,
+        11890338930,
+        12074070519,
+        12217834748,
+        12432197743,
+        12648551393,
+        12860438600,
+        13038821668,
+        13257530917,
+        13474373747
+    ],
+    "finalCoverSize": 31,
+    "minSegCycles": [
+        "5_San_Luis_Potosi 8_Tepatitlan 2_Hermosillo 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 6_Durango 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 56_Benjamin_Hill 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 26_Matehlala 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 23_El_Salado 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 48_Torreon 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 38_Jilotepec 66_Salvatierra 38_Jilotepec 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 36_Ixtlan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 12_Jilotepec 37_S_Juan_Del_Rio 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 57_Jalapa 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 16_Gral_Bravo 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 17_San_Miguel 51_Hebbronville 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 17_San_Miguel 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 18_Monterrey@31_Saltillo 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 18_Monterrey@31_Saltillo 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 37_S_Juan_Del_Rio 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 23_El_Salado 28_Jesus_M_Aguirre 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 26_Matehlala 31_Saltillo 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 81_Ensenada 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 82_Mexicali 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 80_Zamora 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 42_Guasave 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 51_Hebbronville 17_San_Miguel 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 34_Tijuana 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@10_Leon 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@10_Leon 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 64_Veracruz 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 34_Tijuana 50_San_Isidro 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 73_CD_Juarez 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 76_Dallas 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 14_Irolo 37_S_Juan_Del_Rio 14_Irolo 37_S_Juan_Del_Rio 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 12_Jilotepec 39_Los_Mochis 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 23_El_Salado 28_Jesus_M_Aguirre 23_El_Salado 28_Jesus_M_Aguirre 23_El_Salado 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 14_Irolo 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 73_CD_Juarez 50_San_Isidro 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 76_Dallas 83_Nogales 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 76_Dallas 16_Gral_Bravo 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 81_Ensenada 51_Hebbronville 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 56_Benjamin_Hill 50_San_Isidro 56_Benjamin_Hill 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 36_Ixtlan 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 12_Jilotepec 80_Zamora 39_Los_Mochis 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 81_Ensenada 50_San_Isidro 83_Nogales 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 82_Mexicali 51_Hebbronville 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 50_San_Isidro 82_Mexicali 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 39_Los_Mochis 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 64_Veracruz 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 55_Irapuato@10_Leon 26_Matehlala 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 55_Irapuato@10_Leon 23_El_Salado 28_Jesus_M_Aguirre 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 50_San_Isidro 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 39_Los_Mochis 76_Dallas 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 51_Hebbronville 76_Dallas 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 42_Guasave 39_Los_Mochis 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 19_Mexico@59_Toluca 80_Zamora 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 12_Jilotepec 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 38_Jilotepec 33_Nopala 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 23_El_Salado 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 10_Leon@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 51_Hebbronville 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 80_Zamora 0_Culiacan 80_Zamora 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 76_Dallas 50_San_Isidro 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 26_Matehlala 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 26_Matehlala 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 31_Saltillo 26_Matehlala 31_Saltillo 26_Matehlala 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 0_Culiacan 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 28_Jesus_M_Aguirre 23_El_Salado 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 64_Veracruz 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 38_Jilotepec 66_Salvatierra 38_Jilotepec 66_Salvatierra 38_Jilotepec 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 12_Jilotepec 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 12_Jilotepec 0_Culiacan 12_Jilotepec 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 80_Zamora 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 59_Toluca 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 42_Guasave 16_Gral_Bravo 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 39_Los_Mochis 50_San_Isidro 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 80_Zamora 42_Guasave 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 39_Los_Mochis 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 76_Dallas 73_CD_Juarez 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 0_Culiacan 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+    ],
+    "values": [
+        44,
+        42.5,
+        41.5,
+        41.5,
+        40.16666666666667,
+        37.16666666666667,
+        35.166666666666664,
+        34.166666666666664,
+        33.166666666666664,
+        33.166666666666664,
+        31.666666666666664,
+        31,
+        31,
+        30.75,
+        29.5,
+        28.333333333333332,
+        28.166666666666664,
+        26.166666666666664,
+        24.166666666666664,
+        22.16666666666666,
+        21.833333333333332,
+        20.833333333333336,
+        20.555555555555557,
+        20.42222222222222,
+        20.133333333333333,
+        20.03333333333333,
+        19.166666666666664,
+        19.111111111111107,
+        19,
+        18.388888888888886,
+        18.296296296296294,
+        17.958333333333332,
+        17.864583333333332,
+        17.864583333333332,
+        17.864583333333332,
+        17.864583333333332,
+        17.599999999999998,
+        17.599999999999998,
+        17.488188976377955,
+        17.229166666666664,
+        17.229166666666664,
+        17.11979166666667,
+        16.977777777777774,
+        16.894265232974913,
+        16.888888888888886,
+        16.76190476190476,
+        16.733333333333334,
+        16.6969696969697,
+        16.696969696969695,
+        16.61428571428571,
+        16.58,
+        16.5,
+        16.499999999999996,
+        16.499999999999996,
+        16.499999999999996,
+        16.33333333333333,
+        16.166666666666664,
+        16.166666666666664,
+        16.16666666666666,
+        16.16666666666666,
+        16.16666666666666,
+        16.16666666666666,
+        16.166666666666664,
+        16.166666666666664,
+        16.1,
+        16.1,
+        16.1,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+    ],
+    "initialCoverSeg": 8,
+    "greedyCoverSize": 22,
+    "runtime": 18387455372,
+    "lpBound": 16,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 2_Hermosillo 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 6_Durango 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 56_Benjamin_Hill 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 26_Matehlala 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 23_El_Salado 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 48_Torreon 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 38_Jilotepec 66_Salvatierra 38_Jilotepec 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 36_Ixtlan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 12_Jilotepec 37_S_Juan_Del_Rio 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 57_Jalapa 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 16_Gral_Bravo 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 17_San_Miguel 51_Hebbronville 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 17_San_Miguel 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 18_Monterrey@31_Saltillo 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 18_Monterrey@31_Saltillo 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 37_S_Juan_Del_Rio 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 23_El_Salado 28_Jesus_M_Aguirre 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 26_Matehlala 31_Saltillo 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 81_Ensenada 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 82_Mexicali 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 80_Zamora 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 0_Culiacan 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 42_Guasave 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 51_Hebbronville 17_San_Miguel 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 34_Tijuana 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@10_Leon 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@10_Leon 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 8_Tepatitlan 4_Aguascalientes 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 64_Veracruz 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 34_Tijuana 50_San_Isidro 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 73_CD_Juarez 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 76_Dallas 0_Culiacan 8_Tepatitlan 4_Aguascalientes 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 14_Irolo 37_S_Juan_Del_Rio 14_Irolo 37_S_Juan_Del_Rio 14_Irolo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 12_Jilotepec 39_Los_Mochis 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 28_Jesus_M_Aguirre 23_El_Salado 28_Jesus_M_Aguirre 23_El_Salado 28_Jesus_M_Aguirre 23_El_Salado 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 14_Irolo 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 73_CD_Juarez 50_San_Isidro 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 76_Dallas 83_Nogales 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 76_Dallas 16_Gral_Bravo 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 81_Ensenada 51_Hebbronville 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 56_Benjamin_Hill 50_San_Isidro 56_Benjamin_Hill 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 36_Ixtlan 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 12_Jilotepec 80_Zamora 39_Los_Mochis 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 81_Ensenada 50_San_Isidro 83_Nogales 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.33333333333333326,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 82_Mexicali 51_Hebbronville 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 50_San_Isidro 82_Mexicali 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 39_Los_Mochis 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 64_Veracruz 14_Irolo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 55_Irapuato@10_Leon 26_Matehlala 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 55_Irapuato@10_Leon 23_El_Salado 28_Jesus_M_Aguirre 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 50_San_Isidro 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 39_Los_Mochis 76_Dallas 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 51_Hebbronville 76_Dallas 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 1,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 37_S_Juan_Del_Rio 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 42_Guasave 39_Los_Mochis 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 28_Jesus_M_Aguirre 19_Mexico@59_Toluca 80_Zamora 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 12_Jilotepec 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 38_Jilotepec 33_Nopala 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 23_El_Salado 37_S_Juan_Del_Rio 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 37_S_Juan_Del_Rio 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 10_Leon@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 51_Hebbronville 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 19_Mexico@59_Toluca 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 80_Zamora 0_Culiacan 80_Zamora 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 76_Dallas 50_San_Isidro 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 37_S_Juan_Del_Rio 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 26_Matehlala 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 26_Matehlala 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 31_Saltillo 26_Matehlala 31_Saltillo 26_Matehlala 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 0_Culiacan 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 1,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 28_Jesus_M_Aguirre 23_El_Salado 5_San_Luis_Potosi"
+        },
+        {
+            "x": 1,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 64_Veracruz 58_Puebla@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 38_Jilotepec 66_Salvatierra 38_Jilotepec 66_Salvatierra 38_Jilotepec 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 1,
+            "cycle": "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 12_Jilotepec 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 37_S_Juan_Del_Rio 12_Jilotepec 0_Culiacan 12_Jilotepec 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 0_Culiacan 80_Zamora 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 59_Toluca 0_Culiacan 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 42_Guasave 16_Gral_Bravo 42_Guasave 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 39_Los_Mochis 50_San_Isidro 39_Los_Mochis 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 19_Mexico@59_Toluca 80_Zamora 42_Guasave 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "5_San_Luis_Potosi 10_Leon@55_Irapuato 80_Zamora 39_Los_Mochis 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.75,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 59_Toluca@19_Mexico 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 76_Dallas 73_CD_Juarez 0_Culiacan 8_Tepatitlan 5_San_Luis_Potosi"
+        },
+        {
+            "x": 0,
+            "cycle": "5_San_Luis_Potosi 8_Tepatitlan 0_Culiacan 50_San_Isidro 0_Culiacan 55_Irapuato@10_Leon 5_San_Luis_Potosi"
+        }
+    ],
+    "greedySolution": [
+        "5_San_Luis_Potosi 38_Jilotepec 66_Salvatierra 38_Jilotepec 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 64_Veracruz 14_Irolo 5_San_Luis_Potosi 4_Aguascalientes 4_Aguascalientes 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 76_Dallas 83_Nogales 80_Zamora 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 83_Nogales 81_Ensenada 50_San_Isidro 83_Nogales 8_Tepatitlan 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 8_Tepatitlan 39_Los_Mochis 82_Mexicali 51_Hebbronville 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 50_San_Isidro 82_Mexicali 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@59_Toluca 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 37_S_Juan_Del_Rio 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 42_Guasave 39_Los_Mochis 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 28_Jesus_M_Aguirre 19_Mexico@59_Toluca 80_Zamora 59_Toluca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 38_Jilotepec 33_Nopala 37_S_Juan_Del_Rio 28_Jesus_M_Aguirre 23_El_Salado 37_S_Juan_Del_Rio 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 60_Queretaro@11_Celaya 11_Celaya@55_Irapuato 55_Irapuato@10_Leon 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo@18_Monterrey 51_Hebbronville 73_CD_Juarez 18_Monterrey@31_Saltillo 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 10_Leon@55_Irapuato 55_Irapuato@11_Celaya 11_Celaya@60_Queretaro 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 37_S_Juan_Del_Rio 19_Mexico@32_Cuernavaca 32_Cuernavaca@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 31_Saltillo 26_Matehlala 19_Mexico@15_Rio_Fro 15_Rio_Fro@19_Mexico 5_San_Luis_Potosi",
+        "5_San_Luis_Potosi 14_Irolo 58_Puebla@15_Rio_Fro 15_Rio_Fro@58_Puebla 14_Irolo 5_San_Luis_Potosi"
+    ]
+}

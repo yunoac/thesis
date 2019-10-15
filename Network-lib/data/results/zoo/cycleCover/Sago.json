@@ -1,0 +1,49 @@
+{
+    "initialCoverSize": 6,
+    "times": [2580010],
+    "finalCoverSize": 3,
+    "minSegCycles": [
+        "0_Ft._Pierce 1_Melbourne@0_Ft._Pierce",
+        "0_Ft._Pierce 4_West_Palm_Beach@0_Ft._Pierce",
+        "0_Ft._Pierce 2_Lake_Alfred 0_Ft._Pierce",
+        "0_Ft._Pierce 5_Tampa 0_Ft._Pierce",
+        "0_Ft._Pierce 6_Miami 0_Ft._Pierce",
+        "0_Ft._Pierce 9_Atlanta 0_Ft._Pierce"
+    ],
+    "values": [3],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 3,
+    "runtime": 13314838,
+    "lpBound": 3,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 1_Melbourne@0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 4_West_Palm_Beach@0_Ft._Pierce"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ft._Pierce 2_Lake_Alfred 0_Ft._Pierce"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ft._Pierce 5_Tampa 0_Ft._Pierce"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ft._Pierce 6_Miami 0_Ft._Pierce"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ft._Pierce 9_Atlanta 0_Ft._Pierce"
+        }
+    ],
+    "greedySolution": [
+        "0_Ft._Pierce 5_Tampa 0_Ft._Pierce",
+        "0_Ft._Pierce 6_Miami 0_Ft._Pierce",
+        "0_Ft._Pierce 9_Atlanta 0_Ft._Pierce"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "nbCycles": 21,
+    "runtime": 12477133,
+    "cycles": [
+        "4_Szolnok 0_None 1_Miskolc 4_Szolnok",
+        "4_Szolnok 2_Salgotarjan 0_None 4_Szolnok",
+        "4_Szolnok 3_Godollo 0_None 4_Szolnok",
+        "4_Szolnok 7_Debrecen 0_None 4_Szolnok",
+        "4_Szolnok 5_Dunaujvaros 11_None 4_Szolnok",
+        "4_Szolnok 11_None 5_Dunaujvaros 4_Szolnok",
+        "4_Szolnok 6_Nyiregyhaza 0_None 4_Szolnok",
+        "4_Szolnok 9_Baja 0_None 4_Szolnok",
+        "4_Szolnok 10_Pecs 0_None 4_Szolnok",
+        "4_Szolnok 19_Bekescsaba 4_Szolnok 4_Szolnok",
+        "4_Szolnok 13_Siofok 0_None 4_Szolnok",
+        "4_Szolnok 14_Kaposvar 0_None 4_Szolnok",
+        "4_Szolnok 15_Szekszard 0_None 4_Szolnok",
+        "4_Szolnok 16_None 0_None 4_Szolnok",
+        "4_Szolnok 17_Vienna 0_None 4_Szolnok",
+        "4_Szolnok 18_Bratislava 0_None 4_Szolnok",
+        "4_Szolnok 21_Vac 0_None 4_Szolnok",
+        "4_Szolnok 25_Nagykanizsa 0_None 4_Szolnok",
+        "4_Szolnok 24_Zalaegerszeg 0_None 4_Szolnok",
+        "4_Szolnok 17_Vienna 24_Zalaegerszeg 4_Szolnok",
+        "4_Szolnok 24_Zalaegerszeg 17_Vienna 4_Szolnok"
+    ],
+    "segmentCost": 4,
+    "source": "4_Szolnok"
+}

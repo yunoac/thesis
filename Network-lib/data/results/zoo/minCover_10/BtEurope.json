@@ -1,0 +1,690 @@
+{
+    "initialCoverSize": 125,
+    "times": [
+        4572586,
+        7122721,
+        9775271,
+        12866898,
+        15807896,
+        18549703,
+        21518809,
+        24265109,
+        27001989,
+        29938841,
+        32586988,
+        35500846,
+        38559806,
+        41452099,
+        45102127,
+        49494270,
+        52750532,
+        55578321,
+        57218042,
+        58773389,
+        60364759,
+        61948310,
+        63575629,
+        65258691,
+        66971710,
+        68647541,
+        70488331,
+        72304032,
+        74183979,
+        76026033,
+        77930431,
+        80527478,
+        83501390,
+        85409656,
+        88485582,
+        91834764,
+        94841698,
+        96797574,
+        98841378,
+        100820598,
+        102836365,
+        104733074,
+        106619989,
+        108690659,
+        110676469,
+        112808194,
+        115056913,
+        116991521,
+        118944316,
+        121129425,
+        123128340,
+        125239657,
+        127796096,
+        132001332,
+        135755667,
+        138261007,
+        141149369,
+        144255383,
+        147748153,
+        149897217,
+        152043306,
+        154194880,
+        156235634,
+        158311721,
+        160583319,
+        162830979,
+        165012532,
+        167675801,
+        171251668,
+        173853932,
+        176187906,
+        178492545,
+        180758135,
+        183098074,
+        186452049,
+        191049300,
+        193868342,
+        198990309,
+        203687929,
+        206403200,
+        208820815,
+        211826763,
+        215444904,
+        218820112,
+        221543906,
+        224223129,
+        226344996,
+        229288764,
+        232759716
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 7_Paris 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 1_Munich 4_Dusseldorf 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 1_Munich 0_Budapest 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 2_Prague 12_Washington 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 2_Prague 0_Budapest 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 0_Budapest 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 4_Dusseldorf 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 4_Dusseldorf 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 1_Munich 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 1_Munich 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 1_Munich 10_Goonhilly 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna,5_Frankfurt 9_Barcelona 3_Vienna 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 7_Paris 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 7_Paris 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 9_Barcelona 13_Madrid 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 11_New_York 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 13_Madrid 9_Barcelona 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 14_Helsinki 2_Prague 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 15_Copenhagen 2_Prague 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 3_Vienna 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 2_Prague 14_Helsinki 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 10_Goonhilly 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 6_Zurich 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 8_Milan 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 12_Washington 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 18_Madley 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 19_Dublin 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 20_Brussels 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 10_Goonhilly 21_Amsterdam,3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 3_Vienna 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 4_Dusseldorf 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 9_Barcelona 5_Frankfurt,0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna,21_Amsterdam 10_Goonhilly 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 3_Vienna 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 14_Helsinki 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 14_Helsinki 3_Vienna 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 14_Helsinki 22_Gothenburg 3_Vienna 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 15_Copenhagen 4_Dusseldorf 15_Copenhagen 4_Dusseldorf 15_Copenhagen 4_Dusseldorf 15_Copenhagen 5_Frankfurt 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 1_Munich 11_New_York 1_Munich 11_New_York 1_Munich 11_New_York 6_Zurich 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 18_Madley 8_Milan 19_Dublin 3_Vienna 12_Washington 8_Milan 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 18_Madley 21_Amsterdam 18_Madley 21_Amsterdam 19_Dublin 18_Madley 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0.06896566561966808,
+            "cycle": "3_Vienna 6_Zurich 2_Prague 6_Zurich 2_Prague 6_Zurich 2_Prague 6_Zurich 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 20_Brussels 10_Goonhilly 20_Brussels 10_Goonhilly 20_Brussels 10_Goonhilly 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 5_Frankfurt 9_Barcelona 5_Frankfurt 9_Barcelona 5_Frankfurt 21_Amsterdam 20_Brussels 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 1_Munich 4_Dusseldorf 1_Munich 4_Dusseldorf 1_Munich 4_Dusseldorf 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 4_Dusseldorf 8_Milan 4_Dusseldorf 8_Milan 4_Dusseldorf 2_Prague 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.10264399050729499,
+            "cycle": "3_Vienna 2_Prague 14_Helsinki 22_Gothenburg 14_Helsinki 22_Gothenburg 14_Helsinki 22_Gothenburg 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 10_Goonhilly 22_Gothenburg 10_Goonhilly 22_Gothenburg 10_Goonhilly 22_Gothenburg 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 13_Madrid 9_Barcelona 13_Madrid 9_Barcelona 13_Madrid 12_Washington 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0.0646130371038328,
+            "cycle": "3_Vienna 0_Budapest 13_Madrid 0_Budapest 13_Madrid 0_Budapest 13_Madrid 0_Budapest 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0.07758333150080159,
+            "cycle": "3_Vienna 19_Dublin 6_Zurich 20_Brussels 6_Zurich 20_Brussels 6_Zurich 20_Brussels 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 9_Barcelona 19_Dublin 9_Barcelona 19_Dublin 9_Barcelona 19_Dublin 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.03030589384436284,
+            "cycle": "3_Vienna 7_Paris 8_Milan 7_Paris 8_Milan 7_Paris 8_Milan 7_Paris 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.11055721697352378,
+            "cycle": "3_Vienna 0_Budapest 4_Dusseldorf 0_Budapest 4_Dusseldorf 0_Budapest 4_Dusseldorf 0_Budapest 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 14_Helsinki 12_Washington 20_Brussels 5_Frankfurt 14_Helsinki 12_Washington 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 14_Helsinki 4_Dusseldorf 12_Washington 4_Dusseldorf 12_Washington 4_Dusseldorf 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.08788065106001768,
+            "cycle": "3_Vienna 6_Zurich 19_Dublin 13_Madrid 19_Dublin 13_Madrid 19_Dublin 13_Madrid 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 15_Copenhagen 2_Prague 15_Copenhagen 2_Prague 15_Copenhagen 2_Prague 15_Copenhagen 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 10_Goonhilly 1_Munich 0_Budapest 10_Goonhilly 1_Munich 10_Goonhilly 1_Munich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 18_Madley 1_Munich 6_Zurich 18_Madley 6_Zurich 18_Madley 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 11_New_York 22_Gothenburg 5_Frankfurt 8_Milan 11_New_York 10_Goonhilly 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 7_Paris 22_Gothenburg 5_Frankfurt 6_Zurich 7_Paris 22_Gothenburg 5_Frankfurt 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 9_Barcelona 5_Frankfurt 18_Madley 8_Milan 4_Dusseldorf 9_Barcelona 13_Madrid 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 9_Barcelona 5_Frankfurt 13_Madrid 9_Barcelona 4_Dusseldorf 1_Munich 13_Madrid 9_Barcelona 3_Vienna"
+        },
+        {
+            "x": 0.031657328328569455,
+            "cycle": "3_Vienna 0_Budapest 19_Dublin 4_Dusseldorf 0_Budapest 19_Dublin 4_Dusseldorf 0_Budapest 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0.09748257726799597,
+            "cycle": "3_Vienna 12_Washington 0_Budapest 12_Washington 0_Budapest 12_Washington 0_Budapest 12_Washington 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.13523438045646755,
+            "cycle": "3_Vienna 6_Zurich 4_Dusseldorf 19_Dublin 4_Dusseldorf 19_Dublin 6_Zurich 4_Dusseldorf 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 6_Zurich 1_Munich 4_Dusseldorf 6_Zurich 1_Munich 4_Dusseldorf 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 11_New_York 8_Milan 5_Frankfurt 14_Helsinki 22_Gothenburg 11_New_York 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0.043820780856816115,
+            "cycle": "3_Vienna 14_Helsinki 2_Prague 4_Dusseldorf 14_Helsinki 2_Prague 4_Dusseldorf 14_Helsinki 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 0_Budapest 19_Dublin 0_Budapest 19_Dublin 0_Budapest 2_Prague 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 7_Paris 21_Amsterdam 11_New_York 7_Paris 21_Amsterdam 11_New_York 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 14_Helsinki 5_Frankfurt 22_Gothenburg 14_Helsinki 5_Frankfurt 22_Gothenburg 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 20_Brussels 1_Munich 20_Brussels 1_Munich 20_Brussels 5_Frankfurt 22_Gothenburg 3_Vienna"
+        },
+        {
+            "x": 0.06827650849983928,
+            "cycle": "3_Vienna 14_Helsinki 22_Gothenburg 18_Madley 7_Paris 18_Madley 7_Paris 18_Madley 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0.020521245108987646,
+            "cycle": "3_Vienna 6_Zurich 12_Washington 9_Barcelona 13_Madrid 12_Washington 9_Barcelona 13_Madrid 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.10634492588698992,
+            "cycle": "3_Vienna 8_Milan 7_Paris 4_Dusseldorf 8_Milan 7_Paris 4_Dusseldorf 8_Milan 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 2_Prague 12_Washington 13_Madrid 1_Munich 4_Dusseldorf 12_Washington 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 7_Paris 14_Helsinki 9_Barcelona 12_Washington 11_New_York 5_Frankfurt 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0.08969570434443351,
+            "cycle": "3_Vienna 7_Paris 15_Copenhagen 22_Gothenburg 15_Copenhagen 22_Gothenburg 15_Copenhagen 22_Gothenburg 15_Copenhagen 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 14_Helsinki 5_Frankfurt 14_Helsinki 5_Frankfurt 14_Helsinki 5_Frankfurt 14_Helsinki 5_Frankfurt 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 11_New_York 5_Frankfurt 9_Barcelona 4_Dusseldorf 6_Zurich 4_Dusseldorf 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0.13777499418833358,
+            "cycle": "3_Vienna 7_Paris 8_Milan 18_Madley 8_Milan 18_Madley 1_Munich 4_Dusseldorf 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 2_Prague 4_Dusseldorf 2_Prague 4_Dusseldorf 2_Prague 4_Dusseldorf 1_Munich 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0.20708948500641103,
+            "cycle": "3_Vienna 12_Washington 13_Madrid 9_Barcelona 13_Madrid 9_Barcelona 13_Madrid 9_Barcelona 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 10_Goonhilly 5_Frankfurt 14_Helsinki 4_Dusseldorf 1_Munich 10_Goonhilly 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 11_New_York 7_Paris 11_New_York 7_Paris 11_New_York 1_Munich 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 4_Dusseldorf 8_Milan 13_Madrid 20_Brussels 21_Amsterdam 20_Brussels 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 18_Madley 22_Gothenburg 5_Frankfurt 22_Gothenburg 5_Frankfurt 18_Madley 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 7_Paris 4_Dusseldorf 1_Munich 11_New_York 22_Gothenburg 14_Helsinki 2_Prague 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.005934999844305208,
+            "cycle": "3_Vienna 19_Dublin 10_Goonhilly 1_Munich 4_Dusseldorf 6_Zurich 7_Paris 4_Dusseldorf 2_Prague 3_Vienna"
+        },
+        {
+            "x": 0.04713847127255253,
+            "cycle": "3_Vienna 2_Prague 8_Milan 2_Prague 8_Milan 2_Prague 8_Milan 2_Prague 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 14_Helsinki 22_Gothenburg 5_Frankfurt 14_Helsinki 22_Gothenburg 5_Frankfurt 14_Helsinki 22_Gothenburg 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 11_New_York 5_Frankfurt 14_Helsinki 2_Prague 14_Helsinki 2_Prague 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0.03411896706824183,
+            "cycle": "3_Vienna 19_Dublin 20_Brussels 19_Dublin 20_Brussels 19_Dublin 20_Brussels 19_Dublin 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.005363015435794642,
+            "cycle": "3_Vienna 12_Washington 13_Madrid 12_Washington 13_Madrid 12_Washington 13_Madrid 12_Washington 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0.17164205997435586,
+            "cycle": "3_Vienna 12_Washington 9_Barcelona 5_Frankfurt 9_Barcelona 5_Frankfurt 9_Barcelona 5_Frankfurt 9_Barcelona 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 7_Paris 4_Dusseldorf 7_Paris 4_Dusseldorf 7_Paris 4_Dusseldorf 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 8_Milan 20_Brussels 22_Gothenburg 15_Copenhagen 12_Washington 20_Brussels 22_Gothenburg 15_Copenhagen 3_Vienna"
+        },
+        {
+            "x": 0.2723892698846013,
+            "cycle": "3_Vienna 2_Prague 15_Copenhagen 5_Frankfurt 9_Barcelona 13_Madrid 9_Barcelona 13_Madrid 7_Paris 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 0_Budapest 11_New_York 21_Amsterdam 11_New_York 21_Amsterdam 11_New_York 22_Gothenburg 15_Copenhagen 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 10_Goonhilly 12_Washington 21_Amsterdam 10_Goonhilly 11_New_York 10_Goonhilly 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 2_Prague 15_Copenhagen 22_Gothenburg 10_Goonhilly 6_Zurich 2_Prague 15_Copenhagen 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 2_Prague 15_Copenhagen 22_Gothenburg 11_New_York 22_Gothenburg 11_New_York 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.09721989735437332,
+            "cycle": "3_Vienna 7_Paris 6_Zurich 4_Dusseldorf 1_Munich 10_Goonhilly 1_Munich 10_Goonhilly 6_Zurich 3_Vienna"
+        },
+        {
+            "x": 0.4035021155933661,
+            "cycle": "3_Vienna 19_Dublin 4_Dusseldorf 1_Munich 4_Dusseldorf 1_Munich 18_Madley 11_New_York 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.2435709178214482,
+            "cycle": "3_Vienna 0_Budapest 10_Goonhilly 22_Gothenburg 10_Goonhilly 22_Gothenburg 15_Copenhagen 2_Prague 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 22_Gothenburg 20_Brussels 22_Gothenburg 20_Brussels 22_Gothenburg 20_Brussels 1_Munich 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 6_Zurich 19_Dublin 14_Helsinki 5_Frankfurt 20_Brussels 22_Gothenburg 20_Brussels 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0.2490060924518901,
+            "cycle": "3_Vienna 7_Paris 11_New_York 22_Gothenburg 11_New_York 1_Munich 4_Dusseldorf 7_Paris 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.04222103714092356,
+            "cycle": "3_Vienna 14_Helsinki 22_Gothenburg 20_Brussels 22_Gothenburg 20_Brussels 22_Gothenburg 20_Brussels 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0.3124833698040517,
+            "cycle": "3_Vienna 15_Copenhagen 2_Prague 15_Copenhagen 2_Prague 15_Copenhagen 22_Gothenburg 10_Goonhilly 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 2_Prague 14_Helsinki 19_Dublin 4_Dusseldorf 12_Washington 2_Prague 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0.17940999762336637,
+            "cycle": "3_Vienna 12_Washington 20_Brussels 1_Munich 20_Brussels 1_Munich 20_Brussels 22_Gothenburg 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 12_Washington 6_Zurich 18_Madley 22_Gothenburg 18_Madley 22_Gothenburg 18_Madley 22_Gothenburg 3_Vienna"
+        },
+        {
+            "x": 0.1431764874479727,
+            "cycle": "3_Vienna 14_Helsinki 4_Dusseldorf 6_Zurich 19_Dublin 6_Zurich 19_Dublin 6_Zurich 19_Dublin 3_Vienna"
+        },
+        {
+            "x": 0.10800592646321051,
+            "cycle": "3_Vienna 6_Zurich 4_Dusseldorf 8_Milan 13_Madrid 1_Munich 4_Dusseldorf 8_Milan 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.09577587145889457,
+            "cycle": "3_Vienna 6_Zurich 13_Madrid 8_Milan 4_Dusseldorf 1_Munich 4_Dusseldorf 12_Washington 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0.051538397398305326,
+            "cycle": "3_Vienna 19_Dublin 0_Budapest 2_Prague 0_Budapest 2_Prague 0_Budapest 2_Prague 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0,
+            "cycle": "3_Vienna 19_Dublin 4_Dusseldorf 6_Zurich 18_Madley 0_Budapest 1_Munich 18_Madley 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.10634227509616556,
+            "cycle": "3_Vienna 6_Zurich 12_Washington 13_Madrid 9_Barcelona 5_Frankfurt 14_Helsinki 5_Frankfurt 14_Helsinki 3_Vienna"
+        },
+        {
+            "x": 0.03282856650095125,
+            "cycle": "3_Vienna 8_Milan 11_New_York 8_Milan 11_New_York 8_Milan 11_New_York 18_Madley 0_Budapest 3_Vienna"
+        },
+        {
+            "x": 0.012049169408923513,
+            "cycle": "3_Vienna 12_Washington 4_Dusseldorf 6_Zurich 12_Washington 4_Dusseldorf 12_Washington 4_Dusseldorf 12_Washington 3_Vienna"
+        },
+        {
+            "x": 0.021619047225577254,
+            "cycle": "3_Vienna 19_Dublin 18_Madley 1_Munich 18_Madley 1_Munich 18_Madley 19_Dublin 8_Milan 3_Vienna"
+        },
+        {
+            "x": 0.009216331176383012,
+            "cycle": "3_Vienna 7_Paris 18_Madley 0_Budapest 4_Dusseldorf 6_Zurich 18_Madley 13_Madrid 0_Budapest 3_Vienna"
+        }
+    ],
+    "values": [
+        28,
+        25,
+        22,
+        19.999999999999996,
+        16,
+        15.25,
+        14,
+        11.90277777777778,
+        11.541666666666668,
+        9.569444444444445,
+        8.819444444444443,
+        7.930555555555556,
+        7.354166666666666,
+        6.617753623188405,
+        6.21875,
+        6.103548204693243,
+        5.976667551309272,
+        5.818948412698411,
+        5.543055555555556,
+        5.411616161616161,
+        5.233728030980043,
+        4.8230334316617505,
+        4.7705870255586165,
+        4.747977989923099,
+        4.729166666666666,
+        4.710031156766144,
+        4.662994568041073,
+        4.63528770009925,
+        4.613036681241001,
+        4.569176980573783,
+        4.506515784697863,
+        4.489051021028661,
+        4.485285136161676,
+        4.473621696249088,
+        4.467372077080076,
+        4.459101864548103,
+        4.454006594635772,
+        4.448849544055684,
+        4.4411895702238695,
+        4.438953824243467,
+        4.43642005563311,
+        4.427326990526387,
+        4.424098035717921,
+        4.412000666280965,
+        4.378524742710053,
+        4.368283059422773,
+        4.364363069189639,
+        4.358954789462369,
+        4.3463456391230135,
+        4.340838353254019,
+        4.329346714554158,
+        4.314363875221506,
+        4.295780522677649,
+        4.287336574590919,
+        4.283444407967164,
+        4.272069603861702,
+        4.267202518614982,
+        4.260025936877437,
+        4.25915170627925,
+        4.25623936657705,
+        4.242457608266277,
+        4.23908621349331,
+        4.235588501650952,
+        4.226544014268056,
+        4.222331502337251,
+        4.2213031852255165,
+        4.221228541863987,
+        4.220592161538645,
+        4.217413761747165,
+        4.204989848550968,
+        4.199354818439426,
+        4.197853020437629,
+        4.18574653540862,
+        4.181190528552521,
+        4.160305601710858,
+        4.154521277201613,
+        4.154521277201614,
+        4.147616631012596,
+        4.146563202378985,
+        4.1396355789131025,
+        4.136514553167094,
+        4.1335761767360815,
+        4.133079314410003,
+        4.132728530038513,
+        4.129906781691261,
+        4.126973927337905,
+        4.126425054332943,
+        4.125200550486254,
+        4.125
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 541464,
+    "lpBound": 4.125
+}

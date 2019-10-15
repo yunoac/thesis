@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 1,
+            "runtime": 83664538,
+            "dest": "20_Brussels",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 1,
+            "runtime": 70742313,
+            "dest": "14_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Vienna",
+            "nbpSR": 2,
+            "runtime": 67194121,
+            "dest": "13_Madrid",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 1,
+            "runtime": 66833040,
+            "dest": "15_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Dusseldorf",
+            "nbpSR": 1,
+            "runtime": 76323646,
+            "dest": "12_Washington",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 70289916,
+            "dest": "3_Vienna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 67847471,
+            "dest": "21_Amsterdam",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Madley",
+            "nbpSR": 1,
+            "runtime": 49625513,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Zurich",
+            "nbpSR": 2,
+            "runtime": 63805724,
+            "dest": "8_Milan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_London",
+            "nbpSR": 1,
+            "runtime": 62967935,
+            "dest": "11_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 1,
+            "runtime": 60273427,
+            "dest": "15_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Prague",
+            "nbpSR": 2,
+            "runtime": 61695964,
+            "dest": "23_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Madrid",
+            "nbpSR": 2,
+            "runtime": 99215100,
+            "dest": "19_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Madrid",
+            "nbpSR": 1,
+            "runtime": 108678596,
+            "dest": "20_Brussels",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Stockholm",
+            "nbpSR": 1,
+            "runtime": 59980663,
+            "dest": "10_Goonhilly",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Helsinki",
+            "nbpSR": 1,
+            "runtime": 65474233,
+            "dest": "5_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 71343271,
+            "dest": "8_Milan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 68932702,
+            "dest": "8_Milan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Prague",
+            "nbpSR": 2,
+            "runtime": 64864663,
+            "dest": "19_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 71013853,
+            "dest": "2_Prague",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_London",
+            "nbpSR": 2,
+            "runtime": 61578204,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 68215555,
+            "dest": "8_Milan",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_London",
+            "nbpSR": 2,
+            "runtime": 56362141,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 58687052,
+            "dest": "16_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Madley",
+            "nbpSR": 1,
+            "runtime": 50626314,
+            "dest": "14_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 2,
+            "runtime": 57009817,
+            "dest": "7_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Gothenburg",
+            "nbpSR": 2,
+            "runtime": 59666998,
+            "dest": "0_Budapest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Zurich",
+            "nbpSR": 1,
+            "runtime": 67090245,
+            "dest": "11_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Stockholm",
+            "nbpSR": 2,
+            "runtime": 64121617,
+            "dest": "3_Vienna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Helsinki",
+            "nbpSR": 1,
+            "runtime": 63398392,
+            "dest": "6_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Frankfurt",
+            "nbpSR": 8,
+            "runtime": 69017391,
+            "dest": "17_London",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 1,
+            "runtime": 62680578,
+            "dest": "12_Washington",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Zurich",
+            "nbpSR": 1,
+            "runtime": 74147967,
+            "dest": "11_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Frankfurt",
+            "nbpSR": 2,
+            "runtime": 54787336,
+            "dest": "7_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 63375258,
+            "dest": "17_London",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Stockholm",
+            "nbpSR": 2,
+            "runtime": 113502748,
+            "dest": "9_Barcelona",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Brussels",
+            "nbpSR": 1,
+            "runtime": 64067501,
+            "dest": "9_Barcelona",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 2,
+            "runtime": 56576157,
+            "dest": "6_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_London",
+            "nbpSR": 2,
+            "runtime": 72338983,
+            "dest": "6_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Brussels",
+            "nbpSR": 1,
+            "runtime": 53939460,
+            "dest": "7_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Washington",
+            "nbpSR": 1,
+            "runtime": 67816881,
+            "dest": "21_Amsterdam",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 60655309,
+            "dest": "16_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Barcelona",
+            "nbpSR": 1,
+            "runtime": 99974971,
+            "dest": "11_New_York",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 2,
+            "runtime": 56716070,
+            "dest": "7_Paris",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 68521024,
+            "dest": "1_Munich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 3,
+            "runtime": 66227100,
+            "dest": "23_Stockholm",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Paris",
+            "nbpSR": 2,
+            "runtime": 81074347,
+            "dest": "5_Frankfurt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 50763947,
+            "dest": "17_London",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Madrid",
+            "nbpSR": 2,
+            "runtime": 94411173,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 56610720,
+            "dest": "6_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_London",
+            "nbpSR": 2,
+            "runtime": 66162335,
+            "dest": "3_Vienna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Dusseldorf",
+            "nbpSR": 2,
+            "runtime": 60469788,
+            "dest": "3_Vienna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 2,
+            "runtime": 49988308,
+            "dest": "19_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 49797596,
+            "dest": "6_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 2,
+            "runtime": 95637216,
+            "dest": "13_Madrid",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Barcelona",
+            "nbpSR": 2,
+            "runtime": 73296934,
+            "dest": "6_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 2,
+            "runtime": 99106628,
+            "dest": "13_Madrid",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Barcelona",
+            "nbpSR": 2,
+            "runtime": 72566511,
+            "dest": "8_Milan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Madrid",
+            "nbpSR": 2,
+            "runtime": 102670821,
+            "dest": "16_London",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 2,
+            "runtime": 54665691,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Washington",
+            "nbpSR": 1,
+            "runtime": 57180542,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Milan",
+            "nbpSR": 2,
+            "runtime": 57592944,
+            "dest": "1_Munich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 107727270,
+            "dest": "13_Madrid",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Brussels",
+            "nbpSR": 1,
+            "runtime": 45517091,
+            "dest": "7_Paris",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Vienna",
+            "nbpSR": 1,
+            "runtime": 53186592,
+            "dest": "14_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 2,
+            "runtime": 62681041,
+            "dest": "3_Vienna",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "23_Stockholm",
+            "nbpSR": 3,
+            "runtime": 53314704,
+            "dest": "17_London",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_New_York",
+            "nbpSR": 1,
+            "runtime": 44819641,
+            "dest": "21_Amsterdam",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 1,
+            "runtime": 70063262,
+            "dest": "20_Brussels",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Vienna",
+            "nbpSR": 2,
+            "runtime": 46233378,
+            "dest": "19_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 62302212,
+            "dest": "19_Dublin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Prague",
+            "nbpSR": 2,
+            "runtime": 59653293,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Brussels",
+            "nbpSR": 1,
+            "runtime": 52165651,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 49313287,
+            "dest": "22_Gothenburg",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Budapest",
+            "nbpSR": 1,
+            "runtime": 59765422,
+            "dest": "15_Copenhagen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Copenhagen",
+            "nbpSR": 1,
+            "runtime": 63527926,
+            "dest": "5_Frankfurt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Munich",
+            "nbpSR": 2,
+            "runtime": 55423858,
+            "dest": "0_Budapest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Dusseldorf",
+            "nbpSR": 2,
+            "runtime": 102481913,
+            "dest": "9_Barcelona",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 60825826,
+            "dest": "18_Madley",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 63769994,
+            "dest": "10_Goonhilly",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Prague",
+            "nbpSR": 2,
+            "runtime": 63732772,
+            "dest": "19_Dublin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 120391001,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Frankfurt",
+            "nbpSR": 3,
+            "runtime": 58956626,
+            "dest": "23_Stockholm",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Milan",
+            "nbpSR": 2,
+            "runtime": 60231939,
+            "dest": "21_Amsterdam",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Paris",
+            "nbpSR": 2,
+            "runtime": 63215679,
+            "dest": "6_Zurich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 60224354,
+            "dest": "20_Brussels",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_London",
+            "nbpSR": 1,
+            "runtime": 64145203,
+            "dest": "10_Goonhilly",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Washington",
+            "nbpSR": 1,
+            "runtime": 66631019,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Helsinki",
+            "nbpSR": 1,
+            "runtime": 63559624,
+            "dest": "1_Munich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 54123394,
+            "dest": "4_Dusseldorf",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 57942221,
+            "dest": "6_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Stockholm",
+            "nbpSR": 2,
+            "runtime": 68039169,
+            "dest": "0_Budapest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Zurich",
+            "nbpSR": 2,
+            "runtime": 70615385,
+            "dest": "1_Munich",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Prague",
+            "nbpSR": 1,
+            "runtime": 67158391,
+            "dest": "14_Helsinki",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Amsterdam",
+            "nbpSR": 1,
+            "runtime": 57126886,
+            "dest": "20_Brussels",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Dublin",
+            "nbpSR": 2,
+            "runtime": 55609299,
+            "dest": "23_Stockholm",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Paris",
+            "nbpSR": 2,
+            "runtime": 60326901,
+            "dest": "8_Milan",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_London",
+            "nbpSR": 2,
+            "runtime": 70154132,
+            "dest": "13_Madrid",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Goonhilly",
+            "nbpSR": 1,
+            "runtime": 56565670,
+            "dest": "6_Zurich",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Helsinki",
+            "nbpSR": 1,
+            "runtime": 94844691,
+            "dest": "0_Budapest",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

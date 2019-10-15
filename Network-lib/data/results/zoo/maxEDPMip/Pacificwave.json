@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 28707850,
+            "dest": "2_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_KRLight",
+            "nbpSR": 1,
+            "runtime": 33968302,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 30961241,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 37876905,
+            "dest": "9_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_StarLight",
+            "nbpSR": 1,
+            "runtime": 37392828,
+            "dest": "0_KRLight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 28993017,
+            "dest": "15_Pacific_Wave_Los_Angeles",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 43527403,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 38403874,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 44173273,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pacific_Wave_Sunnyvale",
+            "nbpSR": 2,
+            "runtime": 28770382,
+            "dest": "17_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 25145667,
+            "dest": "9_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_AARNET_Sydney",
+            "nbpSR": 1,
+            "runtime": 20846571,
+            "dest": "17_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 22403433,
+            "dest": "1_CANARIE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 25239307,
+            "dest": "14_AARNET_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CENIC",
+            "nbpSR": 1,
+            "runtime": 39708871,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 32467933,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 39076046,
+            "dest": "14_AARNET_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 43096019,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 38735686,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 47137803,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 43949101,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 32099547,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 28115473,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pacific_Wave_Sunnyvale",
+            "nbpSR": 2,
+            "runtime": 31460517,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 26850017,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_AARNET_Sydney",
+            "nbpSR": 1,
+            "runtime": 26713199,
+            "dest": "13_Pacific_Wave_Hawaii",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 23913301,
+            "dest": "4_StarLight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 26526629,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_KRLight",
+            "nbpSR": 1,
+            "runtime": 25859417,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Pacific_Wave_Seattle",
+            "nbpSR": 2,
+            "runtime": 30112691,
+            "dest": "9_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 34015264,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Pacific_Northwest_Gigapop",
+            "nbpSR": 2,
+            "runtime": 31664477,
+            "dest": "17_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 30620910,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 45850761,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CENIC",
+            "nbpSR": 1,
+            "runtime": 26241194,
+            "dest": "13_Pacific_Wave_Hawaii",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 20922001,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Pacific_Northwest_Gigapop",
+            "nbpSR": 1,
+            "runtime": 26504313,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 27598943,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 25707093,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CENIC",
+            "nbpSR": 1,
+            "runtime": 30429016,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 32017969,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_KRLight",
+            "nbpSR": 1,
+            "runtime": 28898170,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 34416191,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 23752809,
+            "dest": "5_Pacific_Northwest_Gigapop",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 24344215,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 24160804,
+            "dest": "1_CANARIE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 2,
+            "runtime": 29804632,
+            "dest": "5_Pacific_Northwest_Gigapop",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 38033725,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_StarLight",
+            "nbpSR": 1,
+            "runtime": 25459509,
+            "dest": "5_Pacific_Northwest_Gigapop",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "7_Internet2_DCN",
+            "nbpSR": 2,
+            "runtime": 50306938,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 24930270,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_StarLight",
+            "nbpSR": 1,
+            "runtime": 28712153,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 27358755,
+            "dest": "15_Pacific_Wave_Los_Angeles",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 26197731,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_StarLight",
+            "nbpSR": 1,
+            "runtime": 26638586,
+            "dest": "0_KRLight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 20995119,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 38363135,
+            "dest": "12_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 31283683,
+            "dest": "1_CANARIE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 30397424,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 28312453,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 2,
+            "runtime": 31379618,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 40611887,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_AARNET_Sydney",
+            "nbpSR": 1,
+            "runtime": 27471248,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 29992790,
+            "dest": "1_CANARIE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 35320620,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 28824390,
+            "dest": "14_AARNET_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 27353109,
+            "dest": "3_CSTNet_HKEOEP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Pacific_Northwest_Gigapop",
+            "nbpSR": 2,
+            "runtime": 27040471,
+            "dest": "11_Pacific_Wave_Seattle",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_Pacific_Wave_Seattle",
+            "nbpSR": 2,
+            "runtime": 35785501,
+            "dest": "9_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Internet2_DCN",
+            "nbpSR": 2,
+            "runtime": 34192525,
+            "dest": "2_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Pacific_Wave_Los_Angeles",
+            "nbpSR": 1,
+            "runtime": 27701115,
+            "dest": "13_Pacific_Wave_Hawaii",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 28653440,
+            "dest": "13_Pacific_Wave_Hawaii",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_NLR_FrameNet",
+            "nbpSR": 1,
+            "runtime": 25515358,
+            "dest": "4_StarLight",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 22866286,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 26559894,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_KRLight",
+            "nbpSR": 1,
+            "runtime": 22529597,
+            "dest": "9_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 22195926,
+            "dest": "17_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 27113468,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 23930496,
+            "dest": "9_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 24008487,
+            "dest": "0_KRLight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 2,
+            "runtime": 21935385,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 25558442,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_CANARIE",
+            "nbpSR": 1,
+            "runtime": 25940609,
+            "dest": "16_JGN2_Plus_Tokyo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Pacific_Wave_Seattle",
+            "nbpSR": 2,
+            "runtime": 23667369,
+            "dest": "17_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_AARNET_Sydney",
+            "nbpSR": 1,
+            "runtime": 25546767,
+            "dest": "9_CENIC",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 25549824,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_CSTNet_HKEOEP",
+            "nbpSR": 1,
+            "runtime": 23078289,
+            "dest": "2_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CENIC",
+            "nbpSR": 2,
+            "runtime": 22081327,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Internet2_DCN",
+            "nbpSR": 1,
+            "runtime": 29510670,
+            "dest": "10_Pacific_Wave_Sunnyvale",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 21779353,
+            "dest": "7_Internet2_DCN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_JGN2_Plus_Tokyo",
+            "nbpSR": 1,
+            "runtime": 22461665,
+            "dest": "4_StarLight",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pacific_Wave_Sunnyvale",
+            "nbpSR": 1,
+            "runtime": 25793651,
+            "dest": "6_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_Pacific_Wave_Seattle",
+            "nbpSR": 2,
+            "runtime": 26672751,
+            "dest": "17_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_KRLight",
+            "nbpSR": 1,
+            "runtime": 22121802,
+            "dest": "1_CANARIE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_NLR_FrameNet",
+            "nbpSR": 2,
+            "runtime": 33026121,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_CENIC",
+            "nbpSR": 1,
+            "runtime": 42256901,
+            "dest": "14_AARNET_Sydney",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Internet2_DCN",
+            "nbpSR": 2,
+            "runtime": 39294911,
+            "dest": "17_CENIC",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Pacific_Wave_Hawaii",
+            "nbpSR": 1,
+            "runtime": 41044417,
+            "dest": "8_NLR_FrameNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_CENIC",
+            "nbpSR": 1,
+            "runtime": 34221118,
+            "dest": "13_Pacific_Wave_Hawaii",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Pacific_Wave_Sunnyvale",
+            "nbpSR": 1,
+            "runtime": 27107109,
+            "dest": "0_KRLight",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

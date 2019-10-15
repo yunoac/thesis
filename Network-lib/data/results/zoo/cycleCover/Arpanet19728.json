@@ -1,0 +1,141 @@
+{
+    "initialCoverSize": 20,
+    "times": [
+        3200183,
+        5002959,
+        6586612,
+        8155372,
+        9717202,
+        11398103,
+        13013916,
+        14644816,
+        16311954
+    ],
+    "finalCoverSize": 10,
+    "minSegCycles": [
+        "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 2_CARNEGIE 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 2_CARNEGIE 0_ILLINOIS",
+        "0_ILLINOIS 2_CARNEGIE 4_ETAC 0_ILLINOIS",
+        "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 9_AMES 0_ILLINOIS",
+        "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 9_AMES 4_ETAC 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 12_McClellan 0_ILLINOIS",
+        "0_ILLINOIS 2_CARNEGIE 18_SDC 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS",
+        "0_ILLINOIS 13_RAND 0_ILLINOIS 0_ILLINOIS",
+        "0_ILLINOIS 13_RAND 16_SAAC 0_ILLINOIS",
+        "0_ILLINOIS 18_SDC 2_CARNEGIE 0_ILLINOIS",
+        "0_ILLINOIS 14_AMES 3_CASE 0_ILLINOIS",
+        "0_ILLINOIS 10_ARPA 5_AFGWC 0_ILLINOIS",
+        "0_ILLINOIS 3_CASE 14_AMES 0_ILLINOIS",
+        "0_ILLINOIS 16_SAAC 5_AFGWC 0_ILLINOIS",
+        "0_ILLINOIS 16_SAAC 9_AMES 0_ILLINOIS",
+        "0_ILLINOIS 22_UCSB 14_AMES 0_ILLINOIS"
+    ],
+    "values": [
+        7,
+        6,
+        6,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 5,
+    "runtime": 23968056,
+    "lpBound": 5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 9_AMES 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 5_AFGWC 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 9_AMES 4_ETAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 4_ETAC 12_McClellan 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 2_CARNEGIE 18_SDC 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 4_ETAC 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 13_RAND 0_ILLINOIS 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 13_RAND 16_SAAC 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 18_SDC 2_CARNEGIE 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 14_AMES 3_CASE 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 10_ARPA 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 3_CASE 14_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 16_SAAC 5_AFGWC 0_ILLINOIS"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ILLINOIS 16_SAAC 9_AMES 0_ILLINOIS"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ILLINOIS 22_UCSB 14_AMES 0_ILLINOIS"
+        }
+    ],
+    "greedySolution": [
+        "0_ILLINOIS 9_AMES 4_ETAC 0_ILLINOIS",
+        "0_ILLINOIS 2_CARNEGIE 18_SDC 0_ILLINOIS",
+        "0_ILLINOIS 4_ETAC 15_NOAA_{[Boulder,_Colorado}} 0_ILLINOIS",
+        "0_ILLINOIS 13_RAND 16_SAAC 0_ILLINOIS",
+        "0_ILLINOIS 16_SAAC 9_AMES 0_ILLINOIS"
+    ]
+}

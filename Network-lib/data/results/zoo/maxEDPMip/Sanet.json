@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "6_Zvolen",
+            "nbpSR": 1,
+            "runtime": 273065239,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_GTS",
+            "nbpSR": 1,
+            "runtime": 343467297,
+            "dest": "34_Nove_Mesto_n._Vahom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Nove_Mesto_n._Vahom",
+            "nbpSR": 2,
+            "runtime": 401400916,
+            "dest": "30_Roznava",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 236656886,
+            "dest": "20_GEANT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Presov",
+            "nbpSR": 2,
+            "runtime": 435465357,
+            "dest": "4_Martin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_T.Lomnica",
+            "nbpSR": 1,
+            "runtime": 297938502,
+            "dest": "8_L.Mikulas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_R.Sobota",
+            "nbpSR": 1,
+            "runtime": 282553613,
+            "dest": "37_Vieden",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 280263167,
+            "dest": "40_Komarno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 2,
+            "runtime": 342809568,
+            "dest": "33_Piestany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Trencin",
+            "nbpSR": 2,
+            "runtime": 279401872,
+            "dest": "33_Piestany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 1,
+            "runtime": 269213511,
+            "dest": "19_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Hurbanovo",
+            "nbpSR": 1,
+            "runtime": 236212077,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Hurbanovo",
+            "nbpSR": 1,
+            "runtime": 166486563,
+            "dest": "2_Trencin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Bielsko-Biala",
+            "nbpSR": 1,
+            "runtime": 257699863,
+            "dest": "3_Puchov",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Poprad",
+            "nbpSR": 2,
+            "runtime": 235026222,
+            "dest": "0_Zilina",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 2,
+            "runtime": 262169118,
+            "dest": "13_Levice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 266949330,
+            "dest": "40_Komarno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Sala",
+            "nbpSR": 1,
+            "runtime": 282191441,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Martin",
+            "nbpSR": 1,
+            "runtime": 443264012,
+            "dest": "37_Vieden",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 175609463,
+            "dest": "38_Bratislava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_Piestany",
+            "nbpSR": 1,
+            "runtime": 309270406,
+            "dest": "40_Komarno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_GTS",
+            "nbpSR": 1,
+            "runtime": 216074801,
+            "dest": "42_Nitra",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 1,
+            "runtime": 202327882,
+            "dest": "40_Komarno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Trnava",
+            "nbpSR": 2,
+            "runtime": 273496914,
+            "dest": "31_Kosice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_PIONIER",
+            "nbpSR": 1,
+            "runtime": 233025974,
+            "dest": "7_B._Bystrica",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 241901256,
+            "dest": "11_VIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Levice",
+            "nbpSR": 1,
+            "runtime": 263971934,
+            "dest": "19_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Hurbanovo",
+            "nbpSR": 1,
+            "runtime": 215638846,
+            "dest": "12_Topolcany",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_Bratislava",
+            "nbpSR": 2,
+            "runtime": 266277655,
+            "dest": "15_Sala",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Topolcany",
+            "nbpSR": 2,
+            "runtime": 171149943,
+            "dest": "29_Spisska_Nova_Ves",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Puchov",
+            "nbpSR": 1,
+            "runtime": 337168770,
+            "dest": "21_SIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 1,
+            "runtime": 353874195,
+            "dest": "35_Bielsko-Biala",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_None",
+            "nbpSR": 1,
+            "runtime": 245939564,
+            "dest": "9_T.Lomnica",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Brno",
+            "nbpSR": 1,
+            "runtime": 262139760,
+            "dest": "29_Spisska_Nova_Ves",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "32_Trebisov",
+            "nbpSR": 1,
+            "runtime": 411840645,
+            "dest": "4_Martin",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_GTS",
+            "nbpSR": 1,
+            "runtime": 167989136,
+            "dest": "13_Levice",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Trencin",
+            "nbpSR": 2,
+            "runtime": 350745825,
+            "dest": "14_Nove_Zamky",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 2,
+            "runtime": 218721623,
+            "dest": "12_Topolcany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 2,
+            "runtime": 214256271,
+            "dest": "42_Nitra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_GEANT",
+            "nbpSR": 1,
+            "runtime": 193930324,
+            "dest": "19_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_VIX",
+            "nbpSR": 1,
+            "runtime": 240712125,
+            "dest": "18_NIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_T.Lomnica",
+            "nbpSR": 1,
+            "runtime": 164608998,
+            "dest": "23_Lucenec",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_Kosice",
+            "nbpSR": 2,
+            "runtime": 261115746,
+            "dest": "13_Levice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_VIX",
+            "nbpSR": 1,
+            "runtime": 355231559,
+            "dest": "33_Piestany",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_VIX",
+            "nbpSR": 1,
+            "runtime": 282609092,
+            "dest": "15_Sala",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Bielsko-Biala",
+            "nbpSR": 1,
+            "runtime": 355712037,
+            "dest": "36_Brno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_R.Sobota",
+            "nbpSR": 1,
+            "runtime": 232669028,
+            "dest": "32_Trebisov",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Brno",
+            "nbpSR": 1,
+            "runtime": 258742779,
+            "dest": "8_L.Mikulas",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Zilina",
+            "nbpSR": 2,
+            "runtime": 226724727,
+            "dest": "39_Trnava",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Sala",
+            "nbpSR": 2,
+            "runtime": 347653720,
+            "dest": "31_Kosice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "42_Nitra",
+            "nbpSR": 2,
+            "runtime": 275811838,
+            "dest": "15_Sala",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Roznava",
+            "nbpSR": 2,
+            "runtime": 238726081,
+            "dest": "38_Bratislava",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "42_Nitra",
+            "nbpSR": 2,
+            "runtime": 173561584,
+            "dest": "13_Levice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_ACOnet",
+            "nbpSR": 1,
+            "runtime": 311160831,
+            "dest": "39_Trnava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_R.Sobota",
+            "nbpSR": 2,
+            "runtime": 266775219,
+            "dest": "14_Nove_Zamky",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Sala",
+            "nbpSR": 2,
+            "runtime": 374338820,
+            "dest": "8_L.Mikulas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Puchov",
+            "nbpSR": 2,
+            "runtime": 257811326,
+            "dest": "33_Piestany",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_Roznava",
+            "nbpSR": 1,
+            "runtime": 294762774,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_Bratislava",
+            "nbpSR": 2,
+            "runtime": 319501175,
+            "dest": "3_Puchov",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 2,
+            "runtime": 326523223,
+            "dest": "15_Sala",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Sala",
+            "nbpSR": 1,
+            "runtime": 377817307,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_NIX",
+            "nbpSR": 1,
+            "runtime": 170539987,
+            "dest": "19_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Nove_Mesto_n._Vahom",
+            "nbpSR": 1,
+            "runtime": 351444488,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Brno",
+            "nbpSR": 1,
+            "runtime": 287194353,
+            "dest": "39_Trnava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Topolcany",
+            "nbpSR": 1,
+            "runtime": 224021730,
+            "dest": "40_Komarno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Topolcany",
+            "nbpSR": 1,
+            "runtime": 232413617,
+            "dest": "17_PIONIER",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Zvolen",
+            "nbpSR": 1,
+            "runtime": 194891255,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Zilina",
+            "nbpSR": 2,
+            "runtime": 238541752,
+            "dest": "8_L.Mikulas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_NIX",
+            "nbpSR": 1,
+            "runtime": 267944099,
+            "dest": "9_T.Lomnica",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_GTS",
+            "nbpSR": 1,
+            "runtime": 202874859,
+            "dest": "39_Trnava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Presov",
+            "nbpSR": 2,
+            "runtime": 298782196,
+            "dest": "0_Zilina",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_NIX",
+            "nbpSR": 1,
+            "runtime": 247790742,
+            "dest": "14_Nove_Zamky",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_L.Mikulas",
+            "nbpSR": 2,
+            "runtime": 202049617,
+            "dest": "7_B._Bystrica",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "36_Brno",
+            "nbpSR": 1,
+            "runtime": 230316959,
+            "dest": "37_Vieden",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Roznava",
+            "nbpSR": 1,
+            "runtime": 242838054,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_Vieden",
+            "nbpSR": 1,
+            "runtime": 459993555,
+            "dest": "26_Humenne",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 2,
+            "runtime": 238304159,
+            "dest": "3_Puchov",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_R.Sobota",
+            "nbpSR": 2,
+            "runtime": 189574334,
+            "dest": "3_Puchov",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_ACOnet",
+            "nbpSR": 1,
+            "runtime": 251512118,
+            "dest": "24_R.Sobota",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_Poprad",
+            "nbpSR": 2,
+            "runtime": 192798605,
+            "dest": "39_Trnava",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "26_Humenne",
+            "nbpSR": 1,
+            "runtime": 389346972,
+            "dest": "39_Trnava",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 2,
+            "runtime": 258095895,
+            "dest": "42_Nitra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "24_R.Sobota",
+            "nbpSR": 2,
+            "runtime": 357657285,
+            "dest": "4_Martin",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_L.Mikulas",
+            "nbpSR": 1,
+            "runtime": 243666638,
+            "dest": "16_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Martin",
+            "nbpSR": 2,
+            "runtime": 357550187,
+            "dest": "7_B._Bystrica",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_VIX",
+            "nbpSR": 1,
+            "runtime": 248234023,
+            "dest": "36_Brno",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Presov",
+            "nbpSR": 2,
+            "runtime": 297215933,
+            "dest": "0_Zilina",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "25_Michalovca",
+            "nbpSR": 1,
+            "runtime": 402222715,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Martin",
+            "nbpSR": 2,
+            "runtime": 358188200,
+            "dest": "31_Kosice",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "39_Trnava",
+            "nbpSR": 2,
+            "runtime": 246484079,
+            "dest": "38_Bratislava",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_Ruzomberok",
+            "nbpSR": 2,
+            "runtime": 191190075,
+            "dest": "42_Nitra",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "34_Nove_Mesto_n._Vahom",
+            "nbpSR": 2,
+            "runtime": 354246308,
+            "dest": "8_L.Mikulas",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Sala",
+            "nbpSR": 1,
+            "runtime": 339206954,
+            "dest": "41_Hurbanovo",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_NIX",
+            "nbpSR": 1,
+            "runtime": 445396654,
+            "dest": "32_Trebisov",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Lucenec",
+            "nbpSR": 1,
+            "runtime": 228162639,
+            "dest": "17_PIONIER",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "23_Lucenec",
+            "nbpSR": 1,
+            "runtime": 232135435,
+            "dest": "22_GTS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "40_Komarno",
+            "nbpSR": 1,
+            "runtime": 209007018,
+            "dest": "35_Bielsko-Biala",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Zilina",
+            "nbpSR": 1,
+            "runtime": 356934947,
+            "dest": "19_CESNET",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Prievidza",
+            "nbpSR": 1,
+            "runtime": 232780532,
+            "dest": "18_NIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Brno",
+            "nbpSR": 1,
+            "runtime": 389052922,
+            "dest": "17_PIONIER",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

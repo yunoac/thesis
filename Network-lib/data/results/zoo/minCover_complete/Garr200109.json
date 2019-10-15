@@ -1,0 +1,210 @@
+{
+    "initialCoverSize": 41,
+    "times": [
+        1292642,
+        2057570,
+        2842412,
+        3603746,
+        4372715,
+        5097855,
+        5819717,
+        6536587,
+        7279792,
+        8022159,
+        8747443,
+        9495134,
+        10264418,
+        11023441,
+        11856314,
+        12588257,
+        13318274
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_MI 1_TO,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 2_TS,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 3_PD,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 4_BO,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 6_GE,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 11_MI,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 8_NA 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 15_Ten155,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 16_USA,0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 9_RM 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 5_BO 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 7_FI 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI,4_BO 8_NA 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 14_PI 0_MI 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI,4_BO 9_RM 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 10_CT 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 8_NA 4_BO,0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 13_PA 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 8_NA 9_RM 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 21_BA 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 17_CA 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 9_RM 4_BO,0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 9_RM 8_NA 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 19_AQ 0_MI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 20_FRA 0_MI 0_MI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_MI 10_CT 5_BO 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 17_CA 5_BO 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 19_AQ 7_FI 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 7_FI 10_CT 0_MI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_MI 14_PI 13_PA 0_MI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_MI 21_BA 17_CA 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 2_TS 1_TO 0_MI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_MI 3_PD 1_TO 0_MI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_MI 3_PD 2_TS 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 11_MI 6_GE 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 15_Ten155 6_GE 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 19_AQ 8_NA 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 20_FRA 4_BO 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 7_FI 20_FRA 0_MI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_MI 15_Ten155 11_MI 0_MI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_MI 16_USA 1_TO 0_MI"
+        }
+    ],
+    "values": [
+        22,
+        20,
+        19,
+        18,
+        18,
+        16,
+        14,
+        13,
+        13,
+        12.5,
+        11.5,
+        11.5,
+        11.5,
+        11.5,
+        10.5,
+        10,
+        9.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 156665,
+    "lpBound": 9.5
+}

@@ -1,0 +1,66 @@
+{
+    "initialCoverSize": 10,
+    "times": [
+        1941787,
+        2364743,
+        2653353,
+        2890920,
+        3138983,
+        3444508,
+        3690479
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bijelo_Polje 4_Kotor 0_Bijelo_Polje"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje"
+        },
+        {
+            "x": 0.187037037037037,
+            "cycle": "0_Bijelo_Polje 3_Njegusi 1_Niksic 3_Njegusi 1_Niksic 3_Njegusi 1_Niksic 3_Njegusi 1_Niksic 0_Bijelo_Polje"
+        },
+        {
+            "x": 0.22037037037037038,
+            "cycle": "0_Bijelo_Polje 5_Herceg_Novi 4_Kotor 5_Herceg_Novi 4_Kotor 5_Herceg_Novi 4_Kotor 5_Herceg_Novi 4_Kotor 0_Bijelo_Polje"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje"
+        },
+        {
+            "x": 0.062962962962963,
+            "cycle": "0_Bijelo_Polje 4_Kotor 3_Njegusi 0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje 3_Njegusi 0_Bijelo_Polje"
+        },
+        {
+            "x": 0.029629629629629617,
+            "cycle": "0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje 5_Herceg_Novi 0_Bijelo_Polje 5_Herceg_Novi 1_Niksic 0_Bijelo_Polje"
+        },
+        {
+            "x": 0.055555555555555566,
+            "cycle": "0_Bijelo_Polje 4_Kotor 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje 1_Niksic 0_Bijelo_Polje"
+        }
+    ],
+    "values": [
+        4,
+        2.25,
+        1,
+        0.625,
+        0.5714285714285714,
+        0.5625,
+        0.5555555555555556
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 55260,
+    "lpBound": 0.5555555555555556
+}

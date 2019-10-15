@@ -1,0 +1,40 @@
+{
+    "originalCover": {
+        "runtime": 266344,
+        "cycles": [
+            "0_SRI 3 0_SRI",
+            "0_SRI 5 0_SRI",
+            "0_SRI 7 0_SRI",
+            "0 5",
+            "1 3"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_SRI 3 0_SRI",
+            "0_SRI 5 0_SRI",
+            "0_SRI 7 0_SRI",
+            "0 5",
+            "1 3"
+        ],
+        "source": 0,
+        "runetime": 182843,
+        "maxSeg": 4
+    }
+}

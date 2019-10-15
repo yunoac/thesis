@@ -1,0 +1,26 @@
+{
+    "nbCycles": 18,
+    "runtime": 2107449,
+    "cycles": [
+        "3_Los_Angeles 10_Saskatoon 0_New_York 10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 1_Montreal 10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 2_Halifax 10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 0_New_York 11_Regina 3_Los_Angeles",
+        "3_Los_Angeles 11_Regina 0_New_York 10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 6_Victoria 3_Los_Angeles 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 7_Seattle 3_Los_Angeles 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 8_Calgary 3_Los_Angeles 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 9_Edmonton 3_Los_Angeles 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 8_Calgary 9_Edmonton 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 9_Edmonton 8_Calgary 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 8_Calgary 10_Saskatoon 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 8_Calgary 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 8_Calgary 11_Regina 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 11_Regina 8_Calgary 3_Los_Angeles 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 12_Winnipeg,10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 11_Regina 12_Winnipeg,10_Saskatoon 3_Los_Angeles",
+        "3_Los_Angeles 10_Saskatoon 12_Winnipeg 11_Regina 3_Los_Angeles"
+    ],
+    "segmentCost": 5,
+    "source": "3_Los_Angeles"
+}

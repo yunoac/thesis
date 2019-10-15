@@ -1,0 +1,446 @@
+{
+    "initialCoverSize": 95,
+    "times": [
+        5894716,
+        11399221,
+        14640554,
+        17765594,
+        20715296,
+        23814000,
+        27191657,
+        30244790,
+        33698452,
+        36820566,
+        39932434,
+        43247401,
+        45965571,
+        49531051,
+        52922698,
+        56256565,
+        60039914,
+        63499556,
+        66997254,
+        69986901,
+        73649401,
+        76912582,
+        79670021,
+        83085136,
+        86249558,
+        89147255,
+        92642224
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Zurich 4_Madrid 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 1_Geneva,0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 3_Stuttgart,0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 6_Milan,0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 7_Barcelona,0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich,1_Geneva 4_Madrid 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich,1_Geneva 6_Milan,0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 4_Madrid 1_Geneva,0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 5_Lisbon 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich,6_Milan 1_Geneva,0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich,6_Milan 4_Madrid 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich,7_Barcelona 4_Madrid 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich,8_Paris 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 4_Madrid 6_Milan,0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 17_Hong_Kong 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 24_Amsterdam 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 12_Washington 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 10_Tokyo 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 9_London 17_Hong_Kong 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 24_Amsterdam 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 9_London 25_Ashburn 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 28_Dusseldorf 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 10_Tokyo 17_Hong_Kong 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 11_Chicago 19_Toronto 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 11_Chicago 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 11_Chicago 10_Tokyo 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 12_Washington 9_London 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 13_Miami 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 14_Los_Angeles 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 12_Washington 10_Tokyo 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 11_Chicago 17_Hong_Kong 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 11_Chicago 18_Singapore 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 12_Washington 15_Palo_Alto 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 10_Tokyo 11_Chicago 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 15_Palo_Alto 9_London 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 10_Tokyo 12_Washington 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 17_Hong_Kong 10_Tokyo 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 17_Hong_Kong 11_Chicago 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 18_Singapore 11_Chicago 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 19_Toronto 11_Chicago 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 12_Washington 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 15_Palo_Alto 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 36_Leipzig 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 11_Chicago 21_Frankfurt 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 9_London 23_Hanover 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 10_Tokyo 28_Dusseldorf 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 17_Hong_Kong 9_London 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 18_Singapore 19_Toronto 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 34_Moscow 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 14_Los_Angeles 24_Amsterdam 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 18_Singapore 25_Ashburn 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 23_Hanover 9_London 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 24_Amsterdam 9_London 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 24_Amsterdam 14_Los_Angeles 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 26_Hamburg 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 24_Amsterdam 28_Dusseldorf 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 25_Ashburn 9_London 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 25_Ashburn 18_Singapore 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 36_Leipzig 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 25_Ashburn 28_Dusseldorf 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 32_Stockholm 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 31_Copenhagen 0_Zurich 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 28_Dusseldorf 10_Tokyo 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 28_Dusseldorf 24_Amsterdam 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 28_Dusseldorf 25_Ashburn 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 31_Copenhagen 32_Stockholm 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 32_Stockholm 31_Copenhagen 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 36_Leipzig 9_London 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 34_Moscow 13_Miami 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 17_Hong_Kong 23_Hanover 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 15_Palo_Alto 34_Moscow 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 5_Lisbon 1_Geneva 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 5_Lisbon 3_Stuttgart 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 13_Miami 1_Geneva 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 23_Hanover 17_Hong_Kong 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 19_Toronto 14_Los_Angeles 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 21_Frankfurt 15_Palo_Alto 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 23_Hanover 15_Palo_Alto 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 24_Amsterdam 12_Washington 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 23_Hanover 18_Singapore 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 14_Los_Angeles 19_Toronto 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 24_Amsterdam 23_Hanover 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 12_Washington 24_Amsterdam 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 17_Hong_Kong 19_Toronto 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 36_Leipzig 24_Amsterdam 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 12_Washington 28_Dusseldorf 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 12_Washington 34_Moscow 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 36_Leipzig 28_Dusseldorf 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 24_Amsterdam 36_Leipzig 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 28_Dusseldorf 23_Hanover 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 34_Moscow 23_Hanover 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 28_Dusseldorf 36_Leipzig 0_Zurich"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Zurich 19_Toronto 17_Hong_Kong 0_Zurich"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Zurich 15_Palo_Alto 24_Amsterdam 0_Zurich"
+        }
+    ],
+    "values": [
+        49,
+        46,
+        45,
+        44,
+        43,
+        43,
+        43,
+        43,
+        42,
+        41,
+        41,
+        41,
+        41,
+        40,
+        40,
+        40,
+        39,
+        39,
+        38,
+        38,
+        38,
+        38,
+        37,
+        37,
+        37,
+        37,
+        37
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 753726,
+    "lpBound": 37
+}

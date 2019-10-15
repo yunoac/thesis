@@ -1,0 +1,54 @@
+{
+    "initialCoverSize": 8,
+    "times": [
+        859484,
+        1045182,
+        1202101,
+        1406946,
+        1559198
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 1_Balti,0_Chisinau"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 2________Cahul,0_Chisinau"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 3_StarNet_ISP,0_Chisinau"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 4_RoEduNet,0_Chisinau"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chisinau 2________Cahul 1_Balti 2________Cahul 1_Balti 2________Cahul 1_Balti 2________Cahul 1_Balti 0_Chisinau"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Chisinau 4_RoEduNet 3_StarNet_ISP 4_RoEduNet 3_StarNet_ISP 4_RoEduNet 3_StarNet_ISP 4_RoEduNet 3_StarNet_ISP 0_Chisinau"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 3_StarNet_ISP 1_Balti 3_StarNet_ISP 1_Balti 3_StarNet_ISP 1_Balti 3_StarNet_ISP 1_Balti 0_Chisinau"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Chisinau 4_RoEduNet 1_Balti 4_RoEduNet 1_Balti 4_RoEduNet 1_Balti 4_RoEduNet 1_Balti 0_Chisinau"
+        }
+    ],
+    "values": [
+        4,
+        2.25,
+        0.5,
+        0.5,
+        0.5
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 13972,
+    "lpBound": 0.5
+}

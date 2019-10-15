@@ -1,0 +1,30 @@
+{
+    "initialCoverSize": 5,
+    "times": [1044048],
+    "solution": [
+        {
+            "x": 1,
+            "cycle": "0_New_York 1_London 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_St_Petersburg 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 4_Moscow 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 6_Frankfurt 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 7_Paris 0_New_York"
+        }
+    ],
+    "values": [4],
+    "initialCoverSeg": 3,
+    "runtime": 25851,
+    "lpBound": 4
+}

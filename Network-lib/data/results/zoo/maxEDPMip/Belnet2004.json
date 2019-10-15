@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "20_Louvain-la-Neuve",
+            "nbpSR": 2,
+            "runtime": 37865672,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Leuven",
+            "nbpSR": 2,
+            "runtime": 40407266,
+            "dest": "13_Liege",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 41344276,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 35330781,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Leuven",
+            "nbpSR": 2,
+            "runtime": 36541617,
+            "dest": "0_Geel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 39604755,
+            "dest": "15_Brugge",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 37931642,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Gent",
+            "nbpSR": 2,
+            "runtime": 39419149,
+            "dest": "15_Brugge",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 42210644,
+            "dest": "0_Geel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Charleroi",
+            "nbpSR": 2,
+            "runtime": 59778176,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 38449110,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Global_Internet",
+            "nbpSR": 2,
+            "runtime": 53179277,
+            "dest": "18_Mons",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 41065724,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 46610468,
+            "dest": "12_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Brussel_II_A",
+            "nbpSR": 2,
+            "runtime": 47589087,
+            "dest": "3_Hasselt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 50016045,
+            "dest": "21_Namur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Global_Internet",
+            "nbpSR": 2,
+            "runtime": 57168049,
+            "dest": "3_Hasselt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 42021773,
+            "dest": "11_BNIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Korthijk",
+            "nbpSR": 2,
+            "runtime": 49590771,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Brussel_II_B",
+            "nbpSR": 2,
+            "runtime": 46035544,
+            "dest": "21_Namur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 47291846,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Arlon",
+            "nbpSR": 2,
+            "runtime": 51783930,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Leuven",
+            "nbpSR": 2,
+            "runtime": 40745749,
+            "dest": "21_Namur",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Charleroi",
+            "nbpSR": 2,
+            "runtime": 46298240,
+            "dest": "3_Hasselt",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 41722188,
+            "dest": "15_Brugge",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Hasselt",
+            "nbpSR": 2,
+            "runtime": 40927919,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 45529046,
+            "dest": "15_Brugge",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Brussel_I_B",
+            "nbpSR": 1,
+            "runtime": 56162538,
+            "dest": "11_BNIX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Charleroi",
+            "nbpSR": 1,
+            "runtime": 42817470,
+            "dest": "5_SFINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 41779406,
+            "dest": "20_Louvain-la-Neuve",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 41705210,
+            "dest": "15_Brugge",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Leuven",
+            "nbpSR": 2,
+            "runtime": 42726465,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Brugge",
+            "nbpSR": 2,
+            "runtime": 46147399,
+            "dest": "17_Korthijk",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Arlon",
+            "nbpSR": 2,
+            "runtime": 44582891,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Charleroi",
+            "nbpSR": 2,
+            "runtime": 46555595,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Brussel_II_B",
+            "nbpSR": 1,
+            "runtime": 50528558,
+            "dest": "8_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "21_Namur",
+            "nbpSR": 2,
+            "runtime": 35406569,
+            "dest": "20_Louvain-la-Neuve",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Brussel_I_A",
+            "nbpSR": 2,
+            "runtime": 40886558,
+            "dest": "15_Brugge",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Gent",
+            "nbpSR": 1,
+            "runtime": 73319787,
+            "dest": "9_LINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 38594711,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 38144560,
+            "dest": "21_Namur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 41976682,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_BNIX",
+            "nbpSR": 1,
+            "runtime": 38318954,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 42538990,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 37769357,
+            "dest": "17_Korthijk",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 52115413,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Brussel_I_A",
+            "nbpSR": 2,
+            "runtime": 44038070,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Charleroi",
+            "nbpSR": 2,
+            "runtime": 42359151,
+            "dest": "18_Mons",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 38677446,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Brussel_I_A",
+            "nbpSR": 2,
+            "runtime": 45400093,
+            "dest": "17_Korthijk",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Brussel_I_B",
+            "nbpSR": 16,
+            "runtime": 37869781,
+            "dest": "4_Brussel_II_B",
+            "nbpFlow": 16
+        },
+        {
+            "orig": "3_Hasselt",
+            "nbpSR": 2,
+            "runtime": 44686041,
+            "dest": "7_Brussel_II_A",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Brugge",
+            "nbpSR": 2,
+            "runtime": 37353807,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "22_Arlon",
+            "nbpSR": 2,
+            "runtime": 40257024,
+            "dest": "18_Mons",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Mons",
+            "nbpSR": 2,
+            "runtime": 41761173,
+            "dest": "7_Brussel_II_A",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 37438544,
+            "dest": "0_Geel",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 39025915,
+            "dest": "21_Namur",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 37694402,
+            "dest": "17_Korthijk",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Global_Internet",
+            "nbpSR": 2,
+            "runtime": 50087691,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 38790283,
+            "dest": "15_Brugge",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 36505572,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_BNIX",
+            "nbpSR": 1,
+            "runtime": 44753094,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 36877095,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 1,
+            "runtime": 41813411,
+            "dest": "5_SFINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Brussel_II_B",
+            "nbpSR": 2,
+            "runtime": 44050351,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_BNIX",
+            "nbpSR": 1,
+            "runtime": 39050848,
+            "dest": "14_Brussel_I_A",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Korthijk",
+            "nbpSR": 2,
+            "runtime": 64225802,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 51387723,
+            "dest": "14_Brussel_I_A",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 37980706,
+            "dest": "15_Brugge",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Korthijk",
+            "nbpSR": 1,
+            "runtime": 44013873,
+            "dest": "9_LINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Brugge",
+            "nbpSR": 1,
+            "runtime": 46751083,
+            "dest": "8_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Arlon",
+            "nbpSR": 2,
+            "runtime": 39349924,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_Global_Internet",
+            "nbpSR": 1,
+            "runtime": 43314944,
+            "dest": "9_LINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 52453424,
+            "dest": "4_Brussel_II_B",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Korthijk",
+            "nbpSR": 1,
+            "runtime": 41238544,
+            "dest": "12_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Brussel_I_A",
+            "nbpSR": 1,
+            "runtime": 46884508,
+            "dest": "12_Geant2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 38725690,
+            "dest": "19_Charleroi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Brussel_I_A",
+            "nbpSR": 2,
+            "runtime": 45494474,
+            "dest": "15_Brugge",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Brussel_II_A",
+            "nbpSR": 2,
+            "runtime": 43223971,
+            "dest": "2_Leuven",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 36847179,
+            "dest": "2_Leuven",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 61017447,
+            "dest": "6_Brussel_I_B",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 40144148,
+            "dest": "13_Liege",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 2,
+            "runtime": 37089117,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_Namur",
+            "nbpSR": 2,
+            "runtime": 45397402,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Geel",
+            "nbpSR": 2,
+            "runtime": 43940212,
+            "dest": "7_Brussel_II_A",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_LINX",
+            "nbpSR": 1,
+            "runtime": 36645134,
+            "dest": "1_Antwerpen",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Liege",
+            "nbpSR": 2,
+            "runtime": 39260474,
+            "dest": "16_Gent",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_BNIX",
+            "nbpSR": 1,
+            "runtime": 39488781,
+            "dest": "10_Global_Internet",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Brussel_II_A",
+            "nbpSR": 2,
+            "runtime": 43608339,
+            "dest": "19_Charleroi",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Geant2",
+            "nbpSR": 1,
+            "runtime": 35703248,
+            "dest": "9_LINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Geel",
+            "nbpSR": 1,
+            "runtime": 43054596,
+            "dest": "11_BNIX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_Louvain-la-Neuve",
+            "nbpSR": 1,
+            "runtime": 41930688,
+            "dest": "8_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_SFINX",
+            "nbpSR": 1,
+            "runtime": 38402996,
+            "dest": "9_LINX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Mons",
+            "nbpSR": 2,
+            "runtime": 68130201,
+            "dest": "15_Brugge",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_BNIX",
+            "nbpSR": 1,
+            "runtime": 36830731,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_AMS-IX",
+            "nbpSR": 1,
+            "runtime": 40669105,
+            "dest": "16_Gent",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Brussel_II_A",
+            "nbpSR": 2,
+            "runtime": 43295032,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Antwerpen",
+            "nbpSR": 1,
+            "runtime": 41865387,
+            "dest": "11_BNIX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Gent",
+            "nbpSR": 1,
+            "runtime": 41436729,
+            "dest": "11_BNIX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Mons",
+            "nbpSR": 2,
+            "runtime": 41483348,
+            "dest": "22_Arlon",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

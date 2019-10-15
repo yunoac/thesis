@@ -1,0 +1,80 @@
+{
+    "originalCover": {
+        "runtime": 2728293,
+        "cycles": [
+            "0_Walferdange 1_CCRN 0_Walferdange 0_Walferdange",
+            "0_Walferdange 2_Ettelbruck 0_Walferdange 0_Walferdange",
+            "0_Walferdange 2_Ettelbruck 3_Diekirch 0_Walferdange",
+            "0_Walferdange 3_Diekirch 2_Ettelbruck 0_Walferdange",
+            "0_Walferdange 4_GEANT_Paris_(FR) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 5_Internet_via_Bruxelles_(BE) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 6_ADSL_(via_EPT) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 7_France 0_Walferdange 0_Walferdange",
+            "0_Walferdange 8_GEANT_Frankfurt_(DE) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 12_UNI.iu 0_Walferdange 0_Walferdange",
+            "0_Walferdange 11_ADSL_(via_Tango) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 18_Limpertsberg 0_Walferdange 0_Walferdange",
+            "0_Walferdange 12_UNI.iu 18_Limpertsberg 0_Walferdange",
+            "0_Walferdange 13_Rollingergrund 0_Walferdange 0_Walferdange",
+            "0_Walferdange 12_UNI.iu 7_France 0_Walferdange",
+            "0_Walferdange 7_France 12_UNI.iu 0_Walferdange",
+            "0_Walferdange 18_Limpertsberg 12_UNI.iu 0_Walferdange"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        5,
+        7,
+        7,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        7,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        7,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        5,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Walferdange 1_CCRN 0_Walferdange 0_Walferdange",
+            "0_Walferdange 2_Ettelbruck 4_GEANT_Paris_(FR) 0_Walferdange",
+            "0_Walferdange 2_Ettelbruck 0_Walferdange 0_Walferdange",
+            "0_Walferdange 5_Internet_via_Bruxelles_(BE) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 6_ADSL_(via_EPT) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 7_France 0_Walferdange 0_Walferdange",
+            "0_Walferdange 8_GEANT_Frankfurt_(DE) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 13_Rollingergrund 0_Walferdange 0_Walferdange",
+            "0_Walferdange 4_GEANT_Paris_(FR) 2_Ettelbruck 0_Walferdange",
+            "0_Walferdange 11_ADSL_(via_Tango) 0_Walferdange 0_Walferdange",
+            "0_Walferdange 12_UNI.iu 0_Walferdange 0_Walferdange",
+            "0_Walferdange 12_UNI.iu 7_France 0_Walferdange",
+            "0_Walferdange 7_France 12_UNI.iu 0_Walferdange"
+        ],
+        "source": 0,
+        "runetime": 2252452,
+        "maxSeg": 4
+    }
+}

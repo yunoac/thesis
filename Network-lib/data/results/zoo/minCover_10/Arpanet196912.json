@@ -1,0 +1,82 @@
+{
+    "initialCoverSize": 13,
+    "times": [
+        1123516,
+        1370156,
+        1531150,
+        1684738,
+        1833674,
+        1967660,
+        2123000,
+        2258419,
+        2428196
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_SRI 1_USCB,0_SRI 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 2_UCLA,0_SRI 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 3_UTAH,0_SRI 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI,1_USCB 2_UCLA,0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI,2_UCLA 1_USCB,0_SRI"
+        },
+        {
+            "x": 0.1904761904761905,
+            "cycle": "0_SRI 2_UCLA 1_USCB 2_UCLA 1_USCB 2_UCLA 1_USCB 2_UCLA 1_USCB 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 3_UTAH 1_USCB 3_UTAH 1_USCB 3_UTAH 1_USCB 3_UTAH 1_USCB 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 3_UTAH 2_UCLA 3_UTAH 2_UCLA 3_UTAH 2_UCLA 3_UTAH 2_UCLA 0_SRI"
+        },
+        {
+            "x": 0.0952380952380953,
+            "cycle": "0_SRI 1_USCB 2_UCLA 0_SRI 1_USCB 2_UCLA 0_SRI 1_USCB 2_UCLA 0_SRI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_SRI 2_UCLA 1_USCB 0_SRI 1_USCB 0_SRI 1_USCB 0_SRI 1_USCB 0_SRI"
+        },
+        {
+            "x": 0.1904761904761905,
+            "cycle": "0_SRI 1_USCB 3_UTAH 1_USCB 3_UTAH 1_USCB 3_UTAH 2_UCLA 1_USCB 0_SRI"
+        },
+        {
+            "x": 0.04761904761904761,
+            "cycle": "0_SRI 2_UCLA 0_SRI 2_UCLA 0_SRI 2_UCLA 0_SRI 2_UCLA 1_USCB 0_SRI"
+        },
+        {
+            "x": 0.14285714285714282,
+            "cycle": "0_SRI 2_UCLA 3_UTAH 2_UCLA 3_UTAH 2_UCLA 3_UTAH 1_USCB 2_UCLA 0_SRI"
+        }
+    ],
+    "values": [
+        3,
+        3,
+        1.5,
+        0.8333333333333333,
+        0.7083333333333334,
+        0.6944444444444444,
+        0.6833333333333333,
+        0.6785714285714285,
+        0.6666666666666666
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 11745,
+    "lpBound": 0.6666666666666666
+}

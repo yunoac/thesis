@@ -1,0 +1,126 @@
+{
+    "initialCoverSize": 23,
+    "times": [
+        1187447,
+        1724564,
+        2206784,
+        2696753,
+        3131740,
+        3567813,
+        3966475,
+        4417472,
+        4872169,
+        5277665,
+        5736185
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Faro 1_Madrid 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 4_Barcelona 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 2_Porto 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 5_Manchester 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 1_Madrid 9_Berlin 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 6_New_York 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 8_Eindhoven 0_Faro 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 7_Amsterdam 4_Barcelona 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 9_Berlin 11_Munich 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 4_Barcelona 7_Amsterdam 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 11_Munich 0_Faro 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 11_Munich 9_Berlin 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 13_Rennes 0_Faro 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 13_Rennes 8_Eindhoven 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 4_Barcelona 5_Manchester 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 2_Porto 1_Madrid 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 4_Barcelona 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 5_Manchester 2_Porto 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 6_New_York 2_Porto 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 8_Eindhoven 2_Porto 0_Faro"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Faro 8_Eindhoven 4_Barcelona 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 6_New_York 5_Manchester 0_Faro"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Faro 7_Amsterdam 13_Rennes 0_Faro"
+        }
+    ],
+    "values": [
+        9,
+        9,
+        7,
+        7,
+        7,
+        7,
+        6,
+        6,
+        6,
+        6,
+        6
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 102198,
+    "lpBound": 6
+}

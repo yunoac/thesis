@@ -1,0 +1,104 @@
+{
+    "initialCoverSize": 19,
+    "times": [
+        1083185,
+        1330768,
+        1555238,
+        1740457,
+        1943665,
+        2148943,
+        2349723,
+        2529171
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 1_Stockholm,0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 2_Helsinki 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_NETNOD 1_Stockholm,2_Helsinki 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 3_Copenhagen 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 5_GEANT 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 6_General_Internet 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 7_St_Petersburg 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 8_Oslo 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_NETNOD 2_Helsinki,1_Stockholm 0_NETNOD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_NETNOD 3_Copenhagen 8_Oslo 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 4_Reykjavik 0_NETNOD 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 8_Oslo 3_Copenhagen 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 5_GEANT 4_Reykjavik 0_NETNOD"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_NETNOD 6_General_Internet 5_GEANT 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 6_General_Internet 4_Reykjavik 0_NETNOD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_NETNOD 7_St_Petersburg 4_Reykjavik 0_NETNOD"
+        },
+        {
+            "x": 1,
+            "cycle": "0_NETNOD 8_Oslo 4_Reykjavik 0_NETNOD"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_NETNOD 7_St_Petersburg 6_General_Internet 0_NETNOD"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_NETNOD 7_St_Petersburg 5_GEANT 0_NETNOD"
+        }
+    ],
+    "values": [
+        8,
+        7,
+        7,
+        6.5,
+        6,
+        6,
+        6,
+        5.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 34232,
+    "lpBound": 5.5
+}

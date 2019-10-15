@@ -1,0 +1,342 @@
+{
+    "initialCoverSize": 52,
+    "times": [
+        1941936,
+        3399808,
+        4456538,
+        6363614,
+        7999165,
+        9301617,
+        10347170,
+        11354772,
+        12368427,
+        13451289,
+        14513600,
+        15526248,
+        16575221,
+        17703488,
+        18847057,
+        19949212,
+        21107382,
+        22190269,
+        23378982,
+        24543578,
+        25778216,
+        26930977,
+        28067503,
+        29264924,
+        30440740,
+        31629896
+    ],
+    "finalCoverSize": 14,
+    "minSegCycles": [
+        "11_None 4_Boston 2_Atlanta 11_None",
+        "11_None 2_Atlanta 4_Boston 11_None",
+        "11_None 2_Atlanta 5_London 11_None",
+        "11_None 2_Atlanta 6_Philadelphia 11_None",
+        "11_None 8_Amsterdam@1_New_York 11_None",
+        "11_None 5_London@1_New_York 11_None",
+        "11_None 6_Philadelphia@1_New_York 11_None",
+        "11_None 2_Atlanta 3_Miami 11_None",
+        "11_None 3_Miami 2_Atlanta 11_None",
+        "11_None 5_London 2_Atlanta 11_None",
+        "11_None 12_Paris 1_New_York 11_None",
+        "11_None 2_Atlanta 8_Amsterdam 11_None",
+        "11_None 7_Baltimore 1_New_York 11_None",
+        "11_None 6_Philadelphia 2_Atlanta 11_None",
+        "11_None 8_Amsterdam 2_Atlanta 11_None",
+        "11_None 9_Frankfurt 1_New_York 11_None",
+        "11_None 9_Frankfurt 12_Paris 11_None",
+        "11_None 20_Phoenix 2_Atlanta 11_None",
+        "11_None 2_Atlanta 14_Austin 11_None",
+        "11_None 17_Tokyo 2_Atlanta 11_None",
+        "11_None 12_Paris 9_Frankfurt 11_None",
+        "11_None 14_Austin 1_New_York 11_None",
+        "11_None 14_Austin 2_Atlanta 11_None",
+        "11_None 15_Seattle 17_Tokyo 11_None",
+        "11_None 15_Seattle 1_New_York 11_None",
+        "11_None 17_Tokyo 15_Seattle 11_None",
+        "11_None 2_Atlanta 17_Tokyo 11_None",
+        "11_None 19_Los_Angeles 15_Seattle 11_None",
+        "11_None 4_Boston 3_Miami 11_None",
+        "11_None 3_Miami 4_Boston 11_None",
+        "11_None 7_Baltimore 4_Boston 11_None",
+        "11_None 3_Miami 6_Philadelphia 11_None",
+        "11_None 20_Phoenix 6_Philadelphia 11_None",
+        "11_None 4_Boston 7_Baltimore 11_None",
+        "11_None 3_Miami 8_Amsterdam 11_None",
+        "11_None 6_Philadelphia 3_Miami 11_None",
+        "11_None 8_Amsterdam 3_Miami 11_None",
+        "11_None 14_Austin 4_Boston 11_None",
+        "11_None 5_London 7_Baltimore 11_None",
+        "11_None 6_Philadelphia 4_Boston 11_None",
+        "11_None 14_Austin 7_Baltimore 11_None",
+        "11_None 4_Boston 14_Austin 11_None",
+        "11_None 20_Phoenix 15_Seattle 11_None",
+        "11_None 21_Denver 6_Philadelphia 11_None",
+        "11_None 4_Boston 19_Los_Angeles 11_None",
+        "11_None 5_London 14_Austin 11_None",
+        "11_None 7_Baltimore 14_Austin 11_None",
+        "11_None 19_Los_Angeles 4_Boston 11_None",
+        "11_None 15_Seattle 6_Philadelphia 11_None",
+        "11_None 15_Seattle 7_Baltimore 11_None",
+        "11_None 15_Seattle 20_Phoenix 11_None",
+        "11_None 21_Denver 7_Baltimore 11_None"
+    ],
+    "values": [
+        16,
+        16,
+        15,
+        14,
+        14,
+        13,
+        13,
+        13,
+        13,
+        13,
+        12,
+        12,
+        12,
+        12,
+        12,
+        11,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        9.5,
+        9.5
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 12,
+    "runtime": 43520445,
+    "lpBound": 9.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 5_London 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 8_Amsterdam@1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London@1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia@1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 3_Miami 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 12_Paris 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 8_Amsterdam 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 7_Baltimore 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 8_Amsterdam 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 9_Frankfurt 1_New_York 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 9_Frankfurt 12_Paris 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 20_Phoenix 2_Atlanta 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 14_Austin 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 17_Tokyo 2_Atlanta 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 12_Paris 9_Frankfurt 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 14_Austin 1_New_York 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 14_Austin 2_Atlanta 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 15_Seattle 17_Tokyo 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 1_New_York 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 17_Tokyo 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 2_Atlanta 17_Tokyo 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 19_Los_Angeles 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 3_Miami 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 7_Baltimore 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 3_Miami 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 20_Phoenix 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 4_Boston 7_Baltimore 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 3_Miami 8_Amsterdam 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 3_Miami 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 8_Amsterdam 3_Miami 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 14_Austin 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 7_Baltimore 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 6_Philadelphia 4_Boston 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 14_Austin 7_Baltimore 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 4_Boston 14_Austin 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 20_Phoenix 15_Seattle 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 21_Denver 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 4_Boston 19_Los_Angeles 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 5_London 14_Austin 11_None"
+        },
+        {
+            "x": 1,
+            "cycle": "11_None 7_Baltimore 14_Austin 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 19_Los_Angeles 4_Boston 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 6_Philadelphia 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 15_Seattle 7_Baltimore 11_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "11_None 15_Seattle 20_Phoenix 11_None"
+        },
+        {
+            "x": 0,
+            "cycle": "11_None 21_Denver 7_Baltimore 11_None"
+        }
+    ],
+    "greedySolution": [
+        "11_None 9_Frankfurt 12_Paris 11_None",
+        "11_None 17_Tokyo 2_Atlanta 11_None",
+        "11_None 12_Paris 9_Frankfurt 11_None",
+        "11_None 15_Seattle 17_Tokyo 11_None",
+        "11_None 7_Baltimore 4_Boston 11_None",
+        "11_None 3_Miami 6_Philadelphia 11_None",
+        "11_None 3_Miami 8_Amsterdam 11_None",
+        "11_None 8_Amsterdam 3_Miami 11_None",
+        "11_None 14_Austin 4_Boston 11_None",
+        "11_None 20_Phoenix 15_Seattle 11_None",
+        "11_None 4_Boston 19_Los_Angeles 11_None",
+        "11_None 5_London 14_Austin 11_None"
+    ]
+}

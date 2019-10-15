@@ -1,0 +1,287 @@
+{
+    "initialCoverSize": 43,
+    "times": [
+        3312904,
+        4515042,
+        6103234,
+        9193778,
+        11640452,
+        13251203,
+        14539701,
+        15862917,
+        17847981,
+        18971680,
+        20520222,
+        22419879,
+        25067699,
+        27359272,
+        29699519,
+        31064781,
+        33154164,
+        36028094,
+        38036658,
+        40167075,
+        43671916,
+        47341516
+    ],
+    "finalCoverSize": 14,
+    "minSegCycles": [
+        "0_Hue 1_VN_HN 0_Hue 0_Hue",
+        "0_Hue 1_VN_HN 2_HCM 0_Hue",
+        "0_Hue 4_KR 0_Hue 0_Hue",
+        "0_Hue 10_Vinh 0_Hue 0_Hue",
+        "0_Hue 11_Thai_Nguyen 0_Hue 0_Hue",
+        "0_Hue 14_Hai_Phong 0_Hue 0_Hue",
+        "0_Hue 21_Internet 0_Hue 0_Hue",
+        "0_Hue 2_HCM 1_VN_HN 0_Hue",
+        "0_Hue 12_An_Giang 0_Hue 0_Hue",
+        "0_Hue 13_Da_Lat 0_Hue 0_Hue",
+        "0_Hue 9_Nha_Trang 0_Hue 0_Hue",
+        "0_Hue 8_PH 0_Hue 0_Hue",
+        "0_Hue 5_JP 4_KR 0_Hue",
+        "0_Hue 20_Abilene_Internet2_USA 0_Hue 0_Hue",
+        "0_Hue 7_CN 0_Hue 0_Hue",
+        "0_Hue 22_EU 0_Hue 0_Hue",
+        "0_Hue 15_AU 0_Hue 0_Hue",
+        "0_Hue 17_TH 0_Hue 0_Hue",
+        "0_Hue 18_MY 0_Hue 0_Hue",
+        "0_Hue 19_ID 0_Hue 0_Hue",
+        "0_Hue 23_EU 0_Hue 0_Hue",
+        "0_Hue 4_KR 5_JP 0_Hue",
+        "0_Hue 12_An_Giang 8_PH 0_Hue",
+        "0_Hue 15_AU 8_PH 0_Hue",
+        "0_Hue 13_Da_Lat 10_Vinh 0_Hue",
+        "0_Hue 11_Thai_Nguyen 12_An_Giang 0_Hue",
+        "0_Hue 20_Abilene_Internet2_USA 17_TH 0_Hue",
+        "0_Hue 9_Nha_Trang 4_KR 0_Hue",
+        "0_Hue 12_An_Giang 9_Nha_Trang 0_Hue",
+        "0_Hue 8_PH 13_Da_Lat 0_Hue",
+        "0_Hue 10_Vinh 4_KR 0_Hue",
+        "0_Hue 14_Hai_Phong 12_An_Giang 0_Hue",
+        "0_Hue 2_HCM 4_KR 0_Hue",
+        "0_Hue 14_Hai_Phong 11_Thai_Nguyen 0_Hue",
+        "0_Hue 17_TH 15_AU 0_Hue",
+        "0_Hue 18_MY 15_AU 0_Hue",
+        "0_Hue 18_MY 8_PH 0_Hue",
+        "0_Hue 8_PH 19_ID 0_Hue",
+        "0_Hue 19_ID 20_Abilene_Internet2_USA 0_Hue",
+        "0_Hue 22_EU 21_Internet 0_Hue",
+        "0_Hue 23_EU 21_Internet 0_Hue",
+        "0_Hue 23_EU 7_CN 0_Hue",
+        "0_Hue 23_EU 22_EU 0_Hue"
+    ],
+    "values": [
+        19,
+        17,
+        16,
+        15,
+        13,
+        12,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        10.5,
+        10.5,
+        10.5,
+        10,
+        10,
+        9.5,
+        8.5,
+        8.5,
+        8.5,
+        8
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 65523410,
+    "lpBound": 8,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Hue 1_VN_HN 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 1_VN_HN 2_HCM 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 4_KR 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 10_Vinh 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 11_Thai_Nguyen 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 14_Hai_Phong 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 21_Internet 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 2_HCM 1_VN_HN 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 12_An_Giang 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 13_Da_Lat 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 9_Nha_Trang 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 8_PH 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 5_JP 4_KR 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 20_Abilene_Internet2_USA 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 7_CN 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 22_EU 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 15_AU 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 17_TH 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 18_MY 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 19_ID 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 23_EU 0_Hue 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 4_KR 5_JP 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 12_An_Giang 8_PH 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 15_AU 8_PH 0_Hue"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hue 13_Da_Lat 10_Vinh 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 11_Thai_Nguyen 12_An_Giang 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 20_Abilene_Internet2_USA 17_TH 0_Hue"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hue 9_Nha_Trang 4_KR 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 12_An_Giang 9_Nha_Trang 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 8_PH 13_Da_Lat 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 10_Vinh 4_KR 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 14_Hai_Phong 12_An_Giang 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 2_HCM 4_KR 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 14_Hai_Phong 11_Thai_Nguyen 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 17_TH 15_AU 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 18_MY 15_AU 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 18_MY 8_PH 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 8_PH 19_ID 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 19_ID 20_Abilene_Internet2_USA 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 22_EU 21_Internet 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 23_EU 21_Internet 0_Hue"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hue 23_EU 7_CN 0_Hue"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Hue 23_EU 22_EU 0_Hue"
+        }
+    ],
+    "greedySolution": [
+        "0_Hue 12_An_Giang 8_PH 0_Hue",
+        "0_Hue 13_Da_Lat 10_Vinh 0_Hue",
+        "0_Hue 20_Abilene_Internet2_USA 17_TH 0_Hue",
+        "0_Hue 9_Nha_Trang 4_KR 0_Hue",
+        "0_Hue 8_PH 13_Da_Lat 0_Hue",
+        "0_Hue 14_Hai_Phong 11_Thai_Nguyen 0_Hue",
+        "0_Hue 18_MY 15_AU 0_Hue",
+        "0_Hue 19_ID 20_Abilene_Internet2_USA 0_Hue",
+        "0_Hue 22_EU 21_Internet 0_Hue",
+        "0_Hue 23_EU 22_EU 0_Hue"
+    ]
+}

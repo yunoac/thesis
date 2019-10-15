@@ -1,0 +1,299 @@
+{
+    "initialCoverSize": 46,
+    "times": [
+        3142757,
+        7569509,
+        10050511,
+        11976124,
+        14000361,
+        15835033,
+        17683027,
+        19603440,
+        21539118,
+        23522657,
+        25362224,
+        27227098,
+        29129174,
+        31047489,
+        32969386,
+        34937211,
+        36924019,
+        38861033
+    ],
+    "finalCoverSize": 20,
+    "minSegCycles": [
+        "0_AKAMAI 1_Velocix 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 2_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 3_WADE 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 4_Pipe 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 5_AARNET 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 7_Transact 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 8_AKAMAI 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 9_PIPE 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 11_TELSTRA 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 11_TELSTRA 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 12_REACH 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 13_AKAMAI 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 14_GOOGLE 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 15_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 16_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 17_Equinix 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 18_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 19_AKAMAI 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 20_PIPE 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 22_Google 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 23_Darwin 0_AKAMAI 0_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 19_AKAMAI 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 11_TELSTRA 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 19_AKAMAI 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 4_Pipe 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 8_AKAMAI 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 4_Pipe 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 8_AKAMAI 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 12_REACH 5_AARNET 12_REACH 0_AKAMAI",
+        "0_AKAMAI 13_AKAMAI 9_PIPE 13_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 14_GOOGLE 20_PIPE 14_GOOGLE 0_AKAMAI",
+        "0_AKAMAI 15_PIPE 11_TELSTRA 15_PIPE 0_AKAMAI",
+        "0_AKAMAI 1_Velocix 2_AARNET 1_Velocix 0_AKAMAI",
+        "0_AKAMAI 2_AARNET 3_WADE 2_AARNET 0_AKAMAI",
+        "0_AKAMAI 3_WADE 16_PIPE 3_WADE 0_AKAMAI",
+        "0_AKAMAI 16_PIPE 4_Pipe 16_PIPE 0_AKAMAI",
+        "0_AKAMAI 17_Equinix 4_Pipe 17_Equinix 0_AKAMAI",
+        "0_AKAMAI 18_AARNET 4_Pipe 18_AARNET 0_AKAMAI",
+        "0_AKAMAI 22_Google 23_Darwin 22_Google 0_AKAMAI",
+        "0_AKAMAI 23_Darwin 5_AARNET 23_Darwin 0_AKAMAI",
+        "0_AKAMAI 16_PIPE 5_AARNET 16_PIPE 0_AKAMAI",
+        "0_AKAMAI 10_VOCUS 7_Transact 17_Equinix 0_AKAMAI",
+        "0_AKAMAI 17_Equinix 7_Transact 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 3_WADE 22_Google 3_WADE 0_AKAMAI",
+        "0_AKAMAI 22_Google 2_AARNET 22_Google 0_AKAMAI"
+    ],
+    "values": [
+        24,
+        22,
+        20,
+        18,
+        17,
+        16,
+        15.5,
+        14.75,
+        14.125,
+        13.125,
+        12.4375,
+        11.4375,
+        10.9375,
+        10.875,
+        10.875,
+        10.625,
+        10.4375,
+        10.333333333333334
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 15,
+    "runtime": 63633931,
+    "lpBound": 10.333333333333334,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 1_Velocix 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 2_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 3_WADE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 4_Pipe 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 5_AARNET 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 7_Transact 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 8_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 6_Pipe 9_PIPE 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_AKAMAI 6_Pipe 11_TELSTRA 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 11_TELSTRA 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 12_REACH 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 13_AKAMAI 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 14_GOOGLE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 15_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 16_PIPE 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 17_Equinix 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 18_AARNET 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 19_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 6_Pipe 20_PIPE 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 22_Google 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 23_Darwin 0_AKAMAI 0_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 6_Pipe 19_AKAMAI 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 11_TELSTRA 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 10_VOCUS 19_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 10_VOCUS 4_Pipe 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 10_VOCUS 8_AKAMAI 6_Pipe 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 6_Pipe 4_Pipe 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 6_Pipe 8_AKAMAI 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 12_REACH 5_AARNET 12_REACH 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 13_AKAMAI 9_PIPE 13_AKAMAI 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 14_GOOGLE 20_PIPE 14_GOOGLE 0_AKAMAI"
+        },
+        {
+            "x": 1,
+            "cycle": "0_AKAMAI 15_PIPE 11_TELSTRA 15_PIPE 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 1_Velocix 2_AARNET 1_Velocix 0_AKAMAI"
+        },
+        {
+            "x": 0.1111111111111111,
+            "cycle": "0_AKAMAI 2_AARNET 3_WADE 2_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 3_WADE 16_PIPE 3_WADE 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 16_PIPE 4_Pipe 16_PIPE 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 17_Equinix 4_Pipe 17_Equinix 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 18_AARNET 4_Pipe 18_AARNET 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 22_Google 23_Darwin 22_Google 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 23_Darwin 5_AARNET 23_Darwin 0_AKAMAI"
+        },
+        {
+            "x": 0,
+            "cycle": "0_AKAMAI 16_PIPE 5_AARNET 16_PIPE 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 10_VOCUS 7_Transact 17_Equinix 0_AKAMAI"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_AKAMAI 17_Equinix 7_Transact 10_VOCUS 0_AKAMAI"
+        },
+        {
+            "x": 0.4444444444444444,
+            "cycle": "0_AKAMAI 3_WADE 22_Google 3_WADE 0_AKAMAI"
+        },
+        {
+            "x": 0.2777777777777778,
+            "cycle": "0_AKAMAI 22_Google 2_AARNET 22_Google 0_AKAMAI"
+        }
+    ],
+    "greedySolution": [
+        "0_AKAMAI 6_Pipe 7_Transact 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 8_AKAMAI 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 11_TELSTRA 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 20_PIPE 6_Pipe 0_AKAMAI",
+        "0_AKAMAI 6_Pipe 19_AKAMAI 10_VOCUS 0_AKAMAI",
+        "0_AKAMAI 12_REACH 5_AARNET 12_REACH 0_AKAMAI",
+        "0_AKAMAI 13_AKAMAI 9_PIPE 13_AKAMAI 0_AKAMAI",
+        "0_AKAMAI 14_GOOGLE 20_PIPE 14_GOOGLE 0_AKAMAI",
+        "0_AKAMAI 15_PIPE 11_TELSTRA 15_PIPE 0_AKAMAI",
+        "0_AKAMAI 1_Velocix 2_AARNET 1_Velocix 0_AKAMAI",
+        "0_AKAMAI 16_PIPE 4_Pipe 16_PIPE 0_AKAMAI",
+        "0_AKAMAI 17_Equinix 4_Pipe 17_Equinix 0_AKAMAI",
+        "0_AKAMAI 18_AARNET 4_Pipe 18_AARNET 0_AKAMAI",
+        "0_AKAMAI 23_Darwin 5_AARNET 23_Darwin 0_AKAMAI",
+        "0_AKAMAI 3_WADE 22_Google 3_WADE 0_AKAMAI"
+    ]
+}

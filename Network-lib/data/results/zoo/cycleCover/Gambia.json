@@ -1,0 +1,241 @@
+{
+    "initialCoverSize": 35,
+    "times": [
+        1209128,
+        2471126,
+        3715475,
+        4953601,
+        6187615,
+        7390746,
+        8626720,
+        9892895,
+        11113280,
+        12358765,
+        13637542,
+        14879736,
+        16126179,
+        17338174,
+        18628578,
+        19892038,
+        21106753,
+        22397418
+    ],
+    "finalCoverSize": 15,
+    "minSegCycles": [
+        "0_Gamnet 1_Qnet_AS 0_Gamnet 0_Gamnet",
+        "0_Gamnet 2_Kerewan 18_Basse 0_Gamnet",
+        "0_Gamnet 2_Kerewan 0_Gamnet 0_Gamnet",
+        "0_Gamnet 11_Gamtel_House 0_Gamnet 0_Gamnet",
+        "0_Gamnet 10_Mansk_Gambia 0_Gamnet 0_Gamnet",
+        "0_Gamnet 6_Quantum_Net 0_Gamnet 0_Gamnet",
+        "0_Gamnet 4_MDI 0_Gamnet 0_Gamnet",
+        "0_Gamnet 5_GTMI 0_Gamnet 0_Gamnet",
+        "0_Gamnet 7_MRC 0_Gamnet 0_Gamnet",
+        "0_Gamnet 8_Univ_Gambia 0_Gamnet 0_Gamnet",
+        "0_Gamnet 9_GTMI 0_Gamnet 0_Gamnet",
+        "0_Gamnet 12_Action_Ltd 0_Gamnet 0_Gamnet",
+        "0_Gamnet 13_UNDP 0_Gamnet 0_Gamnet",
+        "0_Gamnet 14_Teleglobe_Canada 0_Gamnet 0_Gamnet",
+        "0_Gamnet 17_Gantd_Center 0_Gamnet 0_Gamnet",
+        "0_Gamnet 19_Bansang 0_Gamnet 0_Gamnet",
+        "0_Gamnet 22_Kotu 0_Gamnet 0_Gamnet",
+        "0_Gamnet 18_Basse 2_Kerewan 0_Gamnet",
+        "0_Gamnet 4_MDI 1_Qnet_AS 0_Gamnet",
+        "0_Gamnet 5_GTMI 1_Qnet_AS 0_Gamnet",
+        "0_Gamnet 19_Bansang 2_Kerewan 0_Gamnet",
+        "0_Gamnet 5_GTMI 4_MDI 0_Gamnet",
+        "0_Gamnet 7_MRC 6_Quantum_Net 0_Gamnet",
+        "0_Gamnet 8_Univ_Gambia 6_Quantum_Net 0_Gamnet",
+        "0_Gamnet 8_Univ_Gambia 7_MRC 0_Gamnet",
+        "0_Gamnet 10_Mansk_Gambia 9_GTMI 0_Gamnet",
+        "0_Gamnet 11_Gamtel_House 10_Mansk_Gambia 0_Gamnet",
+        "0_Gamnet 11_Gamtel_House 9_GTMI 0_Gamnet",
+        "0_Gamnet 13_UNDP 12_Action_Ltd 0_Gamnet",
+        "0_Gamnet 14_Teleglobe_Canada 12_Action_Ltd 0_Gamnet",
+        "0_Gamnet 14_Teleglobe_Canada 13_UNDP 0_Gamnet",
+        "0_Gamnet 19_Bansang 17_Gantd_Center 0_Gamnet",
+        "0_Gamnet 17_Gantd_Center 2_Kerewan 0_Gamnet",
+        "0_Gamnet 22_Kotu 17_Gantd_Center 0_Gamnet",
+        "0_Gamnet 17_Gantd_Center 1_Qnet_AS 0_Gamnet"
+    ],
+    "values": [
+        17,
+        16,
+        16,
+        15,
+        14.5,
+        13.5,
+        13.5,
+        13,
+        12,
+        12,
+        11.5,
+        10.5,
+        10.5,
+        10,
+        10,
+        10,
+        9,
+        9
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 12,
+    "runtime": 32883985,
+    "lpBound": 9,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 1_Qnet_AS 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 2_Kerewan 18_Basse 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 2_Kerewan 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 11_Gamtel_House 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 10_Mansk_Gambia 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 6_Quantum_Net 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 4_MDI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 5_GTMI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 7_MRC 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 8_Univ_Gambia 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 9_GTMI 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 12_Action_Ltd 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 13_UNDP 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 14_Teleglobe_Canada 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 17_Gantd_Center 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 19_Bansang 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 22_Kotu 0_Gamnet 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 18_Basse 2_Kerewan 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 4_MDI 1_Qnet_AS 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 5_GTMI 1_Qnet_AS 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 19_Bansang 2_Kerewan 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 5_GTMI 4_MDI 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 7_MRC 6_Quantum_Net 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 8_Univ_Gambia 6_Quantum_Net 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 8_Univ_Gambia 7_MRC 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 10_Mansk_Gambia 9_GTMI 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 11_Gamtel_House 10_Mansk_Gambia 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 11_Gamtel_House 9_GTMI 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 13_UNDP 12_Action_Ltd 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 14_Teleglobe_Canada 12_Action_Ltd 0_Gamnet"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Gamnet 14_Teleglobe_Canada 13_UNDP 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 19_Bansang 17_Gantd_Center 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 17_Gantd_Center 2_Kerewan 0_Gamnet"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Gamnet 22_Kotu 17_Gantd_Center 0_Gamnet"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Gamnet 17_Gantd_Center 1_Qnet_AS 0_Gamnet"
+        }
+    ],
+    "greedySolution": [
+        "0_Gamnet 2_Kerewan 18_Basse 0_Gamnet",
+        "0_Gamnet 4_MDI 1_Qnet_AS 0_Gamnet",
+        "0_Gamnet 5_GTMI 1_Qnet_AS 0_Gamnet",
+        "0_Gamnet 19_Bansang 2_Kerewan 0_Gamnet",
+        "0_Gamnet 7_MRC 6_Quantum_Net 0_Gamnet",
+        "0_Gamnet 8_Univ_Gambia 6_Quantum_Net 0_Gamnet",
+        "0_Gamnet 10_Mansk_Gambia 9_GTMI 0_Gamnet",
+        "0_Gamnet 11_Gamtel_House 10_Mansk_Gambia 0_Gamnet",
+        "0_Gamnet 14_Teleglobe_Canada 12_Action_Ltd 0_Gamnet",
+        "0_Gamnet 14_Teleglobe_Canada 13_UNDP 0_Gamnet",
+        "0_Gamnet 19_Bansang 17_Gantd_Center 0_Gamnet",
+        "0_Gamnet 22_Kotu 17_Gantd_Center 0_Gamnet"
+    ]
+}

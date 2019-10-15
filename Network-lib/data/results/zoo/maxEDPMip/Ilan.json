@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 21337360,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_External_Users",
+            "nbpSR": 1,
+            "runtime": 38965731,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Bar_Ilan_University",
+            "nbpSR": 1,
+            "runtime": 41843163,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 2,
+            "runtime": 39635937,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 37309380,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 35646417,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 34292443,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 36178128,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 37836610,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Technion",
+            "nbpSR": 1,
+            "runtime": 38208912,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Haifa_University",
+            "nbpSR": 1,
+            "runtime": 37137002,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 37664858,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 35282035,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 35720875,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Haifa_University",
+            "nbpSR": 1,
+            "runtime": 37996979,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 2,
+            "runtime": 44058983,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 28464991,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Bar_Ilan_University",
+            "nbpSR": 1,
+            "runtime": 43868469,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 43160664,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 33905666,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Hebrew_University",
+            "nbpSR": 1,
+            "runtime": 39362160,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 32523519,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_External_Users",
+            "nbpSR": 1,
+            "runtime": 30420675,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 34246096,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 34772852,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 36149433,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 32339207,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 33510180,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Bar_Ilan_University",
+            "nbpSR": 2,
+            "runtime": 16072663,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 37446844,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Technion",
+            "nbpSR": 1,
+            "runtime": 36307875,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 2,
+            "runtime": 46094844,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 28159519,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 40641158,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 37017559,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Bar_Ilan_University",
+            "nbpSR": 2,
+            "runtime": 40803193,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 39967548,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 38476220,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 39233476,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Hebrew_University",
+            "nbpSR": 1,
+            "runtime": 51799222,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 36652365,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 40178687,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 45964335,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 46747715,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 42539326,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 2,
+            "runtime": 40007359,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 2,
+            "runtime": 36356600,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 40176214,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 40686003,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 32463526,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Hebrew_University",
+            "nbpSR": 1,
+            "runtime": 37845572,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 3,
+            "runtime": 33791727,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 38762877,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 39206517,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 35995900,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 42704411,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 37698453,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 41632681,
+            "dest": "5_GEANT_2_Germany",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 44106744,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 44933901,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 49510900,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 24917747,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Technion",
+            "nbpSR": 1,
+            "runtime": 42334954,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Haifa_University",
+            "nbpSR": 1,
+            "runtime": 37165093,
+            "dest": "11_Ben_Gurion_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 37608591,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 27979485,
+            "dest": "8_Technion",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 34228881,
+            "dest": "13_Tel_Aviv_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Petach_Tikva_GigaPoP",
+            "nbpSR": 2,
+            "runtime": 41959121,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 36728646,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 35958671,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 30098719,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 39982057,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 31304636,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Weizmann_Institute",
+            "nbpSR": 1,
+            "runtime": 37412487,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 1,
+            "runtime": 33123186,
+            "dest": "2_IIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 36958539,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 37387437,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 37695419,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Bar_Ilan_University",
+            "nbpSR": 2,
+            "runtime": 20449800,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Technion",
+            "nbpSR": 1,
+            "runtime": 41224021,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 41746825,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 37748524,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 41493227,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 36767156,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 37289633,
+            "dest": "3_Petach_Tikva_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 30857165,
+            "dest": "5_GEANT_2_Germany",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Tel_Aviv_GigaPoP",
+            "nbpSR": 2,
+            "runtime": 40657852,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 32081065,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 37709808,
+            "dest": "10_Hebrew_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Tel_Aviv_University",
+            "nbpSR": 1,
+            "runtime": 45279803,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_IIX",
+            "nbpSR": 1,
+            "runtime": 35087540,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Hebrew_University",
+            "nbpSR": 1,
+            "runtime": 34484195,
+            "dest": "9_Bar_Ilan_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 37019443,
+            "dest": "4_External_Users",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Open_University",
+            "nbpSR": 1,
+            "runtime": 33628417,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Hebrew_University",
+            "nbpSR": 1,
+            "runtime": 41683415,
+            "dest": "0_Tel_Aviv_GigaPoP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_GEANT_2_Germany",
+            "nbpSR": 1,
+            "runtime": 36453799,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 31360349,
+            "dest": "1_Int'l_backup_",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Ben_Gurion_University",
+            "nbpSR": 1,
+            "runtime": 34188670,
+            "dest": "12_Weizmann_Institute",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Int'l_backup_",
+            "nbpSR": 1,
+            "runtime": 59129884,
+            "dest": "7_Haifa_University",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_External_Users",
+            "nbpSR": 1,
+            "runtime": 31936286,
+            "dest": "6_Open_University",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

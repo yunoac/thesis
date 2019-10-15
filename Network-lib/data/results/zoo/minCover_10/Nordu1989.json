@@ -1,0 +1,80 @@
+{
+    "initialCoverSize": 13,
+    "times": [
+        1071865,
+        1317445,
+        1537947,
+        1724576,
+        1923023,
+        2131560,
+        2332036,
+        2520194
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 1_Stockholm,0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 2_Helsinki 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 3_Copenhagen 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 5_EUROPE 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 6_USA 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 4_Reykjavik 0_Trondheim"
+        },
+        {
+            "x": 0.18703703703703706,
+            "cycle": "0_Trondheim 4_Reykjavik 2_Helsinki 4_Reykjavik 2_Helsinki 4_Reykjavik 2_Helsinki 4_Reykjavik 2_Helsinki 0_Trondheim"
+        },
+        {
+            "x": 0.22037037037037036,
+            "cycle": "0_Trondheim 6_USA 5_EUROPE 6_USA 5_EUROPE 6_USA 5_EUROPE 6_USA 5_EUROPE 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 1_Stockholm 0_Trondheim 1_Stockholm 0_Trondheim 1_Stockholm 0_Trondheim 1_Stockholm 0_Trondheim"
+        },
+        {
+            "x": 0.05555555555555555,
+            "cycle": "0_Trondheim 5_EUROPE 2_Helsinki 0_Trondheim 2_Helsinki 0_Trondheim 2_Helsinki 0_Trondheim 2_Helsinki 0_Trondheim"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Trondheim 6_USA 3_Copenhagen 0_Trondheim 3_Copenhagen 0_Trondheim 3_Copenhagen 0_Trondheim 3_Copenhagen 0_Trondheim"
+        },
+        {
+            "x": 0.06296296296296296,
+            "cycle": "0_Trondheim 5_EUROPE 4_Reykjavik 0_Trondheim 4_Reykjavik 0_Trondheim 4_Reykjavik 0_Trondheim 4_Reykjavik 0_Trondheim"
+        },
+        {
+            "x": 0.029629629629629645,
+            "cycle": "0_Trondheim 6_USA 0_Trondheim 6_USA 0_Trondheim 6_USA 0_Trondheim 6_USA 2_Helsinki 0_Trondheim"
+        }
+    ],
+    "values": [
+        4,
+        2.25,
+        1,
+        0.625,
+        0.625,
+        0.6129032258064515,
+        0.5714285714285714,
+        0.5555555555555557
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 23673,
+    "lpBound": 0.5555555555555557
+}

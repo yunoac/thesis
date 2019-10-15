@@ -1,0 +1,432 @@
+{
+    "initialCoverSize": 66,
+    "times": [
+        1767182,
+        4142224,
+        6638017,
+        9104058,
+        11593179,
+        14123816,
+        16571025,
+        19100519,
+        21439991,
+        23878487,
+        26337669,
+        28704248,
+        31149869,
+        33645671,
+        36187737,
+        38677738,
+        41311539,
+        43868905,
+        46291788,
+        48787335,
+        51369068,
+        53901781,
+        56252744,
+        58937930,
+        61345445,
+        63786761,
+        66216958,
+        68726298,
+        71697277,
+        74341654,
+        76921811,
+        79260352,
+        81798494
+    ],
+    "finalCoverSize": 30,
+    "minSegCycles": [
+        "0_Ruzombernk 1_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 3_Liptovdky_Mikulas 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 8_Rimavska_Sobota 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 5_Zvolen 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 17_Trencin 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 26_Poprad 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 7_Namestovo 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 9_Lucenec 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 10_Komarno 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 11_Brno_Warsaw 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 12_Prague_Frankfurt 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 13_Vienna 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 14_Gyor_Budapest 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 15_Nove_Zamky 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 16_Nitra 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 17_Trencin 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 18_Topolcany 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 19_Novaky 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 20_Prievidza 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 21_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 22_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 23_Piestany 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 24_Nove_Mest_nad_Vahom 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 25_Spisska 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 25_Spisska 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 25_Spisska 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 30_Presov 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 32_Svidnik 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 33_Humenne 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 34_Michalovce 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 30_Presov 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 30_Presov 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 2_Svit 31_Bardejov 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 1_None 3_Liptovdky_Mikulas 1_None 0_Ruzombernk",
+        "0_Ruzombernk 3_Liptovdky_Mikulas 5_Zvolen 3_Liptovdky_Mikulas 0_Ruzombernk",
+        "0_Ruzombernk 5_Zvolen 7_Namestovo 5_Zvolen 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 31_Bardejov 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 7_Namestovo 8_Rimavska_Sobota 7_Namestovo 0_Ruzombernk",
+        "0_Ruzombernk 8_Rimavska_Sobota 9_Lucenec 8_Rimavska_Sobota 0_Ruzombernk",
+        "0_Ruzombernk 9_Lucenec 10_Komarno 9_Lucenec 0_Ruzombernk",
+        "0_Ruzombernk 10_Komarno 11_Brno_Warsaw 10_Komarno 0_Ruzombernk",
+        "0_Ruzombernk 11_Brno_Warsaw 12_Prague_Frankfurt 11_Brno_Warsaw 0_Ruzombernk",
+        "0_Ruzombernk 12_Prague_Frankfurt 13_Vienna 12_Prague_Frankfurt 0_Ruzombernk",
+        "0_Ruzombernk 13_Vienna 14_Gyor_Budapest 13_Vienna 0_Ruzombernk",
+        "0_Ruzombernk 14_Gyor_Budapest 15_Nove_Zamky 14_Gyor_Budapest 0_Ruzombernk",
+        "0_Ruzombernk 15_Nove_Zamky 16_Nitra 15_Nove_Zamky 0_Ruzombernk",
+        "0_Ruzombernk 16_Nitra 18_Topolcany 16_Nitra 0_Ruzombernk",
+        "0_Ruzombernk 18_Topolcany 19_Novaky 18_Topolcany 0_Ruzombernk",
+        "0_Ruzombernk 19_Novaky 20_Prievidza 19_Novaky 0_Ruzombernk",
+        "0_Ruzombernk 20_Prievidza 21_None 20_Prievidza 0_Ruzombernk",
+        "0_Ruzombernk 21_None 22_None 21_None 0_Ruzombernk",
+        "0_Ruzombernk 22_None 23_Piestany 22_None 0_Ruzombernk",
+        "0_Ruzombernk 23_Piestany 24_Nove_Mest_nad_Vahom 23_Piestany 0_Ruzombernk",
+        "0_Ruzombernk 24_Nove_Mest_nad_Vahom 30_Presov 24_Nove_Mest_nad_Vahom 0_Ruzombernk",
+        "0_Ruzombernk 32_Svidnik 30_Presov 32_Svidnik 0_Ruzombernk",
+        "0_Ruzombernk 33_Humenne 30_Presov 33_Humenne 0_Ruzombernk",
+        "0_Ruzombernk 34_Michalovce 24_Nove_Mest_nad_Vahom 34_Michalovce 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 17_Trencin 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 25_Spisska 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 24_Nove_Mest_nad_Vahom 17_Trencin 24_Nove_Mest_nad_Vahom 0_Ruzombernk",
+        "0_Ruzombernk 23_Piestany 17_Trencin 23_Piestany 0_Ruzombernk",
+        "0_Ruzombernk 22_None 17_Trencin 22_None 0_Ruzombernk",
+        "0_Ruzombernk 32_Svidnik 25_Spisska 32_Svidnik 0_Ruzombernk",
+        "0_Ruzombernk 21_None 17_Trencin 21_None 0_Ruzombernk",
+        "0_Ruzombernk 34_Michalovce 25_Spisska 34_Michalovce 0_Ruzombernk"
+    ],
+    "values": [
+        30,
+        29,
+        28.5,
+        27.75,
+        26.75,
+        26.125,
+        25.4375,
+        24.78125,
+        24.109375,
+        23.4453125,
+        22.77734375,
+        22.111328125,
+        21.4443359375,
+        20.77783203125,
+        20.111083984375,
+        19.4444580078125,
+        18.77777099609375,
+        18.111114501953125,
+        17.444442749023438,
+        16.77777862548828,
+        16.11111068725586,
+        15.44444465637207,
+        14.44444465637207,
+        13.777777671813965,
+        13.027777671813965,
+        13.027777671813965,
+        13.027777671813965,
+        12.94444465637207,
+        12.61111068725586,
+        12.333333333333334,
+        12.277778625488281,
+        12.166666666666668,
+        12.000000000000002
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 18,
+    "runtime": 122486110,
+    "lpBound": 12.000000000000002,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 1_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 3_Liptovdky_Mikulas 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 8_Rimavska_Sobota 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 5_Zvolen 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 6_Zilina 17_Trencin 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 26_Poprad 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 7_Namestovo 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 9_Lucenec 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 10_Komarno 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 11_Brno_Warsaw 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 12_Prague_Frankfurt 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 13_Vienna 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 14_Gyor_Budapest 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 15_Nove_Zamky 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 16_Nitra 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 17_Trencin 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 18_Topolcany 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 19_Novaky 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 20_Prievidza 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 21_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 22_None 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 23_Piestany 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 24_Nove_Mest_nad_Vahom 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 25_Spisska 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Ruzombernk 2_Svit 25_Spisska 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 6_Zilina 25_Spisska 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 6_Zilina 30_Presov 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 32_Svidnik 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 33_Humenne 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 34_Michalovce 0_Ruzombernk 0_Ruzombernk 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 30_Presov 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 30_Presov 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 2_Svit 31_Bardejov 2_Svit 0_Ruzombernk"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Ruzombernk 1_None 3_Liptovdky_Mikulas 1_None 0_Ruzombernk"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Ruzombernk 3_Liptovdky_Mikulas 5_Zvolen 3_Liptovdky_Mikulas 0_Ruzombernk"
+        },
+        {
+            "x": 0.375,
+            "cycle": "0_Ruzombernk 5_Zvolen 7_Namestovo 5_Zvolen 0_Ruzombernk"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ruzombernk 6_Zilina 31_Bardejov 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 0.3125,
+            "cycle": "0_Ruzombernk 7_Namestovo 8_Rimavska_Sobota 7_Namestovo 0_Ruzombernk"
+        },
+        {
+            "x": 0.34375,
+            "cycle": "0_Ruzombernk 8_Rimavska_Sobota 9_Lucenec 8_Rimavska_Sobota 0_Ruzombernk"
+        },
+        {
+            "x": 0.328125,
+            "cycle": "0_Ruzombernk 9_Lucenec 10_Komarno 9_Lucenec 0_Ruzombernk"
+        },
+        {
+            "x": 0.3359375,
+            "cycle": "0_Ruzombernk 10_Komarno 11_Brno_Warsaw 10_Komarno 0_Ruzombernk"
+        },
+        {
+            "x": 0.33203125,
+            "cycle": "0_Ruzombernk 11_Brno_Warsaw 12_Prague_Frankfurt 11_Brno_Warsaw 0_Ruzombernk"
+        },
+        {
+            "x": 0.333984375,
+            "cycle": "0_Ruzombernk 12_Prague_Frankfurt 13_Vienna 12_Prague_Frankfurt 0_Ruzombernk"
+        },
+        {
+            "x": 0.3330078125,
+            "cycle": "0_Ruzombernk 13_Vienna 14_Gyor_Budapest 13_Vienna 0_Ruzombernk"
+        },
+        {
+            "x": 0.33349609375,
+            "cycle": "0_Ruzombernk 14_Gyor_Budapest 15_Nove_Zamky 14_Gyor_Budapest 0_Ruzombernk"
+        },
+        {
+            "x": 0.333251953125,
+            "cycle": "0_Ruzombernk 15_Nove_Zamky 16_Nitra 15_Nove_Zamky 0_Ruzombernk"
+        },
+        {
+            "x": 0.3333740234375,
+            "cycle": "0_Ruzombernk 16_Nitra 18_Topolcany 16_Nitra 0_Ruzombernk"
+        },
+        {
+            "x": 0.33331298828125,
+            "cycle": "0_Ruzombernk 18_Topolcany 19_Novaky 18_Topolcany 0_Ruzombernk"
+        },
+        {
+            "x": 0.333343505859375,
+            "cycle": "0_Ruzombernk 19_Novaky 20_Prievidza 19_Novaky 0_Ruzombernk"
+        },
+        {
+            "x": 0.3333282470703125,
+            "cycle": "0_Ruzombernk 20_Prievidza 21_None 20_Prievidza 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 21_None 22_None 21_None 0_Ruzombernk"
+        },
+        {
+            "x": 0.22222391764322919,
+            "cycle": "0_Ruzombernk 22_None 23_Piestany 22_None 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 23_Piestany 24_Nove_Mest_nad_Vahom 23_Piestany 0_Ruzombernk"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Ruzombernk 24_Nove_Mest_nad_Vahom 30_Presov 24_Nove_Mest_nad_Vahom 0_Ruzombernk"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Ruzombernk 32_Svidnik 30_Presov 32_Svidnik 0_Ruzombernk"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Ruzombernk 33_Humenne 30_Presov 33_Humenne 0_Ruzombernk"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Ruzombernk 34_Michalovce 24_Nove_Mest_nad_Vahom 34_Michalovce 0_Ruzombernk"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ruzombernk 6_Zilina 17_Trencin 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Ruzombernk 6_Zilina 25_Spisska 6_Zilina 0_Ruzombernk"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ruzombernk 24_Nove_Mest_nad_Vahom 17_Trencin 24_Nove_Mest_nad_Vahom 0_Ruzombernk"
+        },
+        {
+            "x": 0.38888804117838544,
+            "cycle": "0_Ruzombernk 23_Piestany 17_Trencin 23_Piestany 0_Ruzombernk"
+        },
+        {
+            "x": 0.2777760823567708,
+            "cycle": "0_Ruzombernk 22_None 17_Trencin 22_None 0_Ruzombernk"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Ruzombernk 32_Svidnik 25_Spisska 32_Svidnik 0_Ruzombernk"
+        },
+        {
+            "x": 0.33333587646484375,
+            "cycle": "0_Ruzombernk 21_None 17_Trencin 21_None 0_Ruzombernk"
+        },
+        {
+            "x": 0.16666666666666669,
+            "cycle": "0_Ruzombernk 34_Michalovce 25_Spisska 34_Michalovce 0_Ruzombernk"
+        }
+    ],
+    "greedySolution": [
+        "0_Ruzombernk 2_Svit 31_Bardejov 2_Svit 0_Ruzombernk",
+        "0_Ruzombernk 1_None 3_Liptovdky_Mikulas 1_None 0_Ruzombernk",
+        "0_Ruzombernk 3_Liptovdky_Mikulas 5_Zvolen 3_Liptovdky_Mikulas 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 31_Bardejov 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 7_Namestovo 8_Rimavska_Sobota 7_Namestovo 0_Ruzombernk",
+        "0_Ruzombernk 9_Lucenec 10_Komarno 9_Lucenec 0_Ruzombernk",
+        "0_Ruzombernk 11_Brno_Warsaw 12_Prague_Frankfurt 11_Brno_Warsaw 0_Ruzombernk",
+        "0_Ruzombernk 13_Vienna 14_Gyor_Budapest 13_Vienna 0_Ruzombernk",
+        "0_Ruzombernk 15_Nove_Zamky 16_Nitra 15_Nove_Zamky 0_Ruzombernk",
+        "0_Ruzombernk 18_Topolcany 19_Novaky 18_Topolcany 0_Ruzombernk",
+        "0_Ruzombernk 20_Prievidza 21_None 20_Prievidza 0_Ruzombernk",
+        "0_Ruzombernk 22_None 23_Piestany 22_None 0_Ruzombernk",
+        "0_Ruzombernk 33_Humenne 30_Presov 33_Humenne 0_Ruzombernk",
+        "0_Ruzombernk 34_Michalovce 24_Nove_Mest_nad_Vahom 34_Michalovce 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 17_Trencin 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 6_Zilina 25_Spisska 6_Zilina 0_Ruzombernk",
+        "0_Ruzombernk 23_Piestany 17_Trencin 23_Piestany 0_Ruzombernk",
+        "0_Ruzombernk 32_Svidnik 25_Spisska 32_Svidnik 0_Ruzombernk"
+    ]
+}

@@ -1,0 +1,774 @@
+{
+    "initialCoverSize": 121,
+    "times": [
+        2862740,
+        16376067,
+        32089279,
+        48571139,
+        67812573,
+        83994284,
+        99333963,
+        114057255,
+        130427927,
+        149113181,
+        168262924,
+        183674937,
+        197500284,
+        210907108,
+        229608581,
+        246540772,
+        260272164,
+        275356297,
+        291337188,
+        300161576,
+        308919514,
+        317575095,
+        330014472,
+        339637084,
+        348377330,
+        357013574,
+        365825765,
+        375078740,
+        385074494,
+        395572034,
+        404353369,
+        413143700,
+        421681083,
+        430489104,
+        439926252,
+        449181050,
+        458564398,
+        467662381,
+        476455450,
+        485221549,
+        494088354,
+        503004407,
+        511791191,
+        520740534,
+        529599249,
+        538589059,
+        548654947,
+        559955491,
+        569143605,
+        577896686,
+        586635074,
+        595663992,
+        604522431,
+        613541368,
+        622545088,
+        631566065,
+        640474942,
+        650016589,
+        660073171,
+        669728230,
+        678782609,
+        688813824
+    ],
+    "finalCoverSize": 44,
+    "minSegCycles": [
+        "1_Detroit@0_Boston 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 2_Philadelphia 0_Boston 1_Detroit",
+        "1_Detroit 5_San_Jose 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 2_Philadelphia 25_Pittsburgh 1_Detroit",
+        "1_Detroit@0_Boston 44_Baltimore 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 15_MAE_East 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 33_NY-IIX 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 13_BtN_London_POP 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 3_New_York 5_San_Jose 1_Detroit",
+        "1_Detroit@0_Boston 21_BtN_Frankfurt_POP 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 22_BtN_London_POP 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 31_New_York 0_Boston 1_Detroit",
+        "1_Detroit 7_Portland 5_San_Jose 1_Detroit 1_Detroit",
+        "1_Detroit 5_San_Jose 7_Portland 1_Detroit 1_Detroit",
+        "1_Detroit 8_Sunnyvale 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 12_San_Jose 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 19_PAIX 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 20_MAE_West 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 26_PAIX 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 10_Seattle 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 14_SIX 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 5_San_Jose 9_Los_Angeles 1_Detroit 1_Detroit",
+        "1_Detroit 9_Los_Angeles 4_Sacramento@5_San_Jose 1_Detroit",
+        "1_Detroit 5_San_Jose 37_Phoenix 5_San_Jose 1_Detroit",
+        "1_Detroit 38_San_Diego 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 11_Los_Angeles 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 27_BtN_Hong_Kong_POP 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 28_BtN_Hong_Kong_POP 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 16_MAE_Central 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 17_PAIX 0_Boston 0_Boston 1_Detroit",
+        "1_Detroit 18_PAIX 0_Boston 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 23_AShburn 0_Boston@1_Detroit",
+        "1_Detroit 24_Miami 0_Boston 0_Boston 1_Detroit",
+        "1_Detroit 25_Pittsburgh 2_Philadelphia 0_Boston 1_Detroit",
+        "1_Detroit 15_MAE_East 0_Boston 0_Boston 1_Detroit",
+        "1_Detroit 29_Atlanta 0_Boston 0_Boston 1_Detroit",
+        "1_Detroit 30_Chicago 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 32_Dallas 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 34_Ameritech_AADS 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 36_San_Antonio 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 42_Houston 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 39_Tampa 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 36_San_Antonio 42_Houston 1_Detroit 1_Detroit",
+        "1_Detroit 36_San_Antonio 37_Phoenix 5_San_Jose 1_Detroit",
+        "1_Detroit 38_San_Diego 36_San_Antonio 1_Detroit 1_Detroit",
+        "1_Detroit 36_San_Antonio 38_San_Diego 1_Detroit 1_Detroit",
+        "1_Detroit 39_Tampa 2_Philadelphia 0_Boston 1_Detroit",
+        "1_Detroit 15_MAE_East 39_Tampa 1_Detroit 1_Detroit",
+        "1_Detroit 39_Tampa 42_Houston 1_Detroit 1_Detroit",
+        "1_Detroit 42_Houston 36_San_Antonio 1_Detroit 1_Detroit",
+        "1_Detroit 42_Houston 39_Tampa 1_Detroit 1_Detroit",
+        "1_Detroit 15_MAE_East 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 50_Raleigh 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 15_MAE_East 44_Baltimore 0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 44_Baltimore 15_MAE_East 1_Detroit",
+        "1_Detroit 46_Minneapolis 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit 5_San_Jose 3_New_York@0_Boston 1_Detroit",
+        "1_Detroit 15_MAE_East 8_Sunnyvale 1_Detroit 1_Detroit",
+        "1_Detroit 8_Sunnyvale 50_Raleigh 1_Detroit 1_Detroit",
+        "1_Detroit 43_Washington 9_Los_Angeles 1_Detroit 1_Detroit",
+        "1_Detroit 7_Portland 13_BtN_London_POP 7_Portland 1_Detroit",
+        "1_Detroit 11_Los_Angeles 7_Portland 11_Los_Angeles 1_Detroit",
+        "1_Detroit 17_PAIX 39_Tampa 15_MAE_East 1_Detroit",
+        "1_Detroit 16_MAE_Central 43_Washington 16_MAE_Central 1_Detroit",
+        "1_Detroit 7_Portland 37_Phoenix 42_Houston 1_Detroit",
+        "1_Detroit 18_PAIX 12_San_Jose 7_Portland 1_Detroit",
+        "1_Detroit 10_Seattle 13_BtN_London_POP 10_Seattle 1_Detroit",
+        "1_Detroit 14_SIX 13_BtN_London_POP 14_SIX 1_Detroit",
+        "1_Detroit 15_MAE_East 13_BtN_London_POP 18_PAIX 1_Detroit",
+        "1_Detroit 12_San_Jose 21_BtN_Frankfurt_POP 12_San_Jose 1_Detroit",
+        "1_Detroit 19_PAIX 21_BtN_Frankfurt_POP 24_Miami 1_Detroit",
+        "1_Detroit 19_PAIX 20_MAE_West 19_PAIX 1_Detroit",
+        "1_Detroit 15_MAE_East 22_BtN_London_POP 20_MAE_West 1_Detroit",
+        "1_Detroit 24_Miami 22_BtN_London_POP 24_Miami 1_Detroit",
+        "1_Detroit 25_Pittsburgh 23_AShburn 25_Pittsburgh 1_Detroit",
+        "1_Detroit 26_PAIX 21_BtN_Frankfurt_POP 26_PAIX 1_Detroit",
+        "1_Detroit 27_BtN_Hong_Kong_POP 23_AShburn 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 28_BtN_Hong_Kong_POP 15_MAE_East 28_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 29_Atlanta 22_BtN_London_POP 29_Atlanta 1_Detroit",
+        "1_Detroit 20_MAE_West 30_Chicago 20_MAE_West 1_Detroit",
+        "1_Detroit 15_MAE_East 31_New_York 30_Chicago 1_Detroit",
+        "1_Detroit 32_Dallas 31_New_York 32_Dallas 1_Detroit",
+        "1_Detroit 30_Chicago 22_BtN_London_POP 30_Chicago 1_Detroit",
+        "1_Detroit 34_Ameritech_AADS 33_NY-IIX 34_Ameritech_AADS 1_Detroit",
+        "1_Detroit 38_San_Diego 33_NY-IIX 38_San_Diego 1_Detroit",
+        "1_Detroit 42_Houston 39_Tampa 43_Washington 1_Detroit",
+        "1_Detroit 50_Raleigh 44_Baltimore 50_Raleigh 1_Detroit",
+        "1_Detroit 17_PAIX 33_NY-IIX 17_PAIX 1_Detroit",
+        "1_Detroit 39_Tampa 43_Washington 39_Tampa 1_Detroit",
+        "1_Detroit 46_Minneapolis 33_NY-IIX 15_MAE_East 1_Detroit",
+        "1_Detroit 46_Minneapolis 31_New_York 46_Minneapolis 1_Detroit",
+        "1_Detroit 38_San_Diego 37_Phoenix 11_Los_Angeles 1_Detroit",
+        "1_Detroit 8_Sunnyvale 12_San_Jose 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 42_Houston 37_Phoenix 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 36_San_Antonio 38_San_Diego 36_San_Antonio 1_Detroit",
+        "1_Detroit 36_San_Antonio 42_Houston 36_San_Antonio 1_Detroit",
+        "1_Detroit 11_Los_Angeles 37_Phoenix 38_San_Diego 1_Detroit",
+        "1_Detroit 39_Tampa 42_Houston 39_Tampa 1_Detroit",
+        "1_Detroit 42_Houston 15_MAE_East 42_Houston 1_Detroit",
+        "1_Detroit 36_San_Antonio 7_Portland 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 15_MAE_East 17_PAIX 10_Seattle 1_Detroit",
+        "1_Detroit 24_Miami 39_Tampa 24_Miami 1_Detroit",
+        "1_Detroit 27_BtN_Hong_Kong_POP 43_Washington 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 18_PAIX 43_Washington 18_PAIX 1_Detroit",
+        "1_Detroit 10_Seattle 4_Sacramento 10_Seattle 1_Detroit",
+        "1_Detroit 17_PAIX 0_Boston 17_PAIX 1_Detroit",
+        "1_Detroit 17_PAIX 31_New_York 17_PAIX 1_Detroit",
+        "1_Detroit 25_Pittsburgh 2_Philadelphia 17_PAIX 1_Detroit",
+        "1_Detroit 17_PAIX 32_Dallas 17_PAIX 1_Detroit",
+        "1_Detroit 38_San_Diego 36_San_Antonio 42_Houston 1_Detroit",
+        "1_Detroit 36_San_Antonio 42_Houston 39_Tampa 1_Detroit",
+        "1_Detroit 15_MAE_East 39_Tampa 42_Houston 1_Detroit",
+        "1_Detroit 43_Washington 42_Houston 36_San_Antonio 1_Detroit",
+        "1_Detroit 7_Portland 37_Phoenix 7_Portland 1_Detroit",
+        "1_Detroit 39_Tampa 15_MAE_East 16_MAE_Central 1_Detroit",
+        "1_Detroit 16_MAE_Central 15_MAE_East 39_Tampa 1_Detroit",
+        "1_Detroit 42_Houston 39_Tampa 18_PAIX 1_Detroit",
+        "1_Detroit 42_Houston 36_San_Antonio 38_San_Diego 1_Detroit",
+        "1_Detroit 39_Tampa 42_Houston 36_San_Antonio 1_Detroit",
+        "1_Detroit 18_PAIX 39_Tampa 42_Houston 1_Detroit",
+        "1_Detroit 11_Los_Angeles 15_MAE_East 11_Los_Angeles 1_Detroit"
+    ],
+    "values": [
+        44,
+        42,
+        40,
+        38,
+        36,
+        36,
+        34.5,
+        33.5,
+        32.5,
+        32.5,
+        32.25,
+        30.5,
+        30.5,
+        28.5,
+        28.5,
+        26.5,
+        26,
+        25.5,
+        24.75,
+        24.25,
+        24,
+        23,
+        22.25,
+        22.05,
+        21.05,
+        21.05,
+        21.05,
+        21.05,
+        21.05,
+        20.55,
+        20.3,
+        19.78571428571429,
+        18.285714285714285,
+        18.285714285714285,
+        18.285714285714285,
+        17.714285714285715,
+        17.714285714285715,
+        17.546875,
+        16.714285714285715,
+        16.609375,
+        16.517857142857142,
+        16.453125,
+        16.36140350877193,
+        16.3359375,
+        16.2421875,
+        16.241666666666667,
+        16.24166666666667,
+        16.241666666666667,
+        16.241666666666667,
+        16.229166666666664,
+        16.229166666666664,
+        16.229166666666668,
+        16.215277777777775,
+        16.208333333333332,
+        16.16197916666667,
+        16.14409722222222,
+        16.13621794871795,
+        16.098550724637676,
+        16.076291079812204,
+        16.076291079812204,
+        16.013888888888893,
+        16
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 27,
+    "runtime": 987264964,
+    "lpBound": 16,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 2_Philadelphia 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 5_San_Jose 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 2_Philadelphia 25_Pittsburgh 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit@0_Boston 44_Baltimore 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 15_MAE_East 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 33_NY-IIX 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 13_BtN_London_POP 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 3_New_York 5_San_Jose 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 21_BtN_Frankfurt_POP 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 22_BtN_London_POP 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 31_New_York 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 7_Portland 5_San_Jose 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 5_San_Jose 7_Portland 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 8_Sunnyvale 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 12_San_Jose 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 19_PAIX 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 20_MAE_West 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 26_PAIX 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 10_Seattle 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 14_SIX 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 5_San_Jose 9_Los_Angeles 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 9_Los_Angeles 4_Sacramento@5_San_Jose 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 5_San_Jose 37_Phoenix 5_San_Jose 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 38_San_Diego 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 11_Los_Angeles 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 27_BtN_Hong_Kong_POP 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 28_BtN_Hong_Kong_POP 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 16_MAE_Central 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 17_PAIX 0_Boston 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 18_PAIX 0_Boston 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit@0_Boston 23_AShburn 0_Boston@1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 24_Miami 0_Boston 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 25_Pittsburgh 2_Philadelphia 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 0_Boston 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 29_Atlanta 0_Boston 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 30_Chicago 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 32_Dallas 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 34_Ameritech_AADS 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 42_Houston 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 39_Tampa 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 42_Houston 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 37_Phoenix 5_San_Jose 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 38_San_Diego 36_San_Antonio 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 38_San_Diego 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 39_Tampa 2_Philadelphia 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 39_Tampa 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 39_Tampa 42_Houston 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 42_Houston 36_San_Antonio 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 42_Houston 39_Tampa 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 50_Raleigh 1_Detroit 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 15_MAE_East 44_Baltimore 0_Boston 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit@0_Boston 44_Baltimore 15_MAE_East 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 46_Minneapolis 1_Detroit@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 5_San_Jose 3_New_York@0_Boston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 8_Sunnyvale 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 8_Sunnyvale 50_Raleigh 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 43_Washington 9_Los_Angeles 1_Detroit 1_Detroit"
+        },
+        {
+            "x": 0.09895833333333333,
+            "cycle": "1_Detroit 7_Portland 13_BtN_London_POP 7_Portland 1_Detroit"
+        },
+        {
+            "x": 0.296875,
+            "cycle": "1_Detroit 11_Los_Angeles 7_Portland 11_Los_Angeles 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 17_PAIX 39_Tampa 15_MAE_East 1_Detroit"
+        },
+        {
+            "x": 0.32421875,
+            "cycle": "1_Detroit 16_MAE_Central 43_Washington 16_MAE_Central 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 7_Portland 37_Phoenix 42_Houston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 18_PAIX 12_San_Jose 7_Portland 1_Detroit"
+        },
+        {
+            "x": 0.4010416666666667,
+            "cycle": "1_Detroit 10_Seattle 13_BtN_London_POP 10_Seattle 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 14_SIX 13_BtN_London_POP 14_SIX 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 13_BtN_London_POP 18_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 12_San_Jose 21_BtN_Frankfurt_POP 12_San_Jose 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 19_PAIX 21_BtN_Frankfurt_POP 24_Miami 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 19_PAIX 20_MAE_West 19_PAIX 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 22_BtN_London_POP 20_MAE_West 1_Detroit"
+        },
+        {
+            "x": 0.125,
+            "cycle": "1_Detroit 24_Miami 22_BtN_London_POP 24_Miami 1_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "1_Detroit 25_Pittsburgh 23_AShburn 25_Pittsburgh 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 26_PAIX 21_BtN_Frankfurt_POP 26_PAIX 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 27_BtN_Hong_Kong_POP 23_AShburn 27_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 28_BtN_Hong_Kong_POP 15_MAE_East 28_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 29_Atlanta 22_BtN_London_POP 29_Atlanta 1_Detroit"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_Detroit 20_MAE_West 30_Chicago 20_MAE_West 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 31_New_York 30_Chicago 1_Detroit"
+        },
+        {
+            "x": 0.4166666666666667,
+            "cycle": "1_Detroit 32_Dallas 31_New_York 32_Dallas 1_Detroit"
+        },
+        {
+            "x": 0.375,
+            "cycle": "1_Detroit 30_Chicago 22_BtN_London_POP 30_Chicago 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 34_Ameritech_AADS 33_NY-IIX 34_Ameritech_AADS 1_Detroit"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_Detroit 38_San_Diego 33_NY-IIX 38_San_Diego 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 42_Houston 39_Tampa 43_Washington 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 50_Raleigh 44_Baltimore 50_Raleigh 1_Detroit"
+        },
+        {
+            "x": 0.25,
+            "cycle": "1_Detroit 17_PAIX 33_NY-IIX 17_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.13671874999999997,
+            "cycle": "1_Detroit 39_Tampa 43_Washington 39_Tampa 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 46_Minneapolis 33_NY-IIX 15_MAE_East 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 46_Minneapolis 31_New_York 46_Minneapolis 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 38_San_Diego 37_Phoenix 11_Los_Angeles 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 8_Sunnyvale 12_San_Jose 27_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0.296875,
+            "cycle": "1_Detroit 42_Houston 37_Phoenix 27_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 36_San_Antonio 38_San_Diego 36_San_Antonio 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 36_San_Antonio 42_Houston 36_San_Antonio 1_Detroit"
+        },
+        {
+            "x": 0.296875,
+            "cycle": "1_Detroit 11_Los_Angeles 37_Phoenix 38_San_Diego 1_Detroit"
+        },
+        {
+            "x": 0.6875,
+            "cycle": "1_Detroit 39_Tampa 42_Houston 39_Tampa 1_Detroit"
+        },
+        {
+            "x": 0.09375,
+            "cycle": "1_Detroit 42_Houston 15_MAE_East 42_Houston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 7_Portland 27_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 17_PAIX 10_Seattle 1_Detroit"
+        },
+        {
+            "x": 0.375,
+            "cycle": "1_Detroit 24_Miami 39_Tampa 24_Miami 1_Detroit"
+        },
+        {
+            "x": 0.3515625,
+            "cycle": "1_Detroit 27_BtN_Hong_Kong_POP 43_Washington 27_BtN_Hong_Kong_POP 1_Detroit"
+        },
+        {
+            "x": 0.1875,
+            "cycle": "1_Detroit 18_PAIX 43_Washington 18_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.09895833333333331,
+            "cycle": "1_Detroit 10_Seattle 4_Sacramento 10_Seattle 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 17_PAIX 0_Boston 17_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.08333333333333331,
+            "cycle": "1_Detroit 17_PAIX 31_New_York 17_PAIX 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 25_Pittsburgh 2_Philadelphia 17_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.16666666666666666,
+            "cycle": "1_Detroit 17_PAIX 32_Dallas 17_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.5,
+            "cycle": "1_Detroit 38_San_Diego 36_San_Antonio 42_Houston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 36_San_Antonio 42_Houston 39_Tampa 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 15_MAE_East 39_Tampa 42_Houston 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 43_Washington 42_Houston 36_San_Antonio 1_Detroit"
+        },
+        {
+            "x": 0.703125,
+            "cycle": "1_Detroit 7_Portland 37_Phoenix 7_Portland 1_Detroit"
+        },
+        {
+            "x": 0.17578125000000003,
+            "cycle": "1_Detroit 39_Tampa 15_MAE_East 16_MAE_Central 1_Detroit"
+        },
+        {
+            "x": 0.17578125000000003,
+            "cycle": "1_Detroit 16_MAE_Central 15_MAE_East 39_Tampa 1_Detroit"
+        },
+        {
+            "x": 0.3125,
+            "cycle": "1_Detroit 42_Houston 39_Tampa 18_PAIX 1_Detroit"
+        },
+        {
+            "x": 0.203125,
+            "cycle": "1_Detroit 42_Houston 36_San_Antonio 38_San_Diego 1_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Detroit 39_Tampa 42_Houston 36_San_Antonio 1_Detroit"
+        },
+        {
+            "x": 0.3125,
+            "cycle": "1_Detroit 18_PAIX 39_Tampa 42_Houston 1_Detroit"
+        },
+        {
+            "x": 0.0546875,
+            "cycle": "1_Detroit 11_Los_Angeles 15_MAE_East 11_Los_Angeles 1_Detroit"
+        }
+    ],
+    "greedySolution": [
+        "1_Detroit@0_Boston 44_Baltimore 0_Boston 1_Detroit",
+        "1_Detroit 28_BtN_Hong_Kong_POP 1_Detroit 0_Boston 1_Detroit",
+        "1_Detroit 16_MAE_Central 1_Detroit@0_Boston 1_Detroit",
+        "1_Detroit@0_Boston 23_AShburn 0_Boston@1_Detroit",
+        "1_Detroit 11_Los_Angeles 7_Portland 11_Los_Angeles 1_Detroit",
+        "1_Detroit 17_PAIX 39_Tampa 15_MAE_East 1_Detroit",
+        "1_Detroit 10_Seattle 13_BtN_London_POP 10_Seattle 1_Detroit",
+        "1_Detroit 14_SIX 13_BtN_London_POP 14_SIX 1_Detroit",
+        "1_Detroit 15_MAE_East 13_BtN_London_POP 18_PAIX 1_Detroit",
+        "1_Detroit 19_PAIX 21_BtN_Frankfurt_POP 24_Miami 1_Detroit",
+        "1_Detroit 15_MAE_East 22_BtN_London_POP 20_MAE_West 1_Detroit",
+        "1_Detroit 25_Pittsburgh 23_AShburn 25_Pittsburgh 1_Detroit",
+        "1_Detroit 26_PAIX 21_BtN_Frankfurt_POP 26_PAIX 1_Detroit",
+        "1_Detroit 29_Atlanta 22_BtN_London_POP 29_Atlanta 1_Detroit",
+        "1_Detroit 15_MAE_East 31_New_York 30_Chicago 1_Detroit",
+        "1_Detroit 32_Dallas 31_New_York 32_Dallas 1_Detroit",
+        "1_Detroit 34_Ameritech_AADS 33_NY-IIX 34_Ameritech_AADS 1_Detroit",
+        "1_Detroit 38_San_Diego 33_NY-IIX 38_San_Diego 1_Detroit",
+        "1_Detroit 50_Raleigh 44_Baltimore 50_Raleigh 1_Detroit",
+        "1_Detroit 39_Tampa 43_Washington 39_Tampa 1_Detroit",
+        "1_Detroit 46_Minneapolis 31_New_York 46_Minneapolis 1_Detroit",
+        "1_Detroit 8_Sunnyvale 12_San_Jose 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 42_Houston 37_Phoenix 27_BtN_Hong_Kong_POP 1_Detroit",
+        "1_Detroit 36_San_Antonio 38_San_Diego 36_San_Antonio 1_Detroit",
+        "1_Detroit 39_Tampa 42_Houston 39_Tampa 1_Detroit",
+        "1_Detroit 38_San_Diego 36_San_Antonio 42_Houston 1_Detroit",
+        "1_Detroit 7_Portland 37_Phoenix 7_Portland 1_Detroit"
+    ]
+}

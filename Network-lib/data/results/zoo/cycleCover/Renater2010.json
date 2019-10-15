@@ -1,0 +1,708 @@
+{
+    "initialCoverSize": 109,
+    "times": [
+        2088866,
+        7149107,
+        12360476,
+        19131792,
+        24562508,
+        29679664,
+        35993433,
+        43878014,
+        49364554,
+        54427249,
+        59531896,
+        64545418,
+        69832746,
+        74887771,
+        79969146,
+        85068579,
+        90321326,
+        95452325,
+        100700927,
+        106013760,
+        111247102,
+        116647661,
+        123465810,
+        128631493,
+        134016089,
+        140420557,
+        146666965,
+        151884872,
+        157033190,
+        162350864,
+        167521978,
+        172843624,
+        178485332,
+        183835107,
+        189295162,
+        194921797,
+        200342937,
+        205628660,
+        211255793,
+        216372466,
+        222134456,
+        228828882,
+        234419213,
+        240368387,
+        247264385,
+        253610256,
+        259547389,
+        264592323,
+        270294526,
+        276193680,
+        282412656,
+        287939587,
+        293658840,
+        300873630,
+        306499388,
+        312008552,
+        317338665,
+        322667327,
+        328448667,
+        333693095,
+        339206839,
+        344657484,
+        350371196,
+        355888052
+    ],
+    "finalCoverSize": 38,
+    "minSegCycles": [
+        "2_Orleans 16_Vannes 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 0_Bordeaux 4_Clermont-Ferrand@0_Bordeaux 2_Orleans",
+        "2_Orleans 6_Toulouse@0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 1_Pau@0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 1_Pau 6_Toulouse@0_Bordeaux 2_Orleans",
+        "2_Orleans 5_Dijon 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 12_Le_Mans 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 14_Vierzon 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 3_Limoges 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 3_Limoges 4_Clermont-Ferrand@0_Bordeaux 2_Orleans",
+        "2_Orleans 5_Dijon 3_Limoges 2_Orleans 2_Orleans",
+        "2_Orleans 0_Bordeaux 5_Dijon 0_Bordeaux 2_Orleans",
+        "2_Orleans 8_Besancon 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 6_Toulouse 1_Pau@0_Bordeaux 2_Orleans",
+        "2_Orleans 0_Bordeaux 7_Montpellier 0_Bordeaux 2_Orleans",
+        "2_Orleans 1_Pau 25_Corte 1_Pau 2_Orleans",
+        "2_Orleans 0_Bordeaux 35_Strasbourg 0_Bordeaux 2_Orleans",
+        "2_Orleans 9_Grenoble 26_Cadarache 1_Pau 2_Orleans",
+        "2_Orleans 9_Grenoble 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 9_Grenoble 15_Geneve 0_Bordeaux 2_Orleans",
+        "2_Orleans 18_Quimper 19_Saint-Brieuc 0_Bordeaux 2_Orleans",
+        "2_Orleans 20_None 11_Brest 16_Vannes 2_Orleans",
+        "2_Orleans 12_Le_Mans 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 15_Geneve 9_Grenoble 0_Bordeaux 2_Orleans",
+        "2_Orleans 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 20_None 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 0_Bordeaux 2_Orleans",
+        "2_Orleans 0_Bordeaux 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 20_None 2_Orleans",
+        "2_Orleans 0_Bordeaux 12_Le_Mans 0_Bordeaux 2_Orleans",
+        "2_Orleans 24_Geant2 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 28_Nice 9_Grenoble 0_Bordeaux 2_Orleans",
+        "2_Orleans 9_Grenoble 28_Nice 1_Pau 2_Orleans",
+        "2_Orleans 1_Pau 26_Cadarache 1_Pau 2_Orleans",
+        "2_Orleans 25_Corte 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 29_SFINX 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 30_Internet_mondial 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 30_Internet_mondial 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 0_Bordeaux 30_Internet_mondial 0_Bordeaux 2_Orleans",
+        "2_Orleans 35_Strasbourg 0_Bordeaux 0_Bordeaux 2_Orleans",
+        "2_Orleans 38_Compiegne 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 39_Lille 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 0_Bordeaux 10_Lannion 0_Bordeaux 2_Orleans",
+        "2_Orleans 5_Dijon 36_Nancy 2_Orleans 2_Orleans",
+        "2_Orleans 38_Compiegne 39_Lille 2_Orleans 2_Orleans",
+        "2_Orleans 39_Lille 38_Compiegne 2_Orleans 2_Orleans",
+        "2_Orleans 40_Rouen 2_Orleans 0_Bordeaux 2_Orleans",
+        "2_Orleans 16_Vannes 40_Rouen 2_Orleans 2_Orleans",
+        "2_Orleans 35_Strasbourg 11_Brest 35_Strasbourg 2_Orleans",
+        "2_Orleans 17_Loreient 13_Tours 23_Angers 2_Orleans",
+        "2_Orleans 8_Besancon 3_Limoges 30_Internet_mondial 2_Orleans",
+        "2_Orleans 6_Toulouse 26_Cadarache 15_Geneve 2_Orleans",
+        "2_Orleans 28_Nice 12_Le_Mans 28_Nice 2_Orleans",
+        "2_Orleans 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 2_Orleans",
+        "2_Orleans 18_Quimper 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 3_Limoges 2_Orleans",
+        "2_Orleans 3_Limoges 12_Le_Mans 3_Limoges 2_Orleans",
+        "2_Orleans 6_Toulouse 10_Lannion 6_Toulouse 2_Orleans",
+        "2_Orleans 12_Le_Mans 14_Vierzon 12_Le_Mans 2_Orleans",
+        "2_Orleans 14_Vierzon 24_Geant2 14_Vierzon 2_Orleans",
+        "2_Orleans 25_Corte 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 23_Angers 2_Orleans",
+        "2_Orleans 24_Geant2 25_Corte 3_Limoges 2_Orleans",
+        "2_Orleans 3_Limoges 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 9_Grenoble 2_Orleans",
+        "2_Orleans 23_Angers 24_Geant2 23_Angers 2_Orleans",
+        "2_Orleans 12_Le_Mans 10_Lannion 29_SFINX 2_Orleans",
+        "2_Orleans 24_Geant2 30_Internet_mondial 24_Geant2 2_Orleans",
+        "2_Orleans 3_Limoges 35_Strasbourg 29_SFINX 2_Orleans",
+        "2_Orleans 15_Geneve 26_Cadarache 6_Toulouse 2_Orleans",
+        "2_Orleans 1_Pau 12_Le_Mans 1_Pau 2_Orleans",
+        "2_Orleans 3_Limoges 30_Internet_mondial 3_Limoges 2_Orleans",
+        "2_Orleans 35_Strasbourg 1_Pau 30_Internet_mondial 2_Orleans",
+        "2_Orleans 30_Internet_mondial 12_Le_Mans 6_Toulouse 2_Orleans",
+        "2_Orleans 30_Internet_mondial 1_Pau 25_Corte 2_Orleans",
+        "2_Orleans 9_Grenoble 35_Strasbourg 3_Limoges 2_Orleans",
+        "2_Orleans 1_Pau 28_Nice 3_Limoges 2_Orleans",
+        "2_Orleans 30_Internet_mondial 14_Vierzon 30_Internet_mondial 2_Orleans",
+        "2_Orleans 8_Besancon 23_Angers 8_Besancon 2_Orleans",
+        "2_Orleans 9_Grenoble 15_Geneve 9_Grenoble 2_Orleans",
+        "2_Orleans 15_Geneve 23_Angers 15_Geneve 2_Orleans",
+        "2_Orleans 9_Grenoble 28_Nice 9_Grenoble 2_Orleans",
+        "2_Orleans 30_Internet_mondial 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 35_Strasbourg 2_Orleans",
+        "2_Orleans 17_Loreient 10_Lannion 24_Geant2 2_Orleans",
+        "2_Orleans 35_Strasbourg 28_Nice 1_Pau 2_Orleans",
+        "2_Orleans 28_Nice 26_Cadarache 25_Corte 2_Orleans",
+        "2_Orleans 25_Corte 26_Cadarache 28_Nice 2_Orleans",
+        "2_Orleans 12_Le_Mans 10_Lannion 17_Loreient 2_Orleans",
+        "2_Orleans 29_SFINX 10_Lannion 13_Tours 2_Orleans",
+        "2_Orleans 38_Compiegne 39_Lille 38_Compiegne 2_Orleans",
+        "2_Orleans 39_Lille 10_Lannion 39_Lille 2_Orleans",
+        "2_Orleans 17_Loreient 10_Lannion 17_Loreient 2_Orleans",
+        "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 15_Geneve 2_Orleans",
+        "2_Orleans 23_Angers 15_Geneve 9_Grenoble 2_Orleans",
+        "2_Orleans 38_Compiegne 39_Lille 20_None 2_Orleans",
+        "2_Orleans 15_Geneve 26_Cadarache 15_Geneve 2_Orleans",
+        "2_Orleans 23_Angers 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 23_Angers 2_Orleans",
+        "2_Orleans 38_Compiegne 39_Lille 35_Strasbourg 2_Orleans",
+        "2_Orleans 41_Caen 12_Le_Mans 41_Caen 2_Orleans",
+        "2_Orleans 35_Strasbourg 38_Compiegne 35_Strasbourg 2_Orleans",
+        "2_Orleans 39_Lille 38_Compiegne 35_Strasbourg 2_Orleans",
+        "2_Orleans 23_Angers 9_Grenoble 15_Geneve 2_Orleans",
+        "2_Orleans 25_Corte 1_Pau 9_Grenoble 2_Orleans",
+        "2_Orleans 28_Nice 1_Pau 28_Nice 2_Orleans",
+        "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 3_Limoges 2_Orleans",
+        "2_Orleans 30_Internet_mondial 28_Nice 9_Grenoble 2_Orleans",
+        "2_Orleans 30_Internet_mondial 9_Grenoble 28_Nice 2_Orleans",
+        "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 20_None 2_Orleans",
+        "2_Orleans 35_Strasbourg 7_Montpellier 12_Le_Mans 2_Orleans",
+        "2_Orleans 25_Corte 1_Pau 25_Corte 2_Orleans",
+        "2_Orleans 6_Toulouse 10_Lannion 12_Le_Mans 2_Orleans",
+        "2_Orleans 41_Caen 6_Toulouse 41_Caen 2_Orleans",
+        "2_Orleans 35_Strasbourg 3_Limoges 30_Internet_mondial 2_Orleans",
+        "2_Orleans 39_Lille 29_SFINX 39_Lille 2_Orleans"
+    ],
+    "values": [
+        26,
+        25.5,
+        25.5,
+        24.5,
+        24.5,
+        24.5,
+        24,
+        23.5,
+        22.5,
+        21.5,
+        21,
+        20.25,
+        19,
+        19,
+        18.833333333333332,
+        18.785714285714285,
+        17.5,
+        17.25,
+        17.09375,
+        16.666666666666664,
+        16.666666666666664,
+        16,
+        16,
+        16,
+        15.5,
+        15.291666666666664,
+        15.125,
+        15.083333333333334,
+        15.083333333333334,
+        15.083333333333334,
+        14.866666666666664,
+        14.666666666666664,
+        14.45238095238095,
+        14.210526315789474,
+        14.027777777777779,
+        14.015151515151516,
+        13.765243902439021,
+        13.722826086956523,
+        13.533073929961088,
+        13.53307392996109,
+        12.840909090909092,
+        12.596003475238922,
+        12.543548580328258,
+        12.517985611510792,
+        12.517985611510792,
+        12.374784110535407,
+        12.176066024759285,
+        12.176066024759287,
+        12.172348484848484,
+        12.172348484848486,
+        12.166666666666666,
+        12.166666666666668,
+        12.144927536231883,
+        12.0990990990991,
+        12.059999999999997,
+        12.060000000000002,
+        12.058052434456929,
+        12.058052434456929,
+        12.058052434456929,
+        12.039473684210527,
+        12.039473684210526,
+        12.028985507246377,
+        12.011627906976743,
+        12
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 17,
+    "runtime": 450685083,
+    "lpBound": 12,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "2_Orleans 16_Vannes 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 4_Clermont-Ferrand@0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 6_Toulouse@0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 1_Pau@0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 1_Pau 6_Toulouse@0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 5_Dijon 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 12_Le_Mans 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 14_Vierzon 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 3_Limoges 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 3_Limoges 4_Clermont-Ferrand@0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 5_Dijon 3_Limoges 2_Orleans 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 5_Dijon 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 8_Besancon 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 6_Toulouse 1_Pau@0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 7_Montpellier 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 1_Pau 25_Corte 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 35_Strasbourg 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 9_Grenoble 26_Cadarache 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 9_Grenoble 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 9_Grenoble 15_Geneve 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 18_Quimper 19_Saint-Brieuc 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 20_None 11_Brest 16_Vannes 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 12_Le_Mans 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 15_Geneve 9_Grenoble 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 20_None 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 20_None 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 12_Le_Mans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 24_Geant2 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 28_Nice 9_Grenoble 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 9_Grenoble 28_Nice 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0.6216216216216217,
+            "cycle": "2_Orleans 1_Pau 26_Cadarache 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 25_Corte 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 29_SFINX 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 30_Internet_mondial 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 30_Internet_mondial 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 30_Internet_mondial 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 0_Bordeaux 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 38_Compiegne 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 39_Lille 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 0_Bordeaux 10_Lannion 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 5_Dijon 36_Nancy 2_Orleans 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 38_Compiegne 39_Lille 2_Orleans 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 39_Lille 38_Compiegne 2_Orleans 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 40_Rouen 2_Orleans 0_Bordeaux 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 16_Vannes 40_Rouen 2_Orleans 2_Orleans"
+        },
+        {
+            "x": 0.16216216216216217,
+            "cycle": "2_Orleans 35_Strasbourg 11_Brest 35_Strasbourg 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 17_Loreient 13_Tours 23_Angers 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 8_Besancon 3_Limoges 30_Internet_mondial 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 6_Toulouse 26_Cadarache 15_Geneve 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 28_Nice 12_Le_Mans 28_Nice 2_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orleans 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 18_Quimper 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0.14864864864864868,
+            "cycle": "2_Orleans 3_Limoges 12_Le_Mans 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0.32432432432432434,
+            "cycle": "2_Orleans 6_Toulouse 10_Lannion 6_Toulouse 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 12_Le_Mans 14_Vierzon 12_Le_Mans 2_Orleans"
+        },
+        {
+            "x": 0.4684684684684685,
+            "cycle": "2_Orleans 14_Vierzon 24_Geant2 14_Vierzon 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 25_Corte 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 23_Angers 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 24_Geant2 25_Corte 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 3_Limoges 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0.013513513513513487,
+            "cycle": "2_Orleans 23_Angers 24_Geant2 23_Angers 2_Orleans"
+        },
+        {
+            "x": 0.16216216216216228,
+            "cycle": "2_Orleans 12_Le_Mans 10_Lannion 29_SFINX 2_Orleans"
+        },
+        {
+            "x": 0.25225225225225234,
+            "cycle": "2_Orleans 24_Geant2 30_Internet_mondial 24_Geant2 2_Orleans"
+        },
+        {
+            "x": 0.32432432432432434,
+            "cycle": "2_Orleans 3_Limoges 35_Strasbourg 29_SFINX 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 15_Geneve 26_Cadarache 6_Toulouse 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 1_Pau 12_Le_Mans 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0.3783783783783783,
+            "cycle": "2_Orleans 3_Limoges 30_Internet_mondial 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0.32432432432432434,
+            "cycle": "2_Orleans 35_Strasbourg 1_Pau 30_Internet_mondial 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 30_Internet_mondial 12_Le_Mans 6_Toulouse 2_Orleans"
+        },
+        {
+            "x": 0.05405405405405392,
+            "cycle": "2_Orleans 30_Internet_mondial 1_Pau 25_Corte 2_Orleans"
+        },
+        {
+            "x": 0.32432432432432434,
+            "cycle": "2_Orleans 9_Grenoble 35_Strasbourg 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 1_Pau 28_Nice 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0.06306306306306302,
+            "cycle": "2_Orleans 30_Internet_mondial 14_Vierzon 30_Internet_mondial 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 8_Besancon 23_Angers 8_Besancon 2_Orleans"
+        },
+        {
+            "x": 0.054054054054053946,
+            "cycle": "2_Orleans 9_Grenoble 15_Geneve 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0.027027027027026973,
+            "cycle": "2_Orleans 15_Geneve 23_Angers 15_Geneve 2_Orleans"
+        },
+        {
+            "x": 0.5135135135135135,
+            "cycle": "2_Orleans 9_Grenoble 28_Nice 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0.3513513513513513,
+            "cycle": "2_Orleans 30_Internet_mondial 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 35_Strasbourg 2_Orleans"
+        },
+        {
+            "x": 0.013513513513513375,
+            "cycle": "2_Orleans 17_Loreient 10_Lannion 24_Geant2 2_Orleans"
+        },
+        {
+            "x": 0.05405405405405392,
+            "cycle": "2_Orleans 35_Strasbourg 28_Nice 1_Pau 2_Orleans"
+        },
+        {
+            "x": 0.3783783783783783,
+            "cycle": "2_Orleans 28_Nice 26_Cadarache 25_Corte 2_Orleans"
+        },
+        {
+            "x": 0.3783783783783783,
+            "cycle": "2_Orleans 25_Corte 26_Cadarache 28_Nice 2_Orleans"
+        },
+        {
+            "x": 0.013513513513513375,
+            "cycle": "2_Orleans 12_Le_Mans 10_Lannion 17_Loreient 2_Orleans"
+        },
+        {
+            "x": 0.17567567567567566,
+            "cycle": "2_Orleans 29_SFINX 10_Lannion 13_Tours 2_Orleans"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orleans 38_Compiegne 39_Lille 38_Compiegne 2_Orleans"
+        },
+        {
+            "x": 0.16216216216216228,
+            "cycle": "2_Orleans 39_Lille 10_Lannion 39_Lille 2_Orleans"
+        },
+        {
+            "x": 0.9864864864864866,
+            "cycle": "2_Orleans 17_Loreient 10_Lannion 17_Loreient 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 15_Geneve 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 23_Angers 15_Geneve 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 38_Compiegne 39_Lille 20_None 2_Orleans"
+        },
+        {
+            "x": 0.945945945945946,
+            "cycle": "2_Orleans 15_Geneve 26_Cadarache 15_Geneve 2_Orleans"
+        },
+        {
+            "x": 0.6486486486486487,
+            "cycle": "2_Orleans 23_Angers 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 23_Angers 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 38_Compiegne 39_Lille 35_Strasbourg 2_Orleans"
+        },
+        {
+            "x": 0.14864864864864868,
+            "cycle": "2_Orleans 41_Caen 12_Le_Mans 41_Caen 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 38_Compiegne 35_Strasbourg 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 39_Lille 38_Compiegne 35_Strasbourg 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 23_Angers 9_Grenoble 15_Geneve 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 25_Corte 1_Pau 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0.2297297297297296,
+            "cycle": "2_Orleans 28_Nice 1_Pau 28_Nice 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 3_Limoges 2_Orleans"
+        },
+        {
+            "x": 0.10810810810810823,
+            "cycle": "2_Orleans 30_Internet_mondial 28_Nice 9_Grenoble 2_Orleans"
+        },
+        {
+            "x": 0.10810810810810825,
+            "cycle": "2_Orleans 30_Internet_mondial 9_Grenoble 28_Nice 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 20_None 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 35_Strasbourg 7_Montpellier 12_Le_Mans 2_Orleans"
+        },
+        {
+            "x": 0.09459459459459475,
+            "cycle": "2_Orleans 25_Corte 1_Pau 25_Corte 2_Orleans"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orleans 6_Toulouse 10_Lannion 12_Le_Mans 2_Orleans"
+        },
+        {
+            "x": 0.3513513513513513,
+            "cycle": "2_Orleans 41_Caen 6_Toulouse 41_Caen 2_Orleans"
+        },
+        {
+            "x": 0.29729729729729737,
+            "cycle": "2_Orleans 35_Strasbourg 3_Limoges 30_Internet_mondial 2_Orleans"
+        },
+        {
+            "x": 0.3378378378378377,
+            "cycle": "2_Orleans 39_Lille 29_SFINX 39_Lille 2_Orleans"
+        }
+    ],
+    "greedySolution": [
+        "2_Orleans 35_Strasbourg 11_Brest 35_Strasbourg 2_Orleans",
+        "2_Orleans 6_Toulouse 26_Cadarache 15_Geneve 2_Orleans",
+        "2_Orleans 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 21_Outre_Mer:_Nouvelle_Caledonie,_Polynesie_Francaise,_La_Reunion 2_Orleans",
+        "2_Orleans 18_Quimper 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 3_Limoges 2_Orleans",
+        "2_Orleans 6_Toulouse 10_Lannion 6_Toulouse 2_Orleans",
+        "2_Orleans 14_Vierzon 24_Geant2 14_Vierzon 2_Orleans",
+        "2_Orleans 3_Limoges 35_Strasbourg 29_SFINX 2_Orleans",
+        "2_Orleans 15_Geneve 26_Cadarache 6_Toulouse 2_Orleans",
+        "2_Orleans 35_Strasbourg 1_Pau 30_Internet_mondial 2_Orleans",
+        "2_Orleans 30_Internet_mondial 1_Pau 25_Corte 2_Orleans",
+        "2_Orleans 9_Grenoble 35_Strasbourg 3_Limoges 2_Orleans",
+        "2_Orleans 9_Grenoble 28_Nice 9_Grenoble 2_Orleans",
+        "2_Orleans 38_Compiegne 39_Lille 38_Compiegne 2_Orleans",
+        "2_Orleans 17_Loreient 10_Lannion 17_Loreient 2_Orleans",
+        "2_Orleans 23_Angers 22_Mayotte,_Guadeloupe,_Martinique,_Guyane 23_Angers 2_Orleans",
+        "2_Orleans 28_Nice 1_Pau 28_Nice 2_Orleans",
+        "2_Orleans 39_Lille 29_SFINX 39_Lille 2_Orleans"
+    ]
+}

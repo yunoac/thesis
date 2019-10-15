@@ -1,0 +1,206 @@
+{
+    "initialCoverSize": 40,
+    "times": [
+        11167968,
+        17271205,
+        35337462,
+        38199543,
+        41024341,
+        44138250,
+        47009114,
+        49945922,
+        54229733,
+        59609619,
+        65898916,
+        69612876,
+        71924834,
+        73527970,
+        78267265,
+        80855480,
+        83766787
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 1_KREPNET2 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 3_APAN-JP 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 6_ASNET 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 7_GOOGLE 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 4_International 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 5_CERNET 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 8_TEIN3 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 9_Vocational_Training_Council 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 10_HKEAA 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 11_Open_Uni 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 12_Technology_Park 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 4_International 5_CERNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 17_PolyU 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 15_HKU,17_PolyU 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 5_CERNET 4_International 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 16_HKUST,18_CUHK 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 17_PolyU,15_HKU 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 17_PolyU 8_TEIN3 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 19_CityU 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 18_CUHK,16_HKUST 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 8_TEIN3 17_PolyU 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 20_HKBU 0_ASGCNET 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 19_CityU 20_HKBU 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 20_HKBU 19_CityU 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 10_HKEAA 9_Vocational_Training_Council 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 3_APAN-JP 1_KREPNET2 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 6_ASNET 1_KREPNET2 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 6_ASNET 3_APAN-JP 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 12_Technology_Park 4_International 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 7_GOOGLE 5_CERNET 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 9_Vocational_Training_Council 7_GOOGLE 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 10_HKEAA 7_GOOGLE 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 7_GOOGLE 4_International 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 12_Technology_Park 11_Open_Uni 0_ASGCNET"
+        },
+        {
+            "x": 1,
+            "cycle": "0_ASGCNET 11_Open_Uni 7_GOOGLE 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 17_PolyU 9_Vocational_Training_Council 0_ASGCNET"
+        },
+        {
+            "x": 0,
+            "cycle": "0_ASGCNET 10_HKEAA 5_CERNET 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 9_Vocational_Training_Council 17_PolyU 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 17_PolyU 12_Technology_Park 0_ASGCNET"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_ASGCNET 5_CERNET 10_HKEAA 0_ASGCNET"
+        }
+    ],
+    "values": [
+        18,
+        16,
+        15,
+        15,
+        14.5,
+        14.5,
+        13.5,
+        13.5,
+        13.5,
+        13.5,
+        13.5,
+        13,
+        13,
+        12.5,
+        12.5,
+        12.5,
+        12.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 2009016,
+    "lpBound": 12.5
+}

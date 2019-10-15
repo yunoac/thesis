@@ -1,0 +1,163 @@
+{
+    "initialCoverSize": 24,
+    "times": [
+        2276384,
+        4644600,
+        6904664,
+        8755509,
+        10962305,
+        11985890,
+        12841218,
+        13738517
+    ],
+    "finalCoverSize": 10,
+    "minSegCycles": [
+        "0_Marrkech 1_Fes@0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 2_Rabat 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 4_Tanger 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 2_Rabat 4_Tanger 0_Marrkech 0_Marrkech",
+        "0_Marrkech 11_GEANT 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 5_University_2 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 10_University_1 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech@1_Fes 6_None 1_Fes 0_Marrkech",
+        "0_Marrkech@1_Fes 8_Institution_1 1_Fes 0_Marrkech",
+        "0_Marrkech@1_Fes 9_University_3 1_Fes 0_Marrkech",
+        "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech",
+        "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech",
+        "0_Marrkech 4_Tanger 2_Rabat 0_Marrkech 0_Marrkech",
+        "0_Marrkech 12_Internet 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 14_University_4 0_Marrkech 0_Marrkech 0_Marrkech",
+        "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech",
+        "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech",
+        "0_Marrkech 5_University_2 7_Casa 5_University_2 0_Marrkech",
+        "0_Marrkech 10_University_1 2_Rabat 10_University_1 0_Marrkech",
+        "0_Marrkech 11_GEANT 12_Internet 11_GEANT 0_Marrkech",
+        "0_Marrkech 12_Internet 14_University_4 12_Internet 0_Marrkech",
+        "0_Marrkech 14_University_4 11_GEANT 14_University_4 0_Marrkech",
+        "0_Marrkech 14_University_4 2_Rabat 4_Tanger 0_Marrkech",
+        "0_Marrkech 10_University_1 8_Institution_1 10_University_1 0_Marrkech"
+    ],
+    "values": [
+        13,
+        11,
+        10,
+        9,
+        8.5,
+        7.999999999999999,
+        7.999999999999999,
+        7.999999999999999
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 9,
+    "runtime": 18330069,
+    "lpBound": 7.999999999999999,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 1_Fes@0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 2_Rabat 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 4_Tanger 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 2_Rabat 4_Tanger 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 11_GEANT 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 5_University_2 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 10_University_1 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech@1_Fes 6_None 1_Fes 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech@1_Fes 8_Institution_1 1_Fes 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech@1_Fes 9_University_3 1_Fes 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 4_Tanger 2_Rabat 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 12_Internet 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 14_University_4 0_Marrkech 0_Marrkech 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 5_University_2 7_Casa 5_University_2 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 10_University_1 2_Rabat 10_University_1 0_Marrkech"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_Marrkech 11_GEANT 12_Internet 11_GEANT 0_Marrkech"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Marrkech 12_Internet 14_University_4 12_Internet 0_Marrkech"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_Marrkech 14_University_4 11_GEANT 14_University_4 0_Marrkech"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Marrkech 14_University_4 2_Rabat 4_Tanger 0_Marrkech"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Marrkech 10_University_1 8_Institution_1 10_University_1 0_Marrkech"
+        }
+    ],
+    "greedySolution": [
+        "0_Marrkech@1_Fes 9_University_3 1_Fes 0_Marrkech",
+        "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech",
+        "0_Marrkech@1_Fes 6_None@15_None 0_Marrkech",
+        "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech",
+        "0_Marrkech 15_None@6_None 1_Fes@0_Marrkech",
+        "0_Marrkech 5_University_2 7_Casa 5_University_2 0_Marrkech",
+        "0_Marrkech 11_GEANT 12_Internet 11_GEANT 0_Marrkech",
+        "0_Marrkech 14_University_4 2_Rabat 4_Tanger 0_Marrkech",
+        "0_Marrkech 10_University_1 8_Institution_1 10_University_1 0_Marrkech"
+    ]
+}

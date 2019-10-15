@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "54_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 892609219,
+            "dest": "20_nrt1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_hkg1",
+            "nbpSR": 1,
+            "runtime": 484625465,
+            "dest": "44_JPIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "63_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 376970652,
+            "dest": "43_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_lon1",
+            "nbpSR": 1,
+            "runtime": 556610364,
+            "dest": "15_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "40_HKIX",
+            "nbpSR": 1,
+            "runtime": 681557425,
+            "dest": "48_PIPE_Networks",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NTT",
+            "nbpSR": 1,
+            "runtime": 815911435,
+            "dest": "3_mel6",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "63_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 370798812,
+            "dest": "9_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_iad1",
+            "nbpSR": 1,
+            "runtime": 551921681,
+            "dest": "28_PAIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Astraweb",
+            "nbpSR": 1,
+            "runtime": 372446286,
+            "dest": "32_LINX_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_PAIX",
+            "nbpSR": 1,
+            "runtime": 370109037,
+            "dest": "22_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Optus",
+            "nbpSR": 1,
+            "runtime": 1038072646,
+            "dest": "31_LINX_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "45_lax1",
+            "nbpSR": 1,
+            "runtime": 942046544,
+            "dest": "50_AARNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "29_Global_Crossing",
+            "nbpSR": 1,
+            "runtime": 360979641,
+            "dest": "61_adl2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_syd6",
+            "nbpSR": 3,
+            "runtime": 394477978,
+            "dest": "19_sjc2",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "44_JPIX",
+            "nbpSR": 1,
+            "runtime": 392073593,
+            "dest": "17_Starhub",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_cbr1",
+            "nbpSR": 1,
+            "runtime": 780700014,
+            "dest": "20_nrt1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "59_per1",
+            "nbpSR": 1,
+            "runtime": 871822250,
+            "dest": "3_mel6",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "8_Sprint",
+            "nbpSR": 1,
+            "runtime": 376334000,
+            "dest": "27_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "50_AARNet",
+            "nbpSR": 1,
+            "runtime": 1025292089,
+            "dest": "32_LINX_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_bne4",
+            "nbpSR": 1,
+            "runtime": 411681572,
+            "dest": "57_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_AMS_IX",
+            "nbpSR": 1,
+            "runtime": 380110865,
+            "dest": "26_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_cbr1",
+            "nbpSR": 1,
+            "runtime": 986070147,
+            "dest": "16_sin1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Equinix",
+            "nbpSR": 1,
+            "runtime": 363896798,
+            "dest": "2_University_of_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_bne1",
+            "nbpSR": 1,
+            "runtime": 525222272,
+            "dest": "37_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_bne1",
+            "nbpSR": 2,
+            "runtime": 408983914,
+            "dest": "60_adl6",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Sprint",
+            "nbpSR": 1,
+            "runtime": 366309264,
+            "dest": "1_syd6",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NTT",
+            "nbpSR": 1,
+            "runtime": 369463754,
+            "dest": "64_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Astraweb",
+            "nbpSR": 1,
+            "runtime": 368381659,
+            "dest": "24_iad1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_Google",
+            "nbpSR": 1,
+            "runtime": 367737259,
+            "dest": "17_Starhub",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_AARNet",
+            "nbpSR": 1,
+            "runtime": 1019309947,
+            "dest": "9_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "50_AARNet",
+            "nbpSR": 1,
+            "runtime": 635546439,
+            "dest": "44_JPIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Sprint",
+            "nbpSR": 1,
+            "runtime": 384520361,
+            "dest": "30_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "65_WAIX",
+            "nbpSR": 1,
+            "runtime": 367362244,
+            "dest": "17_Starhub",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "49_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 1113714111,
+            "dest": "12_Astraweb",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "60_adl6",
+            "nbpSR": 1,
+            "runtime": 947384328,
+            "dest": "5_hba1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_hba1",
+            "nbpSR": 1,
+            "runtime": 1057170269,
+            "dest": "43_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Equinix",
+            "nbpSR": 1,
+            "runtime": 365382398,
+            "dest": "23_PIPE_Networks",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "47_TransIX",
+            "nbpSR": 1,
+            "runtime": 862237845,
+            "dest": "21_akl1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_Equinix",
+            "nbpSR": 1,
+            "runtime": 368504720,
+            "dest": "39_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_bne4",
+            "nbpSR": 1,
+            "runtime": 421192772,
+            "dest": "42_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "41_Equinix",
+            "nbpSR": 1,
+            "runtime": 376435856,
+            "dest": "42_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_JPIX",
+            "nbpSR": 1,
+            "runtime": 386226668,
+            "dest": "19_sjc2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "48_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 670021334,
+            "dest": "63_PIPE_Networks",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_LINX_2",
+            "nbpSR": 1,
+            "runtime": 361535308,
+            "dest": "64_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Level_3",
+            "nbpSR": 1,
+            "runtime": 650121654,
+            "dest": "11_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "25_lon1",
+            "nbpSR": 3,
+            "runtime": 568200570,
+            "dest": "19_sjc2",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "51_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 391600369,
+            "dest": "43_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Equinix",
+            "nbpSR": 1,
+            "runtime": 1012263337,
+            "dest": "53_AARNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_LINX_2",
+            "nbpSR": 1,
+            "runtime": 354036933,
+            "dest": "59_per1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "58_per2",
+            "nbpSR": 1,
+            "runtime": 534454032,
+            "dest": "23_PIPE_Networks",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_sjc2",
+            "nbpSR": 2,
+            "runtime": 472098664,
+            "dest": "58_per2",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_bne4",
+            "nbpSR": 1,
+            "runtime": 1143164344,
+            "dest": "54_PIPE_Networks",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "52_PacNet",
+            "nbpSR": 1,
+            "runtime": 372474133,
+            "dest": "39_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_cbr1",
+            "nbpSR": 1,
+            "runtime": 676995985,
+            "dest": "22_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Level_3",
+            "nbpSR": 1,
+            "runtime": 376305068,
+            "dest": "31_LINX_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_syd6",
+            "nbpSR": 1,
+            "runtime": 438385445,
+            "dest": "64_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "54_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 979259370,
+            "dest": "24_iad1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_bne4",
+            "nbpSR": 1,
+            "runtime": 421726942,
+            "dest": "27_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "54_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 1080029989,
+            "dest": "30_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NTT",
+            "nbpSR": 1,
+            "runtime": 378436032,
+            "dest": "15_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Sprint",
+            "nbpSR": 1,
+            "runtime": 355428581,
+            "dest": "61_adl2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "40_HKIX",
+            "nbpSR": 1,
+            "runtime": 378708406,
+            "dest": "27_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_Equinix",
+            "nbpSR": 1,
+            "runtime": 356467792,
+            "dest": "42_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_Level_3",
+            "nbpSR": 1,
+            "runtime": 372699466,
+            "dest": "46_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "56_AARNet",
+            "nbpSR": 1,
+            "runtime": 367461458,
+            "dest": "43_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "33_AMS_IX",
+            "nbpSR": 1,
+            "runtime": 368291092,
+            "dest": "31_LINX_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_nrt1",
+            "nbpSR": 2,
+            "runtime": 490296362,
+            "dest": "25_lon1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_Equinix",
+            "nbpSR": 1,
+            "runtime": 367094105,
+            "dest": "8_Sprint",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_iad1",
+            "nbpSR": 1,
+            "runtime": 525122686,
+            "dest": "21_akl1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "47_TransIX",
+            "nbpSR": 1,
+            "runtime": 821396814,
+            "dest": "11_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "65_WAIX",
+            "nbpSR": 1,
+            "runtime": 380443830,
+            "dest": "27_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "55_AARNet",
+            "nbpSR": 1,
+            "runtime": 359163093,
+            "dest": "38_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "39_Equinix",
+            "nbpSR": 1,
+            "runtime": 383273043,
+            "dest": "13_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_PIPE_Networks",
+            "nbpSR": 1,
+            "runtime": 388726200,
+            "dest": "31_LINX_2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_JPIX",
+            "nbpSR": 1,
+            "runtime": 365983050,
+            "dest": "4_bne1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "38_Equinix",
+            "nbpSR": 1,
+            "runtime": 368596614,
+            "dest": "58_per2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_sin1",
+            "nbpSR": 2,
+            "runtime": 432763742,
+            "dest": "4_bne1",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_hkg1",
+            "nbpSR": 1,
+            "runtime": 506265420,
+            "dest": "27_Level_3",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_Level_3",
+            "nbpSR": 1,
+            "runtime": 827985990,
+            "dest": "5_hba1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "43_NTT",
+            "nbpSR": 1,
+            "runtime": 367946912,
+            "dest": "42_NTT",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_Optus",
+            "nbpSR": 1,
+            "runtime": 797889019,
+            "dest": "3_mel6",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_mel6",
+            "nbpSR": 1,
+            "runtime": 792143135,
+            "dest": "6_syd7",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "45_lax1",
+            "nbpSR": 1,
+            "runtime": 501258578,
+            "dest": "28_PAIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Sprint",
+            "nbpSR": 1,
+            "runtime": 384090430,
+            "dest": "8_Sprint",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_LINX_2",
+            "nbpSR": 1,
+            "runtime": 387596020,
+            "dest": "25_lon1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_sin1",
+            "nbpSR": 1,
+            "runtime": 483472097,
+            "dest": "65_WAIX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "65_WAIX",
+            "nbpSR": 1,
+            "runtime": 384998050,
+            "dest": "62_Global_Crossing",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Equinix",
+            "nbpSR": 1,
+            "runtime": 377064814,
+            "dest": "7_bne4",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_syd7",
+            "nbpSR": 1,
+            "runtime": 871673851,
+            "dest": "3_mel6",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "20_nrt1",
+            "nbpSR": 1,
+            "runtime": 1167725634,
+            "dest": "53_AARNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "64_Optus",
+            "nbpSR": 1,
+            "runtime": 366520911,
+            "dest": "60_adl6",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_PAIX",
+            "nbpSR": 1,
+            "runtime": 358534681,
+            "dest": "2_University_of_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NTT",
+            "nbpSR": 1,
+            "runtime": 389954285,
+            "dest": "22_Optus",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "64_Optus",
+            "nbpSR": 1,
+            "runtime": 361725698,
+            "dest": "52_PacNet",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_mel4",
+            "nbpSR": 1,
+            "runtime": 637800455,
+            "dest": "41_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_Any2",
+            "nbpSR": 1,
+            "runtime": 365330275,
+            "dest": "36_Google",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_mel4",
+            "nbpSR": 1,
+            "runtime": 657502838,
+            "dest": "1_syd6",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_Sprint",
+            "nbpSR": 1,
+            "runtime": 397312344,
+            "dest": "2_University_of_Adelaide",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Equinix",
+            "nbpSR": 1,
+            "runtime": 370511031,
+            "dest": "32_LINX_1",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_NTT",
+            "nbpSR": 1,
+            "runtime": 379094249,
+            "dest": "65_WAIX",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

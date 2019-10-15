@@ -1,0 +1,110 @@
+{
+    "initialCoverSize": 22,
+    "times": [
+        1209782,
+        1855491,
+        2421109,
+        3003135,
+        3610132
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 0_Montreal 6_New_York 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 5_Bethesda 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 10_Vancouver 5_Bethesda 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 10_Vancouver 6_New_York 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 8_Schaumburg 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 6_New_York 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 15_Atlanta 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 6_New_York 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 16_Tampa 0_Montreal 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 12_Los_Angeles 2_Detroit 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit,9_St_Louis 12_Los_Angeles 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit,4_Columbus 10_Vancouver 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 8_Schaumburg 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 14_Dallas 8_Schaumburg 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,9_St_Louis 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit,4_Columbus 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 0_Montreal 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 15_Atlanta 12_Los_Angeles 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 12_Los_Angeles 15_Atlanta 2_Detroit"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Detroit 16_Tampa 14_Dallas 2_Detroit"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Detroit 14_Dallas 16_Tampa 2_Detroit"
+        }
+    ],
+    "values": [
+        12,
+        11,
+        11,
+        11,
+        11
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 149825,
+    "lpBound": 11
+}

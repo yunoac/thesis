@@ -1,0 +1,78 @@
+{
+    "initialCoverSize": 15,
+    "times": [
+        1129017,
+        1637188,
+        2107658
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,7_Geelong 1_Moree 7_Geelong,10_Adelaide 10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,7_Geelong 0_Dubbo 5_Newcastle 7_Geelong,10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,7_Geelong 0_Dubbo 4_Albury 7_Geelong,10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,7_Geelong 5_Newcastle 7_Geelong,10_Adelaide 10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,7_Geelong 6_Coff's_Harbour 7_Geelong,10_Adelaide 10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,7_Geelong 5_Newcastle 0_Dubbo 7_Geelong,10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,7_Geelong 7_Geelong,10_Adelaide 9_Perth,10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,9_Perth 15_Kalgoorlie,9_Perth 9_Perth 10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide 10_Adelaide,7_Geelong 0_Dubbo 7_Geelong,10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide 16_Port_Augusta,10_Adelaide 9_Perth 9_Perth 10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,7_Geelong 4_Albury 0_Dubbo 7_Geelong,10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,9_Perth 15_Kalgoorlie 16_Port_Augusta,10_Adelaide 10_Adelaide"
+        },
+        {
+            "x": 0,
+            "cycle": "10_Adelaide,16_Port_Augusta 15_Kalgoorlie,9_Perth 9_Perth 10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide 16_Port_Augusta 15_Kalgoorlie 16_Port_Augusta 10_Adelaide"
+        },
+        {
+            "x": 1,
+            "cycle": "10_Adelaide,7_Geelong 7_Geelong,10_Adelaide"
+        }
+    ],
+    "values": [
+        8,
+        8,
+        7
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 108546,
+    "lpBound": 7
+}

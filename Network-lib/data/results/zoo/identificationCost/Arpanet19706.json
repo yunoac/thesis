@@ -1,0 +1,44 @@
+{
+    "originalCover": {
+        "runtime": 551359,
+        "cycles": [
+            "0_HARVARD 1_SRI 0_HARVARD 0_HARVARD",
+            "0_HARVARD 1_SRI 2_UCSB 0_HARVARD",
+            "0_HARVARD 2_UCSB 1_SRI 0_HARVARD",
+            "0_HARVARD 5_SDC 0_HARVARD 0_HARVARD",
+            "0_HARVARD 1_SRI 6_UTAH 0_HARVARD",
+            "0_HARVARD 6_UTAH 1_SRI 0_HARVARD"
+        ],
+        "source": 0,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_HARVARD 1_SRI 0_HARVARD 0_HARVARD",
+            "0_HARVARD 1_SRI 2_UCSB 0_HARVARD",
+            "0_HARVARD 2_UCSB 1_SRI 0_HARVARD",
+            "0_HARVARD 5_SDC 0_HARVARD 0_HARVARD",
+            "0_HARVARD 1_SRI 6_UTAH 0_HARVARD",
+            "0_HARVARD 6_UTAH 1_SRI 0_HARVARD"
+        ],
+        "source": 0,
+        "runetime": 442602,
+        "maxSeg": 4
+    }
+}

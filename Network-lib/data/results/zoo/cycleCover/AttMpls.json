@@ -1,0 +1,887 @@
+{
+    "initialCoverSize": 139,
+    "times": [
+        4830237,
+        9307324,
+        12991191,
+        17732469,
+        23891475,
+        26895656,
+        29771121,
+        32090563,
+        37165546,
+        41276898,
+        46314138,
+        48914028,
+        51494941,
+        55443229,
+        58251000,
+        62456348,
+        65769181,
+        69133849,
+        75354181,
+        80774394,
+        83801057,
+        86541478,
+        91322582,
+        95043858,
+        98117804,
+        101081731,
+        105661146,
+        113348394,
+        116042723,
+        118339698,
+        122308388,
+        126316984,
+        131176642,
+        134130939,
+        137198780,
+        141610477,
+        144023196,
+        146209289,
+        148375251,
+        151332697,
+        159412130,
+        164611228,
+        167477600,
+        172410901,
+        179452389,
+        186535298,
+        190520465,
+        197847625,
+        201702296,
+        209999571,
+        215751550,
+        218710560,
+        222736189,
+        227803673,
+        232341611,
+        237618430,
+        240198696,
+        243310652,
+        245846897,
+        248789961,
+        251762924,
+        256329108,
+        260553896,
+        262844208,
+        265672747,
+        268444593,
+        270811544,
+        273038435
+    ],
+    "finalCoverSize": 38,
+    "minSegCycles": [
+        "17_SNFN 0_NY54 1_CMBR@0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 6_PHLA@0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 4_RLGH 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 1_CMBR 3_CLEV 17_SNFN",
+        "17_SNFN 3_CLEV 1_CMBR 0_NY54 17_SNFN",
+        "17_SNFN 6_PHLA@0_NY54 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 15_DNVR 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 16_KSCY 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 20_STTL 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 21_SLKC 0_NY54 17_SNFN",
+        "17_SNFN 3_CLEV 8_NSVL@3_CLEV 17_SNFN",
+        "17_SNFN 3_CLEV 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 4_RLGH 5_ATLN 0_NY54 17_SNFN",
+        "17_SNFN 4_RLGH 8_NSVL@3_CLEV 17_SNFN",
+        "17_SNFN 4_RLGH 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 4_RLGH 12_SNAN 4_RLGH 17_SNFN",
+        "17_SNFN 0_NY54 14_ORLD 0_NY54 17_SNFN",
+        "17_SNFN 6_PHLA 2_CHCG@0_NY54 17_SNFN",
+        "17_SNFN 3_CLEV 7_WASH@0_NY54 17_SNFN",
+        "17_SNFN 4_RLGH 6_PHLA@0_NY54 17_SNFN",
+        "17_SNFN 8_NSVL 4_RLGH 0_NY54 17_SNFN",
+        "17_SNFN 8_NSVL 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 8_NSVL 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN@22_LA03 3_CLEV@2_CHCG 17_SNFN",
+        "17_SNFN@2_CHCG 5_ATLN 0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 0_NY54 9_STLS 10_NWOR 17_SNFN",
+        "17_SNFN 0_NY54 9_STLS 16_KSCY@17_SNFN",
+        "17_SNFN 3_CLEV 22_LA03 3_CLEV 17_SNFN",
+        "17_SNFN 10_NWOR 11_HSTN 8_NSVL 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 0_NY54 17_SNFN",
+        "17_SNFN 11_HSTN 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN 11_HSTN 12_SNAN 4_RLGH 17_SNFN",
+        "17_SNFN 11_HSTN 14_ORLD 0_NY54 17_SNFN",
+        "17_SNFN 12_SNAN 11_HSTN 8_NSVL 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN 10_NWOR 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 4_RLGH 15_DNVR 0_NY54 17_SNFN",
+        "17_SNFN 10_NWOR 16_KSCY 0_NY54 17_SNFN",
+        "17_SNFN 10_NWOR 22_LA03 3_CLEV 17_SNFN",
+        "17_SNFN 0_NY54 14_ORLD 10_NWOR 17_SNFN",
+        "17_SNFN 0_NY54 14_ORLD 11_HSTN 17_SNFN",
+        "17_SNFN@15_DNVR 4_RLGH 0_NY54 17_SNFN",
+        "17_SNFN@15_DNVR 16_KSCY 0_NY54 17_SNFN",
+        "17_SNFN@15_DNVR 17_SNFN 0_NY54 17_SNFN",
+        "17_SNFN@15_DNVR 21_SLKC 0_NY54 17_SNFN",
+        "17_SNFN@16_KSCY 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN@16_KSCY 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN@16_KSCY 15_DNVR 0_NY54 17_SNFN",
+        "17_SNFN 18_SCRM 4_RLGH 0_NY54 17_SNFN",
+        "17_SNFN 19_PTLD 4_RLGH 0_NY54 17_SNFN",
+        "17_SNFN 20_STTL 0_NY54 0_NY54 17_SNFN",
+        "17_SNFN 21_SLKC 0_NY54 0_NY54 17_SNFN",
+        "17_SNFN@18_SCRM 21_SLKC 0_NY54 17_SNFN",
+        "17_SNFN@19_PTLD 20_STTL 0_NY54 17_SNFN",
+        "17_SNFN@20_STTL 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN@20_STTL 19_PTLD 4_RLGH 17_SNFN",
+        "17_SNFN@21_SLKC 15_DNVR 0_NY54 17_SNFN",
+        "17_SNFN@21_SLKC 17_SNFN 0_NY54 17_SNFN",
+        "17_SNFN@21_SLKC 18_SCRM 4_RLGH 17_SNFN",
+        "17_SNFN@21_SLKC 22_LA03 3_CLEV 17_SNFN",
+        "17_SNFN@22_LA03 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN@22_LA03 17_SNFN 0_NY54 17_SNFN",
+        "17_SNFN@22_LA03 21_SLKC 0_NY54 17_SNFN",
+        "17_SNFN 23_SNDG 9_STLS 0_NY54 17_SNFN",
+        "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN 23_SNDG 12_SNAN 4_RLGH 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN",
+        "17_SNFN 12_SNAN 23_SNDG 3_CLEV 17_SNFN",
+        "17_SNFN 6_PHLA 4_RLGH 6_PHLA 17_SNFN",
+        "17_SNFN 6_PHLA 16_KSCY 15_DNVR 17_SNFN",
+        "17_SNFN 3_CLEV 1_CMBR 8_NSVL 17_SNFN",
+        "17_SNFN 6_PHLA 0_NY54 20_STTL 17_SNFN",
+        "17_SNFN 20_STTL 0_NY54 21_SLKC 17_SNFN",
+        "17_SNFN 8_NSVL 1_CMBR 0_NY54 17_SNFN",
+        "17_SNFN 2_CHCG 5_ATLN 2_CHCG 17_SNFN",
+        "17_SNFN 6_PHLA 5_ATLN 2_CHCG 17_SNFN",
+        "17_SNFN 8_NSVL 5_ATLN 2_CHCG 17_SNFN",
+        "17_SNFN 0_NY54 6_PHLA 4_RLGH 17_SNFN",
+        "17_SNFN 8_NSVL 7_WASH 3_CLEV 17_SNFN",
+        "17_SNFN 8_NSVL 9_STLS 4_RLGH 17_SNFN",
+        "17_SNFN 15_DNVR 5_ATLN 2_CHCG 17_SNFN",
+        "17_SNFN 0_NY54 1_CMBR 8_NSVL 17_SNFN",
+        "17_SNFN 0_NY54 6_PHLA 8_NSVL 17_SNFN",
+        "17_SNFN 4_RLGH 8_NSVL 6_PHLA 17_SNFN",
+        "17_SNFN 10_NWOR 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 16_KSCY 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 8_NSVL 17_SNFN",
+        "17_SNFN 10_NWOR 9_STLS 10_NWOR 17_SNFN",
+        "17_SNFN 16_KSCY 9_STLS 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 11_HSTN 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 10_NWOR 17_SNFN",
+        "17_SNFN 11_HSTN 14_ORLD 8_NSVL 17_SNFN",
+        "17_SNFN 4_RLGH 0_NY54 6_PHLA 17_SNFN",
+        "17_SNFN 8_NSVL 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 0_NY54 16_KSCY 10_NWOR 17_SNFN",
+        "17_SNFN 5_ATLN 0_NY54 15_DNVR 17_SNFN",
+        "17_SNFN 10_NWOR 16_KSCY 10_NWOR 17_SNFN",
+        "17_SNFN 3_CLEV 22_LA03 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 22_LA03 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 11_HSTN 17_SNFN",
+        "17_SNFN 3_CLEV 23_SNDG 12_SNAN 17_SNFN",
+        "17_SNFN 8_NSVL 3_CLEV 15_DNVR 17_SNFN",
+        "17_SNFN 10_NWOR 11_HSTN 15_DNVR 17_SNFN",
+        "17_SNFN 11_HSTN 10_NWOR 15_DNVR 17_SNFN",
+        "17_SNFN 10_NWOR 16_KSCY 15_DNVR 17_SNFN",
+        "17_SNFN 15_DNVR 16_KSCY 10_NWOR 17_SNFN",
+        "17_SNFN 16_KSCY 0_NY54 15_DNVR 17_SNFN",
+        "17_SNFN 0_NY54 21_SLKC 15_DNVR 17_SNFN",
+        "17_SNFN 0_NY54 15_DNVR 21_SLKC 17_SNFN",
+        "17_SNFN 8_NSVL 7_WASH 8_NSVL 17_SNFN",
+        "17_SNFN 3_CLEV 9_STLS 16_KSCY 17_SNFN",
+        "17_SNFN 12_SNAN 9_STLS 12_SNAN 17_SNFN",
+        "17_SNFN 8_NSVL 9_STLS 16_KSCY 17_SNFN",
+        "17_SNFN 10_NWOR 9_STLS 16_KSCY 17_SNFN",
+        "17_SNFN 18_SCRM 21_SLKC 18_SCRM 17_SNFN",
+        "17_SNFN 0_NY54 20_STTL 19_PTLD 17_SNFN",
+        "17_SNFN 20_STTL 19_PTLD 20_STTL 17_SNFN",
+        "17_SNFN 20_STTL 9_STLS 22_LA03 17_SNFN",
+        "17_SNFN 23_SNDG 21_SLKC 23_SNDG 17_SNFN",
+        "17_SNFN 19_PTLD 21_SLKC 19_PTLD 17_SNFN",
+        "17_SNFN 6_PHLA 0_NY54 4_RLGH 17_SNFN",
+        "17_SNFN 2_CHCG 14_ORLD 0_NY54 17_SNFN",
+        "17_SNFN 18_SCRM 19_PTLD 18_SCRM 17_SNFN",
+        "17_SNFN 15_DNVR 8_NSVL 4_RLGH 17_SNFN",
+        "17_SNFN 10_NWOR 23_SNDG 12_SNAN 17_SNFN",
+        "17_SNFN 22_LA03@24_PHNX 23_SNDG 17_SNFN",
+        "17_SNFN 4_RLGH 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 2_CHCG 14_ORLD 10_NWOR 17_SNFN",
+        "17_SNFN 4_RLGH 0_NY54 16_KSCY 17_SNFN",
+        "17_SNFN 23_SNDG 24_PHNX@22_LA03 17_SNFN",
+        "17_SNFN 19_PTLD 18_SCRM 19_PTLD 17_SNFN",
+        "17_SNFN 19_PTLD 20_STTL 19_PTLD 17_SNFN",
+        "17_SNFN 20_STTL 0_NY54 4_RLGH 17_SNFN",
+        "17_SNFN 20_STTL 9_STLS 4_RLGH 17_SNFN",
+        "17_SNFN 3_CLEV 22_LA03 19_PTLD 17_SNFN"
+    ],
+    "values": [
+        54,
+        51,
+        49,
+        48,
+        47,
+        46,
+        46,
+        45,
+        45,
+        45,
+        45,
+        44,
+        44,
+        43.5,
+        43.5,
+        43.5,
+        43.5,
+        42.5,
+        42.5,
+        41.5,
+        40.5,
+        40.5,
+        39.5,
+        39.5,
+        39,
+        38.666666666666664,
+        38.66666666666667,
+        38.66666666666667,
+        38.333333333333336,
+        37.333333333333336,
+        36.333333333333336,
+        36.333333333333336,
+        36.333333333333336,
+        35.333333333333336,
+        35.333333333333336,
+        35.333333333333336,
+        34.833333333333336,
+        34.833333333333336,
+        34.833333333333336,
+        34.833333333333336,
+        34.833333333333336,
+        33.666666666666664,
+        33.5,
+        33.5,
+        33.5,
+        33,
+        33,
+        32,
+        32,
+        32,
+        32,
+        31.5,
+        31.5,
+        31.5,
+        31.5,
+        31.5,
+        31.25,
+        31.25,
+        30.75,
+        30.75,
+        30.75,
+        30.75,
+        30.25,
+        30.25,
+        30.166666666666664,
+        30.166666666666664,
+        30,
+        30
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 38,
+    "runtime": 384315678,
+    "lpBound": 30,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 1_CMBR@0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 6_PHLA@0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 4_RLGH 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 1_CMBR 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 1_CMBR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 6_PHLA@0_NY54 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 15_DNVR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 16_KSCY 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 20_STTL 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 0_NY54 21_SLKC 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 8_NSVL@3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 5_ATLN 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 8_NSVL@3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 12_SNAN 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 14_ORLD 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 6_PHLA 2_CHCG@0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 7_WASH@0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 6_PHLA@0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 4_RLGH 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 10_NWOR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@22_LA03 3_CLEV@2_CHCG 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@2_CHCG 5_ATLN 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 9_STLS 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 9_STLS 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 9_STLS 16_KSCY@17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 3_CLEV 22_LA03 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 11_HSTN 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 14_ORLD 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 11_HSTN 10_NWOR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 11_HSTN 12_SNAN 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 11_HSTN 14_ORLD 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 12_SNAN 11_HSTN 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 11_HSTN 24_PHNX 11_HSTN 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 15_DNVR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 10_NWOR 16_KSCY 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 22_LA03 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 0_NY54 14_ORLD 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 14_ORLD 11_HSTN 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@15_DNVR 4_RLGH 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@15_DNVR 16_KSCY 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@15_DNVR 17_SNFN 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN@15_DNVR 21_SLKC 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@16_KSCY 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@16_KSCY 10_NWOR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@16_KSCY 15_DNVR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 18_SCRM 4_RLGH 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 19_PTLD 4_RLGH 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 20_STTL 0_NY54 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 21_SLKC 0_NY54 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@18_SCRM 21_SLKC 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@19_PTLD 20_STTL 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@20_STTL 10_NWOR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@20_STTL 19_PTLD 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN@21_SLKC 15_DNVR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@21_SLKC 17_SNFN 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@21_SLKC 18_SCRM 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@21_SLKC 22_LA03 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@22_LA03 10_NWOR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@22_LA03 17_SNFN 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN@22_LA03 21_SLKC 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 23_SNDG 9_STLS 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 23_SNDG 12_SNAN 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 12_SNAN 23_SNDG 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 6_PHLA 4_RLGH 6_PHLA 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 6_PHLA 16_KSCY 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 1_CMBR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 6_PHLA 0_NY54 20_STTL 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 20_STTL 0_NY54 21_SLKC 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 8_NSVL 1_CMBR 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 2_CHCG 5_ATLN 2_CHCG 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 6_PHLA 5_ATLN 2_CHCG 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 5_ATLN 2_CHCG 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 0_NY54 6_PHLA 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 8_NSVL 7_WASH 3_CLEV 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 9_STLS 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 15_DNVR 5_ATLN 2_CHCG 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 0_NY54 1_CMBR 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 6_PHLA 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 8_NSVL 6_PHLA 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 9_STLS 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 16_KSCY 9_STLS 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 14_ORLD 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 9_STLS 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 16_KSCY 9_STLS 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 10_NWOR 11_HSTN 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 14_ORLD 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 11_HSTN 14_ORLD 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 4_RLGH 0_NY54 6_PHLA 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 9_STLS 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 16_KSCY 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 5_ATLN 0_NY54 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 16_KSCY 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 22_LA03 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 10_NWOR 22_LA03 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 10_NWOR 14_ORLD 11_HSTN 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 23_SNDG 12_SNAN 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 3_CLEV 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 10_NWOR 11_HSTN 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 11_HSTN 10_NWOR 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 16_KSCY 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 15_DNVR 16_KSCY 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 16_KSCY 0_NY54 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 21_SLKC 15_DNVR 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 0_NY54 15_DNVR 21_SLKC 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 8_NSVL 7_WASH 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 9_STLS 16_KSCY 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 12_SNAN 9_STLS 12_SNAN 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 8_NSVL 9_STLS 16_KSCY 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 9_STLS 16_KSCY 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 18_SCRM 21_SLKC 18_SCRM 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 0_NY54 20_STTL 19_PTLD 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 20_STTL 19_PTLD 20_STTL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 20_STTL 9_STLS 22_LA03 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 23_SNDG 21_SLKC 23_SNDG 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 19_PTLD 21_SLKC 19_PTLD 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 6_PHLA 0_NY54 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 2_CHCG 14_ORLD 0_NY54 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 18_SCRM 19_PTLD 18_SCRM 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 15_DNVR 8_NSVL 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 10_NWOR 23_SNDG 12_SNAN 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 22_LA03@24_PHNX 23_SNDG 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 9_STLS 8_NSVL 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 2_CHCG 14_ORLD 10_NWOR 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 4_RLGH 0_NY54 16_KSCY 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 23_SNDG 24_PHNX@22_LA03 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 19_PTLD 18_SCRM 19_PTLD 17_SNFN"
+        },
+        {
+            "x": 1,
+            "cycle": "17_SNFN 19_PTLD 20_STTL 19_PTLD 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 20_STTL 0_NY54 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0.5,
+            "cycle": "17_SNFN 20_STTL 9_STLS 4_RLGH 17_SNFN"
+        },
+        {
+            "x": 0,
+            "cycle": "17_SNFN 3_CLEV 22_LA03 19_PTLD 17_SNFN"
+        }
+    ],
+    "greedySolution": [
+        "17_SNFN 0_NY54 1_CMBR@0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 6_PHLA@0_NY54 17_SNFN",
+        "17_SNFN 0_NY54 14_ORLD 0_NY54 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN@15_DNVR 21_SLKC 0_NY54 17_SNFN",
+        "17_SNFN@20_STTL 10_NWOR 8_NSVL 17_SNFN",
+        "17_SNFN@21_SLKC 15_DNVR 0_NY54 17_SNFN",
+        "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN 22_LA03@24_PHNX 11_HSTN 17_SNFN",
+        "17_SNFN 23_SNDG 12_SNAN 4_RLGH 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN",
+        "17_SNFN 11_HSTN 24_PHNX@22_LA03 17_SNFN",
+        "17_SNFN 12_SNAN 23_SNDG 3_CLEV 17_SNFN",
+        "17_SNFN 6_PHLA 4_RLGH 6_PHLA 17_SNFN",
+        "17_SNFN 6_PHLA 16_KSCY 15_DNVR 17_SNFN",
+        "17_SNFN 3_CLEV 1_CMBR 8_NSVL 17_SNFN",
+        "17_SNFN 6_PHLA 0_NY54 20_STTL 17_SNFN",
+        "17_SNFN 20_STTL 0_NY54 21_SLKC 17_SNFN",
+        "17_SNFN 8_NSVL 1_CMBR 0_NY54 17_SNFN",
+        "17_SNFN 15_DNVR 5_ATLN 2_CHCG 17_SNFN",
+        "17_SNFN 16_KSCY 9_STLS 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 10_NWOR 17_SNFN",
+        "17_SNFN 11_HSTN 14_ORLD 8_NSVL 17_SNFN",
+        "17_SNFN 8_NSVL 9_STLS 8_NSVL 17_SNFN",
+        "17_SNFN 10_NWOR 22_LA03 10_NWOR 17_SNFN",
+        "17_SNFN 10_NWOR 14_ORLD 11_HSTN 17_SNFN",
+        "17_SNFN 10_NWOR 11_HSTN 15_DNVR 17_SNFN",
+        "17_SNFN 11_HSTN 10_NWOR 15_DNVR 17_SNFN",
+        "17_SNFN 10_NWOR 16_KSCY 15_DNVR 17_SNFN",
+        "17_SNFN 15_DNVR 16_KSCY 10_NWOR 17_SNFN",
+        "17_SNFN 16_KSCY 0_NY54 15_DNVR 17_SNFN",
+        "17_SNFN 8_NSVL 7_WASH 8_NSVL 17_SNFN",
+        "17_SNFN 10_NWOR 9_STLS 16_KSCY 17_SNFN",
+        "17_SNFN 18_SCRM 21_SLKC 18_SCRM 17_SNFN",
+        "17_SNFN 23_SNDG 21_SLKC 23_SNDG 17_SNFN",
+        "17_SNFN 19_PTLD 20_STTL 19_PTLD 17_SNFN",
+        "17_SNFN 20_STTL 9_STLS 4_RLGH 17_SNFN",
+        "17_SNFN 3_CLEV 22_LA03 19_PTLD 17_SNFN"
+    ]
+}

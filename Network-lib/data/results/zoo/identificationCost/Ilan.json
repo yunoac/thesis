@@ -1,0 +1,82 @@
+{
+    "originalCover": {
+        "runtime": 2847793,
+        "cycles": [
+            "0_Tel_Aviv_GigaPoP 8 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 20 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 22 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 23 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 25 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 26 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 27 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 28 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "1 2_IIX 20",
+            "1 4_External_Users 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+            "1 5_GEANT_2_Germany 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+            "1 6_Open_University 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+            "1 2_IIX 23",
+            "1 2_IIX 28",
+            "3 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP",
+            "7 2_IIX 7_Haifa_University 0_Tel_Aviv_GigaPoP"
+        ],
+        "source": 0,
+        "maxSeg": 5
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Tel_Aviv_GigaPoP 8 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 2_IIX 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 22 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 23 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 25 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 26 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 27 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 28 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 4_External_Users 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 5_GEANT_2_Germany 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 6_Open_University 0_Tel_Aviv_GigaPoP 0_Tel_Aviv_GigaPoP",
+            "0_Tel_Aviv_GigaPoP 2_IIX 23",
+            "0_Tel_Aviv_GigaPoP 2_IIX 28",
+            "3 2_IIX 0_Tel_Aviv_GigaPoP",
+            "7 2_IIX 0_Tel_Aviv_GigaPoP"
+        ],
+        "source": 0,
+        "runetime": 1044140,
+        "maxSeg": 4
+    }
+}

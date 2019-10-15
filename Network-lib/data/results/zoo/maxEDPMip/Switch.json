@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "26_UniFR",
+            "nbpSR": 1,
+            "runtime": 943830981,
+            "dest": "72_IBM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_UniSG",
+            "nbpSR": 2,
+            "runtime": 1429056886,
+            "dest": "14_HEIG-VD",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "59_Telia",
+            "nbpSR": 1,
+            "runtime": 799175399,
+            "dest": "13_Jungfraujoch",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_SNF",
+            "nbpSR": 1,
+            "runtime": 633902969,
+            "dest": "3_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "30_HFT-SO",
+            "nbpSR": 2,
+            "runtime": 1004253718,
+            "dest": "36_PSI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_None",
+            "nbpSR": 2,
+            "runtime": 808334077,
+            "dest": "25_HSLU",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "21_None",
+            "nbpSR": 3,
+            "runtime": 919402382,
+            "dest": "43_UniL",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "14_HEIG-VD",
+            "nbpSR": 1,
+            "runtime": 1080124045,
+            "dest": "72_IBM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "46_EESP",
+            "nbpSR": 2,
+            "runtime": 1094640562,
+            "dest": "8_UniNE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_None",
+            "nbpSR": 2,
+            "runtime": 743299174,
+            "dest": "30_HFT-SO",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "73_WSL",
+            "nbpSR": 1,
+            "runtime": 1001533371,
+            "dest": "49_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "69_UZH",
+            "nbpSR": 1,
+            "runtime": 1465568300,
+            "dest": "4_GLBX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_VSNet",
+            "nbpSR": 2,
+            "runtime": 1038369322,
+            "dest": "45_IMD",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "29_UniBE",
+            "nbpSR": 2,
+            "runtime": 892330533,
+            "dest": "17_UniGE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_GLBX",
+            "nbpSR": 1,
+            "runtime": 1134546613,
+            "dest": "47_HTW",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "42_EPFL",
+            "nbpSR": 2,
+            "runtime": 1000489368,
+            "dest": "26_UniFR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_UniGE",
+            "nbpSR": 2,
+            "runtime": 801512513,
+            "dest": "55_NTB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "56_Swissix",
+            "nbpSR": 1,
+            "runtime": 686752944,
+            "dest": "29_UniBE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "26_UniFR",
+            "nbpSR": 2,
+            "runtime": 806817293,
+            "dest": "20_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_SNF",
+            "nbpSR": 1,
+            "runtime": 650324516,
+            "dest": "33_EHL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_ENSI",
+            "nbpSR": 2,
+            "runtime": 797588030,
+            "dest": "20_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_IBM",
+            "nbpSR": 1,
+            "runtime": 1150390239,
+            "dest": "18_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_BelWu",
+            "nbpSR": 1,
+            "runtime": 769002267,
+            "dest": "70_ETH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "34_HSR",
+            "nbpSR": 1,
+            "runtime": 1111468275,
+            "dest": "32_PMOD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_HLI",
+            "nbpSR": 2,
+            "runtime": 879095567,
+            "dest": "26_UniFR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_None",
+            "nbpSR": 2,
+            "runtime": 1335659354,
+            "dest": "62_FHSG",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "59_Telia",
+            "nbpSR": 1,
+            "runtime": 821605029,
+            "dest": "3_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "28_UniSG",
+            "nbpSR": 2,
+            "runtime": 1046442155,
+            "dest": "18_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "58_Equinix",
+            "nbpSR": 1,
+            "runtime": 862870884,
+            "dest": "2_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_BelWu",
+            "nbpSR": 1,
+            "runtime": 1135131989,
+            "dest": "17_UniGE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Jungfraujoch",
+            "nbpSR": 1,
+            "runtime": 632969853,
+            "dest": "56_Swissix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_None",
+            "nbpSR": 2,
+            "runtime": 686606522,
+            "dest": "14_HEIG-VD",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "48_EUResearch",
+            "nbpSR": 2,
+            "runtime": 845262508,
+            "dest": "63_SLF",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "69_UZH",
+            "nbpSR": 1,
+            "runtime": 1445713632,
+            "dest": "27_GEANT2_Lightpaths",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_None",
+            "nbpSR": 2,
+            "runtime": 907423514,
+            "dest": "50_IWB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "33_EHL",
+            "nbpSR": 1,
+            "runtime": 1357588944,
+            "dest": "5_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_HLI",
+            "nbpSR": 2,
+            "runtime": 714750832,
+            "dest": "47_HTW",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "47_HTW",
+            "nbpSR": 2,
+            "runtime": 792632219,
+            "dest": "63_SLF",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_UniGE",
+            "nbpSR": 1,
+            "runtime": 1105303830,
+            "dest": "64_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_ETH-Rat",
+            "nbpSR": 2,
+            "runtime": 927083591,
+            "dest": "51_HLI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "44_HES-SO_AvdP",
+            "nbpSR": 2,
+            "runtime": 1039834522,
+            "dest": "65_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "70_ETH",
+            "nbpSR": 2,
+            "runtime": 813204729,
+            "dest": "26_UniFR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "53_BelWu",
+            "nbpSR": 1,
+            "runtime": 798031391,
+            "dest": "58_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "37_UniBAS",
+            "nbpSR": 2,
+            "runtime": 880367785,
+            "dest": "34_HSR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_VSNet",
+            "nbpSR": 1,
+            "runtime": 805781859,
+            "dest": "59_Telia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_SNF",
+            "nbpSR": 1,
+            "runtime": 729161016,
+            "dest": "59_Telia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT2",
+            "nbpSR": 1,
+            "runtime": 814862264,
+            "dest": "65_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_ETH-Rat",
+            "nbpSR": 2,
+            "runtime": 895859127,
+            "dest": "21_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_None",
+            "nbpSR": 2,
+            "runtime": 775532729,
+            "dest": "67_meteoGH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "64_Equinix",
+            "nbpSR": 1,
+            "runtime": 904620608,
+            "dest": "29_UniBE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_ETH-Rat",
+            "nbpSR": 1,
+            "runtime": 1067923882,
+            "dest": "4_GLBX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "59_Telia",
+            "nbpSR": 1,
+            "runtime": 884207386,
+            "dest": "22_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_CSCS_TI-EDU",
+            "nbpSR": 2,
+            "runtime": 851682615,
+            "dest": "35_ENSI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_UniNE",
+            "nbpSR": 1,
+            "runtime": 885882593,
+            "dest": "52_Swisscom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_CIXP",
+            "nbpSR": 1,
+            "runtime": 822835239,
+            "dest": "59_Telia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "61_RERO",
+            "nbpSR": 1,
+            "runtime": 954622733,
+            "dest": "52_Swisscom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "36_PSI",
+            "nbpSR": 2,
+            "runtime": 858685947,
+            "dest": "12_CSCS_TI-EDU",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_GEANT2",
+            "nbpSR": 1,
+            "runtime": 820024005,
+            "dest": "35_ENSI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_None",
+            "nbpSR": 1,
+            "runtime": 1000229027,
+            "dest": "52_Swisscom",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "27_GEANT2_Lightpaths",
+            "nbpSR": 1,
+            "runtime": 808315349,
+            "dest": "3_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_IBM",
+            "nbpSR": 1,
+            "runtime": 809847677,
+            "dest": "45_IMD",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_None",
+            "nbpSR": 2,
+            "runtime": 966706565,
+            "dest": "33_EHL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "14_HEIG-VD",
+            "nbpSR": 1,
+            "runtime": 1284125144,
+            "dest": "16_IBM",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "44_HES-SO_AvdP",
+            "nbpSR": 2,
+            "runtime": 933284830,
+            "dest": "70_ETH",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "60_PHTG",
+            "nbpSR": 2,
+            "runtime": 852399870,
+            "dest": "19_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "47_HTW",
+            "nbpSR": 2,
+            "runtime": 807633084,
+            "dest": "66_ZHAW",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_Swisscom",
+            "nbpSR": 1,
+            "runtime": 1139683836,
+            "dest": "51_HLI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "22_None",
+            "nbpSR": 2,
+            "runtime": 1147954782,
+            "dest": "40_CERN",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_UniGE",
+            "nbpSR": 1,
+            "runtime": 1113150271,
+            "dest": "57_Swissix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "35_ENSI",
+            "nbpSR": 1,
+            "runtime": 875256163,
+            "dest": "73_WSL",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "67_meteoGH",
+            "nbpSR": 2,
+            "runtime": 807821904,
+            "dest": "23_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_None",
+            "nbpSR": 2,
+            "runtime": 691113126,
+            "dest": "37_UniBAS",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "65_None",
+            "nbpSR": 1,
+            "runtime": 1079613567,
+            "dest": "9_SNF",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "51_HLI",
+            "nbpSR": 1,
+            "runtime": 866745269,
+            "dest": "58_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_None",
+            "nbpSR": 2,
+            "runtime": 841307789,
+            "dest": "24_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "54_CBF_Link_DFN_Lightpath",
+            "nbpSR": 1,
+            "runtime": 658548917,
+            "dest": "26_UniFR",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "72_IBM",
+            "nbpSR": 1,
+            "runtime": 814728109,
+            "dest": "59_Telia",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_BelWu",
+            "nbpSR": 1,
+            "runtime": 1391639919,
+            "dest": "5_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_ETH-Rat",
+            "nbpSR": 2,
+            "runtime": 899421839,
+            "dest": "42_EPFL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_None",
+            "nbpSR": 2,
+            "runtime": 1117579990,
+            "dest": "61_RERO",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "35_ENSI",
+            "nbpSR": 2,
+            "runtime": 968661432,
+            "dest": "68_NAZ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "37_UniBAS",
+            "nbpSR": 2,
+            "runtime": 859873801,
+            "dest": "26_UniFR",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "20_None",
+            "nbpSR": 2,
+            "runtime": 905843947,
+            "dest": "38_BSSE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "45_IMD",
+            "nbpSR": 1,
+            "runtime": 1123526073,
+            "dest": "11_GEANT2",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_CBF_Link_GARR_Lightpath",
+            "nbpSR": 1,
+            "runtime": 873828862,
+            "dest": "5_CIXP",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "43_UniL",
+            "nbpSR": 1,
+            "runtime": 1005714057,
+            "dest": "64_Equinix",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_GEANT2",
+            "nbpSR": 1,
+            "runtime": 1103284071,
+            "dest": "19_None",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_CBF_Link_GARR_Lightpath",
+            "nbpSR": 1,
+            "runtime": 632774687,
+            "dest": "71_ITIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "24_None",
+            "nbpSR": 2,
+            "runtime": 763448703,
+            "dest": "33_EHL",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "44_HES-SO_AvdP",
+            "nbpSR": 2,
+            "runtime": 1010326846,
+            "dest": "38_BSSE",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "30_HFT-SO",
+            "nbpSR": 2,
+            "runtime": 984575018,
+            "dest": "36_PSI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "55_NTB",
+            "nbpSR": 2,
+            "runtime": 1140009712,
+            "dest": "46_EESP",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "40_CERN",
+            "nbpSR": 2,
+            "runtime": 729670939,
+            "dest": "24_None",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "44_HES-SO_AvdP",
+            "nbpSR": 2,
+            "runtime": 727915633,
+            "dest": "41_Skyguide",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "65_None",
+            "nbpSR": 1,
+            "runtime": 876468353,
+            "dest": "6_CBF_Link_GARR_Lightpath",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_CBF_Link_GARR_Lightpath",
+            "nbpSR": 1,
+            "runtime": 641830942,
+            "dest": "71_ITIS",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_IBM",
+            "nbpSR": 1,
+            "runtime": 1118679895,
+            "dest": "66_ZHAW",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "31_ETH-Rat",
+            "nbpSR": 1,
+            "runtime": 1071205162,
+            "dest": "10_AMS-IX",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "53_BelWu",
+            "nbpSR": 1,
+            "runtime": 746478165,
+            "dest": "25_HSLU",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "59_Telia",
+            "nbpSR": 1,
+            "runtime": 812797280,
+            "dest": "6_CBF_Link_GARR_Lightpath",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

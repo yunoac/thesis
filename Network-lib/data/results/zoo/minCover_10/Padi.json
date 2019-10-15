@@ -1,0 +1,76 @@
+{
+    "initialCoverSize": 12,
+    "times": [
+        939814,
+        1192153,
+        1388025,
+        1574355,
+        1754183,
+        1954255,
+        2130308,
+        2329298
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_PPU 7_GEANT 3_PPU"
+        },
+        {
+            "x": 0,
+            "cycle": "3_PPU 10_BZU 3_PPU"
+        },
+        {
+            "x": 0,
+            "cycle": "3_PPU 12_QOU 3_PPU"
+        },
+        {
+            "x": 0,
+            "cycle": "3_PPU 13_AQU 3_PPU"
+        },
+        {
+            "x": 0,
+            "cycle": "3_PPU 14_BU 3_PPU"
+        },
+        {
+            "x": 0.01388888888888889,
+            "cycle": "3_PPU 10_BZU 7_GEANT 10_BZU 7_GEANT 10_BZU 7_GEANT 10_BZU 7_GEANT 3_PPU"
+        },
+        {
+            "x": 0.18055555555555555,
+            "cycle": "3_PPU 13_AQU 12_QOU 13_AQU 12_QOU 13_AQU 12_QOU 13_AQU 12_QOU 3_PPU"
+        },
+        {
+            "x": 0.2361111111111111,
+            "cycle": "3_PPU 14_BU 7_GEANT 14_BU 7_GEANT 14_BU 7_GEANT 14_BU 7_GEANT 3_PPU"
+        },
+        {
+            "x": 0,
+            "cycle": "3_PPU 7_GEANT 3_PPU 7_GEANT 3_PPU 7_GEANT 3_PPU 7_GEANT 3_PPU"
+        },
+        {
+            "x": 0.11111111111111112,
+            "cycle": "3_PPU 13_AQU 10_BZU 3_PPU 10_BZU 3_PPU 10_BZU 3_PPU 10_BZU 3_PPU"
+        },
+        {
+            "x": 0.06944444444444445,
+            "cycle": "3_PPU 12_QOU 10_BZU 12_QOU 10_BZU 12_QOU 10_BZU 12_QOU 10_BZU 3_PPU"
+        },
+        {
+            "x": 0.05555555555555556,
+            "cycle": "3_PPU 10_BZU 13_AQU 10_BZU 13_AQU 10_BZU 14_BU 13_AQU 10_BZU 3_PPU"
+        }
+    ],
+    "values": [
+        5,
+        3.25,
+        1.5,
+        1,
+        0.8125,
+        0.75,
+        0.7,
+        0.6666666666666667
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 18616,
+    "lpBound": 0.6666666666666667
+}

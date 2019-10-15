@@ -1,0 +1,548 @@
+{
+    "initialCoverSize": 85,
+    "times": [
+        2961823,
+        10749794,
+        14247282,
+        23850205,
+        39568933,
+        42295969,
+        45115978,
+        47901108,
+        50898239,
+        55440946,
+        62352911,
+        70759242,
+        94805315,
+        97855251,
+        107686347,
+        112002965,
+        127139989,
+        138968266,
+        146379650,
+        149380626,
+        163489908,
+        175661866,
+        178908266,
+        195851730,
+        207561062,
+        210565949,
+        222735692,
+        235224630,
+        238239183,
+        246730643,
+        249820415,
+        263839929,
+        268472307,
+        271869803,
+        275162311,
+        290544958,
+        297205620,
+        317758903,
+        322044585,
+        335835185,
+        338981201,
+        342642671,
+        356865679,
+        360320557,
+        363095030
+    ],
+    "finalCoverSize": 24,
+    "minSegCycles": [
+        "0_Amsterdam 1_Frankfurt@0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 2_London@0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 3_Paris@0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 3_Paris@0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 6_Zurich 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 7_Stockholm 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@2_London 9_San_Jose_2 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@2_London 4_Palo_Alto 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 4_Palo_Alto 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam@3_Paris 5_Fremont_1 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@3_Paris 8_Fremont_2 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 4_Palo_Alto 9_San_Jose_2 0_Amsterdam",
+        "0_Amsterdam@3_Paris 13_San_Jose_1 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 19_Los_Angeles 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 8_Fremont_2 3_Paris@0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam 13_San_Jose_1 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 18_Seattle 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 21_Chicago 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 11_New_York_2 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 11_New_York_2 10_New_York_3 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 22_Toronto 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 2_London@0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 21_Chicago 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 14_Atlanta 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam 13_San_Jose_1 3_Paris@0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 16_Hong_Kong 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 17_Tokyo 0_Amsterdam 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 14_Atlanta 19_Los_Angeles 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 15_Miami 1_Frankfurt@0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 4_Palo_Alto 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 14_Atlanta 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 14_Atlanta 21_Chicago 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 20_Dallas 1_Frankfurt@0_Amsterdam",
+        "0_Amsterdam 21_Chicago 4_Palo_Alto 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 20_Dallas 1_Frankfurt 0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 4_Palo_Alto 2_London@0_Amsterdam",
+        "0_Amsterdam@1_Frankfurt 14_Atlanta 10_New_York_3 0_Amsterdam",
+        "0_Amsterdam 16_Hong_Kong 19_Los_Angeles 16_Hong_Kong 0_Amsterdam",
+        "0_Amsterdam 2_London 20_Dallas 18_Seattle 0_Amsterdam",
+        "0_Amsterdam 22_Toronto 15_Miami 22_Toronto 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 2_London 10_New_York_3 0_Amsterdam",
+        "0_Amsterdam 2_London 6_Zurich 2_London 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 14_Atlanta 2_London 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 5_Fremont_1 3_Paris 0_Amsterdam",
+        "0_Amsterdam 6_Zurich 15_Miami 17_Tokyo 0_Amsterdam",
+        "0_Amsterdam 8_Fremont_2 19_Los_Angeles 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 2_London 21_Chicago 7_Stockholm 0_Amsterdam",
+        "0_Amsterdam 7_Stockholm 20_Dallas 2_London 0_Amsterdam",
+        "0_Amsterdam 17_Tokyo 19_Los_Angeles 2_London 0_Amsterdam",
+        "0_Amsterdam 6_Zurich 7_Stockholm 6_Zurich 0_Amsterdam",
+        "0_Amsterdam 2_London 4_Palo_Alto 21_Chicago 0_Amsterdam",
+        "0_Amsterdam 18_Seattle 4_Palo_Alto 18_Seattle 0_Amsterdam",
+        "0_Amsterdam 21_Chicago 14_Atlanta 2_London 0_Amsterdam",
+        "0_Amsterdam 21_Chicago 2_London 21_Chicago 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 9_San_Jose_2 2_London 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 20_Dallas 3_Paris 0_Amsterdam",
+        "0_Amsterdam 3_Paris 8_Fremont_2 3_Paris 0_Amsterdam",
+        "0_Amsterdam 8_Fremont_2 21_Chicago 8_Fremont_2 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 11_New_York_2 10_New_York_3 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 14_Atlanta 19_Los_Angeles 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 14_Atlanta 10_New_York_3 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 22_Toronto 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 2_London 11_New_York_2 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 8_Fremont_2 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 20_Dallas 9_San_Jose_2 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 14_Atlanta 19_Los_Angeles 0_Amsterdam",
+        "0_Amsterdam 17_Tokyo 3_Paris 6_Zurich 0_Amsterdam",
+        "0_Amsterdam 3_Paris 7_Stockholm 3_Paris 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 15_Miami 17_Tokyo 0_Amsterdam",
+        "0_Amsterdam 6_Zurich 20_Dallas 6_Zurich 0_Amsterdam",
+        "0_Amsterdam 17_Tokyo 14_Atlanta 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 3_Paris 17_Tokyo 3_Paris 0_Amsterdam",
+        "0_Amsterdam 2_London 14_Atlanta 21_Chicago 0_Amsterdam",
+        "0_Amsterdam 3_Paris 0_Amsterdam 3_Paris 0_Amsterdam",
+        "0_Amsterdam 7_Stockholm 0_Amsterdam 7_Stockholm 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 11_New_York_2 2_London 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 2_London 19_Los_Angeles 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 20_Dallas 7_Stockholm 0_Amsterdam",
+        "0_Amsterdam 3_Paris 5_Fremont_1 3_Paris 0_Amsterdam",
+        "0_Amsterdam 2_London 19_Los_Angeles 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 7_Stockholm 6_Zurich 3_Paris 0_Amsterdam"
+    ],
+    "values": [
+        29,
+        26,
+        24,
+        21,
+        20,
+        20,
+        19,
+        19,
+        18,
+        17.25,
+        16.5,
+        16.25,
+        16,
+        15.75,
+        15.6875,
+        15.25,
+        14.75,
+        14.5,
+        14.46875,
+        14.25,
+        14.25,
+        13.961538461538463,
+        12.961538461538463,
+        12.961538461538463,
+        12.5,
+        12.5,
+        12.46875,
+        12.446428571428568,
+        12.375,
+        12.0625,
+        12,
+        11.890000000000002,
+        11.75,
+        11.75,
+        11.648648648648647,
+        11.648648648648647,
+        11.648648648648647,
+        11.625,
+        11.583333333333334,
+        11.583333333333336,
+        11.583333333333336,
+        11.5,
+        11.5,
+        11.5,
+        11.5
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 15,
+    "runtime": 452060766,
+    "lpBound": 11.5,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 1_Frankfurt@0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London@0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 3_Paris@0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 3_Paris@0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@2_London 9_San_Jose_2 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@2_London 4_Palo_Alto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 4_Palo_Alto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@3_Paris 5_Fremont_1 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@3_Paris 8_Fremont_2 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 4_Palo_Alto 9_San_Jose_2 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@3_Paris 13_San_Jose_1 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 19_Los_Angeles 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 8_Fremont_2 3_Paris@0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 13_San_Jose_1 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 18_Seattle 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 21_Chicago 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 11_New_York_2 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 11_New_York_2 10_New_York_3 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 22_Toronto 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 9_San_Jose_2 2_London@0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 21_Chicago 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 14_Atlanta 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 13_San_Jose_1 3_Paris@0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 16_Hong_Kong 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 0_Amsterdam 0_Amsterdam 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 14_Atlanta 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 15_Miami 1_Frankfurt@0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 4_Palo_Alto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 14_Atlanta 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 14_Atlanta 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 20_Dallas 1_Frankfurt@0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 21_Chicago 4_Palo_Alto 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 9_San_Jose_2 20_Dallas 1_Frankfurt 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 4_Palo_Alto 2_London@0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam@1_Frankfurt 14_Atlanta 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 16_Hong_Kong 19_Los_Angeles 16_Hong_Kong 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 2_London 20_Dallas 18_Seattle 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 22_Toronto 15_Miami 22_Toronto 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 2_London 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London 6_Zurich 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 5_Fremont_1 14_Atlanta 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 5_Fremont_1 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 6_Zurich 15_Miami 17_Tokyo 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 8_Fremont_2 19_Los_Angeles 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London 21_Chicago 7_Stockholm 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 7_Stockholm 20_Dallas 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 19_Los_Angeles 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 7_Stockholm 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 2_London 4_Palo_Alto 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 18_Seattle 4_Palo_Alto 18_Seattle 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 21_Chicago 14_Atlanta 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 21_Chicago 2_London 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 5_Fremont_1 9_San_Jose_2 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 19_Los_Angeles 20_Dallas 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 3_Paris 8_Fremont_2 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 8_Fremont_2 21_Chicago 8_Fremont_2 0_Amsterdam"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Amsterdam 10_New_York_3 11_New_York_2 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 10_New_York_3 14_Atlanta 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 19_Los_Angeles 14_Atlanta 10_New_York_3 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 22_Toronto 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Amsterdam 2_London 11_New_York_2 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 8_Fremont_2 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 19_Los_Angeles 20_Dallas 9_San_Jose_2 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 5_Fremont_1 14_Atlanta 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 17_Tokyo 3_Paris 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 3_Paris 7_Stockholm 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 15_Miami 17_Tokyo 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 6_Zurich 20_Dallas 6_Zurich 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 17_Tokyo 14_Atlanta 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 3_Paris 17_Tokyo 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London 14_Atlanta 21_Chicago 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 3_Paris 0_Amsterdam 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 0_Amsterdam 7_Stockholm 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 10_New_York_3 11_New_York_2 2_London 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 19_Los_Angeles 2_London 19_Los_Angeles 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 9_San_Jose_2 20_Dallas 7_Stockholm 0_Amsterdam"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Amsterdam 3_Paris 5_Fremont_1 3_Paris 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 2_London 19_Los_Angeles 5_Fremont_1 0_Amsterdam"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Amsterdam 7_Stockholm 6_Zurich 3_Paris 0_Amsterdam"
+        }
+    ],
+    "greedySolution": [
+        "0_Amsterdam 11_New_York_2 10_New_York_3 0_Amsterdam 0_Amsterdam",
+        "0_Amsterdam 16_Hong_Kong 19_Los_Angeles 16_Hong_Kong 0_Amsterdam",
+        "0_Amsterdam 2_London 20_Dallas 18_Seattle 0_Amsterdam",
+        "0_Amsterdam 5_Fremont_1 14_Atlanta 2_London 0_Amsterdam",
+        "0_Amsterdam 6_Zurich 15_Miami 17_Tokyo 0_Amsterdam",
+        "0_Amsterdam 18_Seattle 4_Palo_Alto 18_Seattle 0_Amsterdam",
+        "0_Amsterdam 21_Chicago 2_London 21_Chicago 0_Amsterdam",
+        "0_Amsterdam 3_Paris 8_Fremont_2 3_Paris 0_Amsterdam",
+        "0_Amsterdam 8_Fremont_2 21_Chicago 8_Fremont_2 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 14_Atlanta 19_Los_Angeles 0_Amsterdam",
+        "0_Amsterdam 19_Los_Angeles 14_Atlanta 10_New_York_3 0_Amsterdam",
+        "0_Amsterdam 10_New_York_3 22_Toronto 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 4_Palo_Alto 8_Fremont_2 0_Amsterdam",
+        "0_Amsterdam 17_Tokyo 14_Atlanta 5_Fremont_1 0_Amsterdam",
+        "0_Amsterdam 9_San_Jose_2 20_Dallas 7_Stockholm 0_Amsterdam"
+    ]
+}

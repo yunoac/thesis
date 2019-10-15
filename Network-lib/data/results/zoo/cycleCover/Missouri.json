@@ -1,0 +1,720 @@
+{
+    "initialCoverSize": 112,
+    "times": [
+        3171976,
+        23670470,
+        43175718,
+        62832000,
+        83765163,
+        106051473,
+        124804041,
+        145913283,
+        164545603,
+        184769137,
+        206257034,
+        225527136,
+        247882660,
+        266849750,
+        286004367,
+        307321638,
+        326008685,
+        349779439,
+        370220763,
+        389180836,
+        408140948,
+        427005983,
+        447192880,
+        469372226,
+        488463068,
+        507363830,
+        526085666,
+        546828425,
+        565500918,
+        584804578,
+        605226195,
+        624166493,
+        645879313,
+        664629168,
+        683641198,
+        704899914,
+        725284993,
+        744249834,
+        766803576,
+        786554090,
+        805924621,
+        826174895,
+        844969731,
+        863907027,
+        882475070,
+        901403200,
+        923176099,
+        943225342,
+        963368634,
+        986337470,
+        1005693999,
+        1025361804,
+        1045421333,
+        1065916135,
+        1089874339,
+        1109273607,
+        1134620522,
+        1154477777,
+        1174202386,
+        1197412317,
+        1219688008,
+        1241969020,
+        1261052387
+    ],
+    "finalCoverSize": 25,
+    "minSegCycles": [
+        "0_Rich_Hill 1_Kearney 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 16_Huntsville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 59_Rock_Port 57_Maryville 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 59_Rock_Port 58_Maitland 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 56_Savannah 3_To_Omaha 56_Savannah 0_Rich_Hill",
+        "0_Rich_Hill 56_Savannah 52_To_Des_Moines 56_Savannah 0_Rich_Hill",
+        "0_Rich_Hill 58_Maitland 59_Rock_Port 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 4_Warrensburg 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 5_Higginsville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 48_Alma 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 6_Louisburg 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 26_East_Saint_Louis 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 12_Sullivan 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 4_Warrensburg 1_Kearney 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 55_Marshall 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 12_Sullivan 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 29_Pilot_Grove 5_Higginsville 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 17_Moberly 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 20_Hurdland 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 11_Sedalia 16_Huntsville 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 23_New_London 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 13_Steelville 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 18_Green_City 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 22_Palmyra 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 21_Hannibal 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 27_To_Chicago 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 5_Higginsville 29_Pilot_Grove 9_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 31_None 35_Tulsa 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 36_Joplin 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 43_Mokane 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 31_None 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 6_Louisburg 36_Joplin 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 35_Tulsa 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 8_Branson 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 44_Auxvasse 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 50_Tina 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 54_Trenton 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 57_Maryville 59_Rock_Port 0_Rich_Hill",
+        "0_Rich_Hill 65_Albany 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 4_Warrensburg 0_Rich_Hill 0_Rich_Hill",
+        "0_Rich_Hill 55_Marshall 65_Albany 55_Marshall 0_Rich_Hill",
+        "0_Rich_Hill 46_Linneus 36_Joplin 6_Louisburg 0_Rich_Hill",
+        "0_Rich_Hill 12_Sullivan 21_Hannibal 12_Sullivan 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 29_Pilot_Grove 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 5_Higginsville 36_Joplin 5_Higginsville 0_Rich_Hill",
+        "0_Rich_Hill 54_Trenton 23_New_London 22_Palmyra 0_Rich_Hill",
+        "0_Rich_Hill 27_To_Chicago 43_Mokane 27_To_Chicago 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 21_Hannibal 8_Branson 0_Rich_Hill",
+        "0_Rich_Hill 4_Warrensburg 46_Linneus 20_Hurdland 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 42_Mexico 22_Palmyra 0_Rich_Hill",
+        "0_Rich_Hill 20_Hurdland 21_Hannibal 12_Sullivan 0_Rich_Hill",
+        "0_Rich_Hill 58_Maitland 21_Hannibal 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 20_Hurdland 46_Linneus 4_Warrensburg 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 36_Joplin 43_Mokane 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 23_New_London 54_Trenton 0_Rich_Hill",
+        "0_Rich_Hill 65_Albany 36_Joplin 65_Albany 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 4_Warrensburg 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 23_New_London 43_Mokane 0_Rich_Hill",
+        "0_Rich_Hill 9_Saint_Louis 13_Steelville 10_Lees_Summit 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 36_Joplin 13_Steelville 0_Rich_Hill",
+        "0_Rich_Hill 22_Palmyra 23_New_London 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 54_Trenton 21_Hannibal 0_Rich_Hill",
+        "0_Rich_Hill 54_Trenton 36_Joplin 54_Trenton 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 44_Auxvasse 12_Sullivan 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 44_Auxvasse 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 26_East_Saint_Louis 13_Steelville 26_East_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 31_None 8_Branson 0_Rich_Hill",
+        "0_Rich_Hill 20_Hurdland 44_Auxvasse 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 27_To_Chicago 44_Auxvasse 54_Trenton 0_Rich_Hill",
+        "0_Rich_Hill 54_Trenton 29_Pilot_Grove 13_Steelville 0_Rich_Hill",
+        "0_Rich_Hill 5_Higginsville 29_Pilot_Grove 5_Higginsville 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 35_Tulsa 8_Branson 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 31_None 35_Tulsa 0_Rich_Hill",
+        "0_Rich_Hill 22_Palmyra 31_None 10_Lees_Summit 0_Rich_Hill",
+        "0_Rich_Hill 6_Louisburg 23_New_London 6_Louisburg 0_Rich_Hill",
+        "0_Rich_Hill 59_Rock_Port 57_Maryville 59_Rock_Port 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 56_Savannah 43_Mokane 0_Rich_Hill",
+        "0_Rich_Hill 22_Palmyra 44_Auxvasse 22_Palmyra 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 57_Maryville 20_Hurdland 0_Rich_Hill",
+        "0_Rich_Hill 46_Linneus 57_Maryville 46_Linneus 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 29_Pilot_Grove 21_Hannibal 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 56_Savannah 13_Steelville 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 31_None 35_Tulsa 0_Rich_Hill",
+        "0_Rich_Hill 46_Linneus 36_Joplin 46_Linneus 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 8_Branson 10_Lees_Summit 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 9_Saint_Louis 10_Lees_Summit 0_Rich_Hill",
+        "0_Rich_Hill 12_Sullivan 44_Auxvasse 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 12_Sullivan 9_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 59_Rock_Port 57_Maryville 46_Linneus 0_Rich_Hill",
+        "0_Rich_Hill 54_Trenton 44_Auxvasse 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 31_None 8_Branson 0_Rich_Hill",
+        "0_Rich_Hill 20_Hurdland 57_Maryville 13_Steelville 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 54_Trenton 55_Marshall 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 13_Steelville 9_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 48_Alma 11_Sedalia 0_Rich_Hill",
+        "0_Rich_Hill 56_Savannah 43_Mokane 9_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 26_East_Saint_Louis 29_Pilot_Grove 54_Trenton 0_Rich_Hill",
+        "0_Rich_Hill 10_Lees_Summit 12_Sullivan 21_Hannibal 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 12_Sullivan 21_Hannibal 0_Rich_Hill",
+        "0_Rich_Hill 48_Alma 11_Sedalia 1_Kearney 0_Rich_Hill",
+        "0_Rich_Hill 56_Savannah 3_To_Omaha 59_Rock_Port 0_Rich_Hill",
+        "0_Rich_Hill 54_Trenton 42_Mexico 22_Palmyra 0_Rich_Hill"
+    ],
+    "values": [
+        30,
+        27,
+        26.5,
+        24.5,
+        23.5,
+        23,
+        22,
+        21,
+        21,
+        21,
+        21,
+        20,
+        20,
+        19.666666666666668,
+        18.666666666666668,
+        18.666666666666668,
+        18.333333333333332,
+        18.285714285714285,
+        17.857142857142858,
+        17.857142857142854,
+        17.5,
+        17.5,
+        17.375,
+        17.375,
+        17.375000000000004,
+        17.166666666666664,
+        17.125,
+        17.03125,
+        16.96428571428571,
+        16.92307692307692,
+        16.8875,
+        16.535714285714285,
+        16.0682302771855,
+        15.31818181818182,
+        15.18181818181818,
+        15.115217391304343,
+        15.115217391304347,
+        14.93235294117647,
+        14.864326375711578,
+        14.576923076923078,
+        14.5,
+        14.23529411764706,
+        14.134920634920633,
+        14.134920634920633,
+        14.134920634920634,
+        14.134920634920633,
+        14.134920634920633,
+        14.134920634920633,
+        14.134920634920634,
+        14.134920634920633,
+        14.092592592592593,
+        14.092592592592593,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+    ],
+    "initialCoverSeg": 5,
+    "greedyCoverSize": 16,
+    "runtime": 1579341522,
+    "lpBound": 14,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 16_Huntsville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 59_Rock_Port 57_Maryville 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 59_Rock_Port 58_Maitland 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 56_Savannah 3_To_Omaha 56_Savannah 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 56_Savannah 52_To_Des_Moines 56_Savannah 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 58_Maitland 59_Rock_Port 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 4_Warrensburg 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 8_Branson 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 5_Higginsville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 48_Alma 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 6_Louisburg 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 26_East_Saint_Louis 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 12_Sullivan 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 4_Warrensburg 1_Kearney 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 55_Marshall 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 12_Sullivan 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0.24999999999999972,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 29_Pilot_Grove 5_Higginsville 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 17_Moberly 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 20_Hurdland 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 11_Sedalia 16_Huntsville 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 23_New_London 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 21_Hannibal 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 18_Green_City 13_Steelville 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 18_Green_City 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 18_Green_City 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 21_Hannibal 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 22_Palmyra 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 21_Hannibal 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 27_To_Chicago 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0.2500000000000003,
+            "cycle": "0_Rich_Hill 5_Higginsville 29_Pilot_Grove 9_Saint_Louis 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 43_Mokane 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 31_None 35_Tulsa 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 36_Joplin 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 43_Mokane 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 35_Tulsa 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 35_Tulsa 31_None 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 6_Louisburg 36_Joplin 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 8_Branson 35_Tulsa 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 35_Tulsa 8_Branson 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 44_Auxvasse 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 43_Mokane 9_Saint_Louis 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 18_Green_City 50_Tina 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 54_Trenton 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 57_Maryville 59_Rock_Port 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 65_Albany 0_Rich_Hill 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 4_Warrensburg 0_Rich_Hill 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 55_Marshall 65_Albany 55_Marshall 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 46_Linneus 36_Joplin 6_Louisburg 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 12_Sullivan 21_Hannibal 12_Sullivan 0_Rich_Hill"
+        },
+        {
+            "x": 0.2500000000000001,
+            "cycle": "0_Rich_Hill 18_Green_City 29_Pilot_Grove 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 5_Higginsville 36_Joplin 5_Higginsville 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 54_Trenton 23_New_London 22_Palmyra 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 27_To_Chicago 43_Mokane 27_To_Chicago 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 8_Branson 21_Hannibal 8_Branson 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 4_Warrensburg 46_Linneus 20_Hurdland 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 42_Mexico 22_Palmyra 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 20_Hurdland 21_Hannibal 12_Sullivan 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 58_Maitland 21_Hannibal 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 20_Hurdland 46_Linneus 4_Warrensburg 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 43_Mokane 36_Joplin 43_Mokane 0_Rich_Hill"
+        },
+        {
+            "x": 0.4999999999999998,
+            "cycle": "0_Rich_Hill 43_Mokane 23_New_London 54_Trenton 0_Rich_Hill"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Rich_Hill 65_Albany 36_Joplin 65_Albany 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 18_Green_City 4_Warrensburg 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 18_Green_City 23_New_London 43_Mokane 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 9_Saint_Louis 13_Steelville 10_Lees_Summit 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 36_Joplin 13_Steelville 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 22_Palmyra 23_New_London 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 21_Hannibal 54_Trenton 21_Hannibal 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 54_Trenton 36_Joplin 54_Trenton 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 18_Green_City 44_Auxvasse 12_Sullivan 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 43_Mokane 44_Auxvasse 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 26_East_Saint_Louis 13_Steelville 26_East_Saint_Louis 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 8_Branson 31_None 8_Branson 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 20_Hurdland 44_Auxvasse 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 27_To_Chicago 44_Auxvasse 54_Trenton 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 54_Trenton 29_Pilot_Grove 13_Steelville 0_Rich_Hill"
+        },
+        {
+            "x": 0.7500000000000002,
+            "cycle": "0_Rich_Hill 5_Higginsville 29_Pilot_Grove 5_Higginsville 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 8_Branson 35_Tulsa 8_Branson 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 35_Tulsa 31_None 35_Tulsa 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 22_Palmyra 31_None 10_Lees_Summit 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 6_Louisburg 23_New_London 6_Louisburg 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 59_Rock_Port 57_Maryville 59_Rock_Port 0_Rich_Hill"
+        },
+        {
+            "x": 0.2500000000000001,
+            "cycle": "0_Rich_Hill 43_Mokane 56_Savannah 43_Mokane 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 22_Palmyra 44_Auxvasse 22_Palmyra 0_Rich_Hill"
+        },
+        {
+            "x": 0.2499999999999999,
+            "cycle": "0_Rich_Hill 13_Steelville 57_Maryville 20_Hurdland 0_Rich_Hill"
+        },
+        {
+            "x": 0.5000000000000002,
+            "cycle": "0_Rich_Hill 46_Linneus 57_Maryville 46_Linneus 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 21_Hannibal 29_Pilot_Grove 21_Hannibal 0_Rich_Hill"
+        },
+        {
+            "x": 0.25000000000000017,
+            "cycle": "0_Rich_Hill 13_Steelville 56_Savannah 13_Steelville 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 31_None 35_Tulsa 0_Rich_Hill"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Rich_Hill 46_Linneus 36_Joplin 46_Linneus 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 35_Tulsa 8_Branson 10_Lees_Summit 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 9_Saint_Louis 10_Lees_Summit 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 12_Sullivan 44_Auxvasse 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 21_Hannibal 12_Sullivan 9_Saint_Louis 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 59_Rock_Port 57_Maryville 46_Linneus 0_Rich_Hill"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Rich_Hill 54_Trenton 44_Auxvasse 18_Green_City 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 31_None 8_Branson 0_Rich_Hill"
+        },
+        {
+            "x": 0.2499999999999999,
+            "cycle": "0_Rich_Hill 20_Hurdland 57_Maryville 13_Steelville 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 13_Steelville 54_Trenton 55_Marshall 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 13_Steelville 9_Saint_Louis 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 1_Kearney 48_Alma 11_Sedalia 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 56_Savannah 43_Mokane 9_Saint_Louis 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 26_East_Saint_Louis 29_Pilot_Grove 54_Trenton 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 10_Lees_Summit 12_Sullivan 21_Hannibal 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 21_Hannibal 12_Sullivan 21_Hannibal 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 48_Alma 11_Sedalia 1_Kearney 0_Rich_Hill"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Rich_Hill 56_Savannah 3_To_Omaha 59_Rock_Port 0_Rich_Hill"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Rich_Hill 54_Trenton 42_Mexico 22_Palmyra 0_Rich_Hill"
+        }
+    ],
+    "greedySolution": [
+        "0_Rich_Hill 56_Savannah 52_To_Des_Moines 56_Savannah 0_Rich_Hill",
+        "0_Rich_Hill 1_Kearney 57_Maryville 59_Rock_Port 0_Rich_Hill",
+        "0_Rich_Hill 18_Green_City 29_Pilot_Grove 18_Green_City 0_Rich_Hill",
+        "0_Rich_Hill 27_To_Chicago 43_Mokane 27_To_Chicago 0_Rich_Hill",
+        "0_Rich_Hill 65_Albany 36_Joplin 65_Albany 0_Rich_Hill",
+        "0_Rich_Hill 26_East_Saint_Louis 13_Steelville 26_East_Saint_Louis 0_Rich_Hill",
+        "0_Rich_Hill 5_Higginsville 29_Pilot_Grove 5_Higginsville 0_Rich_Hill",
+        "0_Rich_Hill 8_Branson 35_Tulsa 8_Branson 0_Rich_Hill",
+        "0_Rich_Hill 35_Tulsa 31_None 35_Tulsa 0_Rich_Hill",
+        "0_Rich_Hill 6_Louisburg 23_New_London 6_Louisburg 0_Rich_Hill",
+        "0_Rich_Hill 43_Mokane 56_Savannah 43_Mokane 0_Rich_Hill",
+        "0_Rich_Hill 22_Palmyra 44_Auxvasse 22_Palmyra 0_Rich_Hill",
+        "0_Rich_Hill 59_Rock_Port 57_Maryville 46_Linneus 0_Rich_Hill",
+        "0_Rich_Hill 13_Steelville 54_Trenton 55_Marshall 0_Rich_Hill",
+        "0_Rich_Hill 21_Hannibal 12_Sullivan 21_Hannibal 0_Rich_Hill",
+        "0_Rich_Hill 56_Savannah 3_To_Omaha 59_Rock_Port 0_Rich_Hill"
+    ]
+}

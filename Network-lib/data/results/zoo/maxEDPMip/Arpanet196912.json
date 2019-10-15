@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1681611,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1829196,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1468234,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1234148,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1279048,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1344164,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1213666,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 6979119,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 3874759,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 3986978,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 6992283,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 4941383,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1755481,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2010994,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1334043,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1495483,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1562117,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1305473,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1439847,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1317381,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1447170,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1654049,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1333275,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1865134,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2009923,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 2870872,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 4056435,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1577500,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1621299,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1347227,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1666073,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 2219559,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1612456,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1409917,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 3786451,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 2297777,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1843455,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1358119,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 1411383,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 2275970,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2720406,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 4303381,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 2138767,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1423964,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1225611,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1408729,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2934440,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2316160,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 2230512,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 4181136,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1382169,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 2406492,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1528656,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1275869,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1267065,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1388609,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 2389742,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 4037927,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1434325,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1267699,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1413341,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1287488,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 2058576,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1420294,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1420434,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1813999,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 3927117,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1833428,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1475688,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1242054,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1508172,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1860971,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 1213584,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1340218,
+            "dest": "1_USCB",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 2000071,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 3228852,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1238608,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1415394,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1143239,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1153048,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1600298,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1710101,
+            "dest": "2_UCLA",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 1,
+            "runtime": 1303267,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1272699,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 1182609,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_UTAH",
+            "nbpSR": 1,
+            "runtime": 1274658,
+            "dest": "0_SRI",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1178924,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1433998,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 1,
+            "runtime": 1350867,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1293379,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1860133,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1542936,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 1,
+            "runtime": 1574192,
+            "dest": "3_UTAH",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1847549,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 1406567,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 5083491,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 1967101,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_UCLA",
+            "nbpSR": 2,
+            "runtime": 1536960,
+            "dest": "0_SRI",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SRI",
+            "nbpSR": 2,
+            "runtime": 2622130,
+            "dest": "1_USCB",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_USCB",
+            "nbpSR": 2,
+            "runtime": 2329207,
+            "dest": "2_UCLA",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

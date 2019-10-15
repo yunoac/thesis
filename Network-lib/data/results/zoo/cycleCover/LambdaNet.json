@@ -1,0 +1,329 @@
+{
+    "initialCoverSize": 51,
+    "times": [
+        1675736,
+        5712508,
+        9792519,
+        13864799,
+        17799300,
+        21781599,
+        25743181,
+        29792477,
+        36026882,
+        41004594,
+        45070603,
+        50368618,
+        56902404,
+        61380194,
+        65634756,
+        69984105,
+        74172011,
+        78209480,
+        82294065,
+        86485992,
+        90642066,
+        94898222,
+        99072469
+    ],
+    "finalCoverSize": 7,
+    "minSegCycles": [
+        "0_Magdeburg 1_Brunswick@0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 2_Rostock 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 12_Duren 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 10_Stockholm 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 4_Leipzig 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 6_Erfurt 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 7_Coburg 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 8_Nuremberg 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 9_Prague 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 18_Vienna 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 15_Bonn 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 17_Brno 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 23_London 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 22_Aachen 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 14_Cologne 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg@1_Brunswick 15_Bonn 0_Magdeburg",
+        "0_Magdeburg@3_Berlin 14_Cologne 0_Magdeburg",
+        "0_Magdeburg 19_Bratislava 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 18_Vienna 9_Prague 0_Magdeburg",
+        "0_Magdeburg 9_Prague 18_Vienna 0_Magdeburg",
+        "0_Magdeburg 20_Paris 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 25_Stuttgart 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 12_Duren 21_Augsburg 0_Magdeburg",
+        "0_Magdeburg 18_Vienna 31_Mannheim 0_Magdeburg",
+        "0_Magdeburg 28_Zurich 0_Magdeburg 0_Magdeburg",
+        "0_Magdeburg 12_Duren 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 2_Rostock 32_Kiel 0_Magdeburg",
+        "0_Magdeburg 2_Rostock 12_Duren 0_Magdeburg",
+        "0_Magdeburg 10_Stockholm 22_Aachen 0_Magdeburg",
+        "0_Magdeburg 20_Paris 22_Aachen 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 2_Rostock 0_Magdeburg",
+        "0_Magdeburg 23_London 2_Rostock 0_Magdeburg",
+        "0_Magdeburg 20_Paris 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 21_Augsburg 23_London 0_Magdeburg",
+        "0_Magdeburg 24_Karlsruhe 19_Bratislava 0_Magdeburg",
+        "0_Magdeburg 14_Cologne 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 39_Bremen 15_Bonn 0_Magdeburg",
+        "0_Magdeburg 12_Duren 20_Paris 0_Magdeburg",
+        "0_Magdeburg 20_Paris 18_Vienna 0_Magdeburg",
+        "0_Magdeburg 20_Paris 9_Prague 0_Magdeburg",
+        "0_Magdeburg 20_Paris 17_Brno 0_Magdeburg",
+        "0_Magdeburg 20_Paris 19_Bratislava 0_Magdeburg",
+        "0_Magdeburg 21_Augsburg 20_Paris 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 21_Augsburg 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 28_Zurich 0_Magdeburg",
+        "0_Magdeburg 25_Stuttgart 17_Brno 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 18_Vienna 0_Magdeburg",
+        "0_Magdeburg 39_Bremen 18_Vienna 0_Magdeburg",
+        "0_Magdeburg 23_London 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 19_Bratislava 24_Karlsruhe 0_Magdeburg"
+    ],
+    "values": [
+        12,
+        11,
+        10,
+        10,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 131851883,
+    "lpBound": 7,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 1_Brunswick@0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 2_Rostock 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 12_Duren 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 10_Stockholm 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 4_Leipzig 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 6_Erfurt 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 7_Coburg 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 8_Nuremberg 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 9_Prague 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 18_Vienna 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 15_Bonn 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 17_Brno 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 32_Kiel 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 23_London 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 22_Aachen 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 14_Cologne 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg@1_Brunswick 15_Bonn 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg@3_Berlin 14_Cologne 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 19_Bratislava 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 18_Vienna 9_Prague 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 9_Prague 18_Vienna 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 25_Stuttgart 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 12_Duren 21_Augsburg 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 18_Vienna 31_Mannheim 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 28_Zurich 0_Magdeburg 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 12_Duren 10_Stockholm 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 2_Rostock 32_Kiel 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 2_Rostock 12_Duren 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 10_Stockholm 22_Aachen 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 22_Aachen 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 32_Kiel 2_Rostock 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 23_London 2_Rostock 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 10_Stockholm 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 21_Augsburg 23_London 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 24_Karlsruhe 19_Bratislava 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 14_Cologne 10_Stockholm 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 39_Bremen 15_Bonn 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 12_Duren 20_Paris 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 18_Vienna 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 9_Prague 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 17_Brno 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 20_Paris 19_Bratislava 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 21_Augsburg 20_Paris 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 32_Kiel 21_Augsburg 0_Magdeburg"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Magdeburg 32_Kiel 28_Zurich 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 25_Stuttgart 17_Brno 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 32_Kiel 18_Vienna 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 39_Bremen 18_Vienna 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 23_London 10_Stockholm 0_Magdeburg"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Magdeburg 19_Bratislava 24_Karlsruhe 0_Magdeburg"
+        }
+    ],
+    "greedySolution": [
+        "0_Magdeburg 12_Duren 21_Augsburg 0_Magdeburg",
+        "0_Magdeburg 12_Duren 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 10_Stockholm 22_Aachen 0_Magdeburg",
+        "0_Magdeburg 20_Paris 10_Stockholm 0_Magdeburg",
+        "0_Magdeburg 21_Augsburg 23_London 0_Magdeburg",
+        "0_Magdeburg 24_Karlsruhe 19_Bratislava 0_Magdeburg",
+        "0_Magdeburg 20_Paris 19_Bratislava 0_Magdeburg",
+        "0_Magdeburg 32_Kiel 28_Zurich 0_Magdeburg",
+        "0_Magdeburg 39_Bremen 18_Vienna 0_Magdeburg",
+        "0_Magdeburg 19_Bratislava 24_Karlsruhe 0_Magdeburg"
+    ]
+}

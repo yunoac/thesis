@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 2,
+            "runtime": 49944616,
+            "dest": "5_Bucarest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 2,
+            "runtime": 43983342,
+            "dest": "11_Timisoara",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Targoviste",
+            "nbpSR": 1,
+            "runtime": 38717392,
+            "dest": "16_Deva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 33594761,
+            "dest": "6_Galati",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Focsani",
+            "nbpSR": 1,
+            "runtime": 76693414,
+            "dest": "12_Sibiu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 54128294,
+            "dest": "3_Targoviste",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 2,
+            "runtime": 34510008,
+            "dest": "15_Bacau",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 1,
+            "runtime": 79676397,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Budapest",
+            "nbpSR": 1,
+            "runtime": 76050667,
+            "dest": "14_Piatra_Neamt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 1,
+            "runtime": 39458721,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 1,
+            "runtime": 63740056,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 2,
+            "runtime": 44235894,
+            "dest": "20_Arad",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 1,
+            "runtime": 79853845,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Plaiesti",
+            "nbpSR": 1,
+            "runtime": 29223758,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 88900956,
+            "dest": "14_Piatra_Neamt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 1,
+            "runtime": 67747172,
+            "dest": "14_Piatra_Neamt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Piatra_Neamt",
+            "nbpSR": 1,
+            "runtime": 72904335,
+            "dest": "12_Sibiu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 1,
+            "runtime": 62159796,
+            "dest": "9_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 2,
+            "runtime": 82568520,
+            "dest": "20_Arad",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Plaiesti",
+            "nbpSR": 1,
+            "runtime": 34483149,
+            "dest": "15_Bacau",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 1,
+            "runtime": 83932428,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Targu_Mures",
+            "nbpSR": 1,
+            "runtime": 33948920,
+            "dest": "13_Iasi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 1,
+            "runtime": 67413912,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 39411012,
+            "dest": "16_Deva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 32550649,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Budapest",
+            "nbpSR": 1,
+            "runtime": 70771651,
+            "dest": "14_Piatra_Neamt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 74981115,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 2,
+            "runtime": 38536034,
+            "dest": "18_Oradea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 64551424,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 1,
+            "runtime": 69936307,
+            "dest": "6_Galati",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 2,
+            "runtime": 33127085,
+            "dest": "5_Bucarest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 2,
+            "runtime": 45231289,
+            "dest": "17_Cluj",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "17_Cluj",
+            "nbpSR": 1,
+            "runtime": 77888552,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Sibiu",
+            "nbpSR": 1,
+            "runtime": 29386830,
+            "dest": "15_Bacau",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 76847753,
+            "dest": "20_Arad",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 70583169,
+            "dest": "3_Targoviste",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 2,
+            "runtime": 34625741,
+            "dest": "17_Cluj",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 48134382,
+            "dest": "11_Timisoara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 1,
+            "runtime": 71255538,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Sibiu",
+            "nbpSR": 1,
+            "runtime": 37545507,
+            "dest": "11_Timisoara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Targoviste",
+            "nbpSR": 1,
+            "runtime": 32458189,
+            "dest": "20_Arad",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Plaiesti",
+            "nbpSR": 1,
+            "runtime": 31733336,
+            "dest": "9_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Sibiu",
+            "nbpSR": 1,
+            "runtime": 66907780,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 57081406,
+            "dest": "18_Oradea",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Bucarest",
+            "nbpSR": 1,
+            "runtime": 37730636,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 66810471,
+            "dest": "6_Galati",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_Targu_Mures",
+            "nbpSR": 1,
+            "runtime": 37166852,
+            "dest": "0_Craiova",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 1,
+            "runtime": 33491186,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 70631245,
+            "dest": "13_Iasi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 1,
+            "runtime": 33992648,
+            "dest": "4_Constanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 70092146,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Targoviste",
+            "nbpSR": 1,
+            "runtime": 38190531,
+            "dest": "16_Deva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Targoviste",
+            "nbpSR": 1,
+            "runtime": 82638355,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 58052893,
+            "dest": "9_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 32099039,
+            "dest": "13_Iasi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 68393317,
+            "dest": "6_Galati",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 32234844,
+            "dest": "13_Iasi",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 2,
+            "runtime": 32761316,
+            "dest": "18_Oradea",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 1,
+            "runtime": 77560601,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 2,
+            "runtime": 39958081,
+            "dest": "11_Timisoara",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 75697136,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 1,
+            "runtime": 43957763,
+            "dest": "16_Deva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 1,
+            "runtime": 71550789,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 79935423,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 1,
+            "runtime": 42522792,
+            "dest": "4_Constanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 1,
+            "runtime": 40415338,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "18_Oradea",
+            "nbpSR": 1,
+            "runtime": 65684547,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 42792936,
+            "dest": "17_Cluj",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 1,
+            "runtime": 74035300,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_Craiova",
+            "nbpSR": 1,
+            "runtime": 44980717,
+            "dest": "4_Constanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_Bucarest",
+            "nbpSR": 5,
+            "runtime": 38712892,
+            "dest": "18_Oradea",
+            "nbpFlow": 5
+        },
+        {
+            "orig": "1_Plaiesti",
+            "nbpSR": 1,
+            "runtime": 31205175,
+            "dest": "6_Galati",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 2,
+            "runtime": 53236542,
+            "dest": "11_Timisoara",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 41061559,
+            "dest": "11_Timisoara",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "19_Bors",
+            "nbpSR": 1,
+            "runtime": 89969375,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_Focsani",
+            "nbpSR": 1,
+            "runtime": 90866742,
+            "dest": "9_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Sibiu",
+            "nbpSR": 1,
+            "runtime": 38300030,
+            "dest": "9_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_Timisoara",
+            "nbpSR": 1,
+            "runtime": 31271416,
+            "dest": "16_Deva",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Budapest",
+            "nbpSR": 1,
+            "runtime": 78216367,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_Budapest",
+            "nbpSR": 1,
+            "runtime": 31633106,
+            "dest": "0_Craiova",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 2,
+            "runtime": 61753894,
+            "dest": "0_Craiova",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 2,
+            "runtime": 32970360,
+            "dest": "5_Bucarest",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_Brasov",
+            "nbpSR": 1,
+            "runtime": 68839702,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 1,
+            "runtime": 36326986,
+            "dest": "4_Constanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "20_Arad",
+            "nbpSR": 2,
+            "runtime": 56207186,
+            "dest": "11_Timisoara",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "15_Bacau",
+            "nbpSR": 1,
+            "runtime": 38328153,
+            "dest": "10_Targu_Mures",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 46349429,
+            "dest": "12_Sibiu",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "14_Piatra_Neamt",
+            "nbpSR": 1,
+            "runtime": 85594957,
+            "dest": "2_Brasov",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 56435147,
+            "dest": "18_Oradea",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 2,
+            "runtime": 46654738,
+            "dest": "17_Cluj",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "13_Iasi",
+            "nbpSR": 1,
+            "runtime": 70694093,
+            "dest": "19_Bors",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "16_Deva",
+            "nbpSR": 1,
+            "runtime": 78709939,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Targoviste",
+            "nbpSR": 1,
+            "runtime": 42940850,
+            "dest": "2_Brasov",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 77437948,
+            "dest": "18_Oradea",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_Galati",
+            "nbpSR": 1,
+            "runtime": 32406905,
+            "dest": "1_Plaiesti",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "17_Cluj",
+            "nbpSR": 1,
+            "runtime": 81963352,
+            "dest": "14_Piatra_Neamt",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Sibiu",
+            "nbpSR": 1,
+            "runtime": 35751118,
+            "dest": "5_Bucarest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 66708378,
+            "dest": "8_Budapest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Constanta",
+            "nbpSR": 1,
+            "runtime": 31721467,
+            "dest": "5_Bucarest",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Budapest",
+            "nbpSR": 1,
+            "runtime": 83422873,
+            "dest": "7_Focsani",
+            "nbpFlow": 1
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

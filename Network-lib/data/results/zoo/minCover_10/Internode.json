@@ -1,0 +1,910 @@
+{
+    "initialCoverSize": 176,
+    "times": [
+        3168439,
+        18429572,
+        33522701,
+        48670135,
+        63834616,
+        79042202,
+        94061872,
+        109903660,
+        127322343,
+        142472445,
+        157528210,
+        172577040,
+        187631046,
+        202860191,
+        219793530,
+        234944482,
+        250053755,
+        265822328,
+        283086898,
+        298602655,
+        313704895,
+        328760307,
+        343783866,
+        358659659,
+        374269834,
+        391310527,
+        406439194,
+        421658490,
+        436932022,
+        452043766,
+        467082341,
+        483320116,
+        500760143,
+        516212958,
+        532098163,
+        549357702,
+        564619937,
+        579829982,
+        594891189,
+        610339427,
+        626491246,
+        646243462,
+        661693761,
+        677004639,
+        693833699,
+        710388450,
+        725732090,
+        742014969,
+        758938551,
+        774178428,
+        789646269,
+        807114107,
+        823657208,
+        839047206,
+        854610332,
+        870109177,
+        885607366,
+        901358399,
+        917590552,
+        934149680,
+        949705258,
+        965028925,
+        980380582,
+        995711681,
+        1011970821,
+        1030109505,
+        1045625836,
+        1061059624,
+        1076640828,
+        1092011189,
+        1107808870,
+        1125014341,
+        1141283791,
+        1156656341,
+        1173573225,
+        1190609330,
+        1206220376,
+        1221827687,
+        1237654425,
+        1253356839,
+        1269773810,
+        1287815558,
+        1303551986,
+        1319256860,
+        1337639753,
+        1353713930,
+        1369527272,
+        1385337895,
+        1401310174,
+        1417469856,
+        1435891223,
+        1453312660,
+        1469539581,
+        1485699171,
+        1505347915,
+        1521626261,
+        1537465975
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_mel6,0_mel4 3_mel6,0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 50_AARNet,0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 11_Optus,0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 1_syd6 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 1_syd6,3_mel6 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 8_Sprint 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 18_hkg1 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 1_syd6,19_sjc2 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 20_nrt1 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 21_akl1 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 1_syd6,61_adl2 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 2_University_of_Adelaide 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 3_mel6,1_syd6 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 10_cbr1 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 48_PIPE_Networks 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 3_mel6,61_adl2 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 23_PIPE_Networks 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 22_Optus 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 4_bne1 7_bne4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6,5_hba1 5_hba1,3_mel6 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6,5_hba1 49_PIPE_Networks 5_hba1,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 6_syd7,10_cbr1 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 46_Google 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 51_PIPE_Networks 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 52_PacNet 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 4_bne1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 9_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 10_cbr1,6_syd7 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 47_TransIX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 54_PIPE_Networks 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 53_AARNet 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 12_Astraweb 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 13_Google 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 14_Sprint 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 15_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 17_Starhub 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 18_hkg1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 38_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 8_Sprint 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 18_hkg1 16_sin1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 39_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 37_NTT 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 40_HKIX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 19_sjc2,1_syd6 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 43_NTT 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 8_Sprint 20_nrt1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 12_Astraweb 16_sin1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 28_PAIX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 29_Global_Crossing 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 30_Level_3 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 20_nrt1 8_Sprint 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 42_NTT 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 44_JPIX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 41_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 24_iad1 16_sin1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 34_Equinix 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 12_Astraweb 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 24_iad1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 32_LINX_1 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 33_AMS_IX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 31_LINX_2 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 26_NTT 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 27_Level_3 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 35_Any2 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 36_Google 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 62_Global_Crossing 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 55_AARNet 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 56_AARNet 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 57_Optus 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 58_per2 16_sin1 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 58_per2 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 58_per2 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 64_Optus 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 65_WAIX 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 63_PIPE_Networks 0_mel4 0_mel4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 61_adl2,1_syd6 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 61_adl2,3_mel6 0_mel4,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 41_Equinix 31_LINX_2 41_Equinix 31_LINX_2 41_Equinix 31_LINX_2 41_Equinix 31_LINX_2 3_mel6"
+        },
+        {
+            "x": 0.217266945609675,
+            "cycle": "3_mel6 34_Equinix 17_Starhub 34_Equinix 17_Starhub 34_Equinix 17_Starhub 34_Equinix 17_Starhub 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 37_NTT 32_LINX_1 37_NTT 32_LINX_1 37_NTT 32_LINX_1 37_NTT 32_LINX_1 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 33_AMS_IX 58_per2 33_AMS_IX 58_per2 33_AMS_IX 58_per2 33_AMS_IX 39_Equinix 3_mel6"
+        },
+        {
+            "x": 0.21620936759581957,
+            "cycle": "3_mel6 22_Optus 7_bne4 22_Optus 7_bne4 22_Optus 7_bne4 22_Optus 2_University_of_Adelaide 3_mel6"
+        },
+        {
+            "x": 0.07937317794388035,
+            "cycle": "3_mel6 39_Equinix 38_Equinix 39_Equinix 38_Equinix 39_Equinix 38_Equinix 39_Equinix 38_Equinix 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 8_Sprint 38_Equinix 8_Sprint 38_Equinix 8_Sprint 38_Equinix 8_Sprint 38_Equinix 3_mel6"
+        },
+        {
+            "x": 0.11790445161494847,
+            "cycle": "3_mel6 9_Equinix 42_NTT 9_Equinix 42_NTT 9_Equinix 42_NTT 9_Equinix 42_NTT 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 2_University_of_Adelaide 7_bne4 2_University_of_Adelaide 7_bne4 2_University_of_Adelaide 7_bne4 2_University_of_Adelaide 3_mel6"
+        },
+        {
+            "x": 0.08227377779446042,
+            "cycle": "3_mel6 12_Astraweb 11_Optus 12_Astraweb 11_Optus 12_Astraweb 11_Optus 12_Astraweb 11_Optus 3_mel6"
+        },
+        {
+            "x": 0.004258670946414855,
+            "cycle": "3_mel6 14_Sprint 13_Google 14_Sprint 13_Google 14_Sprint 13_Google 14_Sprint 13_Google 3_mel6"
+        },
+        {
+            "x": 0.011593687764847538,
+            "cycle": "3_mel6 21_akl1 15_Equinix 21_akl1 15_Equinix 21_akl1 15_Equinix 21_akl1 15_Equinix 3_mel6"
+        },
+        {
+            "x": 0.01388492684772124,
+            "cycle": "3_mel6 24_iad1 23_PIPE_Networks 24_iad1 23_PIPE_Networks 24_iad1 23_PIPE_Networks 24_iad1 23_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0.0460987980418959,
+            "cycle": "3_mel6 27_Level_3 26_NTT 27_Level_3 26_NTT 27_Level_3 26_NTT 27_Level_3 26_NTT 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 29_Global_Crossing 28_PAIX 29_Global_Crossing 28_PAIX 29_Global_Crossing 28_PAIX 29_Global_Crossing 28_PAIX 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 35_Any2 30_Level_3 35_Any2 30_Level_3 35_Any2 30_Level_3 35_Any2 30_Level_3 3_mel6"
+        },
+        {
+            "x": 0.24360079611099653,
+            "cycle": "3_mel6 40_HKIX 36_Google 40_HKIX 36_Google 40_HKIX 36_Google 40_HKIX 36_Google 3_mel6"
+        },
+        {
+            "x": 0.15706917106402798,
+            "cycle": "3_mel6 44_JPIX 43_NTT 44_JPIX 43_NTT 44_JPIX 43_NTT 44_JPIX 43_NTT 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 46_Google 20_nrt1 46_Google 20_nrt1 46_Google 20_nrt1 46_Google 20_nrt1 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 48_PIPE_Networks 47_TransIX 48_PIPE_Networks 47_TransIX 48_PIPE_Networks 47_TransIX 48_PIPE_Networks 47_TransIX 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 51_PIPE_Networks 50_AARNet 51_PIPE_Networks 50_AARNet 51_PIPE_Networks 50_AARNet 51_PIPE_Networks 50_AARNet 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 53_AARNet 52_PacNet 53_AARNet 52_PacNet 53_AARNet 52_PacNet 53_AARNet 52_PacNet 3_mel6"
+        },
+        {
+            "x": 0.25,
+            "cycle": "3_mel6 55_AARNet 54_PIPE_Networks 55_AARNet 54_PIPE_Networks 55_AARNet 54_PIPE_Networks 55_AARNet 54_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0.0244201931219115,
+            "cycle": "3_mel6 57_Optus 56_AARNet 57_Optus 56_AARNet 57_Optus 56_AARNet 57_Optus 56_AARNet 3_mel6"
+        },
+        {
+            "x": 0.15395773244064026,
+            "cycle": "3_mel6 62_Global_Crossing 58_per2 62_Global_Crossing 58_per2 62_Global_Crossing 58_per2 62_Global_Crossing 58_per2 3_mel6"
+        },
+        {
+            "x": 0.04955003905589018,
+            "cycle": "3_mel6 64_Optus 63_PIPE_Networks 64_Optus 63_PIPE_Networks 64_Optus 63_PIPE_Networks 64_Optus 63_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0.12403969301904616,
+            "cycle": "3_mel6 65_WAIX 3_mel6,1_syd6 65_WAIX 3_mel6,1_syd6 65_WAIX 1_syd6,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6,5_hba1 49_PIPE_Networks 5_hba1,3_mel6 19_sjc2,1_syd6 1_syd6,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 61_adl2,1_syd6 61_adl2,3_mel6 61_adl2,1_syd6 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.2590038731131681,
+            "cycle": "3_mel6 6_syd7,10_cbr1 10_cbr1,6_syd7 6_syd7,10_cbr1 10_cbr1,6_syd7 3_mel6"
+        },
+        {
+            "x": 0.29177248595868754,
+            "cycle": "3_mel6 1_syd6,61_adl2 1_syd6,19_sjc2 1_syd6,61_adl2 1_syd6,19_sjc2 3_mel6"
+        },
+        {
+            "x": 0.07045273597253221,
+            "cycle": "3_mel6,61_adl2 2_University_of_Adelaide 3_mel6,61_adl2 2_University_of_Adelaide 3_mel6,61_adl2 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 4_bne1 8_Sprint 7_bne4 4_bne1 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 25_lon1 12_Astraweb 9_Equinix 16_sin1 12_Astraweb 9_Equinix 16_sin1 12_Astraweb 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 25_lon1 24_iad1 27_Level_3 16_sin1 24_iad1 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.0071131534452885834,
+            "cycle": "3_mel6 17_Starhub 26_NTT 23_PIPE_Networks 7_bne4 17_Starhub 26_NTT 23_PIPE_Networks 7_bne4 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 24_iad1 38_Equinix 14_Sprint 24_iad1 38_Equinix 14_Sprint 38_Equinix 14_Sprint 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 16_sin1 13_Google 16_sin1 13_Google 7_bne4 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.3943208960412017,
+            "cycle": "3_mel6 7_bne4 10_cbr1,6_syd7 3_mel6,1_syd6 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.20189303465293276,
+            "cycle": "3_mel6 19_sjc2,1_syd6 7_bne4 19_sjc2,1_syd6 7_bne4 19_sjc2,1_syd6 3_mel6"
+        },
+        {
+            "x": 0.178799858960353,
+            "cycle": "3_mel6 8_Sprint 3_mel6,1_syd6 23_PIPE_Networks 7_bne4 3_mel6,1_syd6 61_adl2,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 34_Equinix 2_University_of_Adelaide 34_Equinix 2_University_of_Adelaide 34_Equinix 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.21135820791759663,
+            "cycle": "3_mel6 11_Optus 6_syd7,10_cbr1 61_adl2,1_syd6 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.15697023023571538,
+            "cycle": "3_mel6 65_WAIX 12_Astraweb 65_WAIX 12_Astraweb 65_WAIX 12_Astraweb 65_WAIX 61_adl2,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6,5_hba1 49_PIPE_Networks 5_hba1 49_PIPE_Networks 5_hba1 49_PIPE_Networks 5_hba1,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 15_Equinix 1_syd6,3_mel6 15_Equinix 1_syd6,3_mel6 15_Equinix 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.043835678866231104,
+            "cycle": "3_mel6 21_akl1 11_Optus 10_cbr1,6_syd7 11_Optus 10_cbr1,6_syd7 61_adl2,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 12_Astraweb 14_Sprint 12_Astraweb 14_Sprint 12_Astraweb 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.160721290114779,
+            "cycle": "3_mel6 15_Equinix 2_University_of_Adelaide 15_Equinix 2_University_of_Adelaide 15_Equinix 2_University_of_Adelaide 15_Equinix 2_University_of_Adelaide 3_mel6"
+        },
+        {
+            "x": 0.24574132905358514,
+            "cycle": "3_mel6 13_Google 26_NTT 13_Google 26_NTT 13_Google 26_NTT 13_Google 1_syd6,3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 35_Any2 29_Global_Crossing 35_Any2 29_Global_Crossing 35_Any2 29_Global_Crossing 35_Any2 29_Global_Crossing 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 35_Any2 28_PAIX 35_Any2 28_PAIX 35_Any2 28_PAIX 35_Any2 28_PAIX 3_mel6"
+        },
+        {
+            "x": 0.006399203889003467,
+            "cycle": "3_mel6 39_Equinix 36_Google 39_Equinix 36_Google 39_Equinix 36_Google 39_Equinix 36_Google 3_mel6"
+        },
+        {
+            "x": 0.006399203889003474,
+            "cycle": "3_mel6 40_HKIX 39_Equinix 40_HKIX 39_Equinix 40_HKIX 39_Equinix 40_HKIX 39_Equinix 3_mel6"
+        },
+        {
+            "x": 0.005081725780338053,
+            "cycle": "3_mel6 58_per2 38_Equinix 62_Global_Crossing 58_per2 38_Equinix 62_Global_Crossing 7_bne4 23_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0.07045193156058192,
+            "cycle": "3_mel6 56_AARNet 58_per2 23_PIPE_Networks 56_AARNet 58_per2 23_PIPE_Networks 56_AARNet 58_per2 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 17_Starhub 43_NTT 17_Starhub 43_NTT 17_Starhub 43_NTT 17_Starhub 43_NTT 3_mel6"
+        },
+        {
+            "x": 0.029176477667680722,
+            "cycle": "3_mel6 17_Starhub 15_Equinix 17_Starhub 15_Equinix 17_Starhub 15_Equinix 17_Starhub 15_Equinix 3_mel6"
+        },
+        {
+            "x": 0.2039012019581041,
+            "cycle": "3_mel6 27_Level_3 37_NTT 27_Level_3 37_NTT 27_Level_3 37_NTT 27_Level_3 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.024420193121911498,
+            "cycle": "3_mel6 32_LINX_1 58_per2 32_LINX_1 58_per2 32_LINX_1 58_per2 32_LINX_1 58_per2 3_mel6"
+        },
+        {
+            "x": 0.0014344472160745733,
+            "cycle": "3_mel6 42_NTT 7_bne4 42_NTT 7_bne4 42_NTT 7_bne4 42_NTT 7_bne4 3_mel6"
+        },
+        {
+            "x": 7.822699844260844E-4,
+            "cycle": "3_mel6 9_Equinix 7_bne4 9_Equinix 7_bne4 9_Equinix 7_bne4 9_Equinix 7_bne4 3_mel6"
+        },
+        {
+            "x": 0.09293082893597202,
+            "cycle": "3_mel6 46_Google 44_JPIX 46_Google 44_JPIX 46_Google 44_JPIX 46_Google 44_JPIX 3_mel6"
+        },
+        {
+            "x": 0.022552607481405314,
+            "cycle": "3_mel6 41_Equinix 15_Equinix 41_Equinix 15_Equinix 41_Equinix 15_Equinix 41_Equinix 15_Equinix 3_mel6"
+        },
+        {
+            "x": 0.05191187394257487,
+            "cycle": "3_mel6 31_LINX_2 24_iad1 15_Equinix 31_LINX_2 24_iad1 15_Equinix 31_LINX_2 24_iad1 3_mel6"
+        },
+        {
+            "x": 0.2274473925185947,
+            "cycle": "3_mel6 41_Equinix 21_akl1 41_Equinix 21_akl1 41_Equinix 21_akl1 41_Equinix 21_akl1 3_mel6"
+        },
+        {
+            "x": 0.08551778950407463,
+            "cycle": "3_mel6 33_AMS_IX 46_Google 33_AMS_IX 46_Google 33_AMS_IX 46_Google 33_AMS_IX 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.09293082893597202,
+            "cycle": "3_mel6 46_Google 43_NTT 46_Google 43_NTT 46_Google 43_NTT 46_Google 43_NTT 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 50_AARNet 48_PIPE_Networks 50_AARNet 48_PIPE_Networks 50_AARNet 48_PIPE_Networks 50_AARNet 48_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 51_PIPE_Networks 48_PIPE_Networks 51_PIPE_Networks 48_PIPE_Networks 51_PIPE_Networks 48_PIPE_Networks 51_PIPE_Networks 48_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 54_PIPE_Networks 52_PacNet 54_PIPE_Networks 52_PacNet 54_PIPE_Networks 52_PacNet 54_PIPE_Networks 52_PacNet 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 54_PIPE_Networks 53_AARNet 54_PIPE_Networks 53_AARNet 54_PIPE_Networks 53_AARNet 54_PIPE_Networks 53_AARNet 3_mel6"
+        },
+        {
+            "x": 0.20822751404131246,
+            "cycle": "3_mel6 63_PIPE_Networks 57_Optus 1_syd6,61_adl2 57_Optus 1_syd6,61_adl2 57_Optus 3_mel6"
+        },
+        {
+            "x": 0.1388183426942083,
+            "cycle": "3_mel6 1_syd6,19_sjc2 57_Optus 1_syd6,19_sjc2 57_Optus 1_syd6,19_sjc2 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 64_Optus 62_Global_Crossing 64_Optus 62_Global_Crossing 64_Optus 62_Global_Crossing 64_Optus 62_Global_Crossing 3_mel6"
+        },
+        {
+            "x": 0.07520417874766039,
+            "cycle": "3_mel6 58_per2 64_Optus 8_Sprint 58_per2 64_Optus 8_Sprint 58_per2 64_Optus 3_mel6"
+        },
+        {
+            "x": 0.09350140466919071,
+            "cycle": "3_mel6 62_Global_Crossing 8_Sprint 62_Global_Crossing 8_Sprint 62_Global_Crossing 8_Sprint 62_Global_Crossing 8_Sprint 3_mel6"
+        },
+        {
+            "x": 0.1483930824337817,
+            "cycle": "3_mel6 63_PIPE_Networks 8_Sprint 63_PIPE_Networks 8_Sprint 63_PIPE_Networks 58_per2 63_PIPE_Networks 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.16984085827615134,
+            "cycle": "3_mel6 64_Optus 32_LINX_1 42_NTT 64_Optus 32_LINX_1 42_NTT 64_Optus 32_LINX_1 3_mel6"
+        },
+        {
+            "x": 0.05278191045387038,
+            "cycle": "3_mel6 7_bne4 23_PIPE_Networks 7_bne4 23_PIPE_Networks 7_bne4 23_PIPE_Networks 7_bne4 23_PIPE_Networks 3_mel6"
+        },
+        {
+            "x": 0.13516252961672173,
+            "cycle": "3_mel6 31_LINX_2 39_Equinix 7_bne4 22_Optus 31_LINX_2 39_Equinix 24_iad1 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.032733054390325006,
+            "cycle": "3_mel6 34_Equinix 9_Equinix 34_Equinix 9_Equinix 34_Equinix 9_Equinix 34_Equinix 9_Equinix 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 33_AMS_IX 13_Google 33_AMS_IX 13_Google 33_AMS_IX 13_Google 33_AMS_IX 13_Google 3_mel6"
+        },
+        {
+            "x": 0,
+            "cycle": "3_mel6 7_bne4 22_Optus 37_NTT 17_Starhub 7_bne4 22_Optus 37_NTT 17_Starhub 3_mel6"
+        },
+        {
+            "x": 0.09148134406180253,
+            "cycle": "3_mel6 31_LINX_2 42_NTT 61_adl2,1_syd6 31_LINX_2 42_NTT 61_adl2,1_syd6 3_mel6"
+        },
+        {
+            "x": 0.3943208960412017,
+            "cycle": "3_mel6,61_adl2 24_iad1 3_mel6,61_adl2 3_mel6,5_hba1 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.6056791039587983,
+            "cycle": "3_mel6 14_Sprint 38_Equinix 61_adl2,1_syd6 3_mel6,5_hba1 49_PIPE_Networks 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.3943208960412017,
+            "cycle": "3_mel6 23_PIPE_Networks 9_Equinix 19_sjc2,1_syd6 3_mel6,5_hba1 49_PIPE_Networks 5_hba1,3_mel6"
+        },
+        {
+            "x": 0.23032114427686942,
+            "cycle": "3_mel6 56_AARNet 58_per2 56_AARNet 58_per2 56_AARNet 58_per2 31_LINX_2 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.09707409853142193,
+            "cycle": "3_mel6 37_NTT 33_AMS_IX 37_NTT 33_AMS_IX 37_NTT 33_AMS_IX 37_NTT 33_AMS_IX 3_mel6"
+        },
+        {
+            "x": 0.08032774326917887,
+            "cycle": "3_mel6 14_Sprint 39_Equinix 31_LINX_2 14_Sprint 39_Equinix 31_LINX_2 14_Sprint 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.06415451378108347,
+            "cycle": "3_mel6 32_LINX_1 24_iad1 26_NTT 32_LINX_1 24_iad1 32_LINX_1 24_iad1 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.06815149122400282,
+            "cycle": "3_mel6 14_Sprint 33_AMS_IX 11_Optus 14_Sprint 33_AMS_IX 6_syd7,10_cbr1 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.10124127731603222,
+            "cycle": "3_mel6 11_Optus 6_syd7,10_cbr1 11_Optus 6_syd7,10_cbr1 11_Optus 61_adl2,3_mel6"
+        },
+        {
+            "x": 0.06677770378021657,
+            "cycle": "3_mel6 24_iad1 32_LINX_1 39_Equinix 32_LINX_1 39_Equinix 32_LINX_1 39_Equinix 1_syd6,3_mel6"
+        },
+        {
+            "x": 0.06666473270500407,
+            "cycle": "3_mel6 38_Equinix 12_Astraweb 64_Optus 33_AMS_IX 12_Astraweb 33_AMS_IX 12_Astraweb 1_syd6,3_mel6"
+        }
+    ],
+    "values": [
+        69,
+        65.25,
+        62.5,
+        58.833333333333336,
+        56.75,
+        54.75,
+        54,
+        52.583333333333336,
+        50.75,
+        49.333333333333336,
+        47.66666666666667,
+        45.91666666666667,
+        44.16666666666667,
+        42.50000000000001,
+        40.75000000000001,
+        39.00000000000001,
+        37.25000000000001,
+        35.5,
+        34.416666666666664,
+        33,
+        31.249999999999996,
+        29.499999999999996,
+        27.749999999999996,
+        25.999999999999996,
+        24.249999999999996,
+        22.499999999999996,
+        20.75,
+        18.75,
+        16.25,
+        14.666666666666666,
+        13.166666666666666,
+        11.666666666666668,
+        10.958333333333334,
+        10.875000000000002,
+        10.855769230769232,
+        10.76388888888889,
+        10.5625,
+        10.541666666666668,
+        10.515624999999996,
+        10.484375000000002,
+        10.447916666666666,
+        10.405566939890708,
+        10.361731150793648,
+        10.267526455026452,
+        10.133288690476192,
+        10.092845289507355,
+        10.085813819261213,
+        10.049844895657081,
+        9.988769651191355,
+        9.980556675401466,
+        9.962535982693836,
+        9.962535982693835,
+        9.962535982693835,
+        9.962535982693835,
+        9.913703725590619,
+        9.912988339984283,
+        9.89949111062504,
+        9.891863185521363,
+        9.888904196025628,
+        9.885758898086252,
+        9.873427168892507,
+        9.873427168892507,
+        9.861945922271914,
+        9.859560378811398,
+        9.859560378811398,
+        9.823554853852109,
+        9.801237346037484,
+        9.790342734456367,
+        9.717839071905342,
+        9.717839071905342,
+        9.71783907190534,
+        9.717839071905342,
+        9.71783907190534,
+        9.717839071905342,
+        9.709952901078944,
+        9.709952901078944,
+        9.705074208992789,
+        9.699851975597838,
+        9.68984771549561,
+        9.677340879676928,
+        9.67602677466667,
+        9.658529298066528,
+        9.650805055456281,
+        9.640744411367367,
+        9.636599512816682,
+        9.630633494725936,
+        9.629062990145124,
+        9.599859873156909,
+        9.586193777996202,
+        9.5538476971604,
+        9.544608234623228,
+        9.532502134168727,
+        9.517095676532508,
+        9.508456624769156,
+        9.507647408995393,
+        9.505384929383503,
+        9.499999999999996
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 1797077,
+    "lpBound": 9.499999999999996
+}

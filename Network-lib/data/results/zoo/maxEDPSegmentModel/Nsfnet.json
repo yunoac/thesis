@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 8701575,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 8314885,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 3610217,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3230146,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 8069383,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 2,
+            "runtime": 8390904,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 1,
+            "runtime": 10724488,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 11928172,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 1,
+            "runtime": 16392391,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 3,
+            "runtime": 10210163,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 3,
+            "runtime": 12765628,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3622190,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 3,
+            "runtime": 11417076,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 3,
+            "runtime": 14107683,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 2,
+            "runtime": 9884557,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 11418757,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 2,
+            "runtime": 12491821,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "9_NCAR,_Boulder",
+            "nbpSR": 2,
+            "runtime": 10929457,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Pittsburgh_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 3244289,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 9006068,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3619790,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 9695095,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 8916662,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 2,
+            "runtime": 13135511,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "3_Pittsburgh_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 3168259,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 3856072,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 2,
+            "runtime": 9105986,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 6125775,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 3,
+            "runtime": 14721885,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 9866191,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 10420364,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 1,
+            "runtime": 14013110,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NCAR,_Boulder",
+            "nbpSR": 1,
+            "runtime": 11540070,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Pittsburgh_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 3584463,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NCAR,_Boulder",
+            "nbpSR": 2,
+            "runtime": 11196449,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 8557863,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 9530407,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 1,
+            "runtime": 11972856,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 2,
+            "runtime": 12480259,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 1,
+            "runtime": 12009285,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 9047171,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 1,
+            "runtime": 10488176,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NCAR,_Boulder",
+            "nbpSR": 2,
+            "runtime": 13553228,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 9709895,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3694924,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3380820,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 2,
+            "runtime": 8427445,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 2,
+            "runtime": 16244149,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 1,
+            "runtime": 12178632,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3706874,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 4407510,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 4390573,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 14753726,
+            "dest": "5_NorthWestNet,_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 2,
+            "runtime": 11380662,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 1,
+            "runtime": 13660845,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 2,
+            "runtime": 14912746,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 2,
+            "runtime": 12797516,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 3,
+            "runtime": 9821844,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 2,
+            "runtime": 8060965,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 1,
+            "runtime": 8274259,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 3,
+            "runtime": 13166523,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 6832976,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 2,
+            "runtime": 9401769,
+            "dest": "6_BARRnet,_Palo_Alto",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 3,
+            "runtime": 12532335,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 2,
+            "runtime": 8789075,
+            "dest": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 1,
+            "runtime": 9785213,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpSR": 2,
+            "runtime": 12173796,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 2,
+            "runtime": 13640379,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 3638018,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 8506266,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 1,
+            "runtime": 8570984,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 7748108,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpSR": 2,
+            "runtime": 8547392,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 8510933,
+            "dest": "4_Cornell_Theory_Center,_Ithaca_NY",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 11866277,
+            "dest": "7_San_Diego_Supercomputer_Center",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 13312078,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 1,
+            "runtime": 14608146,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 11682596,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 1,
+            "runtime": 10975817,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 1,
+            "runtime": 8105963,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Pittsburgh_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 10683483,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "3_Pittsburgh_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 6416492,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 1,
+            "runtime": 8630444,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 1,
+            "runtime": 8792521,
+            "dest": "10_MIDnet,_Lincoln,_NE",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpSR": 2,
+            "runtime": 15396279,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 2,
+            "runtime": 14673535,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 1,
+            "runtime": 9510565,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 2,
+            "runtime": 8720958,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3641774,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 10467005,
+            "dest": "5_NorthWestNet,_Seattle",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "6_BARRnet,_Palo_Alto",
+            "nbpSR": 2,
+            "runtime": 9654099,
+            "dest": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "8_Westnet,_Salt_Lake_City",
+            "nbpSR": 1,
+            "runtime": 3250747,
+            "dest": "11_NCSA,_University_of_Illinois,_Champaign",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "7_San_Diego_Supercomputer_Center",
+            "nbpSR": 2,
+            "runtime": 8490527,
+            "dest": "2_SURANET,_Georgia_Tech,_Atlanta",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "5_NorthWestNet,_Seattle",
+            "nbpSR": 1,
+            "runtime": 8456164,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 1,
+            "runtime": 9434163,
+            "dest": "8_Westnet,_Salt_Lake_City",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "1_Jon_Von_Neumann_Center,_Princeton,_NJ",
+            "nbpSR": 2,
+            "runtime": 9007438,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpSR": 2,
+            "runtime": 14467908,
+            "dest": "9_NCAR,_Boulder",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "0_SEQSUINET,_Rice_University,_Houston",
+            "nbpSR": 3,
+            "runtime": 12809375,
+            "dest": "12_Merit_Univ_of_Michigan,_Ann_Arbor",
+            "nbpFlow": 3
+        },
+        {
+            "orig": "10_MIDnet,_Lincoln,_NE",
+            "nbpSR": 1,
+            "runtime": 3236126,
+            "dest": "3_Pittsburgh_Supercomputer_Center",
+            "nbpFlow": 1
+        },
+        {
+            "orig": "9_NCAR,_Boulder",
+            "nbpSR": 2,
+            "runtime": 11307770,
+            "dest": "5_NorthWestNet,_Seattle",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

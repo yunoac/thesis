@@ -1,0 +1,290 @@
+{
+    "initialCoverSize": 56,
+    "times": [
+        2734007,
+        3381068,
+        4038171,
+        4687838,
+        5356229,
+        6013917,
+        6598392,
+        7319594,
+        8011572,
+        8694783,
+        9453311,
+        10121380,
+        10841599,
+        11510860,
+        12186586,
+        12811268,
+        13486299,
+        14153472,
+        14789503,
+        15484760,
+        16165280,
+        16897417,
+        17589333,
+        18289866,
+        19022058,
+        19812855,
+        20524019
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,0_KRLight 1_CANARIE 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 2_NLR_FrameNet 9_CENIC 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 2_NLR_FrameNet 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,3_CSTNet_HKEOEP 0_KRLight 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.40000000000000013,
+            "cycle": "11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle 0_KRLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle 0_KRLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.3999999999999999,
+            "cycle": "11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle 0_KRLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,5_Pacific_Northwest_Gigapop 0_KRLight 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,5_Pacific_Northwest_Gigapop 7_Internet2_DCN 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,7_Internet2_DCN 5_Pacific_Northwest_Gigapop 0_KRLight 0_KRLight 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 8_NLR_FrameNet 17_CENIC 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 8_NLR_FrameNet 12_Internet2_DCN 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 9_CENIC 2_NLR_FrameNet 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle 0_KRLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,15_Pacific_Wave_Los_Angeles 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,15_Pacific_Wave_Los_Angeles 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 2_NLR_FrameNet 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 8_NLR_FrameNet 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 13_Pacific_Wave_Hawaii 8_NLR_FrameNet 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 14_AARNET_Sydney 8_NLR_FrameNet 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 15_Pacific_Wave_Los_Angeles,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 15_Pacific_Wave_Los_Angeles,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle 0_KRLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 16_JGN2_Plus_Tokyo 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 17_CENIC 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 17_CENIC 8_NLR_FrameNet 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 1_CANARIE 3_CSTNet_HKEOEP 1_CANARIE 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 7_Internet2_DCN 5_Pacific_Northwest_Gigapop 7_Internet2_DCN 5_Pacific_Northwest_Gigapop 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 7_Internet2_DCN 3_CSTNet_HKEOEP 7_Internet2_DCN 3_CSTNet_HKEOEP 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 12_Internet2_DCN 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 7_Internet2_DCN 1_CANARIE 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop 1_CANARIE 5_Pacific_Northwest_Gigapop 1_CANARIE 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.2,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.8,
+            "cycle": "11_Pacific_Wave_Seattle 7_Internet2_DCN 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle 1_CANARIE 11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.4,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet 5_Pacific_Northwest_Gigapop 6_NLR_FrameNet 5_Pacific_Northwest_Gigapop 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 13_Pacific_Wave_Hawaii 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "11_Pacific_Wave_Seattle,15_Pacific_Wave_Los_Angeles 13_Pacific_Wave_Hawaii 15_Pacific_Wave_Los_Angeles,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.19999999999999998,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet 7_Internet2_DCN 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 5_Pacific_Northwest_Gigapop 7_Internet2_DCN 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 3_CSTNet_HKEOEP 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.4,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 7_Internet2_DCN 5_Pacific_Northwest_Gigapop 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.6000000000000001,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 3_CSTNet_HKEOEP 7_Internet2_DCN 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "11_Pacific_Wave_Seattle 0_KRLight 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.4,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop 7_Internet2_DCN 5_Pacific_Northwest_Gigapop,6_NLR_FrameNet 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.2,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet,5_Pacific_Northwest_Gigapop 7_Internet2_DCN 6_NLR_FrameNet 11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 6_NLR_FrameNet 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0.2,
+            "cycle": "11_Pacific_Wave_Seattle 5_Pacific_Northwest_Gigapop 11_Pacific_Wave_Seattle,4_StarLight 4_StarLight,11_Pacific_Wave_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "11_Pacific_Wave_Seattle 0_KRLight 11_Pacific_Wave_Seattle,10_Pacific_Wave_Sunnyvale 10_Pacific_Wave_Sunnyvale,11_Pacific_Wave_Seattle"
+        }
+    ],
+    "values": [
+        26,
+        24.5,
+        24.5,
+        23.75,
+        21.75,
+        21,
+        21,
+        19.875,
+        19.75,
+        18.625,
+        18.625,
+        18.375,
+        18.375,
+        18.375,
+        18.142857142857146,
+        18,
+        17.958333333333336,
+        17.833333333333332,
+        17.833333333333332,
+        17.666666666666668,
+        17.666666666666668,
+        17.666666666666668,
+        17.666666666666664,
+        17.642857142857142,
+        17.599999999999998,
+        17.599999999999998,
+        17.599999999999998
+    ],
+    "initialCoverSeg": 6,
+    "runtime": 133572,
+    "lpBound": 17.599999999999998
+}

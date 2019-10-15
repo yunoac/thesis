@@ -1,0 +1,56 @@
+{
+    "originalCover": {
+        "runtime": 357418,
+        "cycles": [
+            "0_Palo_Alto 3 0_Palo_Alto 0_Palo_Alto",
+            "0_Palo_Alto 5 0_Palo_Alto 0_Palo_Alto",
+            "0_Palo_Alto 9 0_Palo_Alto 0_Palo_Alto",
+            "0 12 0_Palo_Alto",
+            "1 7 0_Palo_Alto",
+            "1 3_Chicago 9",
+            "2 7 0_Palo_Alto",
+            "2 12 0_Palo_Alto",
+            "0 5_Atlanta 9"
+        ],
+        "source": 0,
+        "maxSeg": 5
+    },
+    "originalIGP": [
+        5,
+        5,
+        5,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_Palo_Alto 3 0_Palo_Alto",
+            "0_Palo_Alto 5 0_Palo_Alto",
+            "0_Palo_Alto 9 0_Palo_Alto",
+            "0_Palo_Alto 5_Atlanta 0_Palo_Alto 0_Palo_Alto",
+            "0_Palo_Alto 3_Chicago 0_Palo_Alto 0_Palo_Alto",
+            "0_Palo_Alto 3_Chicago 9",
+            "2 3_Chicago 0_Palo_Alto",
+            "0_Palo_Alto 3_Chicago 5_Atlanta 0_Palo_Alto",
+            "0_Palo_Alto 5_Atlanta 3_Chicago 0_Palo_Alto"
+        ],
+        "source": 0,
+        "runetime": 314992,
+        "maxSeg": 4
+    }
+}

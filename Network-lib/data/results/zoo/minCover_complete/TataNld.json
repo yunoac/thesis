@@ -1,0 +1,1292 @@
+{
+    "initialCoverSize": 262,
+    "times": [
+        9697256,
+        217485109,
+        446404766,
+        670794744,
+        876596871,
+        1099807919,
+        1305626331,
+        1505533135,
+        1707010778,
+        1905640071,
+        2099893391,
+        2299290612,
+        2499662819,
+        2698853908,
+        2892790767,
+        3088771576,
+        3288159128,
+        3488341037,
+        3683121132,
+        3883475139,
+        4080778362,
+        4283335442,
+        4479047024,
+        4681397897,
+        4880914718,
+        5081976711,
+        5277269617,
+        5477560124,
+        5680681220,
+        5876492409,
+        6074721857,
+        6273290235,
+        6471185264,
+        6667202874,
+        6862544680,
+        7061335640,
+        7258168213,
+        7454128939,
+        7652740184,
+        7846960405,
+        8044788946,
+        8247705226,
+        8449609876,
+        8648787059,
+        8850630373,
+        9050942067,
+        9249689360,
+        9450363433,
+        9646378923,
+        9843613130,
+        10044063535,
+        10242388528,
+        10437882238,
+        10639017124,
+        10844180762,
+        11040086410,
+        11238290502,
+        11436825526,
+        11635432312,
+        11833859953,
+        12035623547,
+        12230689318,
+        12430819809,
+        12627679513,
+        12835068089,
+        13029794851,
+        13231507299,
+        13428863176,
+        13630446165,
+        13830679531,
+        14026020329,
+        14224657595,
+        14427854868,
+        14625572446,
+        14825618045,
+        15031233630,
+        15225029755,
+        15423238280,
+        15624060124,
+        15829896005,
+        16031180617,
+        16228874688,
+        16437044326,
+        16632314395,
+        16831724161,
+        17036311095,
+        17233733565,
+        17437034557,
+        17635053664,
+        17842740852,
+        18045845246,
+        18248573115,
+        18449904744,
+        18650989001,
+        18879298445,
+        19081842267,
+        19283771195,
+        19490812736,
+        19689004384,
+        19889776766,
+        20088717012,
+        20298739779,
+        20503422699,
+        20703916841,
+        20909325157,
+        21107782569,
+        21309777874,
+        21517207221,
+        21714092931,
+        21914716848,
+        22119837544,
+        22321684239,
+        22522962759,
+        22733767497,
+        22934584197,
+        23133473174
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 10_Patna,0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 10_Patna,0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 1_Udaipur,126_Bhilwara 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 4_Dehradun 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 6_Kanpur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 7_Fatehpur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 9_Allahabad 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 15_Satna 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 11_Bokaro 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 16_Dhanbad 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 17_Asansol 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 35_Kharagpur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 11_Bokaro 19_Jhansi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 66_Akola 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 16_Dhanbad 17_Asansol 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 17_Asansol 16_Dhanbad 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 11_Bokaro 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 73_Sagar 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 32_Coimbatore 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 21_Bellary 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 22_Goa 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 22_Goa 29_Panjim 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 29_Panjim 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 84_Kolhapur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 29_Panjim 22_Goa 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 113_Tirunelveli 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 130_Trichy 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 33_Thirussur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 32_Coimbatore 22_Goa 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 68_Bhubaneshwar 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 38_Palghat 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 22_Goa 118_None 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 40_Rohtak 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 42_Bhatinda 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 40_Rohtak 47_Sonipat 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 139_Amritsar 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 46_Delhi,128_Jaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 47_Sonipat 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 122_Agra 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 47_Sonipat 40_Rohtak 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 83_Chandigarh 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 50_Chennai 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 130_Trichy 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 28_Chitradurg 20_Torangallu 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 133_Salem 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 54_Hassan 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 52_Bangalore,70_None 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 32_Coimbatore 23_Hubli 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 118_None 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 56_Ongole,57_Vijayavada 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 56_Ongole,59_Nellore 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 57_Vijayavada,56_Ongole 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 58_Tirupati,59_Nellore 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 59_Nellore,56_Ongole 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 59_Nellore,58_Tirupati 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 61_Bhandara 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 62_Nagpur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 64_Amravati 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 63_Wardha 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 80_Chandrapur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 65_Buldhana 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi,10_Patna 66_Akola 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 70_None,52_Bangalore 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 118_None 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 72_Damoh 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi,10_Patna 73_Sagar 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 40_Rohtak 72_Damoh 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 72_Damoh 96_Vidisha 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 26_Raichur 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 26_Raichur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 99_Nasik 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 77_Pune 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 78_Satara 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 102_Mumbai 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 1_Udaipur 84_Kolhapur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 85_Sangli 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 61_Bhandara 20_Torangallu 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 61_Bhandara 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 83_Chandigarh 40_Rohtak 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 78_Satara 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 85_Sangli 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 85_Sangli 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 93_Bhopal 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 89_Gandhinagar 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 89_Gandhinagar 92_Anand 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 92_Anand 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 92_Anand 89_Gandhinagar 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 93_Bhopal 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi,10_Patna 126_Bhilwara 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 96_Vidisha 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 11_Bokaro 120_Rajgarh 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 21_Bellary 73_Sagar 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 64_Amravati 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 99_Nasik 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 101_Valsad 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 99_Nasik 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 102_Mumbai 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 22_Goa 116_Trivandrum 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 109_Kollam 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 111_Thiruvalla 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 110_Ernakulam,111_Thiruvalla 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 111_Thiruvalla,110_Ernakulam 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 109_Kollam 144_Madural 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 114_Tiruchendur 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 115_Kanyakumari 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 114_Tiruchendur 109_Kollam 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 109_Kollam 114_Tiruchendur 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 54_Hassan 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 28_Chitradurg 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 122_Agra 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0.5000000000000002,
+            "cycle": "0_Varanasi 119_Gwalior 21_Bellary 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 125_Kota 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 121_Ajmer 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 123_Mathura 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 6_Kanpur 40_Rohtak 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 127_Tonk 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 126_Bhilwara,1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 2_Hadiagarh 94_Ratlam 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 1_Udaipur 6_Kanpur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 6_Kanpur 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 72_Damoh 121_Ajmer 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 128_Jaipur,46_Delhi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 2_Hadiagarh 127_Tonk 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 113_Tirunelveli 51_Kanchipuram 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 144_Madural 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 143_Ramanathapuram 0_Varanasi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 51_Kanchipuram 32_Coimbatore 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 51_Kanchipuram 113_Tirunelveli 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 134_Palladam 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 51_Kanchipuram 133_Salem 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 43_Kot_kapura 138_Hoshiarpur 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 137_Pathankot 42_Bhatinda 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 140_Jalandhar,141_Ludhiana 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 40_Rohtak 83_Chandigarh 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 141_Ludhiana,140_Jalandhar 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 144_Madural 109_Kollam 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 118_None 44_Noida 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 127_Tonk 85_Sangli 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 85_Sangli 127_Tonk 0_Varanasi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Varanasi 50_Chennai 44_Noida 0_Varanasi"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Varanasi 103_Bharuch 50_Chennai 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 130_Trichy 61_Bhandara 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 143_Ramanathapuram 137_Pathankot 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 84_Kolhapur 1_Udaipur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 54_Hassan 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 118_None 29_Panjim 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 130_Trichy 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 134_Palladam 65_Buldhana 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 63_Wardha 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 134_Palladam 22_Goa 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 139_Amritsar 50_Chennai 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 143_Ramanathapuram 64_Amravati 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 75_Nanded 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 80_Chandrapur 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 82_Sangareddy 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 102_Mumbai 19_Jhansi 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 122_Agra 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 33_Thirussur 123_Mathura 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 65_Buldhana 130_Trichy 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 66_Akola 134_Palladam 0_Varanasi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Varanasi 93_Bhopal 26_Raichur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 73_Sagar 80_Chandrapur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 29_Panjim 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 78_Satara 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 61_Bhandara 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 96_Vidisha 72_Damoh 0_Varanasi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Varanasi 73_Sagar 101_Valsad 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 102_Mumbai 127_Tonk 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 102_Mumbai 118_None 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 143_Ramanathapuram 51_Kanchipuram 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 121_Ajmer 72_Damoh 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 33_Thirussur 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 38_Palghat 51_Kanchipuram 0_Varanasi"
+        },
+        {
+            "x": 1.0000000000000002,
+            "cycle": "0_Varanasi 64_Amravati 134_Palladam 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 66_Akola 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 66_Akola 80_Chandrapur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 82_Sangareddy 73_Sagar 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 130_Trichy 66_Akola 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 101_Valsad 93_Bhopal 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 78_Satara 63_Wardha 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 105_Godhra 122_Agra 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 99_Nasik 63_Wardha 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 127_Tonk 102_Mumbai 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 102_Mumbai 73_Sagar 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 29_Panjim 118_None 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 65_Buldhana 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 133_Salem 75_Nanded 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 73_Sagar 118_None 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 28_Chitradurg 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 40_Rohtak 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 93_Bhopal 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 106_Baroda 50_Chennai 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 26_Raichur 93_Bhopal 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 99_Nasik 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 123_Mathura 125_Kota 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 118_None 119_Gwalior 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 105_Godhra 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 28_Chitradurg 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 72_Damoh 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 103_Bharuch 118_None 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 19_Jhansi 102_Mumbai 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 99_Nasik 85_Sangli 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 103_Bharuch 123_Mathura 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 20_Torangallu 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 54_Hassan 29_Panjim 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 80_Chandrapur 105_Godhra 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 63_Wardha 99_Nasik 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 119_Gwalior 102_Mumbai 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 101_Valsad 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 96_Vidisha 133_Salem 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 127_Tonk 77_Pune 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 120_Rajgarh 55_Mysore 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 96_Vidisha 93_Bhopal 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 127_Tonk 82_Sangareddy 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 103_Bharuch 19_Jhansi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 133_Salem 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 103_Bharuch 73_Sagar 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 127_Tonk 122_Agra 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 134_Palladam 99_Nasik 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 93_Bhopal 55_Mysore 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 44_Noida 30_Ranchi 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 14_Kolkata 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 72_Damoh 21_Bellary 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 85_Sangli 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 130_Trichy 101_Valsad 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 29_Panjim 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 99_Nasik 130_Trichy 0_Varanasi"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Varanasi 93_Bhopal 64_Amravati 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 29_Panjim 54_Hassan 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 102_Mumbai 63_Wardha 0_Varanasi"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Varanasi 73_Sagar 65_Buldhana 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 14_Kolkata 66_Akola 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 35_Kharagpur 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 101_Valsad 134_Palladam 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 28_Chitradurg 134_Palladam 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 68_Bhubaneshwar 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Varanasi 44_Noida 14_Kolkata 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 21_Bellary 4_Dehradun 0_Varanasi"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Varanasi 14_Kolkata 40_Rohtak 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 134_Palladam 28_Chitradurg 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 4_Dehradun 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Varanasi 65_Buldhana 119_Gwalior 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 4_Dehradun 20_Torangallu 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 61_Bhandara 33_Thirussur 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 55_Mysore 40_Rohtak 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 74_Callicut 61_Bhandara 0_Varanasi"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Varanasi 118_None 61_Bhandara 0_Varanasi"
+        }
+    ],
+    "values": [
+        81,
+        78,
+        75,
+        75,
+        73,
+        72,
+        70,
+        69,
+        68,
+        68,
+        68,
+        67,
+        66,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        65,
+        64,
+        63,
+        63,
+        63,
+        62.5,
+        62,
+        62,
+        62,
+        62,
+        62,
+        60.5,
+        60.5,
+        60.5,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        59.5,
+        59,
+        58.66666666666667,
+        58.66666666666667,
+        58.66666666666667,
+        58.66666666666667,
+        58.66666666666667,
+        58.25,
+        58.25,
+        58.25,
+        58.25,
+        58.25,
+        57.66666666666667,
+        57.66666666666667,
+        57.66666666666668,
+        57,
+        57,
+        57,
+        57,
+        57,
+        57,
+        56.999999999999986,
+        57,
+        56.9090909090909,
+        56.909090909090914,
+        56.75,
+        56.75,
+        56.75,
+        56.75,
+        56.75,
+        56.550000000000004,
+        56.550000000000004,
+        56.550000000000004,
+        56.550000000000004,
+        56.4,
+        56.4,
+        56.400000000000006,
+        56.39999999999999,
+        56.400000000000006,
+        56.400000000000006,
+        56.4,
+        56.4,
+        56.4,
+        56.400000000000006,
+        56.33333333333333,
+        56.333333333333336,
+        56.33333333333333,
+        56.33333333333336,
+        56.33333333333333,
+        56.333333333333336,
+        56.33333333333335,
+        56.300000000000004,
+        56,
+        56,
+        56,
+        56,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75,
+        55.75
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 9738099,
+    "lpBound": 55.75
+}

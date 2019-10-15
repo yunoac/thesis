@@ -1,0 +1,110 @@
+{
+    "initialCoverSize": 18,
+    "times": [
+        1046653,
+        1368962,
+        1865545,
+        2284338,
+        2537240,
+        2785794,
+        3052481,
+        3303203,
+        3517294,
+        3759226,
+        4034852,
+        4331360,
+        4634655
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 0_HARVARD 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 2_UCSB 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 2_UCSB 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 5_SDC 0_HARVARD 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0.2338308457711443,
+            "cycle": "0_HARVARD 2_UCSB 1_SRI 2_UCSB 1_SRI 2_UCSB 1_SRI 2_UCSB 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0.06467661691542292,
+            "cycle": "0_HARVARD 6_UTAH 2_UCSB 6_UTAH 2_UCSB 6_UTAH 2_UCSB 6_UTAH 2_UCSB 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 6_UTAH 0_HARVARD 6_UTAH 0_HARVARD 6_UTAH 0_HARVARD 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 0_HARVARD 1_SRI 0_HARVARD 1_SRI 0_HARVARD 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 5_SDC 1_SRI 2_UCSB 6_UTAH 0_HARVARD 5_SDC 1_SRI 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0.14925373134328357,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 6_UTAH 1_SRI 2_UCSB 6_UTAH 1_SRI 2_UCSB 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 1_SRI 6_UTAH 1_SRI 6_UTAH 1_SRI 6_UTAH 1_SRI 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0.1475953565505804,
+            "cycle": "0_HARVARD 2_UCSB 6_UTAH 0_HARVARD 2_UCSB 6_UTAH 0_HARVARD 2_UCSB 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 7_MIT 5_SDC 7_MIT 5_SDC 7_MIT 5_SDC 0_HARVARD"
+        },
+        {
+            "x": 0.10779436152570482,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 7_MIT 1_SRI 7_MIT 1_SRI 7_MIT 1_SRI 0_HARVARD"
+        },
+        {
+            "x": 0.12106135986733005,
+            "cycle": "0_HARVARD 6_UTAH 1_SRI 7_MIT 5_SDC 7_MIT 5_SDC 7_MIT 6_UTAH 0_HARVARD"
+        },
+        {
+            "x": 0.06467661691542285,
+            "cycle": "0_HARVARD 6_UTAH 2_UCSB 1_SRI 6_UTAH 0_HARVARD 6_UTAH 0_HARVARD 6_UTAH 0_HARVARD"
+        }
+    ],
+    "values": [
+        4,
+        4,
+        2.3333333333333335,
+        1.578125,
+        1.1666666666666665,
+        1.0416666666666667,
+        0.9705882352941175,
+        0.9496527777777778,
+        0.9232456140350876,
+        0.9232456140350878,
+        0.9066840277777778,
+        0.8916997354497356,
+        0.888888888888889
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 31552,
+    "lpBound": 0.888888888888889
+}

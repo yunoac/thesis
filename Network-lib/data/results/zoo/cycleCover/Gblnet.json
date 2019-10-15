@@ -1,0 +1,45 @@
+{
+    "initialCoverSize": 5,
+    "times": [5146580],
+    "finalCoverSize": 4,
+    "minSegCycles": [
+        "0_New_York 1_London 0_New_York",
+        "0_New_York 3_St_Petersburg 0_New_York",
+        "0_New_York 4_Moscow 0_New_York",
+        "0_New_York 6_Frankfurt 0_New_York",
+        "0_New_York 7_Paris 0_New_York"
+    ],
+    "values": [4],
+    "initialCoverSeg": 3,
+    "greedyCoverSize": 4,
+    "runtime": 7984718,
+    "lpBound": 4,
+    "lpSolution": [
+        {
+            "x": 1,
+            "cycle": "0_New_York 1_London 0_New_York"
+        },
+        {
+            "x": 0,
+            "cycle": "0_New_York 3_St_Petersburg 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 4_Moscow 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 6_Frankfurt 0_New_York"
+        },
+        {
+            "x": 1,
+            "cycle": "0_New_York 7_Paris 0_New_York"
+        }
+    ],
+    "greedySolution": [
+        "0_New_York 1_London 0_New_York",
+        "0_New_York 4_Moscow 0_New_York",
+        "0_New_York 6_Frankfurt 0_New_York",
+        "0_New_York 7_Paris 0_New_York"
+    ]
+}

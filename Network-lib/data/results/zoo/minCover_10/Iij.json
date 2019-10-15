@@ -1,0 +1,906 @@
+{
+    "initialCoverSize": 175,
+    "times": [
+        3429353,
+        8500581,
+        13063239,
+        18577779,
+        23768378,
+        28250951,
+        33461254,
+        40664776,
+        45157076,
+        50078067,
+        56208781,
+        60642068,
+        64954882,
+        70095041,
+        77293477,
+        84134966,
+        89869845,
+        94858532,
+        99393704,
+        104638861,
+        110190865,
+        114576405,
+        119744749,
+        126553539,
+        132161521,
+        137260772,
+        144493289,
+        149836398,
+        154813242,
+        160952849,
+        165798220,
+        170342610,
+        176235137,
+        181211709,
+        185520473,
+        191476192,
+        196246316,
+        200749768,
+        206949706,
+        211911188,
+        216892290,
+        223408305,
+        231514053,
+        236722617,
+        242374656,
+        250055563,
+        254930551,
+        260444623,
+        266034021,
+        271228802,
+        276857386,
+        283048725,
+        288588979,
+        295125986,
+        301185621,
+        306912183,
+        312792523,
+        318427883,
+        324395065,
+        330577316,
+        335885829,
+        341764365,
+        348692323,
+        354199522,
+        360511868,
+        366870058,
+        372537919,
+        378855823,
+        384391497,
+        390573029,
+        397403919,
+        403826500,
+        410255559,
+        416693916,
+        422850123,
+        429255823,
+        435049335,
+        440769054,
+        447441752,
+        453359928,
+        459504164,
+        465944745,
+        471896345,
+        477755151,
+        484980269,
+        491139932,
+        499505088,
+        505432521,
+        511423072,
+        517708870,
+        523683571,
+        529784090,
+        536344500,
+        541894450,
+        549441789,
+        555792511,
+        562155754
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 1_Tokyo_DC2,6_Shibuya_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 2_Sendai_DC 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 2_Sendai_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 3_Saitama_DC 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 3_Saitama_DC,6_Shibuya_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 5_Yokohama_DC1 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 5_Yokohama_DC1 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 6_Shibuya_DC,1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 2_Sendai_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 6_Shibuya_DC,3_Saitama_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 5_Yokohama_DC1 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 7_Ikebukuro_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 8_Yokohama_DC2 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 9_Nagoya_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 11_China 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 21_Shinsaibashi_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 16_LAIIX 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 28_Sappora_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 29_Chiba 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 6_Shibuya_DC,30_Tokyo 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 11_China 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 13_JPNAP_Tokyo_2 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 8_Yokohama_DC2 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 33_Hamamatsu 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 11_China 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 10_JPNAP_Tokyo_1 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 12_JPNAP_Osaka 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 14_NYIIX 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 15_PAIX 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 17_dix-ie 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 23_Ashburn_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 19_Newyork_DC,24_LA_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 19_Newyork_DC,23_Ashburn_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 20_Fukuoka_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 27_Okinawa 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 20_Fukuoka_DC 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 20_Fukuoka_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 32_Kanazawa 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 11_China 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 35_Okayama 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 36_Hiroshima 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 22_Kyoto_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 22_Kyoto_DC 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 18_Equinix_exchange 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC,19_Newyork_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 18_Equinix_exchange 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 24_LA_DC,19_Newyork_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 23_Ashburn_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 11_China 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 16_LAIIX 14_NYIIX 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 26_PaloAlto_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 14_NYIIX 16_LAIIX 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 1_Tokyo_DC2 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 28_Sappora_DC 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 29_Chiba 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 30_Tokyo,6_Shibuya_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 33_Hamamatsu 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 31_Toyama 0_Tokyo_DC1 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 31_Toyama 32_Kanazawa 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 32_Kanazawa 31_Toyama 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 33_Hamamatsu 9_Nagoya_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 11_China 4_Nerima_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 11_China 9_Nagoya_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 11_China 21_Shinsaibashi_DC 1_Tokyo_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 11_China 16_LAIIX 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 35_Okayama 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 36_Hiroshima 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 35_Okayama 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 36_Hiroshima 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 12_JPNAP_Osaka 23_Ashburn_DC 12_JPNAP_Osaka 23_Ashburn_DC 12_JPNAP_Osaka 23_Ashburn_DC 12_JPNAP_Osaka 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.23697274470071705,
+            "cycle": "1_Tokyo_DC2 13_JPNAP_Tokyo_2 4_Nerima_DC 13_JPNAP_Tokyo_2 4_Nerima_DC 13_JPNAP_Tokyo_2 4_Nerima_DC 13_JPNAP_Tokyo_2 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07898954764432779,
+            "cycle": "1_Tokyo_DC2 15_PAIX 16_LAIIX 15_PAIX 16_LAIIX 15_PAIX 16_LAIIX 15_PAIX 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 27_Okinawa 9_Nagoya_DC 27_Okinawa 9_Nagoya_DC 27_Okinawa 9_Nagoya_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 14_NYIIX 10_JPNAP_Tokyo_1 14_NYIIX 10_JPNAP_Tokyo_1 14_NYIIX 10_JPNAP_Tokyo_1 14_NYIIX 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.22998590446868222,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 2_Sendai_DC 16_LAIIX 2_Sendai_DC 16_LAIIX 2_Sendai_DC 16_LAIIX 2_Sendai_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.10531220552396575,
+            "cycle": "1_Tokyo_DC2 17_dix-ie 2_Sendai_DC 17_dix-ie 2_Sendai_DC 17_dix-ie 2_Sendai_DC 17_dix-ie 2_Sendai_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.2211095788058772,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 5_Yokohama_DC1 4_Nerima_DC 5_Yokohama_DC1 4_Nerima_DC 5_Yokohama_DC1 6_Shibuya_DC,3_Saitama_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.22503145849626907,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 8_Yokohama_DC2 4_Nerima_DC 8_Yokohama_DC2 4_Nerima_DC 8_Yokohama_DC2 6_Shibuya_DC,3_Saitama_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.22503145849626907,
+            "cycle": "1_Tokyo_DC2 8_Yokohama_DC2 14_NYIIX 8_Yokohama_DC2 33_Hamamatsu 9_Nagoya_DC 6_Shibuya_DC,3_Saitama_DC 8_Yokohama_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.18333780148552792,
+            "cycle": "1_Tokyo_DC2 11_China 4_Nerima_DC 11_China 4_Nerima_DC 11_China 4_Nerima_DC 11_China 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 4_Nerima_DC 18_Equinix_exchange 4_Nerima_DC 18_Equinix_exchange 4_Nerima_DC 18_Equinix_exchange 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.14398625963973474,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 4_Nerima_DC 21_Shinsaibashi_DC 4_Nerima_DC 21_Shinsaibashi_DC 4_Nerima_DC 21_Shinsaibashi_DC 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 4_Nerima_DC 26_PaloAlto_DC 4_Nerima_DC 26_PaloAlto_DC 4_Nerima_DC 26_PaloAlto_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1701710246308108,
+            "cycle": "1_Tokyo_DC2 28_Sappora_DC 4_Nerima_DC 28_Sappora_DC 4_Nerima_DC 28_Sappora_DC 4_Nerima_DC 28_Sappora_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.11602587026020111,
+            "cycle": "1_Tokyo_DC2 28_Sappora_DC 1_Tokyo_DC2,6_Shibuya_DC 9_Nagoya_DC 33_Hamamatsu 28_Sappora_DC 10_JPNAP_Tokyo_1 28_Sappora_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 3_Saitama_DC 9_Nagoya_DC 3_Saitama_DC 9_Nagoya_DC 3_Saitama_DC 9_Nagoya_DC 3_Saitama_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.12412359584153465,
+            "cycle": "1_Tokyo_DC2 29_Chiba 4_Nerima_DC 29_Chiba 4_Nerima_DC 29_Chiba 4_Nerima_DC 29_Chiba 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.09309269688115111,
+            "cycle": "1_Tokyo_DC2 33_Hamamatsu 29_Chiba 33_Hamamatsu 29_Chiba 33_Hamamatsu 29_Chiba 33_Hamamatsu 29_Chiba 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.2845560754727153,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 23_Ashburn_DC 18_Equinix_exchange 23_Ashburn_DC 18_Equinix_exchange 23_Ashburn_DC,19_Newyork_DC 5_Yokohama_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.3267065746280817,
+            "cycle": "1_Tokyo_DC2 11_China 21_Shinsaibashi_DC 11_China 21_Shinsaibashi_DC 11_China 32_Kanazawa 31_Toyama 5_Yokohama_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.26207958658696673,
+            "cycle": "1_Tokyo_DC2 31_Toyama 32_Kanazawa 27_Okinawa 21_Shinsaibashi_DC 27_Okinawa 21_Shinsaibashi_DC 27_Okinawa 18_Equinix_exchange 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1701710246308108,
+            "cycle": "1_Tokyo_DC2 31_Toyama 32_Kanazawa 22_Kyoto_DC 21_Shinsaibashi_DC 22_Kyoto_DC 21_Shinsaibashi_DC 22_Kyoto_DC 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.11253344536208156,
+            "cycle": "1_Tokyo_DC2 19_Newyork_DC,23_Ashburn_DC 22_Kyoto_DC 9_Nagoya_DC 22_Kyoto_DC 23_Ashburn_DC 22_Kyoto_DC 26_PaloAlto_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.05508068199066377,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 14_NYIIX 23_Ashburn_DC 14_NYIIX 23_Ashburn_DC 14_NYIIX 26_PaloAlto_DC 12_JPNAP_Osaka 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.12072038341575282,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 35_Okayama 21_Shinsaibashi_DC 35_Okayama 21_Shinsaibashi_DC 35_Okayama 32_Kanazawa 31_Toyama 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.22558279722505134,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 36_Hiroshima 21_Shinsaibashi_DC 36_Hiroshima 21_Shinsaibashi_DC 36_Hiroshima 32_Kanazawa 31_Toyama 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 35_Okayama 18_Equinix_exchange 1_Tokyo_DC2,6_Shibuya_DC 12_JPNAP_Osaka 35_Okayama 18_Equinix_exchange 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 11_China 3_Saitama_DC,6_Shibuya_DC 9_Nagoya_DC 36_Hiroshima 11_China 31_Toyama 11_China 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.18688547149998352,
+            "cycle": "1_Tokyo_DC2 33_Hamamatsu 9_Nagoya_DC 33_Hamamatsu 9_Nagoya_DC 33_Hamamatsu 9_Nagoya_DC 33_Hamamatsu 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.06745251577131894,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 32_Kanazawa 3_Saitama_DC,6_Shibuya_DC 32_Kanazawa 3_Saitama_DC,6_Shibuya_DC 32_Kanazawa 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.19573971573475832,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 4_Nerima_DC 9_Nagoya_DC 4_Nerima_DC 9_Nagoya_DC 6_Shibuya_DC,30_Tokyo 26_PaloAlto_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1343845198414277,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 12_JPNAP_Osaka 30_Tokyo,6_Shibuya_DC 7_Ikebukuro_DC 31_Toyama 32_Kanazawa 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.10017298479040444,
+            "cycle": "1_Tokyo_DC2 30_Tokyo,6_Shibuya_DC 10_JPNAP_Tokyo_1 30_Tokyo,6_Shibuya_DC 10_JPNAP_Tokyo_1 30_Tokyo,6_Shibuya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.34474742740282516,
+            "cycle": "1_Tokyo_DC2 19_Newyork_DC,24_LA_DC 19_Newyork_DC,23_Ashburn_DC 19_Newyork_DC,24_LA_DC 19_Newyork_DC,23_Ashburn_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.043007412174708985,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 6_Shibuya_DC,3_Saitama_DC 18_Equinix_exchange 20_Fukuoka_DC 7_Ikebukuro_DC 6_Shibuya_DC,3_Saitama_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.11982572213513913,
+            "cycle": "1_Tokyo_DC2 13_JPNAP_Tokyo_2 36_Hiroshima 13_JPNAP_Tokyo_2 36_Hiroshima 13_JPNAP_Tokyo_2 36_Hiroshima 23_Ashburn_DC,19_Newyork_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.05899726766669086,
+            "cycle": "1_Tokyo_DC2 6_Shibuya_DC,30_Tokyo 11_China 6_Shibuya_DC,30_Tokyo 23_Ashburn_DC,19_Newyork_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.01735536210561158,
+            "cycle": "1_Tokyo_DC2 5_Yokohama_DC1 17_dix-ie 5_Yokohama_DC1 17_dix-ie 5_Yokohama_DC1 1_Tokyo_DC2,6_Shibuya_DC 5_Yokohama_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.057701332248480085,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 14_NYIIX 24_LA_DC,19_Newyork_DC 23_Ashburn_DC 18_Equinix_exchange 20_Fukuoka_DC 26_PaloAlto_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07321456238105166,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 0_Tokyo_DC1 4_Nerima_DC 0_Tokyo_DC1 4_Nerima_DC 0_Tokyo_DC1 4_Nerima_DC 8_Yokohama_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.015299028560897848,
+            "cycle": "1_Tokyo_DC2 2_Sendai_DC 24_LA_DC,19_Newyork_DC 0_Tokyo_DC1 15_PAIX 0_Tokyo_DC1 15_PAIX 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.012279318786895563,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 20_Fukuoka_DC 32_Kanazawa 31_Toyama 8_Yokohama_DC2 24_LA_DC,19_Newyork_DC 26_PaloAlto_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.17374660146046142,
+            "cycle": "1_Tokyo_DC2 8_Yokohama_DC2 4_Nerima_DC 29_Chiba 14_NYIIX 16_LAIIX 29_Chiba 14_NYIIX 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.08389702071004702,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 8_Yokohama_DC2 3_Saitama_DC,6_Shibuya_DC 8_Yokohama_DC2 3_Saitama_DC,6_Shibuya_DC 8_Yokohama_DC2 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.13887970426383578,
+            "cycle": "1_Tokyo_DC2 8_Yokohama_DC2 4_Nerima_DC 11_China 9_Nagoya_DC 1_Tokyo_DC2,6_Shibuya_DC 11_China 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 8_Yokohama_DC2 16_LAIIX 35_Okayama 7_Ikebukuro_DC 35_Okayama 7_Ikebukuro_DC 35_Okayama 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.0053284006524587785,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 10_JPNAP_Tokyo_1 18_Equinix_exchange 10_JPNAP_Tokyo_1 18_Equinix_exchange 10_JPNAP_Tokyo_1 18_Equinix_exchange 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.4894869261075676,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 35_Okayama 21_Shinsaibashi_DC 22_Kyoto_DC 23_Ashburn_DC,19_Newyork_DC 16_LAIIX 28_Sappora_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1867726779719428,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 20_Fukuoka_DC 21_Shinsaibashi_DC 35_Okayama 26_PaloAlto_DC 1_Tokyo_DC2,6_Shibuya_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07734862302821058,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 4_Nerima_DC 7_Ikebukuro_DC 22_Kyoto_DC 21_Shinsaibashi_DC 4_Nerima_DC 7_Ikebukuro_DC 11_China 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.0731658867909271,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 36_Hiroshima 18_Equinix_exchange 23_Ashburn_DC 36_Hiroshima 18_Equinix_exchange 23_Ashburn_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 36_Hiroshima 23_Ashburn_DC 18_Equinix_exchange 36_Hiroshima 23_Ashburn_DC 31_Toyama 32_Kanazawa 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.17488116015842847,
+            "cycle": "1_Tokyo_DC2 29_Chiba 24_LA_DC,19_Newyork_DC 9_Nagoya_DC 22_Kyoto_DC 21_Shinsaibashi_DC 11_China 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.011800337358710297,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 33_Hamamatsu 2_Sendai_DC 15_PAIX 9_Nagoya_DC 33_Hamamatsu 5_Yokohama_DC1 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.23433589660954482,
+            "cycle": "1_Tokyo_DC2 0_Tokyo_DC1 24_LA_DC,19_Newyork_DC 0_Tokyo_DC1 24_LA_DC,19_Newyork_DC 0_Tokyo_DC1 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 28_Sappora_DC 3_Saitama_DC,6_Shibuya_DC 28_Sappora_DC 3_Saitama_DC,6_Shibuya_DC 28_Sappora_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.0403116917000632,
+            "cycle": "1_Tokyo_DC2 4_Nerima_DC 9_Nagoya_DC 3_Saitama_DC,6_Shibuya_DC 9_Nagoya_DC 3_Saitama_DC,6_Shibuya_DC 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.29679181744245114,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 12_JPNAP_Osaka 3_Saitama_DC,6_Shibuya_DC 0_Tokyo_DC1 19_Newyork_DC,24_LA_DC 0_Tokyo_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.01988027611575485,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 20_Fukuoka_DC 21_Shinsaibashi_DC 17_dix-ie 21_Shinsaibashi_DC 17_dix-ie 11_China 21_Shinsaibashi_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.14737162901652776,
+            "cycle": "1_Tokyo_DC2 2_Sendai_DC 24_LA_DC,19_Newyork_DC 2_Sendai_DC 4_Nerima_DC 21_Shinsaibashi_DC 35_Okayama 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.12439550560202982,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 18_Equinix_exchange 15_PAIX 23_Ashburn_DC 18_Equinix_exchange 15_PAIX 23_Ashburn_DC 18_Equinix_exchange 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.013713327751898447,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 33_Hamamatsu 9_Nagoya_DC 19_Newyork_DC,24_LA_DC 2_Sendai_DC 33_Hamamatsu 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.2137612402390998,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 1_Tokyo_DC2,6_Shibuya_DC 21_Shinsaibashi_DC 20_Fukuoka_DC 26_PaloAlto_DC 20_Fukuoka_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.16243546311182905,
+            "cycle": "1_Tokyo_DC2 5_Yokohama_DC1 6_Shibuya_DC,30_Tokyo 28_Sappora_DC 14_NYIIX 5_Yokohama_DC1 6_Shibuya_DC,30_Tokyo 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1596579507383784,
+            "cycle": "1_Tokyo_DC2 15_PAIX 28_Sappora_DC 4_Nerima_DC 5_Yokohama_DC1 15_PAIX 28_Sappora_DC 4_Nerima_DC 5_Yokohama_DC1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.04394454372950607,
+            "cycle": "1_Tokyo_DC2 12_JPNAP_Osaka 10_JPNAP_Tokyo_1 12_JPNAP_Osaka 10_JPNAP_Tokyo_1 12_JPNAP_Osaka 10_JPNAP_Tokyo_1 12_JPNAP_Osaka 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07867773148605466,
+            "cycle": "1_Tokyo_DC2 32_Kanazawa 31_Toyama 32_Kanazawa 31_Toyama 32_Kanazawa 31_Toyama 32_Kanazawa 31_Toyama 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.25690855395147333,
+            "cycle": "1_Tokyo_DC2 2_Sendai_DC 30_Tokyo,6_Shibuya_DC 9_Nagoya_DC 20_Fukuoka_DC 21_Shinsaibashi_DC 36_Hiroshima 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 29_Chiba 19_Newyork_DC,24_LA_DC 26_PaloAlto_DC 15_PAIX 19_Newyork_DC,24_LA_DC 26_PaloAlto_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.18506597130380734,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 36_Hiroshima 9_Nagoya_DC 36_Hiroshima 21_Shinsaibashi_DC 35_Okayama 9_Nagoya_DC 33_Hamamatsu 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.023534567802418173,
+            "cycle": "1_Tokyo_DC2,6_Shibuya_DC 18_Equinix_exchange 36_Hiroshima 21_Shinsaibashi_DC 1_Tokyo_DC2,6_Shibuya_DC 18_Equinix_exchange 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.01571133620596238,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC,19_Newyork_DC 33_Hamamatsu 23_Ashburn_DC,19_Newyork_DC 33_Hamamatsu 23_Ashburn_DC,19_Newyork_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.12379573800968108,
+            "cycle": "1_Tokyo_DC2 19_Newyork_DC,23_Ashburn_DC 27_Okinawa 26_PaloAlto_DC 27_Okinawa 26_PaloAlto_DC 24_LA_DC,19_Newyork_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.1599428630973453,
+            "cycle": "1_Tokyo_DC2 3_Saitama_DC,6_Shibuya_DC 18_Equinix_exchange 17_dix-ie 3_Saitama_DC,6_Shibuya_DC 18_Equinix_exchange 17_dix-ie 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 31_Toyama 7_Ikebukuro_DC 31_Toyama 7_Ikebukuro_DC 31_Toyama 7_Ikebukuro_DC 31_Toyama 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.06464556573588548,
+            "cycle": "1_Tokyo_DC2 31_Toyama 26_PaloAlto_DC 31_Toyama 26_PaloAlto_DC 31_Toyama 26_PaloAlto_DC 31_Toyama 32_Kanazawa 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07417596182258696,
+            "cycle": "1_Tokyo_DC2 26_PaloAlto_DC 35_Okayama 21_Shinsaibashi_DC 19_Newyork_DC,23_Ashburn_DC 35_Okayama 21_Shinsaibashi_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.021048248625253792,
+            "cycle": "1_Tokyo_DC2 31_Toyama 14_NYIIX 16_LAIIX 23_Ashburn_DC 31_Toyama 14_NYIIX 16_LAIIX 23_Ashburn_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.004550804511211426,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 4_Nerima_DC 21_Shinsaibashi_DC 11_China 17_dix-ie 7_Ikebukuro_DC 4_Nerima_DC 11_China 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 29_Chiba 15_PAIX 29_Chiba 15_PAIX 29_Chiba 15_PAIX 29_Chiba 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.02586052011273208,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 30_Tokyo,6_Shibuya_DC 18_Equinix_exchange 35_Okayama 18_Equinix_exchange 35_Okayama 9_Nagoya_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.08383819125226658,
+            "cycle": "1_Tokyo_DC2 9_Nagoya_DC 12_JPNAP_Osaka 30_Tokyo,6_Shibuya_DC 12_JPNAP_Osaka 30_Tokyo,6_Shibuya_DC 12_JPNAP_Osaka 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.16431222823771646,
+            "cycle": "1_Tokyo_DC2 29_Chiba 6_Shibuya_DC,30_Tokyo 29_Chiba 6_Shibuya_DC,30_Tokyo 26_PaloAlto_DC 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0,
+            "cycle": "1_Tokyo_DC2 15_PAIX 24_LA_DC,19_Newyork_DC 15_PAIX 17_dix-ie 15_PAIX 17_dix-ie 15_PAIX 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.11465106921862048,
+            "cycle": "1_Tokyo_DC2 11_China 23_Ashburn_DC 36_Hiroshima 21_Shinsaibashi_DC 30_Tokyo,6_Shibuya_DC 9_Nagoya_DC 33_Hamamatsu 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.14006800477723638,
+            "cycle": "1_Tokyo_DC2 21_Shinsaibashi_DC 1_Tokyo_DC2,6_Shibuya_DC 29_Chiba 1_Tokyo_DC2,6_Shibuya_DC 29_Chiba 10_JPNAP_Tokyo_1 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.06634305437337268,
+            "cycle": "1_Tokyo_DC2 31_Toyama 32_Kanazawa 36_Hiroshima 9_Nagoya_DC 4_Nerima_DC 2_Sendai_DC 31_Toyama 32_Kanazawa 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.025791650492962698,
+            "cycle": "1_Tokyo_DC2 10_JPNAP_Tokyo_1 23_Ashburn_DC 10_JPNAP_Tokyo_1 23_Ashburn_DC 10_JPNAP_Tokyo_1 23_Ashburn_DC 10_JPNAP_Tokyo_1 23_Ashburn_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.11862857146046428,
+            "cycle": "1_Tokyo_DC2 18_Equinix_exchange 22_Kyoto_DC 21_Shinsaibashi_DC 35_Okayama 26_PaloAlto_DC 22_Kyoto_DC 21_Shinsaibashi_DC 6_Shibuya_DC,1_Tokyo_DC2"
+        },
+        {
+            "x": 0.12140633992608335,
+            "cycle": "1_Tokyo_DC2 23_Ashburn_DC 35_Okayama 23_Ashburn_DC 6_Shibuya_DC,3_Saitama_DC 9_Nagoya_DC 6_Shibuya_DC,3_Saitama_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.03277036623276898,
+            "cycle": "1_Tokyo_DC2 33_Hamamatsu 32_Kanazawa 12_JPNAP_Osaka 6_Shibuya_DC,30_Tokyo 33_Hamamatsu 17_dix-ie 33_Hamamatsu 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.07353650226136631,
+            "cycle": "1_Tokyo_DC2 7_Ikebukuro_DC 17_dix-ie 7_Ikebukuro_DC 17_dix-ie 26_PaloAlto_DC 16_LAIIX 15_PAIX 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.057637579268729235,
+            "cycle": "1_Tokyo_DC2 11_China 18_Equinix_exchange 22_Kyoto_DC 18_Equinix_exchange 22_Kyoto_DC 18_Equinix_exchange 22_Kyoto_DC 7_Ikebukuro_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.01951728528837149,
+            "cycle": "1_Tokyo_DC2 32_Kanazawa 33_Hamamatsu 32_Kanazawa 33_Hamamatsu 32_Kanazawa 33_Hamamatsu 32_Kanazawa 4_Nerima_DC 1_Tokyo_DC2"
+        },
+        {
+            "x": 0.0630112566985701,
+            "cycle": "1_Tokyo_DC2 12_JPNAP_Osaka 7_Ikebukuro_DC 35_Okayama 7_Ikebukuro_DC 35_Okayama 7_Ikebukuro_DC 35_Okayama 26_PaloAlto_DC 1_Tokyo_DC2"
+        }
+    ],
+    "values": [
+        62,
+        57,
+        54.333333333333336,
+        52.333333333333336,
+        48.333333333333336,
+        46.91666666666667,
+        46.16666666666667,
+        44.50000000000001,
+        43.50000000000001,
+        43.50000000000001,
+        41.08333333333335,
+        39.75000000000001,
+        37.750000000000014,
+        36.083333333333336,
+        35.08333333333334,
+        35,
+        32.33333333333332,
+        31.416666666666654,
+        31.416666666666654,
+        29.999999999999986,
+        27.999999999999986,
+        26.62499999999999,
+        23.962962962962955,
+        23.962962962962955,
+        21.963675213675213,
+        20.583333333333336,
+        19.583333333333336,
+        19.25,
+        18.12962962962963,
+        17.541666666666668,
+        17,
+        16.458333333333332,
+        15.881944444444448,
+        15.149305555555559,
+        14.753472222222223,
+        14.302188552188552,
+        14.222222222222221,
+        13.767378917378919,
+        13.04174460655942,
+        12.894095273724904,
+        12.342210767468499,
+        12.257680976430978,
+        11.731481481481483,
+        11.48730158730159,
+        11.296337485172003,
+        11.24332444818556,
+        11.115503580781358,
+        11.024266541822723,
+        10.975548630550284,
+        10.946005162657732,
+        10.888100838031788,
+        10.84417297073715,
+        10.796136656989644,
+        10.762955524132165,
+        10.719796458578674,
+        10.702329898085857,
+        10.690419264176574,
+        10.635603517268647,
+        10.628676138457433,
+        10.592279141768488,
+        10.54287697653443,
+        10.504466129407351,
+        10.45119564107961,
+        10.397105732946962,
+        10.374086236215712,
+        10.355333111240213,
+        10.345998687039206,
+        10.334968000877339,
+        10.325426953850837,
+        10.310265240739092,
+        10.306174010374889,
+        10.295070126232568,
+        10.283238135753958,
+        10.27518996602706,
+        10.255476267234188,
+        10.245554978625671,
+        10.240429716372798,
+        10.23237933645727,
+        10.218962937466515,
+        10.215458999051776,
+        10.204558770245596,
+        10.201718031666411,
+        10.198695158768453,
+        10.192518780043427,
+        10.191061025462052,
+        10.186396539698773,
+        10.183443705370339,
+        10.174709377115901,
+        10.168939481505749,
+        10.165793003728593,
+        10.157923815215824,
+        10.155191918725604,
+        10.152825298684443,
+        10.147290035269574,
+        10.138363330968343,
+        10.134027883611026,
+        10.125000000000002
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 674217,
+    "lpBound": 10.125000000000002
+}

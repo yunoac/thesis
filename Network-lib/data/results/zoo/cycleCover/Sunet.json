@@ -1,0 +1,588 @@
+{
+    "initialCoverSize": 94,
+    "times": [
+        4458258,
+        6666488,
+        8720474,
+        10720623,
+        12870886,
+        14956730,
+        17516927,
+        20961370,
+        25345525,
+        29553131,
+        32187024,
+        34526155,
+        36791685,
+        38950177,
+        41113339,
+        43231095,
+        45344329,
+        47650362,
+        49858729,
+        52095356,
+        54297548,
+        56402526,
+        58458565,
+        60569116,
+        62858305,
+        64988875,
+        67041856,
+        69135876,
+        71340110,
+        73442468,
+        75515952,
+        77561881,
+        79602015,
+        81667867,
+        83748951
+    ],
+    "finalCoverSize": 30,
+    "minSegCycles": [
+        "2_Orebro@3_Karlstad 4_Halmstad 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 6_Boras@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 3_Karlstad@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 3_Karlstad@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea 21_Umea 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 21_Umea 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea@20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea 21_Umea 19_Lulea 21_Umea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 22_Sundsvall 21_Umea 22_Sundsvall 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 21_Umea 20_None 21_Umea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 6_Boras@0_Goteborg 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 3_Karlstad@2_Orebro 6_Boras@0_Goteborg 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 2_Orebro@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 2_Orebro@3_Karlstad 0_Goteborg@6_Boras 2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 0_Goteborg@6_Boras 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 10_Lund@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 23_Gavle@22_Sundsvall 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 2_Orebro@3_Karlstad 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 6_Boras@0_Goteborg 0_Goteborg@6_Boras 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 1_Skovde@7_Trollhattan 3_Karlstad@2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro@3_Karlstad 3_Karlstad@2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 10_Lund@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 21_Umea 20_None 21_Umea 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 7_Trollhattan@1_Skovde 2_Orebro"
+    ],
+    "values": [
+        46,
+        42,
+        42,
+        41.833333333333336,
+        39.833333333333336,
+        39.333333333333336,
+        36.833333333333336,
+        34.83333333333333,
+        34.33333333333333,
+        31.833333333333332,
+        30.833333333333332,
+        28.833333333333332,
+        28.5,
+        27.5,
+        27.083333333333332,
+        26.583333333333332,
+        26.583333333333332,
+        26.583333333333332,
+        26.333333333333332,
+        26.333333333333332,
+        26.208333333333332,
+        26.083333333333332,
+        25.833333333333332,
+        25.75,
+        25.625,
+        25.166666666666664,
+        25.166666666666664,
+        25.166666666666664,
+        25,
+        24.8125,
+        24.5,
+        24.25,
+        24.083333333333336,
+        23.4,
+        23.4
+    ],
+    "initialCoverSeg": 12,
+    "greedyCoverSize": 30,
+    "runtime": 203339562,
+    "lpBound": 23.4,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 4_Halmstad 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 2_Orebro@3_Karlstad 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 3_Karlstad@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 3_Karlstad@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 7_Trollhattan@1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea 21_Umea 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 21_Umea 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea@20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 22_Sundsvall@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea 21_Umea 19_Lulea 21_Umea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 22_Sundsvall 21_Umea 22_Sundsvall 21_Umea 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0.19999999999999996,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 21_Umea 20_None 21_Umea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 6_Boras@0_Goteborg 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 3_Karlstad@2_Orebro 6_Boras@0_Goteborg 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 2_Orebro@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 0_Goteborg@6_Boras 2_Orebro@3_Karlstad 0_Goteborg@6_Boras 2_Orebro"
+        },
+        {
+            "x": 0.75,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 0_Goteborg@6_Boras 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 21_Umea 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 10_Lund@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 23_Gavle@22_Sundsvall 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 2_Orebro@3_Karlstad 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 6_Boras@0_Goteborg 0_Goteborg@6_Boras 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 1_Skovde@7_Trollhattan 7_Trollhattan@1_Skovde 1_Skovde@7_Trollhattan 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro@3_Karlstad 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0.25,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0.25,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 23_Gavle@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0.5,
+            "cycle": "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro"
+        },
+        {
+            "x": 0.25,
+            "cycle": "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 10_Lund@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@10_Lund 7_Trollhattan@1_Skovde 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro"
+        },
+        {
+            "x": 0.2,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 20_None 21_Umea 20_None 21_Umea 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 1,
+            "cycle": "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro"
+        },
+        {
+            "x": 0,
+            "cycle": "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 7_Trollhattan@1_Skovde 2_Orebro"
+        }
+    ],
+    "greedySolution": [
+        "2_Orebro 1_Skovde@7_Trollhattan 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 0_Goteborg@6_Boras 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 1_Skovde 2_Orebro",
+        "2_Orebro@3_Karlstad 9_Vaxjo@8_Jonkoping 8_Jonkoping@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 13_Kalmar@12_Ronneby 12_Ronneby@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@3_Karlstad 10_Lund@15_Malmo 15_Malmo@11_Kristianstad 11_Kristianstad@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@5_Linkoping 5_Linkoping@8_Jonkoping 8_Jonkoping@9_Vaxjo 3_Karlstad@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@14_Visby 14_Visby@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 21_Umea 19_Lulea 21_Umea 19_Lulea 21_Umea 20_None 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro@3_Karlstad 7_Trollhattan@1_Skovde 2_Orebro@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro@17_Vasten 17_Vasten@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 1_Skovde@7_Trollhattan 9_Vaxjo@8_Jonkoping 8_Jonkoping@9_Vaxjo 0_Goteborg@6_Boras 2_Orebro",
+        "2_Orebro 23_Gavle@22_Sundsvall 20_None 19_Lulea@18_Kiruna 18_Kiruna@19_Lulea 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 7_Trollhattan@1_Skovde 23_Gavle@22_Sundsvall 20_None 21_Umea 22_Sundsvall@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@25_Uppsala 25_Uppsala@23_Gavle 2_Orebro",
+        "2_Orebro 23_Gavle@25_Uppsala 25_Uppsala@16_Stockholm 16_Stockholm@17_Vasten 17_Vasten@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 10_Lund@15_Malmo 15_Malmo@10_Lund 3_Karlstad@2_Orebro",
+        "2_Orebro 6_Boras@0_Goteborg 13_Kalmar@12_Ronneby 12_Ronneby@13_Kalmar 3_Karlstad@2_Orebro"
+    ]
+}

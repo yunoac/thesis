@@ -1,0 +1,862 @@
+{
+    "initialCoverSize": 167,
+    "times": [
+        3248650,
+        17977238,
+        32543373,
+        47157831,
+        61894967,
+        76450037,
+        90935150,
+        105857427,
+        121986942,
+        136624527,
+        151112873,
+        166362728,
+        182586770,
+        197585960,
+        212673765,
+        228254652,
+        242835899,
+        258936505,
+        276662017,
+        292080398,
+        311432961,
+        330752198,
+        345395290,
+        360096554,
+        377906598,
+        393312921,
+        408045161,
+        422827940,
+        438490759,
+        454996895,
+        470609537,
+        485387929,
+        499964814,
+        514612307,
+        529207915,
+        545120881,
+        562811132,
+        577630667,
+        593012776,
+        607789821,
+        624129589,
+        640231862,
+        657478185,
+        672724302,
+        688406926,
+        707984948,
+        723345988,
+        737859533,
+        752458992,
+        766870272,
+        781182676,
+        796834772,
+        812730981,
+        828454360,
+        842812535,
+        857864978,
+        874178194,
+        888668561,
+        903751830,
+        920081669,
+        935559414,
+        950309100,
+        966086268,
+        981585286,
+        996766363,
+        1013240497,
+        1027937254,
+        1042558178,
+        1059763497,
+        1076122886,
+        1091492578,
+        1106477700,
+        1121366927,
+        1136322437,
+        1151085983,
+        1166680741,
+        1183631200,
+        1198771916,
+        1214034321,
+        1230934297,
+        1246072400,
+        1261908535,
+        1278391771,
+        1294769522,
+        1309965022,
+        1326458581,
+        1343194245,
+        1358034584,
+        1373691415,
+        1389221588,
+        1405046342
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 1_Drug_Agency,0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 6_Inst._of_Health,0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 55_Institute_of_Applied_Physics 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 56_Inst._of_Molecular_Biology 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 4_Inst._Biochem 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 4_Inst._Biochem 3_Isnt._Chemical_Physics 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 5_Inst._Geophysics 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 8_TV_station 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 10_? 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 7_Inst._Informatics,46_Astrophysical_Obs. 47_Inst._Microbiology 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 7_Inst._Informatics,46_Astrophysical_Obs. 47_Inst._Microbiology 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 45_Organic_Chem 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 50_research 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 56_Inst._of_Molecular_Biology 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 9_Inst._Phylosophy 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 8_TV_station 24_Min._of_Education 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 26_EEMC_MNP 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 27_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 8_TV_station 28_Museum,22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 8_TV_station 61_Gallery,22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 49_General_Chem 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 11_Organic_chem 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 13_Lib_Net 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 14_ICT 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,15_Geological 15_Geological,22_National_Academy 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,15_Geological 15_Geological,22_National_Academy 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,16_Inst._Math. 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,17_Inst._Mechanics 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,18_ASHMS 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,19_Inst._Physiology 20_Yeveran_Physics_Inst. 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,19_Inst._Physiology 44_SCS 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,19_Inst._Physiology 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,20_Yeveran_Physics_Inst. 19_Inst._Physiology 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 21_ArmESFo 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 37_American_Uni. 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 44_SCS 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 54_ARENA 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 23_NSSPA 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 24_Min._of_Education 8_TV_station 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 28_Museum,8_TV_station 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 61_Gallery,8_TV_station 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 62_Yerevan_University 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 63_State_Engineering_University 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 31_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 29_ISTC 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 30_Geophys._Obser. 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 32_Encycloped. 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 35_Linguistic_Inst 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 34_Economy 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 33_Literature 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 38_Oriental 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 39_Hist 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 40_Art 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 41_Hydroecol 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 42_Engineer_academy 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 43_education 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,44_SCS 19_Inst._Physiology 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 46_Astrophysical_Obs. 50_research 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 51_engineering_center 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 50_research 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 64_Yerevan_Medical_University 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 57_Agricultural_Academy 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,54_ARENA 62_Yerevan_University 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,54_ARENA 63_State_Engineering_University 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 0_? 58_Ecological_Center 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 56_Inst._of_Molecular_Biology 3_Isnt._Chemical_Physics 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 60_Institute_of_Zoology 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 58_Ecological_Center 0_? 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 55_Institute_of_Applied_Physics 57_Agricultural_Academy 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,62_Yerevan_University 54_ARENA 0_? 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy,63_State_Engineering_University 54_ARENA 0_? 22_National_Academy"
+        },
+        {
+            "x": 0.24823722249874758,
+            "cycle": "22_National_Academy 58_Ecological_Center 3_Isnt._Chemical_Physics 58_Ecological_Center 3_Isnt._Chemical_Physics 58_Ecological_Center 3_Isnt._Chemical_Physics 58_Ecological_Center 3_Isnt._Chemical_Physics 22_National_Academy"
+        },
+        {
+            "x": 0.3196067984357327,
+            "cycle": "22_National_Academy 21_ArmESFo 19_Inst._Physiology 21_ArmESFo 19_Inst._Physiology 21_ArmESFo 19_Inst._Physiology 21_ArmESFo 1_Drug_Agency 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 51_engineering_center 46_Astrophysical_Obs. 51_engineering_center 46_Astrophysical_Obs. 51_engineering_center 46_Astrophysical_Obs. 51_engineering_center 5_Inst._Geophysics 22_National_Academy"
+        },
+        {
+            "x": 0.23390628931951005,
+            "cycle": "22_National_Academy 58_Ecological_Center 62_Yerevan_University 58_Ecological_Center 62_Yerevan_University 58_Ecological_Center 62_Yerevan_University 59_Intitute_of_Botany 5_Inst._Geophysics 22_National_Academy"
+        },
+        {
+            "x": 0.2688410606308332,
+            "cycle": "22_National_Academy 64_Yerevan_Medical_University 63_State_Engineering_University 64_Yerevan_Medical_University 63_State_Engineering_University 64_Yerevan_Medical_University 63_State_Engineering_University 64_Yerevan_Medical_University 6_Inst._of_Health 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 11_Organic_chem 6_Inst._of_Health 9_Inst._Phylosophy 6_Inst._of_Health 9_Inst._Phylosophy 6_Inst._of_Health 9_Inst._Phylosophy 6_Inst._of_Health 22_National_Academy"
+        },
+        {
+            "x": 0.1293920426488381,
+            "cycle": "22_National_Academy 13_Lib_Net 11_Organic_chem 13_Lib_Net 11_Organic_chem 13_Lib_Net 11_Organic_chem 13_Lib_Net 11_Organic_chem 22_National_Academy"
+        },
+        {
+            "x": 0.23604985059630934,
+            "cycle": "22_National_Academy 16_Inst._Math. 14_ICT 16_Inst._Math. 14_ICT 16_Inst._Math. 14_ICT 16_Inst._Math. 14_ICT 22_National_Academy"
+        },
+        {
+            "x": 0.24302492529815467,
+            "cycle": "22_National_Academy 18_ASHMS 17_Inst._Mechanics 18_ASHMS 17_Inst._Mechanics 18_ASHMS 17_Inst._Mechanics 18_ASHMS 17_Inst._Mechanics 22_National_Academy"
+        },
+        {
+            "x": 0.0951541975313463,
+            "cycle": "22_National_Academy 23_NSSPA 20_Yeveran_Physics_Inst. 23_NSSPA 20_Yeveran_Physics_Inst. 23_NSSPA 20_Yeveran_Physics_Inst. 23_NSSPA 20_Yeveran_Physics_Inst. 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 29_ISTC 1_Drug_Agency 26_EEMC_MNP 1_Drug_Agency 26_EEMC_MNP 1_Drug_Agency 26_EEMC_MNP 1_Drug_Agency 22_National_Academy"
+        },
+        {
+            "x": 0.09172256380694614,
+            "cycle": "22_National_Academy 29_ISTC 24_Min._of_Education 29_ISTC 24_Min._of_Education 29_ISTC 24_Min._of_Education 29_ISTC 24_Min._of_Education 22_National_Academy"
+        },
+        {
+            "x": 0.1834451276138923,
+            "cycle": "22_National_Academy 30_Geophys._Obser. 24_Min._of_Education 32_Encycloped. 24_Min._of_Education 32_Encycloped. 24_Min._of_Education 32_Encycloped. 24_Min._of_Education 22_National_Academy"
+        },
+        {
+            "x": 0.04305831394497107,
+            "cycle": "22_National_Academy 30_Geophys._Obser. 28_Museum 30_Geophys._Obser. 28_Museum 30_Geophys._Obser. 28_Museum 30_Geophys._Obser. 28_Museum 22_National_Academy"
+        },
+        {
+            "x": 0.012705609472081028,
+            "cycle": "22_National_Academy 37_American_Uni. 28_Museum 33_Literature 28_Museum 33_Literature 28_Museum 33_Literature 28_Museum 22_National_Academy"
+        },
+        {
+            "x": 0.11987244735620121,
+            "cycle": "22_National_Academy 38_Oriental 37_American_Uni. 38_Oriental 37_American_Uni. 38_Oriental 37_American_Uni. 38_Oriental 37_American_Uni. 22_National_Academy"
+        },
+        {
+            "x": 0.165443136029012,
+            "cycle": "22_National_Academy 40_Art 39_Hist 40_Art 39_Hist 40_Art 39_Hist 40_Art 39_Hist 22_National_Academy"
+        },
+        {
+            "x": 0.23197445330991306,
+            "cycle": "22_National_Academy 42_Engineer_academy 41_Hydroecol 42_Engineer_academy 41_Hydroecol 42_Engineer_academy 41_Hydroecol 42_Engineer_academy 41_Hydroecol 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 45_Organic_Chem 34_Economy 35_Linguistic_Inst 34_Economy 35_Linguistic_Inst 34_Economy 45_Organic_Chem 43_education 22_National_Academy"
+        },
+        {
+            "x": 0.0032808331268625035,
+            "cycle": "22_National_Academy 49_General_Chem 43_education 49_General_Chem 43_education 49_General_Chem 43_education 49_General_Chem 43_education 22_National_Academy"
+        },
+        {
+            "x": 0.006947562404509714,
+            "cycle": "22_National_Academy 54_ARENA 50_research 54_ARENA 50_research 54_ARENA 50_research 54_ARENA 50_research 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 62_Yerevan_University 55_Institute_of_Applied_Physics 62_Yerevan_University 55_Institute_of_Applied_Physics 62_Yerevan_University 55_Institute_of_Applied_Physics 62_Yerevan_University 55_Institute_of_Applied_Physics 22_National_Academy"
+        },
+        {
+            "x": 0.02112341724985524,
+            "cycle": "22_National_Academy 63_State_Engineering_University 56_Inst._of_Molecular_Biology 63_State_Engineering_University 56_Inst._of_Molecular_Biology 63_State_Engineering_University 56_Inst._of_Molecular_Biology 63_State_Engineering_University 56_Inst._of_Molecular_Biology 22_National_Academy"
+        },
+        {
+            "x": 0.21374044019449825,
+            "cycle": "22_National_Academy 4_Inst._Biochem 3_Isnt._Chemical_Physics 4_Inst._Biochem 3_Isnt._Chemical_Physics 4_Inst._Biochem 3_Isnt._Chemical_Physics 4_Inst._Biochem 3_Isnt._Chemical_Physics 22_National_Academy"
+        },
+        {
+            "x": 0.006130628725856575,
+            "cycle": "22_National_Academy 5_Inst._Geophysics 4_Inst._Biochem 5_Inst._Geophysics 4_Inst._Biochem 5_Inst._Geophysics 4_Inst._Biochem 5_Inst._Geophysics 4_Inst._Biochem 22_National_Academy"
+        },
+        {
+            "x": 0.22691147623226637,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 44_SCS 19_Inst._Physiology 44_SCS 19_Inst._Physiology 44_SCS 19_Inst._Physiology 3_Isnt._Chemical_Physics 22_National_Academy"
+        },
+        {
+            "x": 0.10316083694293271,
+            "cycle": "22_National_Academy 61_Gallery 19_Inst._Physiology 61_Gallery 19_Inst._Physiology 61_Gallery 19_Inst._Physiology 61_Gallery 19_Inst._Physiology 22_National_Academy"
+        },
+        {
+            "x": 0.22135977122208628,
+            "cycle": "22_National_Academy 61_Gallery 9_Inst._Phylosophy 61_Gallery 9_Inst._Phylosophy 61_Gallery 9_Inst._Phylosophy 61_Gallery 44_SCS 22_National_Academy"
+        },
+        {
+            "x": 0.049146138753379164,
+            "cycle": "22_National_Academy 44_SCS 3_Isnt._Chemical_Physics 58_Ecological_Center 44_SCS 57_Agricultural_Academy 44_SCS 57_Agricultural_Academy 44_SCS 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 55_Institute_of_Applied_Physics 56_Inst._of_Molecular_Biology 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 45_Organic_Chem 7_Inst._Informatics,46_Astrophysical_Obs. 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.35085943397926506,
+            "cycle": "22_National_Academy 7_Inst._Informatics,46_Astrophysical_Obs. 50_research 7_Inst._Informatics,46_Astrophysical_Obs. 50_research 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 19_Inst._Physiology 44_SCS 47_Inst._Microbiology 35_Linguistic_Inst 47_Inst._Microbiology 35_Linguistic_Inst 47_Inst._Microbiology 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 46_Astrophysical_Obs. 47_Inst._Microbiology 46_Astrophysical_Obs. 47_Inst._Microbiology 46_Astrophysical_Obs. 47_Inst._Microbiology 3_Isnt._Chemical_Physics 22_National_Academy"
+        },
+        {
+            "x": 0.11478551017161828,
+            "cycle": "22_National_Academy 19_Inst._Physiology 44_SCS 51_engineering_center 46_Astrophysical_Obs.,7_Inst._Informatics 51_engineering_center 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 4_Inst._Biochem 35_Linguistic_Inst 28_Museum 35_Linguistic_Inst 28_Museum 35_Linguistic_Inst 28_Museum 22_National_Academy"
+        },
+        {
+            "x": 0.022852729586245152,
+            "cycle": "22_National_Academy 51_engineering_center 34_Economy 61_Gallery 34_Economy 61_Gallery 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.1793893397082526,
+            "cycle": "22_National_Academy 3_Isnt._Chemical_Physics 4_Inst._Biochem 33_Literature 3_Isnt._Chemical_Physics 4_Inst._Biochem 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.11143716127437107,
+            "cycle": "22_National_Academy 28_Museum 9_Inst._Phylosophy 4_Inst._Biochem 3_Isnt._Chemical_Physics 58_Ecological_Center 28_Museum 9_Inst._Phylosophy 24_Min._of_Education 22_National_Academy"
+        },
+        {
+            "x": 0.03360107794763588,
+            "cycle": "22_National_Academy 61_Gallery 35_Linguistic_Inst 4_Inst._Biochem 3_Isnt._Chemical_Physics 58_Ecological_Center 61_Gallery 35_Linguistic_Inst 4_Inst._Biochem 22_National_Academy"
+        },
+        {
+            "x": 0.3274567081015808,
+            "cycle": "22_National_Academy 24_Min._of_Education 26_EEMC_MNP 28_Museum 26_EEMC_MNP 28_Museum 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.15963278565160044,
+            "cycle": "22_National_Academy 44_SCS 19_Inst._Physiology 5_Inst._Geophysics 44_SCS 19_Inst._Physiology 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.35085943397926506,
+            "cycle": "22_National_Academy 7_Inst._Informatics,46_Astrophysical_Obs. 47_Inst._Microbiology 35_Linguistic_Inst 33_Literature 7_Inst._Informatics,46_Astrophysical_Obs. 47_Inst._Microbiology 22_National_Academy"
+        },
+        {
+            "x": 0.2909692050627316,
+            "cycle": "22_National_Academy 5_Inst._Geophysics 35_Linguistic_Inst 33_Literature 35_Linguistic_Inst 5_Inst._Geophysics 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.11304636378499894,
+            "cycle": "22_National_Academy 51_engineering_center 46_Astrophysical_Obs.,7_Inst._Informatics 33_Literature 9_Inst._Phylosophy 51_engineering_center 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0.14379717912128298,
+            "cycle": "22_National_Academy 19_Inst._Physiology 44_SCS 13_Lib_Net 19_Inst._Physiology 44_SCS 13_Lib_Net 19_Inst._Physiology 44_SCS 22_National_Academy"
+        },
+        {
+            "x": 0.2097847728387492,
+            "cycle": "22_National_Academy 45_Organic_Chem 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 45_Organic_Chem 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 22_National_Academy"
+        },
+        {
+            "x": 0.02743567831779381,
+            "cycle": "22_National_Academy 49_General_Chem 34_Economy 26_EEMC_MNP 34_Economy 26_EEMC_MNP 34_Economy 49_General_Chem 13_Lib_Net 22_National_Academy"
+        },
+        {
+            "x": 0.05580059761476261,
+            "cycle": "22_National_Academy 51_engineering_center 13_Lib_Net 51_engineering_center 13_Lib_Net 51_engineering_center 14_ICT 13_Lib_Net 51_engineering_center 22_National_Academy"
+        },
+        {
+            "x": 0.00697507470184533,
+            "cycle": "22_National_Academy 17_Inst._Mechanics 16_Inst._Math. 17_Inst._Mechanics 16_Inst._Math. 17_Inst._Mechanics 16_Inst._Math. 17_Inst._Mechanics 16_Inst._Math. 22_National_Academy"
+        },
+        {
+            "x": 0.00697507470184533,
+            "cycle": "22_National_Academy 18_ASHMS 16_Inst._Math. 18_ASHMS 16_Inst._Math. 18_ASHMS 16_Inst._Math. 18_ASHMS 16_Inst._Math. 22_National_Academy"
+        },
+        {
+            "x": 0.1548458024686537,
+            "cycle": "22_National_Academy 29_ISTC 23_NSSPA 29_ISTC 23_NSSPA 29_ISTC 23_NSSPA 29_ISTC 23_NSSPA 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 24_Min._of_Education 23_NSSPA 24_Min._of_Education 23_NSSPA 24_Min._of_Education 23_NSSPA 24_Min._of_Education 23_NSSPA 22_National_Academy"
+        },
+        {
+            "x": 0.026581390995663666,
+            "cycle": "22_National_Academy 38_Oriental 30_Geophys._Obser. 38_Oriental 30_Geophys._Obser. 38_Oriental 30_Geophys._Obser. 38_Oriental 30_Geophys._Obser. 22_National_Academy"
+        },
+        {
+            "x": 0.1229329004261121,
+            "cycle": "22_National_Academy 61_Gallery 32_Encycloped. 28_Museum 38_Oriental 61_Gallery 32_Encycloped. 28_Museum 54_ARENA 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 4_Inst._Biochem 32_Encycloped. 26_EEMC_MNP 32_Encycloped. 26_EEMC_MNP 32_Encycloped. 26_EEMC_MNP 4_Inst._Biochem 22_National_Academy"
+        },
+        {
+            "x": 0.1793320175411896,
+            "cycle": "22_National_Academy 30_Geophys._Obser. 37_American_Uni. 30_Geophys._Obser. 37_American_Uni. 30_Geophys._Obser. 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.169113727941976,
+            "cycle": "22_National_Academy 39_Hist 11_Organic_chem 34_Economy 24_Min._of_Education 39_Hist 11_Organic_chem 34_Economy 24_Min._of_Education 22_National_Academy"
+        },
+        {
+            "x": 0.08112523024658784,
+            "cycle": "22_National_Academy 40_Art 4_Inst._Biochem 40_Art 4_Inst._Biochem 40_Art 4_Inst._Biochem 40_Art 4_Inst._Biochem 22_National_Academy"
+        },
+        {
+            "x": 0.21289845454050002,
+            "cycle": "22_National_Academy 28_Museum 34_Economy 59_Intitute_of_Botany 6_Inst._of_Health 58_Ecological_Center 6_Inst._of_Health 58_Ecological_Center 6_Inst._of_Health 22_National_Academy"
+        },
+        {
+            "x": 0.01802554669008695,
+            "cycle": "22_National_Academy 41_Hydroecol 11_Organic_chem 41_Hydroecol 11_Organic_chem 41_Hydroecol 11_Organic_chem 41_Hydroecol 11_Organic_chem 22_National_Academy"
+        },
+        {
+            "x": 0.018025546690086935,
+            "cycle": "22_National_Academy 42_Engineer_academy 11_Organic_chem 42_Engineer_academy 11_Organic_chem 42_Engineer_academy 11_Organic_chem 42_Engineer_academy 11_Organic_chem 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 1_Drug_Agency 58_Ecological_Center 43_education 1_Drug_Agency 58_Ecological_Center 43_education 1_Drug_Agency 58_Ecological_Center 22_National_Academy"
+        },
+        {
+            "x": 0.06464920168652005,
+            "cycle": "22_National_Academy 20_Yeveran_Physics_Inst. 4_Inst._Biochem 20_Yeveran_Physics_Inst. 4_Inst._Biochem 20_Yeveran_Physics_Inst. 4_Inst._Biochem 20_Yeveran_Physics_Inst. 4_Inst._Biochem 22_National_Academy"
+        },
+        {
+            "x": 0.31066843695232077,
+            "cycle": "22_National_Academy 49_General_Chem 62_Yerevan_University 49_General_Chem 62_Yerevan_University 49_General_Chem 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.013232231064671807,
+            "cycle": "22_National_Academy 62_Yerevan_University 61_Gallery 62_Yerevan_University 61_Gallery 62_Yerevan_University 61_Gallery 62_Yerevan_University 61_Gallery 22_National_Academy"
+        },
+        {
+            "x": 0.013726534897600636,
+            "cycle": "22_National_Academy 19_Inst._Physiology 20_Yeveran_Physics_Inst. 62_Yerevan_University 19_Inst._Physiology 20_Yeveran_Physics_Inst. 62_Yerevan_University 19_Inst._Physiology 20_Yeveran_Physics_Inst. 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 19_Inst._Physiology 62_Yerevan_University 3_Isnt._Chemical_Physics 58_Ecological_Center 1_Drug_Agency 3_Isnt._Chemical_Physics 58_Ecological_Center 1_Drug_Agency 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 62_Yerevan_University 19_Inst._Physiology 62_Yerevan_University 19_Inst._Physiology 62_Yerevan_University 19_Inst._Physiology 62_Yerevan_University 19_Inst._Physiology 22_National_Academy"
+        },
+        {
+            "x": 0.007051110005009732,
+            "cycle": "22_National_Academy 63_State_Engineering_University 44_SCS 63_State_Engineering_University 44_SCS 63_State_Engineering_University 56_Inst._of_Molecular_Biology 3_Isnt._Chemical_Physics 63_State_Engineering_University 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 58_Ecological_Center 1_Drug_Agency 54_ARENA 63_State_Engineering_University 43_education 58_Ecological_Center 1_Drug_Agency 54_ARENA 22_National_Academy"
+        },
+        {
+            "x": 0.06449227270250013,
+            "cycle": "22_National_Academy 63_State_Engineering_University 54_ARENA 43_education 63_State_Engineering_University 54_ARENA 43_education 63_State_Engineering_University 54_ARENA 22_National_Academy"
+        },
+        {
+            "x": 0.02761882904851002,
+            "cycle": "22_National_Academy 63_State_Engineering_University 50_research 33_Literature 50_research 63_State_Engineering_University 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.013726534897600636,
+            "cycle": "22_National_Academy 20_Yeveran_Physics_Inst. 19_Inst._Physiology 40_Art 20_Yeveran_Physics_Inst. 19_Inst._Physiology 29_ISTC 20_Yeveran_Physics_Inst. 19_Inst._Physiology 22_National_Academy"
+        },
+        {
+            "x": 0.12043487879283327,
+            "cycle": "22_National_Academy 1_Drug_Agency 58_Ecological_Center 1_Drug_Agency 58_Ecological_Center 1_Drug_Agency 58_Ecological_Center 1_Drug_Agency 60_Institute_of_Zoology 22_National_Academy"
+        },
+        {
+            "x": 0.2982811320414699,
+            "cycle": "22_National_Academy 7_Inst._Informatics,46_Astrophysical_Obs. 47_Inst._Microbiology 59_Intitute_of_Botany 62_Yerevan_University 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        },
+        {
+            "x": 0.03149410524512366,
+            "cycle": "22_National_Academy 62_Yerevan_University 54_ARENA 28_Museum 62_Yerevan_University 54_ARENA 38_Oriental 62_Yerevan_University 54_ARENA 22_National_Academy"
+        },
+        {
+            "x": 0.030821191915888946,
+            "cycle": "22_National_Academy 6_Inst._of_Health 60_Institute_of_Zoology 63_State_Engineering_University 6_Inst._of_Health 60_Institute_of_Zoology 63_State_Engineering_University 6_Inst._of_Health 60_Institute_of_Zoology 22_National_Academy"
+        },
+        {
+            "x": 0.2902152271612508,
+            "cycle": "22_National_Academy 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 47_Inst._Microbiology 46_Astrophysical_Obs.,7_Inst._Informatics 26_EEMC_MNP 61_Gallery 22_National_Academy"
+        },
+        {
+            "x": 0.01928706870930294,
+            "cycle": "22_National_Academy 43_education 3_Isnt._Chemical_Physics 43_education 3_Isnt._Chemical_Physics 43_education 3_Isnt._Chemical_Physics 43_education 3_Isnt._Chemical_Physics 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 45_Organic_Chem 63_State_Engineering_University 59_Intitute_of_Botany 45_Organic_Chem 63_State_Engineering_University 59_Intitute_of_Botany 45_Organic_Chem 44_SCS 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 54_ARENA 63_State_Engineering_University 44_SCS 54_ARENA 63_State_Engineering_University 44_SCS 54_ARENA 63_State_Engineering_University 22_National_Academy"
+        },
+        {
+            "x": 0.005444101554727615,
+            "cycle": "22_National_Academy 50_research 44_SCS 50_research 44_SCS 50_research 44_SCS 50_research 44_SCS 22_National_Academy"
+        },
+        {
+            "x": 0.09932684319646695,
+            "cycle": "22_National_Academy 28_Museum 34_Economy 1_Drug_Agency 38_Oriental 28_Museum 34_Economy 1_Drug_Agency 38_Oriental 22_National_Academy"
+        },
+        {
+            "x": 0.14914056602073494,
+            "cycle": "22_National_Academy 28_Museum 37_American_Uni. 7_Inst._Informatics,46_Astrophysical_Obs. 51_engineering_center 7_Inst._Informatics,46_Astrophysical_Obs. 51_engineering_center 22_National_Academy"
+        },
+        {
+            "x": 0.19347681810750053,
+            "cycle": "22_National_Academy 45_Organic_Chem 59_Intitute_of_Botany 63_State_Engineering_University 45_Organic_Chem 50_research 46_Astrophysical_Obs.,7_Inst._Informatics 45_Organic_Chem 22_National_Academy"
+        },
+        {
+            "x": 0.14423625773605978,
+            "cycle": "22_National_Academy 63_State_Engineering_University 43_education 63_State_Engineering_University 43_education 63_State_Engineering_University 43_education 63_State_Engineering_University 43_education 22_National_Academy"
+        },
+        {
+            "x": 0.06110395452837117,
+            "cycle": "22_National_Academy 24_Min._of_Education 34_Economy 28_Museum 38_Oriental 24_Min._of_Education 34_Economy 3_Isnt._Chemical_Physics 56_Inst._of_Molecular_Biology 22_National_Academy"
+        },
+        {
+            "x": 0,
+            "cycle": "22_National_Academy 62_Yerevan_University 59_Intitute_of_Botany 47_Inst._Microbiology 62_Yerevan_University 59_Intitute_of_Botany 47_Inst._Microbiology 54_ARENA 63_State_Engineering_University 22_National_Academy"
+        },
+        {
+            "x": 0.20379881630609892,
+            "cycle": "22_National_Academy 62_Yerevan_University 59_Intitute_of_Botany 32_Encycloped. 56_Inst._of_Molecular_Biology 43_education 22_National_Academy,15_Geological 15_Geological,22_National_Academy"
+        }
+    ],
+    "values": [
+        59,
+        56.25,
+        53.25,
+        51.25,
+        49.66666666666668,
+        47.66666666666668,
+        46.24999999999999,
+        44.83333333333333,
+        43.08333333333333,
+        41.33333333333333,
+        40.583333333333336,
+        38.91666666666667,
+        38.41666666666667,
+        35.41666666666667,
+        34.91666666666667,
+        31.916666666666664,
+        30.499999999999996,
+        28.749999999999996,
+        26.999999999999996,
+        23.999999999999996,
+        22.749999999999993,
+        22.249999999999993,
+        21.499999999999996,
+        19.833333333333336,
+        19.83333333333334,
+        18.937500000000004,
+        18.083333333333336,
+        17.708333333333336,
+        15.541666666666668,
+        15.11111111111111,
+        14.444444444444445,
+        12.527777777777779,
+        12.519444444444446,
+        12.38402777777778,
+        11.5625,
+        10.950231481481481,
+        10.950231481481481,
+        10.449074074074073,
+        10.321759259259258,
+        10.269097222222221,
+        10.159374999999999,
+        10.085069444444445,
+        10.053150100401606,
+        10.053150100401606,
+        9.958739436492863,
+        9.914489887101698,
+        9.89128320857185,
+        9.859007130560208,
+        9.838871130296463,
+        9.827181229627005,
+        9.827181229627003,
+        9.824922644378278,
+        9.75439608170208,
+        9.748160006888646,
+        9.729143156902467,
+        9.704387430080796,
+        9.686870528820982,
+        9.682321109462965,
+        9.67407540812031,
+        9.667329739981783,
+        9.62258773336184,
+        9.622587733361838,
+        9.604532489549184,
+        9.569675977650515,
+        9.524380649406094,
+        9.480410984962239,
+        9.421807847950456,
+        9.421807847950458,
+        9.347679505167356,
+        9.296676031895325,
+        9.270746099974973,
+        9.26504623034957,
+        9.26024129322647,
+        9.253157582178083,
+        9.25235447691639,
+        9.245284826164832,
+        9.24132773086938,
+        9.214258124885623,
+        9.210056418591652,
+        9.196417732945202,
+        9.169513998539903,
+        9.16933931151234,
+        9.165554178706294,
+        9.162674493112897,
+        9.157418227713439,
+        9.147825821525165,
+        9.139249690872122,
+        9.134947699697836,
+        9.1309936295104,
+        9.128626400041796,
+        9.125000000000005
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 1665755,
+    "lpBound": 9.125000000000005
+}

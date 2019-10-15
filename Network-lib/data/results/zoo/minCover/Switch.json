@@ -1,0 +1,558 @@
+{
+    "initialCoverSize": 114,
+    "times": [
+        3312618,
+        24819284,
+        47273874,
+        69929848,
+        91961232,
+        113437582,
+        136316260,
+        158390647,
+        179728863,
+        200836199,
+        224935003,
+        249202499,
+        270363713,
+        291335245,
+        312645297,
+        336040521,
+        357421369,
+        379974129,
+        402501585,
+        423653644,
+        444885069,
+        466049386,
+        487881526,
+        511413960,
+        533072112,
+        554191085,
+        575583857,
+        598923154,
+        620481872,
+        641674170,
+        662750622,
+        683921634,
+        707331032,
+        728714228,
+        749870377,
+        772608704,
+        794233264,
+        816255427,
+        837088686,
+        858725052,
+        881770597,
+        902696245,
+        926233550,
+        949524318,
+        970704486
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 38_BSSE,0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 61_RERO 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 15_VSNet 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 4_GLBX 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 14_HEIG-VD 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 36_PSI,3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 5_CIXP 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 6_CBF_Link_GARR_Lightpath 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 7_Swisscom 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 2_None 3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 2_None 39_HES-SO 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 9_SNF 0_None 0_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 1_None 10_AMS-IX 1_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 1_None 11_GEANT2 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 15_VSNet 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 13_Jungfraujoch 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 6_CBF_Link_GARR_Lightpath 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 16_IBM 3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 16_IBM 4_GLBX 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 41_Skyguide 1_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 53_BelWu 3_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 28_UniSG 1_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 47_HTW 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 32_PMOD 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 51_HLI 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 25_HSLU 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 25_HSLU 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 16_IBM 26_UniFR 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 43_UniL 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 25_HSLU 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 26_UniFR 16_IBM 3_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 1_None 27_GEANT2_Lightpaths 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 62_FHSG 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 48_EUResearch 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 31_ETH-Rat 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 31_ETH-Rat 48_EUResearch 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 33_EHL 1_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 46_EESP 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None,36_PSI 6_CBF_Link_GARR_Lightpath 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 37_UniBAS 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 37_UniBAS 38_BSSE 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 38_BSSE 37_UniBAS 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 9_SNF 8_UniNE 2_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 4_GLBX 16_IBM 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 41_Skyguide 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 41_Skyguide 3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 44_HES-SO_AvdP 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 46_EESP 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 44_HES-SO_AvdP 33_EHL 1_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 32_PMOD 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 19_None 18_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 48_EUResearch 31_ETH-Rat 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 53_BelWu 3_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 52_Swisscom 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 54_CBF_Link_DFN_Lightpath 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 56_Swissix 0_None 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 57_Swissix 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 58_Equinix 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 59_Telia 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 53_BelWu 18_None 3_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 32_PMOD 18_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 9_SNF 18_None 3_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 67_meteoGH 68_NAZ 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 67_meteoGH 3_None 0_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 0_None 68_NAZ 67_meteoGH 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 9_SNF 36_PSI,3_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 9_SNF 0_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 0_None 71_ITIS 0_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 46_EESP 39_HES-SO 46_EESP 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 13_Jungfraujoch 36_PSI 13_Jungfraujoch 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 41_Skyguide 52_Swisscom 41_Skyguide 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 23_None 18_None 23_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 44_HES-SO_AvdP 26_UniFR 44_HES-SO_AvdP 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 53_BelWu 32_PMOD 53_BelWu 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 28_UniSG 25_HSLU 2_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 2_None 28_UniSG 26_UniFR 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 45_IMD 6_CBF_Link_GARR_Lightpath 18_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 9_SNF 16_IBM 54_CBF_Link_DFN_Lightpath 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 53_BelWu 19_None 46_EESP 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 16_IBM 5_CIXP 16_IBM 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 36_PSI 25_HSLU 18_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 54_CBF_Link_DFN_Lightpath 25_HSLU 28_UniSG 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 18_None 6_CBF_Link_GARR_Lightpath 36_PSI 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 46_EESP 32_PMOD 41_Skyguide 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 41_Skyguide 25_HSLU 56_Swissix 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 56_Swissix 26_UniFR 46_EESP 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 46_EESP 52_Swisscom 53_BelWu 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 54_CBF_Link_DFN_Lightpath 41_Skyguide 13_Jungfraujoch 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 36_PSI 57_Swissix 36_PSI 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 2_None 23_None 2_None 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 13_Jungfraujoch 46_EESP 26_UniFR 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 45_IMD 57_Swissix 8_UniNE 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 9_SNF 4_GLBX 9_SNF 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 55_NTB 58_Equinix 26_UniFR 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 8_UniNE 58_Equinix 13_Jungfraujoch 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 41_Skyguide 4_GLBX 28_UniSG 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 56_Swissix 47_HTW 41_Skyguide 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 18_None 52_Swisscom 45_IMD 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 54_CBF_Link_DFN_Lightpath 32_PMOD 54_CBF_Link_DFN_Lightpath 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 41_Skyguide 32_PMOD 53_BelWu 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 45_IMD 59_Telia 55_NTB 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 41_Skyguide 7_Swisscom 16_IBM 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 46_EESP 47_HTW 46_EESP 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 53_BelWu 32_PMOD 0_None 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 31_ETH-Rat 48_EUResearch 31_ETH-Rat 3_None"
+        },
+        {
+            "x": 0.5,
+            "cycle": "3_None 48_EUResearch 4_GLBX 48_EUResearch 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 38_BSSE 37_UniBAS 38_BSSE 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 0_None 19_None 53_BelWu 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 67_meteoGH 68_NAZ 67_meteoGH 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 26_UniFR 46_EESP 26_UniFR 3_None"
+        },
+        {
+            "x": 1,
+            "cycle": "3_None 56_Swissix 37_UniBAS 45_IMD 3_None"
+        },
+        {
+            "x": 0,
+            "cycle": "3_None 1_None 37_UniBAS 46_EESP 3_None"
+        }
+    ],
+    "values": [
+        41,
+        40.5,
+        40,
+        38,
+        37,
+        37,
+        35,
+        34.5,
+        34,
+        33.5,
+        33.5,
+        33.5,
+        32.5,
+        32,
+        32,
+        31,
+        30.375,
+        29,
+        29,
+        28.5,
+        28,
+        27.66666666666667,
+        27.555555555555554,
+        27.5,
+        27.000000000000004,
+        26.500000000000004,
+        26.16666666666666,
+        26.000000000000004,
+        25.5,
+        25.5,
+        25.25,
+        24.999999999999993,
+        24.999999999999993,
+        25,
+        24.884615384615387,
+        24.75,
+        24.75,
+        24.75,
+        23.75,
+        23.75,
+        23.75,
+        23.75,
+        23.199999999999996,
+        23,
+        23
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 2320339,
+    "lpBound": 23
+}

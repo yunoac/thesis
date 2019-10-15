@@ -1,0 +1,392 @@
+{
+    "initialCoverSize": 64,
+    "times": [1703643],
+    "finalCoverSize": 56,
+    "minSegCycles": [
+        "0_Minneapolis 1_Seattle@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 2_San_Jose@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 3_Phoenix@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 4_Dallas@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 5_Atlanta@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 6_Vienna@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 7_Whippany@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis 8_Chicago@0_Minneapolis 0_Minneapolis",
+        "0_Minneapolis@1_Seattle 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 7_Whippany@0_Minneapolis"
+    ],
+    "values": [56],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 56,
+    "runtime": 8324539,
+    "lpBound": 56,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 1_Seattle@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 2_San_Jose@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 3_Phoenix@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 4_Dallas@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 5_Atlanta@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 6_Vienna@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 7_Whippany@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Minneapolis 8_Chicago@0_Minneapolis 0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@1_Seattle 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@2_San_Jose 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@3_Phoenix 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@4_Dallas 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@5_Atlanta 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 7_Whippany@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@6_Vienna 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@7_Whippany 8_Chicago@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 1_Seattle@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 2_San_Jose@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 3_Phoenix@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 4_Dallas@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 5_Atlanta@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 6_Vienna@0_Minneapolis"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Minneapolis@8_Chicago 7_Whippany@0_Minneapolis"
+        }
+    ],
+    "greedySolution": [
+        "0_Minneapolis@1_Seattle 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@1_Seattle 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@2_San_Jose 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@3_Phoenix 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@4_Dallas 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@5_Atlanta 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 7_Whippany@0_Minneapolis",
+        "0_Minneapolis@6_Vienna 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@7_Whippany 8_Chicago@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 1_Seattle@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 2_San_Jose@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 3_Phoenix@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 4_Dallas@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 5_Atlanta@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 6_Vienna@0_Minneapolis",
+        "0_Minneapolis@8_Chicago 7_Whippany@0_Minneapolis"
+    ]
+}

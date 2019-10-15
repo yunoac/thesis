@@ -1,0 +1,96 @@
+{
+    "initialCoverSize": 16,
+    "times": [
+        1015038,
+        1343206,
+        1567395,
+        1790581,
+        2023722,
+        2234470,
+        2463055,
+        2664517,
+        2884375,
+        3118917
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 1_Ebone 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 2_Plzen 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 4_Liberec 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 5_Ceske_Budejovice 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 6_Pardubice 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 7_Hradec_Kralove 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 8_Olomouc 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 2_Plzen 1_Ebone 2_Plzen 1_Ebone 2_Plzen 1_Ebone 2_Plzen 1_Ebone 0_Ostrava"
+        },
+        {
+            "x": 0.1579861111111111,
+            "cycle": "0_Ostrava 5_Ceske_Budejovice 4_Liberec 5_Ceske_Budejovice 4_Liberec 5_Ceske_Budejovice 4_Liberec 5_Ceske_Budejovice 4_Liberec 0_Ostrava"
+        },
+        {
+            "x": 0.22453703703703703,
+            "cycle": "0_Ostrava 7_Hradec_Kralove 6_Pardubice 7_Hradec_Kralove 6_Pardubice 7_Hradec_Kralove 6_Pardubice 7_Hradec_Kralove 6_Pardubice 0_Ostrava"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Ostrava 8_Olomouc 1_Ebone 8_Olomouc 1_Ebone 8_Olomouc 1_Ebone 8_Olomouc 1_Ebone 0_Ostrava"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Ostrava 1_Ebone 0_Ostrava 1_Ebone 0_Ostrava 1_Ebone 0_Ostrava 1_Ebone 0_Ostrava"
+        },
+        {
+            "x": 0.03703703703703702,
+            "cycle": "0_Ostrava 5_Ceske_Budejovice 2_Plzen 0_Ostrava 2_Plzen 0_Ostrava 2_Plzen 0_Ostrava 2_Plzen 0_Ostrava"
+        },
+        {
+            "x": 0.0920138888888889,
+            "cycle": "0_Ostrava 4_Liberec 2_Plzen 4_Liberec 2_Plzen 4_Liberec 2_Plzen 4_Liberec 2_Plzen 0_Ostrava"
+        },
+        {
+            "x": 0.025462962962962965,
+            "cycle": "0_Ostrava 6_Pardubice 5_Ceske_Budejovice 2_Plzen 6_Pardubice 2_Plzen 6_Pardubice 2_Plzen 6_Pardubice 0_Ostrava"
+        },
+        {
+            "x": 0.10185185185185186,
+            "cycle": "0_Ostrava 2_Plzen 5_Ceske_Budejovice 2_Plzen 5_Ceske_Budejovice 2_Plzen 7_Hradec_Kralove 5_Ceske_Budejovice 2_Plzen 0_Ostrava"
+        }
+    ],
+    "values": [
+        7,
+        5.25,
+        3.5,
+        2,
+        1,
+        1,
+        1,
+        0.95,
+        0.95,
+        0.8888888888888888
+    ],
+    "initialCoverSeg": 3,
+    "runtime": 35480,
+    "lpBound": 0.8888888888888888
+}

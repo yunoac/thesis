@@ -1,0 +1,346 @@
+{
+    "initialCoverSize": 68,
+    "times": [
+        1781420,
+        5288150,
+        7760217,
+        10236065,
+        13120072,
+        15733788,
+        18122836,
+        21347143,
+        23870953,
+        26178199,
+        28445941,
+        31179174,
+        33836930,
+        36186355,
+        39475100,
+        41922991,
+        44333856,
+        47280194,
+        49998090,
+        52766834,
+        56257858,
+        58853634,
+        61316130,
+        64498163,
+        67980579,
+        72005883,
+        74758458,
+        77170648,
+        79677297,
+        82860028,
+        85498964
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 2_Orleans 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 1_Pau,0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 6_Toulouse,0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0.6071428571428571,
+            "cycle": "0_Bordeaux,1_Pau 5_Dijon 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 2_Orleans 5_Dijon 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 3_Limoges 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 4_Clermont-Ferrand 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 3_Limoges 5_Dijon 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux,1_Pau 5_Dijon 26_Nancy 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 15_Cadarache 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 26_Nancy 5_Dijon 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux,1_Pau 8_Besancon 1_Pau,0_Bordeaux"
+        },
+        {
+            "x": 0.24999999999999994,
+            "cycle": "0_Bordeaux,1_Pau 9_CERN 1_Pau,0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux,1_Pau 10_Martinique,_Guadeloupe,_Cayenne 1_Pau,0_Bordeaux"
+        },
+        {
+            "x": 0.09523809523809534,
+            "cycle": "0_Bordeaux,1_Pau 10_Martinique,_Guadeloupe,_Cayenne 13_None 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 11_SFINX 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 12_Geant2 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0.09523809523809534,
+            "cycle": "0_Bordeaux 13_None 10_Martinique,_Guadeloupe,_Cayenne 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 14_La_Reunion,_Nouvelle_Caledonie,_Mayotte,_Tahiti 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 17_Nice 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 22_Corte 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 15_Cadarache 18_Grenoble 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 2_Orleans 17_Nice 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 19_Internet_mondial 4_Clermont-Ferrand 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 19_Internet_mondial 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 4_Clermont-Ferrand 19_Internet_mondial 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 4_Clermont-Ferrand 11_SFINX 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 7_Montpellier 2_Orleans 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 28_Compiegne 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 29_Lille 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 30_Rouen 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 23_Nantes 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 32_Rennes 0_Bordeaux 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 28_Compiegne 29_Lille 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 29_Lille 28_Compiegne 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bordeaux 2_Orleans 31_Caen 2_Orleans 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 30_Rouen 32_Rennes 0_Bordeaux 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 23_Nantes 31_Caen 2_Orleans 0_Bordeaux"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bordeaux 12_Geant2 17_Nice 12_Geant2 0_Bordeaux"
+        },
+        {
+            "x": 0.9047619047619047,
+            "cycle": "0_Bordeaux 14_La_Reunion,_Nouvelle_Caledonie,_Mayotte,_Tahiti 10_Martinique,_Guadeloupe,_Cayenne 14_La_Reunion,_Nouvelle_Caledonie,_Mayotte,_Tahiti 0_Bordeaux"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bordeaux 15_Cadarache 19_Internet_mondial 15_Cadarache 0_Bordeaux"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bordeaux 2_Orleans 8_Besancon 3_Limoges 0_Bordeaux"
+        },
+        {
+            "x": 0.15476190476190466,
+            "cycle": "0_Bordeaux 22_Corte 18_Grenoble 22_Corte 0_Bordeaux"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bordeaux 11_SFINX 8_Besancon 11_SFINX 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 4_Clermont-Ferrand 3_Limoges 17_Nice 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 19_Internet_mondial 2_Orleans 19_Internet_mondial 0_Bordeaux"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bordeaux 19_Internet_mondial 9_CERN 11_SFINX 0_Bordeaux"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bordeaux 17_Nice 8_Besancon 17_Nice 0_Bordeaux"
+        },
+        {
+            "x": 0.40476190476190466,
+            "cycle": "0_Bordeaux 3_Limoges 10_Martinique,_Guadeloupe,_Cayenne 3_Limoges 0_Bordeaux"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bordeaux 17_Nice 10_Martinique,_Guadeloupe,_Cayenne 19_Internet_mondial 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 23_Nantes 31_Caen 23_Nantes 0_Bordeaux"
+        },
+        {
+            "x": 0.25000000000000006,
+            "cycle": "0_Bordeaux 2_Orleans 9_CERN 2_Orleans 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 30_Rouen 8_Besancon 30_Rouen 0_Bordeaux"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Bordeaux 3_Limoges 8_Besancon 12_Geant2 0_Bordeaux"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Bordeaux 19_Internet_mondial 31_Caen 17_Nice 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 28_Compiegne 29_Lille 28_Compiegne 0_Bordeaux"
+        },
+        {
+            "x": 0.34523809523809523,
+            "cycle": "0_Bordeaux 29_Lille 3_Limoges 29_Lille 0_Bordeaux"
+        },
+        {
+            "x": 0.34523809523809534,
+            "cycle": "0_Bordeaux 22_Corte 3_Limoges 22_Corte 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 12_Geant2 2_Orleans 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 26_Nancy 5_Dijon 26_Nancy 0_Bordeaux"
+        },
+        {
+            "x": 0.24999999999999994,
+            "cycle": "0_Bordeaux 12_Geant2 5_Dijon 2_Orleans 0_Bordeaux"
+        },
+        {
+            "x": 0.04761904761904767,
+            "cycle": "0_Bordeaux 17_Nice 1_Pau 17_Nice 0_Bordeaux"
+        },
+        {
+            "x": 0.02380952380952378,
+            "cycle": "0_Bordeaux 1_Pau 29_Lille 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0.1428571428571429,
+            "cycle": "0_Bordeaux 29_Lille 5_Dijon 29_Lille 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 28_Compiegne 29_Lille 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 30_Rouen 32_Rennes 1_Pau 0_Bordeaux"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Bordeaux 32_Rennes 30_Rouen 32_Rennes 0_Bordeaux"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Bordeaux 32_Rennes 1_Pau 32_Rennes 0_Bordeaux"
+        }
+    ],
+    "values": [
+        18,
+        17.5,
+        16.5,
+        16.5,
+        16,
+        15,
+        14.25,
+        14.166666666666668,
+        14.041666666666668,
+        13.125,
+        13,
+        12.6875,
+        12.25,
+        12,
+        12,
+        12,
+        11.916666666666668,
+        11.549999999999999,
+        11.549999999999999,
+        11.05,
+        10.875,
+        10.875,
+        10.875,
+        10.75,
+        10.75,
+        10.75,
+        10.666666666666668,
+        10.666666666666668,
+        10.666666666666666,
+        10.666666666666666,
+        10.666666666666666
+    ],
+    "initialCoverSeg": 5,
+    "runtime": 549981,
+    "lpBound": 10.666666666666666
+}

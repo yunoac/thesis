@@ -1,0 +1,27 @@
+{
+    "nbCycles": 19,
+    "runtime": 5943432,
+    "cycles": [
+        "0_Paris 2_Brussels 0_Paris 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 0_Paris 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 6_Miami,1_Atlanta 0_Paris",
+        "0_Paris 2_Brussels 1_Atlanta 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 2_Brussels 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 5_Las_vegas 0_Paris 0_Paris",
+        "0_Paris 5_Las_vegas 4_Phoenix 0_Paris 0_Paris",
+        "0_Paris 1_Atlanta 6_Miami 4_Phoenix 0_Paris",
+        "0_Paris 4_Phoenix 6_Miami,1_Atlanta 0_Paris",
+        "0_Paris 9_Houston 0_Paris 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 11_Boston 0_Paris 0_Paris",
+        "0_Paris 11_Boston 4_Phoenix 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 14_San_Jose 0_Paris 0_Paris",
+        "0_Paris 11_Boston 8_Los_Angeles,4_Phoenix 0_Paris",
+        "0_Paris 10_Philadelphia 11_Boston 0_Paris 0_Paris",
+        "0_Paris 11_Boston 10_Philadelphia 0_Paris 0_Paris",
+        "0_Paris 4_Phoenix 15_San_Francisco 4_Phoenix 0_Paris",
+        "0_Paris 4_Phoenix 15_San_Francisco 16_Seattle 0_Paris",
+        "0_Paris 16_Seattle 15_San_Francisco 4_Phoenix 0_Paris"
+    ],
+    "segmentCost": 5,
+    "source": "0_Paris"
+}

@@ -1,0 +1,764 @@
+{
+    "initialCoverSize": 151,
+    "times": [
+        3298515,
+        19310171,
+        36523173,
+        52412866,
+        69146294,
+        86107505,
+        104626900,
+        123921985,
+        140109354,
+        156005650,
+        173194008,
+        189018238,
+        205281284,
+        222433385,
+        238686141,
+        254414413,
+        271381476,
+        286838266,
+        303690477,
+        319781487,
+        336355312,
+        352067456,
+        368640673,
+        385786538,
+        402576536,
+        418476471,
+        434756970,
+        451915099,
+        468308115,
+        484472277,
+        503444933,
+        519446390,
+        535206543,
+        552833929,
+        569648313,
+        585828385,
+        601723842,
+        617394470,
+        633247180,
+        650371436,
+        667403011,
+        683120776,
+        699114679,
+        715262590,
+        731727221,
+        747395031,
+        763172899,
+        780138847,
+        796788697,
+        814900691,
+        830991020,
+        846819960,
+        862885540,
+        878844732,
+        894500896,
+        910826685,
+        930872451,
+        948332246,
+        964412621,
+        980281031,
+        996184229,
+        1012154876,
+        1035053016,
+        1053073729,
+        1069781492,
+        1089941177,
+        1106353976,
+        1125303618,
+        1144102419,
+        1160450247,
+        1178991019,
+        1198159068,
+        1214589283,
+        1231471334
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_mel4 1_syd6 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 50_AARNet,0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 11_Optus,0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 4_bne1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 1_syd6 4_bne1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 7_bne4 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 8_Sprint 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 16_sin1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 12_Astraweb 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 20_nrt1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 21_akl1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 1_syd6 2_University_of_Adelaide 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 5_hba1 0_mel4 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 3_mel6,5_hba1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 10_cbr1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 48_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 2_University_of_Adelaide 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 23_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 22_Optus 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 4_bne1 7_bne4 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 5_hba1,3_mel6 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 49_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 4_bne1 1_syd6 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 4_bne1 10_cbr1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 46_Google 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 51_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 52_PacNet 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 55_AARNet 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 7_bne4 4_bne1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 9_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 10_cbr1 4_bne1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 47_TransIX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 54_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 53_AARNet 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 13_Google 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 14_Sprint 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 15_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 17_Starhub 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 1_syd6 56_AARNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 38_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 16_sin1 8_Sprint 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 39_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 37_NTT 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 40_HKIX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 12_Astraweb 8_Sprint 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 43_NTT 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 12_Astraweb 20_nrt1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 25_lon1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 28_PAIX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 29_Global_Crossing 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 30_Level_3 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 20_nrt1 12_Astraweb 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 42_NTT 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 44_JPIX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 41_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 24_iad1 12_Astraweb 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 34_Equinix 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 8_Sprint 16_sin1 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 12_Astraweb 24_iad1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 32_LINX_1 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 33_AMS_IX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 31_LINX_2 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 26_NTT 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 27_Level_3 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 35_Any2 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 36_Google 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 8_Sprint 12_Astraweb 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 62_Global_Crossing 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 57_Optus 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 2_University_of_Adelaide 56_AARNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 56_AARNet 2_University_of_Adelaide 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 55_AARNet 16_sin1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 64_Optus 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 65_WAIX 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 63_PIPE_Networks 0_mel4 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 55_AARNet 2_University_of_Adelaide 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 2_University_of_Adelaide 1_syd6 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 2_University_of_Adelaide 55_AARNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 64_Optus 34_Equinix 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 57_Optus 22_Optus 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 23_PIPE_Networks 58_per2 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 31_LINX_2 58_per2 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 13_Google 9_Equinix 0_mel4"
+        },
+        {
+            "x": 0.33333333333333326,
+            "cycle": "0_mel4 26_NTT 14_Sprint 0_mel4"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_mel4 41_Equinix 14_Sprint 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 26_NTT 17_Starhub 0_mel4"
+        },
+        {
+            "x": 0.6666666666666665,
+            "cycle": "0_mel4 27_Level_3 15_Equinix 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 35_Any2 31_LINX_2 0_mel4"
+        },
+        {
+            "x": 0.3333333333333335,
+            "cycle": "0_mel4 15_Equinix 35_Any2 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 17_Starhub 9_Equinix 0_mel4"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "0_mel4 28_PAIX 41_Equinix 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 42_NTT 29_Global_Crossing 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 13_Google 42_NTT 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 8_Sprint 46_Google 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 47_TransIX 22_Optus 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 63_PIPE_Networks 48_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 53_AARNet 51_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 51_PIPE_Networks 47_TransIX 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 52_PacNet 53_AARNet 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 8_Sprint 57_Optus 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 34_Equinix 65_WAIX 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 46_Google 12_Astraweb 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 64_Optus 48_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 65_WAIX 27_Level_3 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 49_PIPE_Networks 63_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 54_PIPE_Networks 52_PacNet 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 58_per2 17_Starhub 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 32_LINX_1 36_Google 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 56_AARNet 13_Google 0_mel4"
+        },
+        {
+            "x": 0.3333333333333335,
+            "cycle": "0_mel4 14_Sprint 27_Level_3 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 28_PAIX 36_Google 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 29_Global_Crossing 44_JPIX 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 38_Equinix 30_Level_3 0_mel4"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_mel4 32_LINX_1 37_NTT 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 23_PIPE_Networks 7_bne4 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 2_University_of_Adelaide 9_Equinix 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 44_JPIX 13_Google 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 30_Level_3 26_NTT 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 9_Equinix 55_AARNet 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 31_LINX_2 62_Global_Crossing 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 22_Optus 54_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 21_akl1 11_Optus 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 24_iad1 11_Optus 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 24_iad1 21_akl1 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 33_AMS_IX 24_iad1 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 35_Any2 43_NTT 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 26_NTT 2_University_of_Adelaide 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 36_Google 33_AMS_IX 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 62_Global_Crossing 38_Equinix 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 55_AARNet 37_NTT 0_mel4"
+        },
+        {
+            "x": 0.3333333333333333,
+            "cycle": "0_mel4 39_Equinix 32_LINX_1 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 65_WAIX 49_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0.6666666666666667,
+            "cycle": "0_mel4 39_Equinix 37_NTT 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 42_NTT 40_HKIX 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 40_HKIX 28_PAIX 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 47_TransIX 43_NTT 0_mel4"
+        },
+        {
+            "x": 0.6666666666666669,
+            "cycle": "0_mel4 54_PIPE_Networks 50_AARNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 52_PacNet 50_AARNet 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 47_TransIX 56_AARNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 22_Optus 7_bne4 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 51_PIPE_Networks 2_University_of_Adelaide 0_mel4"
+        },
+        {
+            "x": 1,
+            "cycle": "0_mel4 7_bne4 22_Optus 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 57_Optus 43_NTT 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 34_Equinix 52_PacNet 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 21_akl1 64_Optus 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 38_Equinix 11_Optus 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 26_NTT 52_PacNet 0_mel4"
+        },
+        {
+            "x": 0.33333333333333315,
+            "cycle": "0_mel4 50_AARNet 35_Any2 0_mel4"
+        },
+        {
+            "x": 0.33333333333333337,
+            "cycle": "0_mel4 64_Optus 54_PIPE_Networks 0_mel4"
+        },
+        {
+            "x": 0,
+            "cycle": "0_mel4 56_AARNet 53_AARNet 0_mel4"
+        },
+        {
+            "x": 0.6666666666666666,
+            "cycle": "0_mel4 55_AARNet 49_PIPE_Networks 0_mel4"
+        }
+    ],
+    "values": [
+        66,
+        63,
+        60,
+        58,
+        56,
+        54,
+        52,
+        51,
+        50,
+        48,
+        48,
+        48,
+        48,
+        47,
+        46,
+        46,
+        45,
+        44,
+        42,
+        41,
+        40,
+        39.5,
+        39.5,
+        39.5,
+        39,
+        39,
+        38.5,
+        37.833333333333336,
+        37.333333333333336,
+        37.33333333333334,
+        36.166666666666664,
+        36,
+        35.66666666666666,
+        35.66666666666666,
+        35.66666666666666,
+        34.800000000000004,
+        34.333333333333336,
+        34,
+        34,
+        33.75,
+        33.66666666666666,
+        33.666666666666664,
+        33.5,
+        33.333333333333336,
+        32.33333333333333,
+        32.333333333333336,
+        32.333333333333336,
+        31.799999999999997,
+        31,
+        31,
+        30.63157894736842,
+        30.62962962962963,
+        30.611111111111114,
+        30.5,
+        30.5,
+        30.09375,
+        29.599999999999994,
+        29.499999999999996,
+        29.166666666666668,
+        28.769230769230766,
+        28.62500000000001,
+        28.547169811320753,
+        28.5,
+        28.500000000000004,
+        28.28282828282828,
+        28.105263157894736,
+        28.105263157894736,
+        28.105263157894736,
+        28.0952380952381,
+        28.05582922824302,
+        28.05582922824302,
+        28.04651162790698,
+        28,
+        27.999999999999996
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 1654369,
+    "lpBound": 27.999999999999996
+}

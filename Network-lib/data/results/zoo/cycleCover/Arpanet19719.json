@@ -1,0 +1,102 @@
+{
+    "initialCoverSize": 14,
+    "times": [
+        1166365,
+        1786944
+    ],
+    "finalCoverSize": 10,
+    "minSegCycles": [
+        "11_UCSB 0_CASE 1_ILLINOIS 11_UCSB",
+        "11_UCSB 0_CASE 2_HARVARD 11_UCSB",
+        "11_UCSB 4_MITRE 0_CASE 11_UCSB",
+        "11_UCSB 5_AMES 0_CASE 11_UCSB",
+        "11_UCSB 5_AMES 13_Stanford 11_UCSB",
+        "11_UCSB 2_HARVARD 1_ILLINOIS 11_UCSB",
+        "11_UCSB 0_CASE 9_BBN 11_UCSB",
+        "11_UCSB 1_ILLINOIS 12_UCLA@11_UCSB",
+        "11_UCSB 2_HARVARD 10_SRI@11_UCSB",
+        "11_UCSB 13_Stanford 2_HARVARD 11_UCSB",
+        "11_UCSB 13_Stanford 5_AMES 11_UCSB",
+        "11_UCSB 2_HARVARD 16_UTAH 11_UCSB",
+        "11_UCSB 1_ILLINOIS 14_RAND 11_UCSB",
+        "11_UCSB 6_BURROUGHS 1_ILLINOIS 11_UCSB"
+    ],
+    "values": [
+        10,
+        10
+    ],
+    "initialCoverSeg": 4,
+    "greedyCoverSize": 10,
+    "runtime": 5170568,
+    "lpBound": 10,
+    "lpSolution": [
+        {
+            "x": 0,
+            "cycle": "11_UCSB 0_CASE 1_ILLINOIS 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 0_CASE 2_HARVARD 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 4_MITRE 0_CASE 11_UCSB"
+        },
+        {
+            "x": 0,
+            "cycle": "11_UCSB 5_AMES 0_CASE 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 5_AMES 13_Stanford 11_UCSB"
+        },
+        {
+            "x": 0,
+            "cycle": "11_UCSB 2_HARVARD 1_ILLINOIS 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 0_CASE 9_BBN 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 1_ILLINOIS 12_UCLA@11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 2_HARVARD 10_SRI@11_UCSB"
+        },
+        {
+            "x": 0,
+            "cycle": "11_UCSB 13_Stanford 2_HARVARD 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 13_Stanford 5_AMES 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 2_HARVARD 16_UTAH 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 1_ILLINOIS 14_RAND 11_UCSB"
+        },
+        {
+            "x": 1,
+            "cycle": "11_UCSB 6_BURROUGHS 1_ILLINOIS 11_UCSB"
+        }
+    ],
+    "greedySolution": [
+        "11_UCSB 0_CASE 2_HARVARD 11_UCSB",
+        "11_UCSB 4_MITRE 0_CASE 11_UCSB",
+        "11_UCSB 5_AMES 13_Stanford 11_UCSB",
+        "11_UCSB 0_CASE 9_BBN 11_UCSB",
+        "11_UCSB 1_ILLINOIS 12_UCLA@11_UCSB",
+        "11_UCSB 2_HARVARD 10_SRI@11_UCSB",
+        "11_UCSB 13_Stanford 5_AMES 11_UCSB",
+        "11_UCSB 2_HARVARD 16_UTAH 11_UCSB",
+        "11_UCSB 1_ILLINOIS 14_RAND 11_UCSB",
+        "11_UCSB 6_BURROUGHS 1_ILLINOIS 11_UCSB"
+    ]
+}

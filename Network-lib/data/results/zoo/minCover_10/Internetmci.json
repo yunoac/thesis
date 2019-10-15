@@ -1,0 +1,994 @@
+{
+    "initialCoverSize": 184,
+    "times": [
+        2263444,
+        3496777,
+        4698321,
+        5862607,
+        7025702,
+        8297795,
+        9524353,
+        10696545,
+        11949050,
+        13320044,
+        14618044,
+        15887148,
+        17148985,
+        18375106,
+        19630352,
+        20921575,
+        22278329,
+        23516453,
+        24834910,
+        26038235,
+        27339313,
+        28863789,
+        30234502,
+        31508348,
+        32822019,
+        34192523,
+        35624544,
+        37015562,
+        38603696,
+        40171515,
+        42880279,
+        45560384,
+        47979048,
+        50481452,
+        53203360,
+        55316262,
+        57434527,
+        60214133,
+        61819482,
+        63466678,
+        65346321,
+        66987327,
+        68937063,
+        70678603,
+        72330411,
+        74294048,
+        76171448,
+        77970213,
+        79658157,
+        81449269,
+        83089444,
+        84845237,
+        86525717,
+        88356793,
+        89922081,
+        91807230,
+        93698667,
+        95564619,
+        97206884,
+        98911497,
+        100784335,
+        102580773,
+        104271452,
+        106151315,
+        107942137,
+        109914554,
+        111959762,
+        114067302,
+        115919626,
+        117708086,
+        119800945,
+        121904493,
+        123773021,
+        125580284,
+        127924142,
+        129971067,
+        132127111,
+        134086289,
+        136091709,
+        138127158,
+        140000990,
+        143059473,
+        145938690,
+        148552775,
+        150770388,
+        154021720,
+        157436770,
+        160759545,
+        163905578,
+        167347326,
+        169531015,
+        172149625,
+        175057305,
+        177359307,
+        179345556,
+        182109531,
+        184563725,
+        186915243,
+        189602801,
+        192510695,
+        194530265,
+        196733311,
+        199737278,
+        201659690,
+        203632587,
+        206388358,
+        209384662,
+        211293733,
+        213375438,
+        215644324,
+        218041846,
+        220089464,
+        222518956,
+        225881471,
+        227969175,
+        230121310,
+        232541710,
+        234863336,
+        236755891,
+        238842155,
+        241811654,
+        244532431,
+        247093169
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 0_Houston,3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 0_Houston,3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro,2_Austell 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,2_Austell 3_Dallas,2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 2_Austell 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 0_Houston,3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs 2_Austell 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 2_Austell 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 7_Rialto,2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 3_Dallas,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 3_Dallas,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,4_Charlton 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 3_Dallas,2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 3_Dallas,2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 3_Dallas,2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,7_Rialto 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 6_Los_Angeles,7_Rialto 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 6_Los_Angeles,7_Rialto 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 7_Rialto,6_Los_Angeles 6_Los_Angeles,7_Rialto 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 7_Rialto,12_San_Francisco 6_Los_Angeles,7_Rialto 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 7_Rialto,12_San_Francisco 6_Los_Angeles,7_Rialto 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,4_Charlton 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,4_Charlton 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,5_New_York 4_Charlton 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,5_New_York 4_Charlton 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,9_Washington,_DC 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,9_Washington,_DC 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange 14_Denver 3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 3_Dallas,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 3_Dallas,2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,2_Austell 16_Willow_Springs 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 10_Greensboro,2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 4_Charlton 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver,11_Seattle 11_Seattle,14_Denver 3_Dallas,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,7_Rialto 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 3_Dallas,2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 3_Dallas,2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.23044639885101764,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver 8_West_Orange 3_Dallas 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver,12_San_Francisco 6_Los_Angeles,7_Rialto 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver,12_San_Francisco 6_Los_Angeles,7_Rialto 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,3_Dallas 14_Denver 15_Independence 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 14_Denver 3_Dallas 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 4_Charlton 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 15_Independence 2_Austell 2_Austell 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 2_Austell 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 3_Dallas 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 3_Dallas,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC 15_Independence 9_Washington,_DC 15_Independence 9_Washington,_DC 15_Independence 9_Washington,_DC 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.0034555620414010585,
+            "cycle": "7_Rialto 10_Greensboro 16_Willow_Springs 10_Greensboro 16_Willow_Springs 10_Greensboro 16_Willow_Springs 10_Greensboro 16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas 4_Charlton 3_Dallas 4_Charlton 3_Dallas 4_Charlton 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 14_Denver 8_West_Orange 14_Denver 8_West_Orange,9_Washington,_DC 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 14_Denver 15_Independence 14_Denver 15_Independence 14_Denver,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 10_Greensboro 2_Austell 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 2_Austell,1_Pompano_Beach 1_Pompano_Beach,2_Austell 15_Independence 2_Austell 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,4_Charlton 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,4_Charlton 10_Greensboro 7_Rialto,6_Los_Angeles 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 9_Washington,_DC,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 4_Charlton,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto,6_Los_Angeles 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 14_Denver,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 1_Pompano_Beach,2_Austell 2_Austell,1_Pompano_Beach 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 3_Dallas 4_Charlton,8_West_Orange 14_Denver,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.20947913127496953,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0.13249879567725653,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,4_Charlton 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 8_West_Orange,5_New_York 5_New_York,8_West_Orange 8_West_Orange,9_Washington,_DC 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.37205598222771097,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,5_New_York 5_New_York,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 7_Rialto,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 14_Denver,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.5,
+            "cycle": "7_Rialto 3_Dallas 14_Denver,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,5_New_York 5_New_York,8_West_Orange 14_Denver 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York 4_Charlton 5_New_York 4_Charlton 5_New_York 4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.34176729969132147,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0.21212375682535692,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,18_North_Royalton 18_North_Royalton,8_West_Orange 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 7_Rialto,12_San_Francisco 12_San_Francisco,7_Rialto 7_Rialto,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,5_New_York 4_Charlton 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,4_Charlton 15_Independence 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 4_Charlton 5_New_York,8_West_Orange 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas 10_Greensboro 7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.44412566168833967,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 9_Washington,_DC,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.10380536697212933,
+            "cycle": "7_Rialto 3_Dallas 14_Denver,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,9_Washington,_DC 15_Independence 14_Denver 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 4_Charlton,8_West_Orange 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,9_Washington,_DC 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0.5354098970174835,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,18_North_Royalton 18_North_Royalton,8_West_Orange 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 9_Washington,_DC,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 2_Austell 3_Dallas 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 16_Willow_Springs 8_West_Orange,5_New_York 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.299651375271102,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 3_Dallas,0_Houston 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 0_Houston,3_Dallas 3_Dallas,0_Houston 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0.05544502051311376,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 3_Dallas,0_Houston 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 15_Independence 14_Denver,11_Seattle 11_Seattle,14_Denver 15_Independence 9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 16_Willow_Springs 2_Austell,1_Pompano_Beach 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.23019692830506444,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0.46459010298251646,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 9_Washington,_DC 15_Independence 2_Austell 16_Willow_Springs 8_West_Orange,9_Washington,_DC 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 3_Dallas 8_West_Orange,9_Washington,_DC 3_Dallas 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 2_Austell 3_Dallas 8_West_Orange,4_Charlton 5_New_York,8_West_Orange 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.27178940306252897,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 7_Rialto"
+        },
+        {
+            "x": 0.29052086872503047,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 3_Dallas 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 3_Dallas 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 3_Dallas 8_West_Orange,9_Washington,_DC 16_Willow_Springs 8_West_Orange,9_Washington,_DC 15_Independence 7_Rialto"
+        },
+        {
+            "x": 9.522075115279693E-4,
+            "cycle": "7_Rialto 15_Independence 4_Charlton 15_Independence 4_Charlton 15_Independence 4_Charlton 15_Independence 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.29052086872503047,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 2_Austell,1_Pompano_Beach 0_Houston,3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0.03611323700589186,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.442698599539773,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,5_New_York 5_New_York,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0.10380536697212933,
+            "cycle": "7_Rialto 15_Independence 7_Rialto,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.39619463302787067,
+            "cycle": "7_Rialto 3_Dallas 14_Denver,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.12965370810800347,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 16_Willow_Springs 10_Greensboro 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0.46388676299410814,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.418958262549939,
+            "cycle": "7_Rialto 2_Austell,1_Pompano_Beach 1_Pompano_Beach,2_Austell 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 3_Dallas 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 14_Denver,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 9_Washington,_DC,8_West_Orange 14_Denver,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 15_Independence 7_Rialto,6_Los_Angeles 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.2695536011489823,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 15_Independence 9_Washington,_DC,8_West_Orange 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas 14_Denver,11_Seattle 11_Seattle,14_Denver 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.2582596037416361,
+            "cycle": "7_Rialto 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 10_Greensboro 16_Willow_Springs 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.061143801648905705,
+            "cycle": "7_Rialto 10_Greensboro 16_Willow_Springs 8_West_Orange,18_North_Royalton 17_Downers_Grove,16_Willow_Springs 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 14_Denver,11_Seattle 11_Seattle,14_Denver 16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.052308578154860216,
+            "cycle": "7_Rialto 3_Dallas 8_West_Orange,4_Charlton 5_New_York,8_West_Orange 8_West_Orange,4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 14_Denver,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 14_Denver,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.07349674160919553,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas 8_West_Orange,5_New_York 5_New_York,8_West_Orange 16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 8_West_Orange,9_Washington,_DC 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.45512482400347914,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 15_Independence 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 9_Washington,_DC,8_West_Orange 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.334251765823147,
+            "cycle": "7_Rialto 4_Charlton 5_New_York,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.665748234176853,
+            "cycle": "7_Rialto 15_Independence 14_Denver,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 3_Dallas 8_West_Orange,5_New_York 4_Charlton 15_Independence 4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 8_West_Orange,9_Washington,_DC 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.49801366863240665,
+            "cycle": "7_Rialto 10_Greensboro 16_Willow_Springs,17_Downers_Grove 17_Downers_Grove,16_Willow_Springs 8_West_Orange,4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.11317573877188734,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,18_North_Royalton 18_North_Royalton,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 8_West_Orange,5_New_York 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,4_Charlton 15_Independence 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.4280357720036141,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.0638618667657231,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 3_Dallas,0_Houston 0_Houston,3_Dallas 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,4_Charlton 16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.29908474917351413,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,5_New_York 4_Charlton,8_West_Orange 16_Willow_Springs 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 9_Washington,_DC,8_West_Orange 8_West_Orange,5_New_York 4_Charlton 15_Independence 2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.04211592442021934,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.10380536697212933,
+            "cycle": "7_Rialto 15_Independence 14_Denver,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.003808830046112315,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 15_Independence 2_Austell 3_Dallas 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.18524541823251603,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.2018614711827449,
+            "cycle": "7_Rialto 3_Dallas 9_Washington,_DC,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.1117486766233207,
+            "cycle": "7_Rialto 4_Charlton,8_West_Orange 8_West_Orange,5_New_York 5_New_York,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 10_Greensboro 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,9_Washington,_DC 10_Greensboro 7_Rialto"
+        },
+        {
+            "x": 0.14955289302788455,
+            "cycle": "7_Rialto 9_Washington,_DC,8_West_Orange 8_West_Orange,4_Charlton 5_New_York,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0.17149749693836683,
+            "cycle": "7_Rialto 10_Greensboro 7_Rialto,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.11996755047990304,
+            "cycle": "7_Rialto 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 3_Dallas,0_Houston 1_Pompano_Beach,2_Austell 7_Rialto"
+        },
+        {
+            "x": 0.19003154154000335,
+            "cycle": "7_Rialto 16_Willow_Springs 10_Greensboro 16_Willow_Springs 10_Greensboro 3_Dallas 8_West_Orange,4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0.18858389908361203,
+            "cycle": "7_Rialto 10_Greensboro 7_Rialto,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.23698874001308012,
+            "cycle": "7_Rialto 16_Willow_Springs 10_Greensboro 16_Willow_Springs,17_Downers_Grove 18_North_Royalton,8_West_Orange 8_West_Orange,9_Washington,_DC 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 4_Charlton,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 15_Independence 4_Charlton,8_West_Orange 14_Denver,11_Seattle 11_Seattle,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.11032161447475386,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,14_Denver 8_West_Orange,5_New_York 4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 15_Independence 9_Washington,_DC,8_West_Orange 3_Dallas 7_Rialto"
+        },
+        {
+            "x": 0.14646797466339218,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 8_West_Orange,5_New_York 4_Charlton 15_Independence 7_Rialto"
+        },
+        {
+            "x": 0,
+            "cycle": "7_Rialto 3_Dallas 14_Denver,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 6_Los_Angeles,7_Rialto"
+        },
+        {
+            "x": 0.2304463988510177,
+            "cycle": "7_Rialto 15_Independence 14_Denver,12_San_Francisco 12_San_Francisco,13_Sacramento 13_Sacramento,12_San_Francisco 12_San_Francisco,7_Rialto"
+        },
+        {
+            "x": 0.41522146788851727,
+            "cycle": "7_Rialto,12_San_Francisco 12_San_Francisco,11_Seattle 11_Seattle,14_Denver 15_Independence 4_Charlton 7_Rialto"
+        },
+        {
+            "x": 0.12584487806189165,
+            "cycle": "7_Rialto,6_Los_Angeles 12_San_Francisco,14_Denver 15_Independence 4_Charlton,8_West_Orange 3_Dallas 7_Rialto"
+        }
+    ],
+    "values": [
+        50,
+        49.25,
+        48.25,
+        45.66666666666667,
+        42.583333333333336,
+        40.25,
+        38.66666666666667,
+        38.00000000000001,
+        35.22222222222222,
+        33.05555555555556,
+        31.666666666666664,
+        29.75,
+        27.583333333333332,
+        27.5,
+        27.25,
+        26.75,
+        24.75,
+        24.125,
+        23.125,
+        23.125,
+        21.625,
+        20.291666666666664,
+        19.625,
+        19.375,
+        18.999999999999996,
+        18.84722222222222,
+        18.347222222222225,
+        17.96428571428571,
+        17.416666666666664,
+        17.333333333333332,
+        16.77678571428571,
+        16.76497695852534,
+        16.752747252747252,
+        16.75,
+        16.6296992481203,
+        16.602678571428573,
+        16.49523809523809,
+        16.377243615618525,
+        16.112535612535613,
+        15.900462962962965,
+        15.734728506787333,
+        15.646994156107155,
+        15.422354333950999,
+        15.200361010830326,
+        15.12819406146345,
+        14.985520094562649,
+        14.858976026358,
+        14.663967403575754,
+        14.584476129126518,
+        14.372002202463499,
+        14.330562922054844,
+        14.305990962161328,
+        14.274461255338277,
+        14.120804563502409,
+        14.120804563502412,
+        14.075340638510088,
+        14.005263287015701,
+        13.949637141489971,
+        13.927297736320673,
+        13.927297736320673,
+        13.904205535773045,
+        13.869678095996052,
+        13.830505679834795,
+        13.815646181433989,
+        13.80203527591555,
+        13.767952448981726,
+        13.746239983268621,
+        13.71507232328696,
+        13.69253170673031,
+        13.669698862425424,
+        13.647599509642879,
+        13.619901867589912,
+        13.59301152190884,
+        13.591157016721606,
+        13.578138094749407,
+        13.570304752208177,
+        13.544482917632829,
+        13.542164736507884,
+        13.531161368713665,
+        13.509690065071016,
+        13.50297430064643,
+        13.4815136328736,
+        13.479838108528108,
+        13.47052360797099,
+        13.469031944717564,
+        13.46577004851183,
+        13.455495529187537,
+        13.447415546938569,
+        13.440199303993932,
+        13.431747159999345,
+        13.422205761279912,
+        13.41625906701271,
+        13.40716932384188,
+        13.403810462959413,
+        13.399083348132988,
+        13.391251796479297,
+        13.381774744969563,
+        13.373371453470385,
+        13.369106391825301,
+        13.36086258135047,
+        13.360279796042768,
+        13.355109460953946,
+        13.353202509701322,
+        13.352528418378947,
+        13.351917019491099,
+        13.34459784274254,
+        13.341900181977957,
+        13.341895139021059,
+        13.337373404929979,
+        13.334616414660035,
+        13.327384513962025,
+        13.323274687536188,
+        13.317204069747921,
+        13.314015309087258,
+        13.314015309087255,
+        13.310249572454017,
+        13.306144771908322,
+        13.30614477190832,
+        13.301192893112786,
+        13.300317614208177,
+        13.298788463846952,
+        13.289686617347636,
+        13.28571428571429
+    ],
+    "initialCoverSeg": 8,
+    "runtime": 179965,
+    "lpBound": 13.28571428571429
+}

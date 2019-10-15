@@ -1,0 +1,66 @@
+{
+    "initialCoverSize": 12,
+    "times": [
+        950709,
+        1173128,
+        1379030
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Seattle 1_Santa_Clara,0_Seattle 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 2_Phoenix 0_Seattle 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 4_Washington,_DC 0_Seattle 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 6_Pittsburgh 0_Seattle 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 3_Tucson 0_Seattle 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 2_Phoenix 4_Washington,_DC 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 4_Washington,_DC 2_Phoenix 0_Seattle"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Seattle 5_Baltimore 0_Seattle 0_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Seattle 5_Baltimore 6_Pittsburgh 0_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Seattle 6_Pittsburgh 5_Baltimore 0_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Seattle 4_Washington,_DC 3_Tucson 0_Seattle"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Seattle 3_Tucson 4_Washington,_DC 0_Seattle"
+        }
+    ],
+    "values": [
+        5,
+        4,
+        4
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 21226,
+    "lpBound": 4
+}

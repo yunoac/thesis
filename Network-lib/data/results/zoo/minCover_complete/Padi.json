@@ -1,0 +1,30 @@
+{
+    "initialCoverSize": 5,
+    "times": [958105],
+    "solution": [
+        {
+            "x": 1,
+            "cycle": "3_PPU 7_GEANT 3_PPU"
+        },
+        {
+            "x": 1,
+            "cycle": "3_PPU 10_BZU 3_PPU"
+        },
+        {
+            "x": 1,
+            "cycle": "3_PPU 12_QOU 3_PPU"
+        },
+        {
+            "x": 1,
+            "cycle": "3_PPU 13_AQU 3_PPU"
+        },
+        {
+            "x": 1,
+            "cycle": "3_PPU 14_BU 3_PPU"
+        }
+    ],
+    "values": [5],
+    "initialCoverSeg": 3,
+    "runtime": 19596,
+    "lpBound": 5
+}

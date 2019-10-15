@@ -1,0 +1,29 @@
+{
+    "nbCycles": 21,
+    "runtime": 4844049,
+    "cycles": [
+        "11_Stockholm 0_Prague 1_Frankfurt,0_Prague 11_Stockholm",
+        "11_Stockholm 6_Geneva 0_Prague 0_Prague 11_Stockholm",
+        "11_Stockholm 0_Prague 5_Madrid 0_Prague 11_Stockholm",
+        "11_Stockholm 0_Prague 2_Hamburg 0_Prague 11_Stockholm",
+        "11_Stockholm 0_Prague 2_Hamburg 3_Copenhagen,11_Stockholm",
+        "11_Stockholm,3_Copenhagen 2_Hamburg 0_Prague 11_Stockholm",
+        "11_Stockholm 6_Geneva 4_Dubai 6_Geneva 11_Stockholm",
+        "11_Stockholm 6_Geneva 7_Milan,6_Geneva 11_Stockholm",
+        "11_Stockholm 6_Geneva 7_Milan 8_Brussels 11_Stockholm",
+        "11_Stockholm 8_Brussels 7_Milan,6_Geneva 11_Stockholm",
+        "11_Stockholm,9_Amsterdam 4_Dubai 6_Geneva 11_Stockholm",
+        "11_Stockholm 6_Geneva 4_Dubai 9_Amsterdam,11_Stockholm",
+        "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm",
+        "11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm 11_Stockholm",
+        "11_Stockholm 11_Stockholm,10_Helsinki 10_Helsinki,11_Stockholm",
+        "11_Stockholm,10_Helsinki 12_Hong_Kong 10_Helsinki,11_Stockholm",
+        "11_Stockholm 13_Oslo 5_Madrid 0_Prague 11_Stockholm",
+        "11_Stockholm,13_Oslo 3_Copenhagen 3_Copenhagen 11_Stockholm",
+        "11_Stockholm 6_Geneva 13_Oslo 3_Copenhagen 11_Stockholm",
+        "11_Stockholm 6_Geneva 15_New_York 6_Geneva 11_Stockholm",
+        "11_Stockholm 0_Prague 16_New_York 0_Prague 11_Stockholm"
+    ],
+    "segmentCost": 5,
+    "source": "11_Stockholm"
+}

@@ -1,0 +1,476 @@
+{
+    "initialCoverSize": 95,
+    "times": [
+        3416628,
+        7823198,
+        12247689,
+        17808189,
+        24042923,
+        28441509,
+        32701418,
+        37130587,
+        41627021,
+        45833404,
+        50143173,
+        54473277,
+        58681208,
+        62920854,
+        67314384,
+        71854214,
+        76080698,
+        80306888,
+        84605235,
+        88858570,
+        93344295,
+        97717030,
+        102841672,
+        107592159,
+        111840795,
+        116071492,
+        120605442,
+        126341929,
+        130645836,
+        134935783,
+        139332082,
+        143614733,
+        147927093,
+        152096707,
+        156409344,
+        160694698,
+        165228765,
+        169576915,
+        173889407,
+        178358585,
+        182731051,
+        187160747
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Dolj 1_Olt,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 2_Gorj,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 3_Valcea,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 4_Bucaresti,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 0_Dolj,4_Bucaresti 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 33_Mehedinti,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 32_Caras-Severin 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 4_Bucaresti,0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 12_Alba 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 5_Ialomita 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 6_Teleorman 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 7_Giurgiu 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 8_Calarasi 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 9_Constanta 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 13_Arges 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 14_Dambovita 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 15_Prahova 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 16_Buzau 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj,4_Bucaresti 32_Caras-Severin 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 20_GEANT 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 4_Bucaresti,20_GEANT 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 10_Covasna 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 4_Bucaresti,22_Mures 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 17_Vrancea 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 18_Bacau 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 4_Bucaresti,31_Iasi 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 11_Sibiu 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 19_Harghita 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 20_GEANT,4_Bucaresti 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 21_Chisinau_RENAM 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 22_Mures,4_Bucaresti 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 10_Covasna 12_Alba 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 10_Covasna 18_Bacau 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 23_Bistrita-Nasaud 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 24_Vaslui 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 26_Tulcea 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 27_Braila 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 17_Vrancea 18_Bacau 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 28_Neamt 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 29_Suceava 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 30_Botosani 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 31_Iasi,4_Bucaresti 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 18_Bacau 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 18_Bacau 17_Vrancea 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 34_Satu_Mare 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 35_Maramures 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 12_Alba 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 37_Salaj 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 12_Alba 32_Caras-Severin 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 38_Bihor 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 39_Arad 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 32_Caras-Severin 4_Bucaresti,0_Dolj"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Dolj 32_Caras-Severin 12_Alba 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 41_Hunedora 0_Dolj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 38_Bihor 5_Ialomita 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 21_Chisinau_RENAM 11_Sibiu 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 23_Bistrita-Nasaud 19_Harghita 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 26_Tulcea 24_Vaslui 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 28_Neamt 27_Braila 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 39_Arad 34_Satu_Mare 0_Dolj"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Dolj 5_Ialomita 41_Hunedora 0_Dolj"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Dolj 6_Teleorman 38_Bihor 0_Dolj"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Dolj 41_Hunedora 6_Teleorman 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 34_Satu_Mare 38_Bihor 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 35_Maramures 39_Arad 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 2_Gorj 1_Olt 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 3_Valcea 1_Olt 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 3_Valcea 2_Gorj 0_Dolj"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Dolj 6_Teleorman 5_Ialomita 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 8_Calarasi 7_Giurgiu 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 9_Constanta 7_Giurgiu 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 9_Constanta 8_Calarasi 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 24_Vaslui 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 35_Maramures 11_Sibiu 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 19_Harghita 21_Chisinau_RENAM 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 28_Neamt 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 29_Suceava 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 11_Sibiu 23_Bistrita-Nasaud 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 30_Botosani 10_Covasna 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 14_Dambovita 13_Arges 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 15_Prahova 13_Arges 0_Dolj"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Dolj 15_Prahova 14_Dambovita 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 17_Vrancea 16_Buzau 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 19_Harghita 37_Salaj 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 18_Bacau 16_Buzau 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 23_Bistrita-Nasaud 21_Chisinau_RENAM 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 27_Braila 24_Vaslui 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 28_Neamt 24_Vaslui 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 30_Botosani 29_Suceava 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 37_Salaj 32_Caras-Severin 0_Dolj"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Dolj 34_Satu_Mare 33_Mehedinti 0_Dolj"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Dolj 37_Salaj 33_Mehedinti 0_Dolj"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Dolj 32_Caras-Severin 4_Bucaresti,0_Dolj"
+        },
+        {
+            "x": 0.75,
+            "cycle": "0_Dolj 38_Bihor 12_Alba 0_Dolj"
+        },
+        {
+            "x": 0.25,
+            "cycle": "0_Dolj 6_Teleorman 4_Bucaresti,0_Dolj"
+        }
+    ],
+    "values": [
+        47,
+        45,
+        43,
+        41,
+        39,
+        38,
+        36,
+        35,
+        35,
+        34,
+        34,
+        34,
+        33,
+        33,
+        32.5,
+        32.25,
+        31.25,
+        31.25,
+        30.75,
+        30.75,
+        30.75,
+        30.75,
+        30.75,
+        30,
+        29,
+        29,
+        28,
+        28,
+        27.5,
+        27.5,
+        27.5,
+        27,
+        26.5,
+        26.5,
+        26.5,
+        26,
+        26,
+        25.5,
+        25.5,
+        25.25,
+        25.166666666666668,
+        25
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 652562,
+    "lpBound": 25
+}

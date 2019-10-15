@@ -1,0 +1,56 @@
+{
+    "originalCover": {
+        "runtime": 924739,
+        "cycles": [
+            "2_None 9_Buffalo 0_New_York 2_None",
+            "2_None 1_None 0_New_York 2_None",
+            "2_None 3_Moncton 0_New_York 2_None",
+            "2_None 5_Edmundston 0_New_York 2_None",
+            "2_None 5_Edmundston 1_None 2_None",
+            "2_None 0_New_York 5_Edmundston 2_None",
+            "2_None 8_Toronto 2_None 2_None",
+            "2_None 8_Toronto 9_Buffalo 2_None",
+            "2_None 9_Buffalo 8_Toronto 2_None"
+        ],
+        "source": 2,
+        "maxSeg": 4
+    },
+    "originalIGP": [
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newIGP": [
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        5,
+        7,
+        7
+    ],
+    "newCover": {
+        "cycles": [
+            "0_New_York 5_Edmundston 0_New_York 0_New_York",
+            "0_New_York 1_None 0_New_York 0_New_York",
+            "0_New_York 2_None 0_New_York 0_New_York",
+            "0_New_York 3_Moncton 0_New_York 0_New_York",
+            "0_New_York 1_None 5_Edmundston 0_New_York",
+            "0_New_York 5_Edmundston 1_None 0_New_York",
+            "0_New_York 8_Toronto 0_New_York 0_New_York",
+            "0_New_York 3_Moncton 9_Buffalo 0_New_York",
+            "0_New_York 9_Buffalo 3_Moncton 0_New_York"
+        ],
+        "source": 0,
+        "runetime": 843139,
+        "maxSeg": 4
+    }
+}

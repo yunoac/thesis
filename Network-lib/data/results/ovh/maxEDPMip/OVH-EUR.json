@@ -1,0 +1,706 @@
+{
+    "pairResults": [
+        {
+            "orig": "gra-g2-a75",
+            "nbpSR": 2,
+            "runtime": 818043947,
+            "dest": "rbx-g1-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1dn-5-n7",
+            "nbpSR": 2,
+            "runtime": 632685296,
+            "dest": "nwk-1-n7",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "mar-5-6k",
+            "nbpSR": 2,
+            "runtime": 1370244953,
+            "dest": "ams-25-ast",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-10-n5",
+            "nbpSR": 3,
+            "runtime": 714093253,
+            "dest": "bar-3-n5",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "mil-1-6k",
+            "nbpSR": 2,
+            "runtime": 1034959094,
+            "dest": "ldn-20-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "p19-7-6k",
+            "nbpSR": 2,
+            "runtime": 534000564,
+            "dest": "zur-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-1-n7",
+            "nbpSR": 2,
+            "runtime": 632134793,
+            "dest": "mar-5-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mar-1-6k",
+            "nbpSR": 2,
+            "runtime": 598061501,
+            "dest": "th2-11-n5",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "bar-3-n5",
+            "nbpSR": 2,
+            "runtime": 713125536,
+            "dest": "1dn-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mad-5-a72",
+            "nbpSR": 2,
+            "runtime": 569429743,
+            "dest": "mar-4-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "ams-20-6k",
+            "nbpSR": 2,
+            "runtime": 1048642081,
+            "dest": "fra-20-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "p19-52-6k",
+            "nbpSR": 2,
+            "runtime": 511378109,
+            "dest": "rbx-g1-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "fra-infra1-2k",
+            "nbpSR": 1,
+            "runtime": 500720378,
+            "dest": "p19-7-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "fra-20-6k",
+            "nbpSR": 2,
+            "runtime": 704920902,
+            "dest": "lyo-3-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "vie-1-6k",
+            "nbpSR": 4,
+            "runtime": 1173067142,
+            "dest": "ams-20-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "gsw-10-n5",
+            "nbpSR": 2,
+            "runtime": 625877536,
+            "dest": "ldn-infa1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "bar-5-6k",
+            "nbpSR": 2,
+            "runtime": 494832636,
+            "dest": "bar-3-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "rbx-g1-a75",
+            "nbpSR": 2,
+            "runtime": 536849609,
+            "dest": "1dn-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "bar-1-6k",
+            "nbpSR": 3,
+            "runtime": 730990203,
+            "dest": "sbg-g2-a75",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "lyo-1-6k",
+            "nbpSR": 2,
+            "runtime": 629567033,
+            "dest": "zur-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "pra-1-6k",
+            "nbpSR": 2,
+            "runtime": 961710579,
+            "dest": "rf-3-a1",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "mil-1-6k",
+            "nbpSR": 5,
+            "runtime": 735711311,
+            "dest": "mar-4-n5",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "p19-52-6k",
+            "nbpSR": 2,
+            "runtime": 828668464,
+            "dest": "bar-5-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-10-n5",
+            "nbpSR": 2,
+            "runtime": 562008426,
+            "dest": "th2-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-1-6k",
+            "nbpSR": 2,
+            "runtime": 759517660,
+            "dest": "lyo-4-n5",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "fra-1-n7",
+            "nbpSR": 2,
+            "runtime": 926818491,
+            "dest": "ams-20-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "AMS-IX",
+            "nbpSR": 2,
+            "runtime": 544223477,
+            "dest": "p19-57-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "lyo-3-n5",
+            "nbpSR": 2,
+            "runtime": 559070655,
+            "dest": "bar-3-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gra-g2-a75",
+            "nbpSR": 2,
+            "runtime": 703735750,
+            "dest": "mar-1-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "nwk-1-n7",
+            "nbpSR": 2,
+            "runtime": 493656261,
+            "dest": "bar-1-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "mil-5-n7",
+            "nbpSR": 2,
+            "runtime": 613819699,
+            "dest": "bar-5-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "p19-2-6k",
+            "nbpSR": 2,
+            "runtime": 501967632,
+            "dest": "rbx-g1-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-12-n5",
+            "nbpSR": 1,
+            "runtime": 635082344,
+            "dest": "fra-infra1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "bru-1-a72",
+            "nbpSR": 2,
+            "runtime": 690011699,
+            "dest": "AMS-IX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-5-n7",
+            "nbpSR": 2,
+            "runtime": 508529552,
+            "dest": "p19-52-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "nwk-1-n7",
+            "nbpSR": 2,
+            "runtime": 755801231,
+            "dest": "ldn-infa1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-1-6k",
+            "nbpSR": 5,
+            "runtime": 616364024,
+            "dest": "mil-5-6k",
+            "nbpFlow": 12
+        },
+        {
+            "orig": "fra-infra1-2k",
+            "nbpSR": 1,
+            "runtime": 915460502,
+            "dest": "ams-20-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-1-n7",
+            "nbpSR": 2,
+            "runtime": 545005756,
+            "dest": "sbg-g2-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gra-g2-a75",
+            "nbpSR": 4,
+            "runtime": 577460180,
+            "dest": "gsw-10-n5",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "gsw-11-n5",
+            "nbpSR": 2,
+            "runtime": 946135347,
+            "dest": "ams-20-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "pra-1-6k",
+            "nbpSR": 2,
+            "runtime": 759302437,
+            "dest": "1dn-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-1-6k",
+            "nbpSR": 4,
+            "runtime": 743835777,
+            "dest": "gra-g2-a75",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "gsw-12-n5",
+            "nbpSR": 2,
+            "runtime": 564250495,
+            "dest": "mil-1-6k",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "ams-25-ast",
+            "nbpSR": 2,
+            "runtime": 953101063,
+            "dest": "pra-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "nwk-1-n7",
+            "nbpSR": 2,
+            "runtime": 639735993,
+            "dest": "mil-1-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "p19-57-6k",
+            "nbpSR": 2,
+            "runtime": 652786859,
+            "dest": "p19-52-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "lyo-3-n5",
+            "nbpSR": 2,
+            "runtime": 529728200,
+            "dest": "1dn-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "vie-1-6k",
+            "nbpSR": 4,
+            "runtime": 660036939,
+            "dest": "p19-57-6k",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "fra-5-n7",
+            "nbpSR": 2,
+            "runtime": 633974742,
+            "dest": "fra-20-6k",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "rbx-g2-a75",
+            "nbpSR": 2,
+            "runtime": 530002340,
+            "dest": "th2-11-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-11-n5",
+            "nbpSR": 2,
+            "runtime": 706706850,
+            "dest": "nwk-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "fra-1-n7",
+            "nbpSR": 2,
+            "runtime": 544200939,
+            "dest": "lyo-3-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gra-g2-a75",
+            "nbpSR": 2,
+            "runtime": 604765744,
+            "dest": "th2-10-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mad-5-a72",
+            "nbpSR": 2,
+            "runtime": 582432453,
+            "dest": "th2-12-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-10-n5",
+            "nbpSR": 2,
+            "runtime": 561729435,
+            "dest": "nwk-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "p19-57-6k",
+            "nbpSR": 2,
+            "runtime": 673213332,
+            "dest": "gsw-12-n5",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "bar-3-n5",
+            "nbpSR": 2,
+            "runtime": 1182033955,
+            "dest": "ams-25-ast",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-1-n7",
+            "nbpSR": 2,
+            "runtime": 603563116,
+            "dest": "mil-5-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "pra-1-6k",
+            "nbpSR": 4,
+            "runtime": 702312233,
+            "dest": "mar-4-n5",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "bar-3-n5",
+            "nbpSR": 1,
+            "runtime": 564310775,
+            "dest": "fra-infra1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mar-4-n5",
+            "nbpSR": 2,
+            "runtime": 674997361,
+            "dest": "nwk-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mar-5-6k",
+            "nbpSR": 2,
+            "runtime": 793666323,
+            "dest": "mad-5-a72",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mar-5-6k",
+            "nbpSR": 5,
+            "runtime": 643014297,
+            "dest": "lyo-5-6k",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "fra-20-6k",
+            "nbpSR": 2,
+            "runtime": 559058317,
+            "dest": "ldn-infa1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "nwk-5-n7",
+            "nbpSR": 2,
+            "runtime": 505959583,
+            "dest": "mil-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "lyo-1-6k",
+            "nbpSR": 7,
+            "runtime": 666568728,
+            "dest": "var-5-n7",
+            "nbpFlow": 15
+        },
+        {
+            "orig": "mar-4-n5",
+            "nbpSR": 2,
+            "runtime": 534349846,
+            "dest": "fra-1-n7",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "fra-infra1-2k",
+            "nbpSR": 1,
+            "runtime": 482893816,
+            "dest": "zur-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "pra-1-6k",
+            "nbpSR": 1,
+            "runtime": 590821912,
+            "dest": "fra-infra1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "var-5-n7",
+            "nbpSR": 2,
+            "runtime": 1211196342,
+            "dest": "ams-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-5-6k",
+            "nbpSR": 2,
+            "runtime": 614568313,
+            "dest": "fra-20-6k",
+            "nbpFlow": 6
+        },
+        {
+            "orig": "ldn-infa1-2k",
+            "nbpSR": 2,
+            "runtime": 501604152,
+            "dest": "gra-g1-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "p19-7-6k",
+            "nbpSR": 2,
+            "runtime": 573526768,
+            "dest": "mil-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mad-5-a72",
+            "nbpSR": 2,
+            "runtime": 1116298043,
+            "dest": "ams-20-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "p19-7-6k",
+            "nbpSR": 2,
+            "runtime": 758521045,
+            "dest": "bar-5-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-10-n5",
+            "nbpSR": 2,
+            "runtime": 503135738,
+            "dest": "lyo-3-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "ams-25-ast",
+            "nbpSR": 2,
+            "runtime": 1063293501,
+            "dest": "fra-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "zur-1-6k",
+            "nbpSR": 2,
+            "runtime": 812293391,
+            "dest": "mil-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "ldn-infa1-2k",
+            "nbpSR": 2,
+            "runtime": 471636514,
+            "dest": "p19-7-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "p19-52-6k",
+            "nbpSR": 2,
+            "runtime": 551883332,
+            "dest": "th2-11-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-5-n7",
+            "nbpSR": 2,
+            "runtime": 477893942,
+            "dest": "gsw-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-11-n5",
+            "nbpSR": 2,
+            "runtime": 546964763,
+            "dest": "zur-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "sbg-g1-a75",
+            "nbpSR": 2,
+            "runtime": 577274314,
+            "dest": "nwk-1-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "ams-1-n7",
+            "nbpSR": 2,
+            "runtime": 544055955,
+            "dest": "p19-57-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "ams-25-ast",
+            "nbpSR": 2,
+            "runtime": 1082432393,
+            "dest": "lyo-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "rbx-g2-a75",
+            "nbpSR": 2,
+            "runtime": 491280750,
+            "dest": "bar-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "1dn-1-n7",
+            "nbpSR": 2,
+            "runtime": 559235080,
+            "dest": "th2-12-n5",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-11-n5",
+            "nbpSR": 2,
+            "runtime": 718769640,
+            "dest": "zur-1-6k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-11-n5",
+            "nbpSR": 2,
+            "runtime": 1005154302,
+            "dest": "ams-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "var-5-n7",
+            "nbpSR": 2,
+            "runtime": 1249535336,
+            "dest": "ams-25-ast",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "gsw-12-n5",
+            "nbpSR": 2,
+            "runtime": 494933214,
+            "dest": "sbg-g1-a75",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "var-5-n7",
+            "nbpSR": 2,
+            "runtime": 634352970,
+            "dest": "AMS-IX",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "th2-10-n5",
+            "nbpSR": 2,
+            "runtime": 1155958955,
+            "dest": "ams-25-ast",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "mil-5-6k",
+            "nbpSR": 1,
+            "runtime": 620169924,
+            "dest": "fra-infra1-2k",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "vie-1-6k",
+            "nbpSR": 4,
+            "runtime": 554137696,
+            "dest": "mil-5-6k",
+            "nbpFlow": 8
+        },
+        {
+            "orig": "zur-1-6k",
+            "nbpSR": 2,
+            "runtime": 614650375,
+            "dest": "nwk-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "vie-1-6k",
+            "nbpSR": 2,
+            "runtime": 618112908,
+            "dest": "p19-2-6k",
+            "nbpFlow": 4
+        },
+        {
+            "orig": "bar-3-n5",
+            "nbpSR": 2,
+            "runtime": 1133984638,
+            "dest": "ams-5-n7",
+            "nbpFlow": 2
+        },
+        {
+            "orig": "lyo-3-n5",
+            "nbpSR": 2,
+            "runtime": 512966209,
+            "dest": "ams-1-n7",
+            "nbpFlow": 2
+        }
+    ],
+    "nbRuns": 100,
+    "maxSeg": 0
+}

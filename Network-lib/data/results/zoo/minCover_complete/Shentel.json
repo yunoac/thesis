@@ -1,0 +1,150 @@
+{
+    "initialCoverSize": 32,
+    "times": [
+        1516238,
+        3265338,
+        4959659,
+        6649444,
+        8347701
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 1_Shepherdstown,0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 2_Winchester 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 3_Berryville 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown,1_Shepherdstown 6_Martinsburg,0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 2_Winchester 1_Shepherdstown,0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 4_Petersburg 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 7_Edinburg 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown,1_Shepherdstown 2_Winchester 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 25_Leesburg 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 5_Franklin 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown,6_Martinsburg 1_Shepherdstown,0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 7_Edinburg 8_Harrisonburg 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 9_Covington_(Planned) 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 8_Harrisonburg 7_Edinburg 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 10_Glenville 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 17_Weston 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 18_Warrenton 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 7_Edinburg 4_Petersburg 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 7_Edinburg 22_None 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 4_Petersburg 27_Herndon 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 16_None 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 7_Edinburg 24_None 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 23_None 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 8_Harrisonburg 22_None 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 4_Petersburg 23_None 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 26_Ashburn 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 27_Herndon 0_Hagerstown 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 25_Leesburg 18_Warrenton 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 27_Herndon 5_Franklin 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 16_None 17_Weston 0_Hagerstown"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Hagerstown 17_Weston 1_Shepherdstown 0_Hagerstown"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Hagerstown 23_None 1_Shepherdstown 0_Hagerstown"
+        }
+    ],
+    "values": [
+        15,
+        13,
+        11,
+        11,
+        11
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 293466,
+    "lpBound": 11
+}

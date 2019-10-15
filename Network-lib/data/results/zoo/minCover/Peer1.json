@@ -1,0 +1,154 @@
+{
+    "initialCoverSize": 30,
+    "times": [
+        1282657,
+        1818912,
+        2250721,
+        2677046,
+        3069943,
+        3467707,
+        3921852,
+        4362825,
+        4818738,
+        5253414,
+        5697917
+    ],
+    "solution": [
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 2_Montreal 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 1_Miami 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Herndon/Ashburn 2_Montreal 7_Toronto 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 4_London 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 6_Chicago 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 7_Toronto 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 5_Amsterdam 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 9_Seattle 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn,3_New_York 12_Los_Angeles 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 6_Chicago 7_Toronto 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 7_Toronto 2_Montreal 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Herndon/Ashburn 7_Toronto 6_Chicago 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 8_Vancouver 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 8_Vancouver 9_Seattle 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 9_Seattle 8_Vancouver 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 10_Fremont 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Herndon/Ashburn 8_Vancouver 11_San_Jose 0_Herndon/Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Herndon/Ashburn 11_San_Jose 8_Vancouver 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 1_Miami 6_Chicago 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 14_San_Antonio 0_Herndon/Ashburn 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 14_San_Antonio 5_Amsterdam 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Herndon/Ashburn 9_Seattle 1_Miami 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Herndon/Ashburn 9_Seattle 5_Amsterdam 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Herndon/Ashburn 5_Amsterdam 1_Miami 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 14_San_Antonio 1_Miami 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0.5,
+            "cycle": "0_Herndon/Ashburn 7_Toronto 14_San_Antonio 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 12_Los_Angeles 7_Toronto 0_Herndon/Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Herndon/Ashburn 14_San_Antonio 7_Toronto 0_Herndon/Ashburn"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Herndon/Ashburn 11_San_Jose 9_Seattle 0_Herndon/Ashburn"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Herndon/Ashburn 8_Vancouver 2_Montreal 0_Herndon/Ashburn"
+        }
+    ],
+    "values": [
+        11,
+        10,
+        8,
+        8,
+        8,
+        8,
+        8,
+        7.666666666666667,
+        7.5,
+        7.5,
+        7.5
+    ],
+    "initialCoverSeg": 4,
+    "runtime": 111027,
+    "lpBound": 7.5
+}

@@ -1,0 +1,42 @@
+{
+    "initialCoverSize": 8,
+    "times": [1062848],
+    "solution": [
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 1_Cisco_2621_Batumi 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 2_Cisco_2511_Kutaisi 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 7_Corecess_DX6524 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 5_Cisco_3640_Zugididi 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 0,
+            "cycle": "0_Cisco_3640_Samtredia 8_Tbilisi_GRENA_Network 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 11_Cisco_3640_Telavi 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 9_Corecess_DX6524 0_Cisco_3640_Samtredia"
+        },
+        {
+            "x": 1,
+            "cycle": "0_Cisco_3640_Samtredia 12_Corecess_DX6524 0_Cisco_3640_Samtredia"
+        }
+    ],
+    "values": [7],
+    "initialCoverSeg": 3,
+    "runtime": 87579,
+    "lpBound": 7
+}
