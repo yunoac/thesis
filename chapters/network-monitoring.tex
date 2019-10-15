@@ -1,0 +1,30 @@
+\chapter{Network monitoring with segment routing}
+\label{chapter:scmon}
+
+\input{chapters/monitoring/intro}
+
+\input{chapters/monitoring/min-seg-cover}
+
+\input{chapters/monitoring/cg}
+
+\input{chapters/monitoring/cover}
+
+\input{chapters/monitoring/complete}
+
+\section*{Conclusion}
+
+In this chapter we proposed a solution for identifying single-link failures in a network.
+We showed that even if multiple failures occur, our algorithm can still identify a pair of 
+edges $e$, $\rev(e)$ such that one of them is faulty with certainty.
+
+Our experiments show that our algorithm runs in a reasonable amount of time considering that
+these cycles need to be installed only once in the network. 
+
+Our solution works on the original topology and prides the theoretical minimum number of segments
+required to implement any cycle cover using segment routing. This was achieved by using our reachability
+theory developed in Chapter \ref{chapter:sr}. We also showed that if this segment cost
+is too high, we can reduce it by working with a dual topology maxing the whole network monitoring 
+process cost at most $9$ segments in the worst case, over all topologies from out dataset.
+
+This was a second example where column generation provides good results when applied to solve an
+segment routing optimization problem.

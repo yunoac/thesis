@@ -1,0 +1,73 @@
+\section{Disjoint paths and network flows}
+\label{section:dp}
+
+The problem of computing disjoint paths in a graph is one of those ubiquitous problem that has driven
+a lot of research over the years. Numerous algorithms exist for solving it, most of them being some variant
+of the more general maximum flow problem \cite{suurballe1984quick, Ahuja}.
+
+The maximum flow problem is the problem of finding the maximum amount of information that can
+be sent between two given nodes in a network. It is closely related to the multi-commodity flow
+problem that we studied in Chapter \ref{chapter:te}. Instead of being given a set of demands, we are given
+a source $s \in V(G)$ and a destination $t \in V(G)$ and we are asked what is the maximum amount of traffic that can be routed 
+between those two nodes without exceeding the capacity of any edge. Another way to see it is to 
+imagine that we have an infinite amount of unit demands between $s$ and $t$ and we are asked what is the maximum
+number of such demands that can simultaneously be routed of the network without exceeding any link capacity.
+
+The maximum flow problem admits an IP formulation that is very similar to the formulation that we gave for the MCF. If we let $x_e$
+define the amount of demands routed over edge $e$ it can be shown that the following LP models the problem \cite{Ahuja}.
+
+\begin{center}
+\begin{tabular}{crcllr}
+\multicolumn{5}{l}{$\maxflow(G, s, t)$} \\[0.5cm] 
+$\displaystyle \mathbf{max}$ & $\displaystyle \sum_{e \in \oute(s)} x_e$ & & & & \\[0.5cm]
+$\textbf{s.t.}$ & $\displaystyle \sum_{e \in \delta^-(v)} x_{e} - \sum_{e \in \delta^+(v)} x_{e}$ & $=$    & $ 0$ & $\forall v \in V(G) \setminus \{ s, t \}$  &  \\[0.5cm]
+                & $x_{e}$ & $\leq$ & $\bnd(e)$ & $\forall e \in E(G)$ & \\[0.5cm]
+                & $x_{e}$ & $\in$ & $\mathbb{N}$
+\end{tabular}
+\end{center}
+
+It is possible to show that the linear programming relaxation of this problem obtained by replacing $x_e \in \mathbb{N}$ by $x_e \geq 0$ 
+is equivalent as long as the capacities are integral \cite{Ahuja}. This makes the maximum flow problem one of those rare cases where the integrality constraints no not increase the difficulty
+of the problem. Numerous polynomial time algorithms have been developed for solving the maximum flow problem \cite{Edmonds:1972:TIA:321694.321699, dinitz, Goldberg:1988:NAM:48014.61051, Ahuja}.
+If we set \emph{unit capacities} on the edges and think about the maximum flow problem as one answering the question of what is the maximum amount of unit demands that we can
+route from $s$ to $t$, we see that we actually end up with the \emph{maximum number of disjoint path between $s$ and $t$}. This is the case
+since each of the routed demands must follow a path that shares no edges with any of the other demand paths or otherwise some edge would carry at least two units
+of traffic, thus exceeding its capacity.
+
+In other words, this means that we can model the problem of computing the maximum number of edge-disjoint paths between $s$ and $t$ by replacing $\bnd(e)$
+by $1$ in the $\maxflow$ model. By doing so, we obtain the following model which can also be solved efficiently.
+
+\begin{center}
+\begin{tabular}{crcllr}
+\multicolumn{5}{l}{$\maxedp(G, s, t)$} \\[0.5cm] 
+$\displaystyle \mathbf{max}$ & $\displaystyle \sum_{e \in \oute(s)} x_e$ & & & & \\[0.5cm]
+$\textbf{s.t.}$ & $\displaystyle \sum_{e \in \delta^-(v)} x_{e} - \sum_{e \in \delta^+(v)} x_{e}$ & $=$    & $ 0$ & $\forall v \in V(G) \setminus \{ s, t \}$  &  \\[0.5cm]
+                & $x_{e}$ & $\leq$ & $1$ & $\forall e \in E(G)$ & \\[0.5cm]
+                & $x_{e}$ & $\in$ & $\mathbb{N}$
+\end{tabular}
+\end{center}
+
+This model focuses solely one providing a maximum amount of paths. It does not care about the quality of those paths, for instance, in terms of latency. It turns out that if we wish to
+minimize total latency of the path set we can still do it in polynomial time. This problem is known, in general, as the minimum cost maximum flow problem \cite{Ahuja}.
+We can easily adapt the above model to obtain a set of $n$ disjoint paths (if they exist) whose total latency is as small as possible by
+requiring the total flow out of $s$ to be $n$ and minimizing the sum of the latencies of the edges with a non-zero flow as shown in the following model.
+
+\begin{center}
+\begin{tabular}{crcllr}
+\multicolumn{5}{l}{$\minlatedp(G, s, t)$} \\[0.5cm] 
+$\displaystyle \mathbf{min}$ & $\displaystyle \sum_{e \in E(G)} \lat(e) \cdot x_e$ & & & & \\[0.5cm]
+$\textbf{s.t.}$ & $\displaystyle \sum_{e \in \delta^-(v)} x_{e} - \sum_{e \in \delta^+(v)} x_{e}$ & $=$    & $ 0$ & $\forall v \in V(G) \setminus \{ s, t \}$  &  \\[0.5cm]
+                & $\displaystyle \sum_{e \in \oute(s)} x_e$ & $=$ & $n$ & \\[0.5cm]
+                & $x_{e}$ & $\leq$ & $1$ & $\forall e \in E(G)$ & \\[0.5cm]
+                & $x_{e}$ & $\in$ & $\mathbb{N}$
+\end{tabular}
+\end{center}
+
+If we want $n$ to be as large as possible we can simply first compute the optimal solution of $\maxedp(G, s, t)$ and set $n$ to that value.
+Surprisingly, this problem can also be solved in polynomial time \cite{Ahuja}. Unfortunately, slight variations of this problem that are of interest for computer
+networks quickly become \NPhard. For instance, if we want to minimize the maximum latency over all the paths rather than the latency sum, the problem is 
+\NPhard~even if $n = 2$ \cite{minmax-disjoint-90, Li1990}. Another change that, perhaps surprisingly, makes the problem \NPhard~is to have two origins $s_1, s_2$ and two destinations
+$t_1, t_2$ and ask for a pair of disjoint paths, one from $s_1$ to $t_1$ and another from $s_2$ to $t_2$ \cite{VYGEN199583}. One might naively think that we could get away by adding a fake node 
+$s$ linked to both $s_1, s_2$ and link $t_1, t_2$ to some other fake $t$ and then compute the maximum flow from $s$ to $t$. Unfortunately, nothing in the model
+forces the flow originating from $s_1$ to go to $t_1$ instead of $t_2$ (and vice-versa). In order to force some origin to destination assignment, we cannot rely on a
+maximum flow model but rather on a multi-commodity flow model which, as we have already seen, is harder to solve. 

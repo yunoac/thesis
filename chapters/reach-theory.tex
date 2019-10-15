@@ -1,0 +1,395 @@
+\begin{definition}
+Let $G$ be a network. A sr-path $\sr{p}$ on $G$ is a sequence $\langle x_1, \ldots, x_l \rangle$ such that each $x_i \in V(G) \cup E(G)$.
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle$. If $x_i \in V(G)$ we define $x^1_i = x^2_i = x_i$ and
+if $x_i = (u_1, u_2) \in E(G)$ we define $x^1_i = u_1$ and $x^2_i = u_2$. 
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle$. We say that $\sr{p}$ is a path from node $x^1_1$ to
+$x^2_l$. We say that $x^1_1$ is the first node of $\sr{p}$ and $x^2_l$ is the last node of $\sr{p}$. A sr-path that
+starts and ends at the same node is called a sr-cycle.
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots x_l \rangle$ a sr-path on $G$. We define the cost of $x_i$ as
+\[ \cost(x_i) =
+  \begin{cases}
+    1 & \quad \text{if } x_{i} \in V(G) \\
+    2 & \quad \text{otherwise}
+  \end{cases}
+\]
+We define the segment cost of $\sr{p}$ as
+$$
+\cost(\sr{p}) = \sum_{i = 1}^l \cost(x_i)
+$$
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle, \sr{q} = \langle y_1, \ldots, y_r \rangle$ be two sr-paths on $G$. We 
+define the concatenation of $\sr{p}$ and $\sr{q}$ as
+$$
+\sr{p} + \sr{q} = \langle x_1, \ldots, x_l, y_1, \ldots, y_r \rangle
+$$
+\end{definition}
+
+\begin{lemma}
+\label{lemma:srsumcost}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle, \sr{q} = \langle y_1, \ldots, y_r \rangle$ be two sr-paths on $G$. Then
+$$
+\cost(\sr{p} + \sr{q}) = \cost(\sr{p}) + \cost(\sr{q}) 
+$$
+\end{lemma}
+
+\begin{proof}
+\begin{align*}
+\cost(\sr{p} + \sr{q}) & = \cost(\langle x_1, \ldots, x_l, y_1, \ldots, y_r) \\
+& = \sum_{i = 1}^l \cost(x_i) + \sum_{i = 1}^r \cost(y_i) \\
+& = \cost(\sr{p}) + \cost(\sr{q})
+\end{align*}
+\end{proof}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a sr-path from
+$x$ to $y$ and $\sr{q} = \langle y_1, \ldots, y_r \rangle$ be a sr-path from $y$ to $z$, where $x, y, z \in V(G)$.
+We  define the concatenation of $\sr{p}$ and $\sr{q}$ as
+\[ \sr{p} \oplus \sr{q} =
+  \begin{cases}
+    \langle x_1, \ldots, x_l, y_2, \ldots, y_r \rangle & \quad \text{if } x_l = y_1 = y \in V(G) \\
+    \langle x_1, \ldots, x_l, y_2, \ldots, y_r \rangle & \quad \text{if } x_l \in E(G) \text{ and } y_1 \in V(G) \\
+    \langle x_1, \ldots, x_{l - 1}, y_1, \ldots, y_r \rangle & \quad \text{if } x_l \in V(G) \text{ and } y_1 \in E(G) \\
+    \langle x_1, \ldots, x_l, y_1, \ldots, y_r \rangle & \quad \text{if } x_l \in E(G) \text{ and } y_1 \in E(G) \\
+  \end{cases}
+\]
+\end{definition}
+
+\begin{lemma}
+\label{lemma:concat-cost}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a sr-path from
+$x$ to $y$ and $\sr{q} = \langle y_1, \ldots, y_r \rangle$ be a sr-path from $y$ to $z$, where $x, y, z \in V(G)$.
+Then
+\[ \cost(\sr{p} \oplus \sr{q}) =
+  \begin{cases}
+    \cost(\sr{p}) + \cost(\sr{q}) & \quad \text{if } x_l \in E(G) \text{ and } y_1 \in E(G) \\
+    \cost(\sr{p}) + \cost(\sr{q}) - 1 & \quad \text{otherwise} \\
+  \end{cases}
+\]
+\end{lemma}
+
+\begin{proof}
+If $x_l \in E(G)$ and $y_1 \in E(G)$ then $\sr{p} \oplus \sr{q} = \sr{p} + \sr{q}$ so the result comes from 
+Lemma \ref{lemma:srsumcost}. Otherwise, in each case $\sr{p} \oplus \sr{q}$ has the same elements as $\sr{p} + \sr{q}$ exept
+that we removed an node segments with cost $1$. Thus, by Lemma \ref{lemma:srsumcost}, we have that
+$$
+\cost(\sr{p} \oplus \sr{q}) = \cost(\sr{p} + \sr{q}) - 1 = \cost(\sr{p}) + \cost(\sr{q}) - 1
+$$
+\end{proof}
+
+\begin{definition}
+Let $G$ be a network and $\sr{p} = \langle x_1, \ldots, x_l \rangle$ a sr-path on $G$. We define the set of nodes in $\sr{p}$ as
+$$
+V(\sr{p}) = \bigcup_{i = 1}^l \{x^1_i, x^2_i \} \quad \cup \quad \bigcup_{i = 2}^l V(\sp(x^2_{i - 1}, x^1_i))
+$$
+We define the set of edges of $\sr{p}$ as
+$$
+E(\sr{p}) = \left\{ x_i \mid \textrm{$x_i$ is an adjacency segment} \right\} \quad \cup \quad \bigcup_{i = 2}^l E(\sp(x^2_{i - 1}, x^1_i))
+$$
+For simplicity, we often write $v \in \sr{p}$ to mean that $v \in V(\sr{p})$ and $e \in \sr{p}$ when $e \in E(\sr{p})$.
+\end{definition}
+
+\begin{definition}
+A sr-path $\sr{p} = \langle x_1, \ldots, x_l \rangle$ is said to be deterministic if for each $i \in \{2, \ldots, l\}$
+there exists a unique IGP shortest path between $x^2_{i - 1}$ and $x^1_i$.
+\end{definition}
+
+\begin{lemma}
+\label{lemma:deterministic-concat}
+Let $G$ be a netwrok and $\sr{p}$ be a deterministic sr-path from
+$x$ to $y$ and $\sr{q}$ be a deterministic sr-path from $y$ to $z$ 
+then $\sr{p} \oplus \sr{q}$ is a deterministic sr-path
+from $x$ to $z$.
+\end{lemma}
+
+\begin{proof}
+Write $\sr{p} = \langle x_1, \ldots, x_l \rangle$ and 
+$\sr{q} = \langle y_1, \ldots, y_r \rangle$.
+Let $z_i, z_{i + 1}$ be consecutive elements of $\sr{p} \oplus \sr{q}$. 
+We need to prove that
+there exists a unique shortest path between $z^2_i$ and $z^1_{i + 1}$.
+If both $z_i, z_{i + 1}$ belong to $\sr{p}$ or $\sr{q}$ then this is true since both
+$\sr{p}$ and $\sr{q}$ are deterministic. Otherwise, there are four cases that we need
+to consider.
+
+\emph{Case 1:} $x_l = y_1$ are both node segments. In this case we know that
+$\sr{p} \oplus \sr{q} = \langle x_1, \ldots, x_l, y_2, \ldots, y_r \rangle$.
+Thus, $z_i = x_l = y_1$ and $z_{i + 1} = y_2$. Hence, since $\sr{q}$ is deterministic,
+there exists a unique shortest path between $z^2_i = y^2_1$ and $z^1_{i + 1} = y^1_2$.
+
+\emph{Case 2:} $x_l,  y_1$ are both adjacency segments and 
+$x^2_l = y^1_1$. In this case we know that
+$\sr{p} \oplus \sr{q} = \langle x_1, \ldots, x_l, y_1, y_2, \ldots, y_r \rangle$.
+Hence, $z_i = x_l$ and $z_{i + 1} = y_1$ so $z^2_i = x^2_l = y^1_1 = z^1_{i + 1}$ so
+the unique shortst path between $z^2_i$ and $z^1_{i + 1}$ is the empty path.
+
+\emph{Case 3:} $x_l$ is an adjacency segment and $y_1$ is a node segment such that
+$x^2_l = y_1$. By definition, 
+$\sr{p} \oplus \sr{q} = \langle x_1, \ldots, x_l, y_2, \ldots, y_r \rangle$.
+Thus, $z_i = x_l$ and $z_{i + 1} = y_2$. Thus, since $\sr{q}$ is deterministic,
+there exists a unique shortest path between $z^2_i = x^2_l = y^2_1$ and $z^1_{i + 1} = y^1_2$.
+
+\emph{Case 4:} $x_l$ is a node segment and $y_1$ is an adjacent segment such that
+$y^1_l = x_l$. Therefore $\sr{p} \oplus \sr{q} = \langle x_1, \ldots, x_{l - 1}, y_1, y_2, \ldots, y_r \rangle$.
+Thus, $z_i = x_{l - 1}$ and $z_{i + 1} = y_1$. Thus, since $\sr{p}$ is deterministic,
+there exists a unique shortest path between $z^2_i = x^2_{l - 1}$ and $z^1_{i + 1} = y^1_2 = x^1_l$.
+\end{proof}
+
+
+
+%\begin{definition}
+%Let $G$ be a network, $s \in V(G)$ and $k \geq 0$ an integer. We define the deterministic node reachability of $v$ with cost
+%at most $k$ as
+%$$
+%\nreach(k, s) = \left\{ v \in V(\sr{p}) \mid \textrm{$\sr{p}$ is a deterministic sr-path starting at $s$ with $\cost(\sr{p}) \leq k$} \right\}
+%$$
+%\end{definition}
+
+---------------------------------------------------------------------------------------------------
+
+\begin{definition}
+Let $G$ be a network and $s \in V(G)$. For any integer $k \geq 1$ we define
+\begin{align*}
+\nreach^n(k, s) = & \ \textrm{set of nodes $v \in V(G)$ such that there exists a deterministic} \\ 
+                & \ \textrm{sr-path $\sr{p} = \langle x_1, \ldots, x_l, v \rangle$ of segment cost at most $k$},
+\end{align*}
+\begin{align*}
+\nreach^e(k, s) = & \ \textrm{set of nodes $v \in V(G)$ such that there exists a deterministic} \\ 
+                  & \ \textrm{sr-path $\sr{p} = \langle x_1, \ldots, x_l, (u, v) \rangle$ of segment cost at most $k$}
+\end{align*}
+and
+$$
+\nreach(k, s) = \nreach^n(k, s) \cup \nreach^e(k, s)
+$$
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network and $s \in V(G)$. For any integer $k \geq 1$ we define
+\begin{align*}
+\nreach(k, s) = & \ \textrm{set of nodes $v \in V(G)$ such that there exists a deterministic} \\ 
+                & \ \textrm{sr-path $\sr{p}$ from $s$ to $v$ of segment cost at most $k$}
+\end{align*}
+and
+\begin{align*}
+\ereach(k, s) = & \ \textrm{set of edges $e \in E(G)$ such that there exists a deterministic} \\ 
+                & \ \textrm{sr-path of segment cost at most $k$, $\sr{p} = \langle x_1, \ldots, x_l \rangle$, from} \\
+                & \ \textrm{$s$ to $u_2$ such that either $e = x_l$ or $x_l$ is a node segment and} \\
+                & \ \textrm{$e$ is the last edge of the unique shortest path between $x^2_{l - 1}$} \\
+                & \ \textrm{and $x_l$}
+\end{align*}
+\end{definition}
+
+\begin{definition}
+Let $G$ be a netwrok and $v \in V(G)$. We define the shortest path reach of $v$ as
+$$
+\spreach(v) = \left\{ u \in V(G) \mid \textrm{there is a unique shortest path between $v$ and $u$} \right\}
+$$
+\end{definition}
+
+
+\begin{theorem}
+\label{thm:nreach}
+Let $G$ be a network, $s \in V(G)$ and an integer $k \geq 3$. It holds that
+\begin{align*}
+\nreach(1, s) = & \ \{ s \} \\
+\nreach(2, s) = & \ \{ v \in V(G) \mid  \sp(s, v) \textrm{ is a path} \} \cup \{ u \mid (s, u) \in E(G) \} \\
+\nreach(k, s) = & \ \bigcup_{v \in \nreach(k - 1, s)} \spreach(v) \quad \cup \\ 
+& \ \bigcup_{v \in \nreach(k - 2, s)}  \left\{ u_2 \mid (u_1, u_2) \in E(G) \wedge u_1 \in \spreach(v) \right\}
+\end{align*}
+\end{theorem}
+
+\begin{proof}
+For $k = 1$ the only sr-path of cost $1$ starting from $s$ is $\langle s \rangle$. Thus $\nreach(1, s) = \{ s \}$.
+For $k = 2$, a sr-path of cost $2$ starting at $s$ has either the form $\langle s, v \rangle$ where
+$v \in V(G)$ or $\langle (s, v) \rangle$ where $(s, v) \in E(G)$. In the first case, since we need the sr-path to
+be deterministic, only $v \in V(G)$ such that $\sp(s, v)$ is a path yield a deterministic sr-path. In the second case,
+a path of the form $\langle (s, v) \rangle$ is always deterministic so each such edge yields a valid path.
+
+Let $k \geq 3$. 
+
+$(\subseteq)$ Suppose that $u \in \nreach(k, s)$. Then there exists a deterministic sr-path 
+$\sr{p} = \langle x_1, \ldots, x_l \rangle$ from $s$ to $u$ of segment cost at most $k$.
+%Since $\sr{p}$ is deterministic, so are $\langle x_1, \ldots, x_{l - 1} \rangle$ and
+%$\langle x^2_{l - 1}, x_l \rangle$.
+
+\emph{Case 1:} $x_l = u$ is a node segment.
+Then $\langle x_1, \ldots, x_{l - 1} \rangle$ is a deterministic
+sr-path from $s$ to $x^2_{l - 1}$ with segment cost at most $k - 1$. By determinism of $\sr{p}$, there is a unique shortest path
+between $x^2_{l - 1}$ and $x^1_l = x_l$. Therefore, $u \in \spreach(s)$. Thus letting $v = x^2_{l - 1}$, we have that
+$v \in \nreach(k - 1, s)$ so
+$$
+u \in \bigcup_{v \in \nreach(k - 1, s)} \spreach(v).
+$$
+
+\emph{Case 2:} $x_l$ is an adjacency segment.
+Write $x_l = (u_1, u_2)$. Then $\langle x_1, \ldots, x_{l - 1} \rangle$ is a deterministic sr-path 
+from $s$ to $x^2_{l - 1}$ with segment cost at most $k - 2$ and by determinism, 
+$u_1 = x^1_l \in \spreach(x^2_{l - 1})$. Thus letting $v = x^2_{l - 1}$,
+we have that $v \in \nreach(k - 2, s)$ and $u_1 \in \spreach(v)$ proving that
+$$
+u = u_2 \in \bigcup_{v \in \nreach(k - 2, s)}  \left\{ u_2 \mid (u_1, u_2) \in E(G) \wedge u_1 \in \spreach(v) \right\}
+$$
+
+$(\supseteq)$
+Let $u \in \bigcup_{v \in \nreach(k - 1, s)} \spreach(v)$. Then there exists $v \in \nreach(k - 1, s)$
+such that $u \in \spreach(v)$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a deterministic sr-path from $s$ to $v$ with
+$\cost(\sr{p}) \leq k - 1$. Since $u \in \spreach(v)$, there is a unique shortest path from $v$ to $u$ so the
+sr-path $\langle x_1, \ldots, x_l, u \rangle$ is a deterministic sr-path from $s$ to $u$ with segment cost
+at most $k - 1 + 1 = k$. Thus $u \in \nreach(k, s)$.
+
+Let $u \in \bigcup_{v \in \nreach(k - 2, s)}  \left\{ u_2 \mid (u_1, u_2) \in E(G) \wedge u_1 \in \spreach(v) \right\}$. 
+Then there exists $v \in \nreach(k - 2, s)$ and $(u_1, u_2) \in E$ such that $u_1 \in \spreach(s)$ and
+$u_2 = u$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a sr-path from $s$ to $v$ with segment
+cost at most $k - 2$. Then $\langle x_1, \ldots, x_l, (u_1, u_2) \rangle$ is a deterministic sr-path from $s$ to $u$ with
+segment cost at most $k - 2 + 2 = k$ from $s$ to $u$ so $u \in \nreach(k, v)$.
+\end{proof}
+
+\begin{theorem}
+Let $G$ be a network $s \in V(G)$, $e = (u_1, u_2) \in E(G)$ and $k \geq 1$ an integer. There exsits a deterministic sr-cycle $\sr{c}$
+from $s$ to $s$ of cost at most $k$ such that $e \in \sr{c}$ if and only if there exist integers $k_1, k_2 \geq 1$, $x \in \nreach(k_1, s)$, $y$ such that $s \in \nreach(k_2, y)$ 
+and one of the two following conditions holds
+\begin{enumerate}[(1)]
+ \item $k_1 + k_2 = k$, $y \in \spreach(x)$ and $e \in \sp(x, y)$
+ \item $k_1 + k_2 = k - 2$, $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$
+\end{enumerate}
+\end{theorem}
+
+\begin{proof}
+Let $G$ be a network $s \in V(G)$, $e = (u_1, u_2) \in E(G)$ and $k \geq 1$ an integer.
+
+$(\Rightarrow)$ Assume that there exists a deterministic sr-cycle $\sr{c}$ from $s$ to $s$
+with $\cost(\sr{c}) \leq k$ such that $e \in \sr{c}$. Write $\sr{c} = \langle x_1, \ldots, x_l \rangle$.
+Since $e \in \sr{c}$ there exists $i \in \{1, \ldots, l\}$ such that either $x_i = e$ or $i < l$ and
+$e \in \sp(x^2_{i}, x^1_{i + 1})$.
+
+\emph{Case 1:} $e \in \sp(x^2_{i}, x^1_{i + 1})$. Let $x = x^2_{i}$ and $y = x^1_{i + 1}$. Then $\sr{p} = \langle x_1, \ldots, x_{i} \rangle$ is a deterministic sr-path
+from $s$ to $x$ of cost, say, $k_1$ and $\sr{q} = \langle x_{i + 1}, \ldots, x_l \rangle$ is a deterministic sr-path from $y$ to $s$ of cost $k_2 \leq k - k_1$. 
+Therefore, $x \in \nreach(k_1, s)$, $s \in \nreach(k_2, y)$. Since $\sr{c}$ is deterministic, there is a unique shortest path
+from $x$ to $y$ so $y \in \spreach(x)$. Since by hyphothese $e \in \sp(x, y)$, condition $(1)$ holds.
+
+\emph{Case 2:} $e = x_i$. Let $x = x^2_{i - 1}$ and $y = x^1_{i + 1}$. Then $\sr{p} = \langle x_1, \ldots, x_{i - 1} \rangle$ is a deterministic sr-path
+from $s$ to $x$ of cost, say $k_1$, and $\sr{q} = \langle x_{i + 1}, \ldots, x_l \rangle$ from $y$ to $s$ of cost, say $k_2$, such that
+$k_1 + k_2 = \cost(\sr{p}) + \cost(\sr{q}) = \cost(\sr{p}) - 2 \leq k - 2$. Thus $x \in \nreach(k_1, s)$ and $s \in \nreach(k_2, y)$.
+Since $\sr{c}$ is deterministic, there is a unique shortest path from $x = x^2_{i - 1}$ and $u_1 = x^1_i$. For the same reason,
+there exists a unique shortest path from $u_2 = x^2_i$ to $y = x^1_{i + 1}$.  Thus $u_1 \in \nreach(2, x)$ and $y \in \spreach(u_2)$ so that
+condition $(2)$ holds.
+
+Note that in the first case we have $k_1 + k_2 \leq k$ and in the second $k_1 + k_2 \leq k - 2$ instead of the equalities. 
+This is not a problem because if we have a solution with $k_1' + k_2' < k$ we also have a solution with longer paths. Same same is
+true for $k_1' + k_2' < k - 2$. One way to do so is to add the source $s$ enough times so that both paths have the desired segment cost.
+
+$(\Leftarrow)$ Assume that there exist integers $k_1, k_2 \geq 1$, $x \in \nreach(k_1, s)$, $y$ such that $s \in \nreach(k_2, y)$ 
+and either $(1)$ or $(2)$ holds. Since $x \in \nreach(k_1, s)$ there exists a deterministic sr-path
+$\sr{p} = \langle x_1, \ldots, x_l \rangle$ from $s$ to $x$ with $\cost(\sr{p}) \leq k_1$. In the same way, since $s \in \nreach(k_2, y)$,
+there exists a deterministic sr-path $\sr{q} = \langle y_1, \ldots, y_r \rangle$ from $y$ to $s$ with $\cost(\sr{q}) \leq k_2$.
+
+\emph{Case 1:} $k_1 + k_2 = k$, $y \in \spreach(x)$ and $e \in \sp(x, y)$. 
+Let $\sr{c} = \sr{p} + \sr{q} = \langle x_1, \ldots, x_l, y_1, \ldots, y_r \rangle$. 
+This sr-path is deterministic because since $y^1_1 = y \in \spreach(x) = \spreach(x^2_l)$. 
+For the other indexes, the unicity of shortest paths comes from the fact that both $\sr{p}$ and $\sr{q}$
+are deterministic. Since $\sr{c}$ goes from $s$ to $s$ and has cost $k_1 + k_2 = k$, $\sr{c}$ is a sr-cycle of cost at most $k$ from $s$ to $s$.
+It contains $e$ because $e \in \sp(x, y) = \sp(x^2_l, y^1_1)$.
+
+\emph{Case 2:} $k_1 + k_2 = k - 2$, $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$. Let $\sr{c} = \langle x_1, \ldots, x_l, e, y_1, \ldots, y_r \rangle$.
+Since $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$ we have that $\sr{c}$ is deterministic. As before, for the other indexes determinism comes from the 
+determinism of $\sr{p}$ and $\sr{q}$. Finally, $\cost(\sr{c}) = \cost(\sr{p}) + \cost(\sr{q}) + \cost(e) = k_1 + k_2 + 2 \leq k - 2 + 2 = k$. Clearly $e \in \sr{c}$
+so the proof is complete.
+\end{proof}
+
+
+------------------------------------------------------------
+
+\todo{this needs to be fixed, it still uses $\ereach(2, v)$ assuming that it mean unique shortest path}
+
+\begin{theorem}
+\label{thm:ereach}
+Let $G$ be a network, $s \in V(G)$ and an integer $k \geq 3$. It holds that
+\begin{align*}
+\ereach(1, s) = & \ \emptyset \\
+\ereach(2, s) = & \ \{ e \in E(G) \mid \sp(s, v) \textrm{ is a path with last edge $e$} \} \quad \cup \\
+                & \ \{ (s, u) \mid (s, u) \in E(G) \} \\
+\ereach(k, s) = & \ \bigcup_{v \in \nreach(k - 1, s)} \ereach(2, v) \quad \cup \\ 
+& \ \bigcup_{v \in \nreach(k - 2, s)}  \left\{ (u_1, u_2) \mid (u_1, u_2) \in E(G) \wedge u_1 \in \nreach(2, v) \right\}
+\end{align*}
+\end{theorem}
+
+\begin{proof}
+For $k = 1$ the only sr-path of cost $1$ starting from $s$ is $\langle s \rangle$ and it contains no edges. Thus $\nreach(1, s) = \emptyset$.
+For $k = 2$, a sr-path of cost $2$ starting at $s$ has either the form $\langle s, v \rangle$ where
+$v \in V(G)$ or $\langle (s, v) \rangle$ where $(s, v) \in E(G)$. Thus, for each $v$ such that $\sp(s, v)$ is a path,
+the last edge will belong to $\ereach(2, s)$. Also, every edge of the form $(s, v)$ will belong to $\ereach(2, s)$
+
+Let $k \geq 3$.
+
+$(\subseteq)$ Let $e \in \ereach(k, v)$. Then there exists a deterministic sr-path 
+$\sr{p} = \langle x_1, \ldots, x_{l - 1}, x_l \rangle$  of segment cost at most $k$ such that
+either $x_l = e$ or $x_l$ is a node
+segment and $e$ is the last edge of the unique shortest path between $x^2_{l - 1}$
+and $x_{l}$. Let $\sr{q} = \langle x_1, \ldots x_{l - 1} \rangle$ and $v = x^2_{l - 1}$.
+
+\emph{Case 1:} $x_l = e = (u_1, u_2)$. Let 
+Since $\cost(\sr{p}) \leq k$, we know that
+$\cost(\sr{q}) \leq k - 2$. Thus $v = x^2_{l - 1} \in \nreach(k - 2, s)$. 
+Since $\sr{p}$ is deterministic, 
+there must be a unique shortest path
+between $x^2_{l - 1} = v$ to $x^1_l = u_1$. Therefore, $u_1 \in \nreach(2, v)$ so
+$$
+e \in \bigcup_{v \in \nreach(k - 2, s)}  \left\{ (u_1, u_2) \mid (u_1, u_2) \in E(G) \wedge u_1 \in \nreach(2, v) \right\}.
+$$
+
+\emph{Case 2:} $x_l$ is a node segment and $e$ is the last edge of the unique
+shortest path between $x^2_{l - 1}$ and $x_l$. Then $\cost(\sr{q}) \leq k - 1$
+so that $v \in \nreach(s, k - 1)$. Since $e$ is the last edge of the unique
+shortest path between $v = x^2_{l - 1}$ and $x_l$ we have that $e \in \ereach(2, v)$.
+Thus
+$$
+e \in \bigcup_{v \in \nreach(k - 1, s)} \ereach(2, v).
+$$
+
+$(\supseteq)$ Let $e \in \bigcup_{v \in \nreach(k - 1, s)} \ereach(v, 2)$. Then
+there exists $v \in \nreach(k - 1, s)$ such that $e \in \ereach(v, 2)$. By definition,
+this means that there exists a deterministic sr-path $\sr{p} = \langle x_1, \ldots, x_l \rangle$
+from $s$ to $v$ with $\cost(\sr{p}) \leq k - 1$ and a unique shortest path from $v$ to $u$
+such that $e$ is the last edge of that path. Thus, $\langle x_1, \ldots, x_l, u \rangle$ is a deterministic
+sr-path from $s$ to $u$ of cost at most $k - 1 + 1 = k$ with last edge $e$. We conclude that
+$e \in \ereach(s, k)$.
+
+Let $(u_1, u_2) \in \bigcup_{v \in \nreach(k - 2, s)}  \left\{ (u_1, u_2) \mid (u_1, u_2) \in E(G) \wedge u_1 \in \nreach(2, v) \right\}$.
+Then there exists $v \in \nreach(k - 2, s)$ such that $u_1 \in \nreach(2, v)$. 
+By definition, this means that we have a deterministic sr-path $\sr{p} = \langle x_1, \ldots, x_l \rangle$ from $s$ to $v$ with segment cost at most $k - 2$ and
+a unique shortest path from $v$ to $u_1$. Therefore $\langle x_1, \ldots, x_l, (u_1, u_2) \rangle$ is a deterministic sr-path
+from $s$ to $u_2$ of segment cost at most $k - 2 + 2 = k$ with last element being an adjacency segment
+on $(u_1, u_2)$. Hence, $(u_1, u_2) \in \ereach(k, s)$.
+\end{proof}
+
+
+% \begin{proposition}
+% Let $G$ be a network, $s \in V(G)$. Then for $k \geq 2$,
+% \begin{align*}
+% \nreach(0, s) = & \left\{ s \right\} \\
+% \nreach(1, s) = & \left\{ V(\sp(s, v)) \mid \textrm{$v \in V(G)$ and $\sp(s, v)$ is a path} \right\} \\
+% \nreach(k, s) = & \bigcup_{v \in \nreach(k - 1, s)} \nreach(1, v) \quad \cup \\
+%                 & \left\{ u_2 \mid (u_1, u_2) \in E(G) \wedge \exists u \in \nreach(k - 2, s) : u_1 \in \nreach(1, u) \right\}
+% \end{align*}
+% \end{proposition}
+% 
+% \begin{proof}
+% If $k = 0$ then the only sr-path starting at $s$ of segment cost at most $0$ is $\langle s \rangle$. Thus, since $V(\langle s \rangle) = s$, $\nreach(0, s) = \{ s \}$.
+% For $k = 1$, the sr-paths starting at $s$ with segments cost at most $1$ are for the form $\langle s, v \rangle$ for $v \in V(G)$. From these, we only consider the ones
+% that are deterministic, that is, the ones such that there is a unique shortest path between $s$ and $v$. In other words, the ones such that $\sp(s, v)$ is a path.
+% 
+% For $k \geq 2$ we will prove the that each set is contained inside the other. 
+% 
+% $(\subseteq)$ Let $v \in \nreach(k, s)$. Then, by definition, there exists a deterministic sr-path $\sr{p} = \langle x_1, \ldots, x_l \rangle$
+% of cost at most $k$ such that $v \in V(\sr{p})$.
+% \end{proof}

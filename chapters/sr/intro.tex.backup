@@ -1,0 +1,138 @@
+\section{Introduction}
+
+Segment Routing (SR)  \cite{Filsfils_SR:2015} is a new forwarding architecture that is being developed within the Internet Engineering Task Force.
+Segment Routing changes the way packets are forwarded
+inside a network to enable network operators to have better
+control on the path followed by the packets. In traditional
+IP networks, packets follow the shortest path towards their
+destination. The selection of the shortest paths depends on the
+weights associated to each link. In the data plane, each IP
+packet contains the source and destination addresses.
+
+With SR, the path followed by a packet does not need
+to be the shortest path towards its destination. The proposed
+SR architecture modifies the control and the data planes
+to support non-shortest paths. With Segment Routing, the path
+between a source and a destination is composed of one or more
+segments. It supports two types of segments: $(i)$ \emph{node} and $(ii)$ \emph{adjacency} segments. Node segments represent the routers. 
+When a node segment is at the top of the stack, the packet is routed towards this node using
+standard shortest path routing. 
+On the other hand, adjacency segments represent an outgoing interface on a router. 
+To simplify the explanation, we think of it as representing a link in the network. When an adjacency
+segment is at the stop of the segment stack,
+the packet is routed to the source of the link via the shortest paths and then it will
+be forwarded to the destination of the link via that specific link.
+
+Figure \ref{fig:srformal_sr1} illustrates an example of SR. In this example the ingress node is node 
+$a$ and there are two segments in the SR stack: an adjacent segment representing link $(d, e)$
+and a node segment representing node $i$. We assume in the figure that all IGP weights are
+equal to $1$. The ingress node will look at the segment on the top of the stack and find link
+$(d, e)$. It will then forward the packet to trough origin of the link, node $d$, through the shortest
+path $(a, c, d)$. Then node $d$ will receive it an forward it to $e$ one the link $(d, e)$.
+Node $e$ will then examine the segment stack see that the next segment is node $i$. It then
+forwards the packet to node $i$ via the shortest path $(e, h, i)$.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0.5 + \x,  0.5 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (0.5 + \x, -1.0 + \y) {\router{b}{lightgray}};
+\node[scale=0.15] (c) at (2.5 + \x,  0.0 + \y) {\router{c}{lightgray}};
+\node[scale=0.15] (d) at (4.5 + \x,  0.0 + \y) {\router{d}{green}};
+\node[scale=0.15] (e) at (4.0 + \x, -2.0 + \y) {\router{e}{green}};
+\node[scale=0.15] (g) at (6.0 + \x,  0.5 + \y) {\router{g}{lightgray}};
+\node[scale=0.15] (i) at (8.0 + \x,  0.0 + \y) {\router{i}{green}};
+\node[scale=0.15] (h) at (7.0 + \x, -1.5 + \y) {\router{h}{lightgray}};
+\node[scale=0.15] (f) at (4.0 + \x, -3.5 + \y) {\router{f}{lightgray}};
+\node[scale=0.15] (j) at (8.0 + \x, -2.5 + \y) {\router{j}{lightgray}};
+\draw[line width=2] (f) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (j);
+\draw[line width=2] (h) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (j);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (f);
+\draw[line width=2] (h) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (f);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (i);
+\draw[line width=2] (i) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (g);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2]  (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (c) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (d);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+
+%%%%
+\draw (a) edge[line width=2, darkgreen, above, ->, bend right = 20] (c);
+\draw (c) edge[line width=2, darkgreen, above, ->, bend right = 20] (d);
+\draw (d) edge[line width=2, darkgreen, above, ->, dotted] (e);
+\draw (e) edge[line width=2, darkgreen, above, ->, bend left = 20] (h);
+\draw (h) edge[line width=2, darkgreen, above, ->, bend left = 20] (i);
+
+
+\def\x{-0.25}
+\def\y{1}
+\node at (\x + 2.2, \y + 0.25) {\footnotesize SR stack};
+\fill[lightgray] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\fill[green] (\x, \y) rectangle (\x + 1, \y + 0.5);
+\draw[dotted, thick] (\x + 0.4, \y) -- (\x + 0.4, \y - 0.4);
+\draw[] (\x, \y) rectangle (\x + 1, \y + 0.5);
+\draw[] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\draw (\x + 1, \y) -- (\x + 1, \y + 0.5);
+\node at (\x + 0.5, \y + 0.25) {\footnotesize $(d, e)$};
+\node at (\x + 1.25, \y + 0.28) {\footnotesize $i$};
+
+\def\x{3.25}
+\def\y{-3}
+\fill[gray] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\fill[green] (\x + 1, \y) rectangle (\x + 1.5, \y + 0.5);
+\draw[dotted, thick] (\x + 0.4, \y + 0.8) -- (\x + 0.4, \y + 0.5);
+\draw[] (\x, \y) rectangle (\x + 1, \y + 0.5);
+\draw[] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\draw (\x + 1, \y) -- (\x + 1, \y + 0.5);
+\node at (\x + 0.5, \y + 0.25) {\footnotesize $(d, e)$};
+\node at (\x + 1.25, \y + 0.28) {\footnotesize $i$};
+
+
+\def\x{8 - 0.75}
+\def\y{0.5}
+\fill[gray] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\draw[dotted, thick] (\x + 0.4, \y) -- (\x + 0.4, \y - 0.4);
+\draw[] (\x, \y) rectangle (\x + 1, \y + 0.5);
+\draw[] (\x, \y) rectangle (\x + 1.5, \y + 0.5);
+\draw (\x + 1, \y) -- (\x + 1, \y + 0.5);
+\node at (\x + 0.5, \y + 0.25) {\footnotesize $(d, e)$};
+\node at (\x + 1.25, \y + 0.28) {\footnotesize $i$};
+
+
+%%%%
+
+%\def\x{-1}
+
+%\draw[line width=2] (\x + 10, \y + -1 + 0.5) edge[] (\x + 10.5, \y + -1 + 0.5);
+%\node[anchor=west]  at (\x + 10.5, \y + -1 + 0.5) {\footnotesize network link};
+
+%\draw[line width=2] (\x + 10, \y + -1) edge[dotted, darkgreen, ->] (\x + 10.5, \y + -1);
+%\node[anchor=west]  at (\x + 10.5, \y + -1) {\footnotesize adjacency segment};
+
+%\draw[line width=2] (\x + 10, \y + -1 - 0.5) edge[] (\x + 10.5, \y + -1 - 0.5);
+%\node[anchor=west]  at (\x + 10.5, \y + -1 - 0.5) {\footnotesize s link};
+
+
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of SR with segments $(d, e)$ and $i$ and ingress node $a$. Dashed arrows represent adjacency segments
+and the others represent the shortest path edges between consecutive segments.}
+\label{fig:srformal_sr1}
+\end{figure}
+
+This chapter is organized as follows. We start in Section \ref{section:sr-formal} by providing a formalization
+of segment routing. To the best of our knowledge, this is the first work that studies segment routing in
+
+\todo{finish chapter organization}
+
+\todo{we need to explain that when the graph is undirected we don't draw both arrows}

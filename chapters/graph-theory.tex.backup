@@ -1,0 +1,507 @@
+\chapter{Network and routing model}
+\label{chapter:graphs}
+
+A natural way to provide a mathematical model of a computer network is to represent it with a graph. 
+Graphs consist of a collection
+of objects called \emph{nodes} and a relation between these objects called \emph{edges}. In the case of computer networks, 
+the nodes correspond to the routers and the edges to the links. Graphs provide an abstraction that captures
+the connectivity relationships and topological structure of its objects. It abstracts from properties
+like, say, physical position of the routers. 
+
+Such a structure can be augmented with functions on the edges in order to be able to provide a less abstract	
+model and represent some properties of these connections such as the distance between two routers connected
+by a network link or the bandwidth of the links connecting them.
+
+In this chapter we will describe our computer network model and prove the core properties about shortest paths.
+These properties will act as the building blocks for understanding segment routing.
+
+\section{Graph theory}
+
+\begin{definition}
+A \emph{directed graph} $G$ is a pair $(V, E)$ where $V$ is a finite set and $E \subseteq V \times V$. 
+The set $V$ is called \emph{nodes} of $G$ and $E$ is called the set of \emph{edges} of $G$. Whenever $G$ might
+not be clear from the context, we will write $V(G)$ and $E(G)$ to represented its set of nodes and edges, respectively.
+\end{definition}
+
+\begin{definition}
+A \emph{weighted directed graph} if a triple $(V, E, w)$ where $(V, E)$ is a directed graph and
+$w : E \rightarrow \mathbb{R}$ is a function representing edge weights. In some situations we need
+to model several different weights on the edges. In this case the weighted graph will be represented by
+a tuple $(V, E, w_1, \ldots, w_k)$ with each $w_i : E \rightarrow \mathbb{R}$.
+\end{definition}
+
+As mentioned above, graphs offer a good abstraction for representing a computer network because the main features that
+we need to care about when designing most optimization algorithms for networking problems
+consist of which routers are interconnected and the characteristics of this connections. Typically each
+link is characterized by three numbers: the IGP weight, the capacity (bandwidth) and the latency.
+
+In this work we propose a slightly different model of networks. We add an index on each edge so that
+we can represent parallel links without having to use multi-sets. These indexes also make it easier, both in
+theory and in practice, to work with subgraphs and logical operations on these.
+
+\begin{definition}
+A \emph{network} is a tuple $G = (V, E, \igp, \bnd, \lat)$ where
+$V = \{0, \ldots, n - 1\}$ for some $n \in \mathbb{N}$ and
+$E \subseteq V \times V \times \mathbb{N}$ such that 
+$$
+\{ i \mid (u, v, i) \in E \} = \{ 0, \ldots, |E| - 1 \}.
+$$
+
+The weight functions are such that $\igp : E \rightarrow \mathbb{N}^+$
+represents the IGP weights configured on the links $\bnd : E \rightarrow \mathbb{N}$ represents the links
+capacities and $\lat : E \rightarrow \mathbb{R}^+$ represents the link latencies.
+
+We refer to the set of nodes of $G$ as $V(G)$ and the set of edges as $E(G)$.
+\end{definition}
+
+When the index is not relevant in a given context, we will simplify the notation an omit it.
+For example, if we want to refer to an arbitrary edge in a network between nodes $u$ and $v$ 
+we will simply write $(u, v) \in E(G)$ instead of $(u, v, i) \in E(G)$.
+Sometimes it will be useful to be able to refer to all edges between two given nodes. For this,
+we defined the following.
+
+\begin{definition}
+Let $G$ be a network and $u, v \in V(G)$. We denote the set of edges between $u$ and $v$ by
+$$
+E(G, u, v) = \{ (u, v, i) \mid  (u, v, i) \in E(G) \}.
+$$
+Whenever $G$ is clear from the contest we will omit it from the notation.
+\end{definition}
+
+What follows is another useful notation what allows to easily refer to the end-point of a given 
+edge in the network.
+
+\begin{definition}
+Let $G$ be a network and $e = (u, v, i) \in E(G)$. We say that $e$ is an edge from $u$ to $v$
+and denote $e^1 = u$, $e^2 = v$ and $\idx(e) = i$.
+\end{definition}
+
+Next we define the concept of a \emph{path} in the network. Traditionally, a path is represented by a sequence
+of nodes that are traversed. So $(\node{a}, \node{b}, \node{c}, \node{d})$ would represent a path
+from \node{a} to \node{d} that visits \node{b} and \node{c} in that order. However, since we can have
+parallel links in a network, specifying the nodes that are visited does not fully describe the path.
+Instead we will represent a path by the sequence of edges that are visited.
+
+\begin{definition}
+A \emph{path} $p$ in a network $G$ is a sequence $(e_1, \ldots, e_l)$ such that for each 
+$i = 1, \ldots, l$, $e_i \in E(G)$ and if $i < l$ then $e^2_i = e^1_{i + 1}$.
+
+We define
+$$
+\igp(p) = \sum_{i = 1}^l \igp(e_i)
+$$
+and similarly for $\bnd(p)$ and $\lat(p)$.
+
+We say that $p$ is a path from $u$ to $v$ if $e^1_1 = u$ and $e^2_l = v$.
+
+If $p$ is a path ending at $v$, that is, if $e^2_l = v$, then we define $p \oplus (v, u) = (e_1, \ldots, e_l, (v, u))$ 
+If $v$ is a node and $p$ is a path starting at $v$ we define $(v) \oplus p = p$. If $p$ ends at $v$ we define 
+$p \oplus (v) = p$. This notation will be convenient later on.
+
+The set of edges of $p$ is $E(p) = \{ e_1, \ldots, e_l \}$ and the set of nodes of
+$p$ is $V(p) = \{ e^1_1, e^2_1, \ldots, e^1_l, e^2_l \}$.
+
+We say that path $p$ has \emph{node sequence} $(e^1_1, e^2_1, \ldots, e^1_l, e^2_l)$.
+A path is said to be \emph{simple} if its node sequence does not contain repeated elements.
+
+A \emph{cycle} is a path such that $e^1_1 = e^2_l$.
+\end{definition}
+
+For most networks, whenever there is a link connecting a router $u$ to another router $v$, there usually also 
+is a link connecting router $v$ to router $u$. To capture these networks we defined the concept of 
+symmetric network.
+
+\begin{definition}
+A network $G$ is said to be \emph{symmetric} if for every link $(u, v, i)$ there exists another link
+$(v, u, i')$ with a bijective correspondence $\rev$ between links $(u, v, i)$ with $u < v$
+and links $(u, v, i)$ with $u > v$.
+\end{definition}
+
+In general we do not assume that the IGP weights are the same in both directions,
+that is, we can have some $e \in E(G)$ in a symmetric network such that $\igp(e) \neq \igp(\rev(e))$.
+However, in some contexts we will need this assumption. Whenever this is the case, that is, whenever for each
+$e \in E(G)$, $\igp(e) \neq \igp(\rev(e))$ we say that $\igp$ is \emph{symmetric}.
+
+Before we proceed, we want to make a comment about the conventions used to represented networks in the figures used in this
+thesis. In most examples (if not all), we assume that the network is symmetric with unit IGP weights. When this is the case, we draw a single
+line between $u$ and $v$ representing both these edges. If several parallel links exists, then several such
+lines will be drawn. Figure \ref{fig:links} illustrates this.
+
+\begin{figure}
+\begin{center}
+\begin{tabular}{ccc}
+\begin{tikzpicture}
+\draw[white] (-1, 1) rectangle (3, -3.5);
+\node[scale=0.15] (a) at (0, 0) {\router{a}{router}};
+\node[scale=0.15] (b) at (2, 0) {\router{b}{router}};
+\draw[line width=2, black] (a) edge[above, sloped, ->] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\node[anchor=north] at (1, -0.5) {
+  \begin{varwidth}{3.25cm}
+    A network with a single link between \node{a} and \node{b}
+  \end{varwidth}
+};
+\end{tikzpicture}
+&
+\begin{tikzpicture}
+\draw[white] (-1, 1) rectangle (3, -3.5);
+\node[scale=0.15] (a) at (0, 0) {\router{a}{router}};
+\node[scale=0.15] (b) at (2, 0) {\router{b}{router}};
+\draw[line width=2, black] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\node[anchor=north] at (1, -0.5) {
+  \begin{varwidth}{3.25cm}
+   A network with two bidirectional links between \node{a} and \node{b}. This means that it has two edges:
+   $(\node{a}, \node{b}, 1)$ and $(\node{b}, \node{a}, 2)$
+  \end{varwidth}
+};
+\end{tikzpicture}
+&
+\begin{tikzpicture}
+\draw[white] (-1, 1) rectangle (3, -3.5);
+\node[scale=0.15] (a) at (0, 0) {\router{a}{router}};
+\node[scale=0.15] (b) at (2, 0) {\router{b}{router}};
+\draw[line width=2, black] (a) edge[above, sloped, bend left] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2, black] (a) edge[above, sloped, bend right] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\node[anchor=north] at (1, -0.5) {
+  \begin{varwidth}{3.25cm}
+    A network with two bidirectional links between \node{a} and \node{b}. This means that it has fours edges:
+    $(\node{a}, \node{b}, 1)$, $(\node{b}, \node{a}, 2)$,  $(\node{a}, \node{b}, 3)$ and $(\node{b}, \node{a}, 4)$
+  \end{varwidth}
+};
+\end{tikzpicture}
+\end{tabular}
+\\
+\end{center}
+\caption{In and out neighbors of a node.}
+\label{fig:links}
+\end{figure}
+
+To represent a specific link or a path in the network, we will draw colored directed edges on top the 
+lines representing the link. 
+
+By default, numbers of top of links will represent IGP weights. 
+As we said, in most examples we will use unit IGP weights on every link, meaning that shortest paths are measured
+in terms of the number of links on the path. In this case we omit the weight to lighten the figures. 
+Whenever this is not the case, there will be numbers of top of the
+links to represent the IGP weight. If we want to represent some other link metric, it will be explicitly stated
+in the example what the numbers represent. This closes the parenthesis about graphical representations
+of networks in this work. \\
+
+The following definitions make it easy to refer to the neighbors of a given node. We will define the sets of 
+edges going into and out of a node as well as the sets of neighbors consisting of their endpoints.
+
+\begin{definition}
+Let $G$ be a network and $v \in V(G)$. We define
+\begin{enumerate}[i)]
+ \item $\oute(G, v) = \{ (v, u, i) \mid (v, u, i) \in E(G) \}$
+ \item $\ine(G, v) = \{ (u, v, i) \mid (u, v, i) \in E(G) \}$
+ \item $\outn(G, v) = \{ u \mid (v, u, i)  \in E(G) \}$
+ \item $\inn(G, v) = \{ u \mid (u, v, i) \in E(G) \}$
+\end{enumerate}
+\end{definition}
+
+When the underlying graph $G$ is clear from context, we will omit it to lighten the notation.
+Figure \ref{fig:inout} illustrates this definition.
+
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+
+\node[scale=0.15] (a) at (0.5 + \x,  0.5 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (0.5 + \x, -1.0 + \y) {\router{b}{green}};
+\node[scale=0.15] (c) at (2.5 + \x,  0.0 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (4.5 + \x,  0.0 + \y) {\router{d}{orange!20!white}};
+\node[scale=0.15] (e) at (4.5 + \x, -1.5 + \y) {\router{e}{orange!20!white}};
+\node[scale=0.15] (f) at (2.5 + \x,  -2.5 + \y) {\router{f}{green}};
+
+\draw[line width=2, black] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2, black] (b) edge[sloped] node[black,font=\bfseries] (bc) {\tiny \texttt{}} (c);
+\draw[line width=2, black] (e) edge[sloped] node[black,font=\bfseries] (ec) {\tiny \texttt{}} (c);
+\draw[line width=2, black] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2, black]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2, black]  (c) edge[sloped] node[black,font=\bfseries] (cd) {\tiny \texttt{}} (d);
+\draw[line width=2, black]  (a) edge[sloped] node[black,font=\bfseries] (ac) {\tiny \texttt{}} (c);
+\draw[line width=2, black]  (f) edge[sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2, black]  (f) edge[sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+
+\draw[line width=3, darkgreen] (a) edge[->] (c);
+\draw[line width=3, darkgreen] (b) edge[->] (c);
+
+\draw[line width=3, orange] (c) edge[->] (d);
+\draw[line width=3, orange] (c) edge[->] (e);
+
+\node (d-) at (1.5, 1.5) {$\ine(\node{c})$};
+\node (d+) at (3.5, 1.5) {$\oute(\node{c})$};
+
+\draw[->] (d-) -- (ac.east);
+\draw[->] (d-) -- (bc.west);
+
+\draw[->] (d+) -- (ec.west);
+\draw[->] (d+) -- (cd.east);
+
+\draw[dashed] (0.5, -0.25) ellipse (0.7 and 1.7);
+\draw[dashed] (4.5, -0.75) ellipse (0.7 and 1.7);
+
+\node at (-0.75, -0.25) {$\inn(\node{c})$};
+\node at (4.5+1.25, -0.75) {$\outn(\node{c})$};
+
+
+\end{tikzpicture}
+\end{center}
+\caption{In and out neighbors of a node.}
+\label{fig:inout}
+\end{figure}
+
+We conclude this section with a definition of subnetwork.
+
+\begin{definition}
+Let $G, H$ be two networks. If $V(G) = V(H)$ and $E(H) \subseteq E(G)$ we say that
+$H$ is a \emph{subnetwork} of $G$ and write $H \subseteq G$. The weights $\igp, \lat$
+and $\bnd$ are defined on $H$ by restricting them to $E(H)$. 
+\end{definition}
+
+Traditionally subgraphs are defined in a way that also restricts the set of nodes in the result.
+More precisely, the set of nodes is often restricted to the set of nodes that are the endpoint
+of some edge in the subgraph. We find it more convenient to keep the same set of nodes as 
+this is more in line with how the algorithms in this thesis are implemented.
+
+\section{Shortest paths}
+
+As mentioned in the introduction, segment routing leverages shortest path routing in order to
+forward packets over the network. For this reason, understanding shortest paths is central to 
+understanding segment routing. In this section we provide an overview of the most important
+properties shortest paths and of the existing algorithms used to compute such paths.
+
+Unless stated otherwise, whenever we refer to a shortest path in a given network $G$, we mean
+a shortest path with respect to the $\igp$ weight function.
+
+\begin{definition}
+Let $G$ be a network and $s, t \in V(G)$. 
+A shortest path between $s$ and $t$ is a path $p$ from $s$ to $t$ such that
+$\igp(p)$ is minimum.
+\end{definition}
+
+Shortest paths are not necessarily unique. When several shortest paths exist between two nodes we say
+that there is Equal-cost multi-path (ECMP) between those nodes. In order to characterize the set of network
+links where packets might pass when forwarded from a given network router, we will need to be able to
+refer to the subgraph containing all shortest paths starting from a given node in the network. This 
+concept is formalized with the following definition.
+
+\begin{definition}
+Let $G$ be a network and $r \in V(G)$. We define the \emph{shortest path subnetwork rooted at $r$} as
+$\sp(G, r) = (V, E')$ where $e \in E'$ if there exists $v \in V(G)$ and a shortest path $p$ from
+$r$ to $v$ such that $e \in E(p)$. Whenever $G$ is clear from the context, we will omit it from 
+the notation and simply write $\sp(r)$.
+\end{definition}
+
+\begin{definition}
+Let $G$ be a network we say that $G$ is \emph{acyclic} if it contains no cycles.
+\end{definition}
+
+It is not hard to see that the set of all shortest path between starting from a given node is
+acyclic.
+
+\begin{lemma}
+\label{lemma:dag}
+Let $G$ be a network and $r \in V(G)$. Then $\sp(r)$ is an acyclic subnetwork of $G$.
+\end{lemma}
+
+\begin{proof}
+Suppose that there exists a cycle $c = (e_1, \ldots, e_l)$ on $\sp(r)$.
+Then, by definition
+there exist shortest paths $p_1, \ldots, p_l$ such that $p_i$ is a shortest path starting at $r$ containing $e_i$.
+For each $i$, write $e_i = (u_i, v_i)$, $w_i = \igp(p_1) - \igp(e_i)$ and $j_i$ such that
+
+\[ j_i =
+  \begin{cases}
+    i + 1     & \quad \text{if } i + 1 < l \\
+    1  & \quad \text{if } i = l
+  \end{cases}
+\]
+
+Before we proceed with the general case, let's see the proof in an example with three nodes. 
+So suppose that $c = (e_1, e_2, e_3) = ((a, b), (b, c), (c, d))$ as shown in
+Figure \ref{fig:dag_intuition}. By definition, $w_1 + \igp((a, b))$ is the cost of a shortest path from $r$ to $b$. Since
+$w_2$ is also the cost of a path from $r$ to $b$ we have that $w_1 + \igp((a, b)) \leq w_2$. Since $\igp((a, b)) > 0$
+we conclude that $w_1 < w_2$. In the same way we can see that $w_2 < w_3$ and $w_3 < w_1$ leading to
+the contradiction that $w_1 < w_1$.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\node[scale=0.15] (r) at (0, 0) {\router{r}{lightgray}};
+\node[scale=0.15] (a) at (3, -1) {\router{a}{lightgray}};
+\node[scale=0.15] (b) at (3, 1) {\router{b}{lightgray}};
+\node[scale=0.15] (c) at (5, 0) {\router{c}{lightgray}};
+\draw[line width=2] (a) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_1$} (b);
+\draw[line width=2] (b) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_2$} (c);
+\draw[line width=2] (c) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_3$} (a);
+\path (r) edge[very thick, out=0, in=180, wavy, ->] node[black,font=\bfseries, above right] {$w_1$} (a);
+\path (r) edge[very thick, out=30, in=130, wavy, ->] node[black,font=\bfseries, above left] {$w_2$} (b);
+\path (r) edge[very thick, out=270, in=240, wavy, ->] node[black,font=\bfseries, above] {$w_3$} (c);
+\end{tikzpicture}
+\end{center}
+\caption{Proof intuition on a cycle with $3$ edges. Wiggly arrows represent shortest path.}
+\label{fig:dag_intuition}
+\end{figure}
+
+In the general case, we have that $w_i + \igp(e_i) \leq w_j$ because $w_i + \igp(e_i)$ is by definition the cost
+of the shortest path from $r$ to $v_i$ and $w_j$ is the cost of a path from $r$ to $v_i$. Since for each $i$,
+$\igp(w_i) > 0$ we conclude that $w_i < w_j$. As this is true for all $i$ we have
+$w_1 < w_2 < \ldots < w_l < w_1$ which is impossible. Therefore such a cycle cannot exist.
+\end{proof}
+
+\begin{definition}
+Given a network $G$ we denote the shortest path distance (minimum IGP cost) between two nodes by $\dist(u, v)$. 
+\end{definition}
+
+Note that with the above definition, $p$ is a shortest path from $u$ to $v$ if and only if $\igp(p) = \dist(u, v)$.
+
+One important property of shortest paths that we will use often when proving properties of segment routing is that
+a sub-path of a shortest path is also a shortest path.
+
+\begin{proposition}
+\label{prop:subsp}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a shortest path on $G$. Then for each
+$i, j \in \{1, \ldots, l\}$ with $i \leq j$, $(e_i, \ldots, e_j)$ a shortest path.
+\end{proposition}
+
+\begin{proof}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a shortest path on $G$ and $i, j \in \{1, \ldots, l\}$
+with $i \leq j$.
+Let $v = e^1_i$ and $u = e^2_j$. Suppose that $(e_i, \ldots, e_j)$ is not a shortest path. 
+There there exists another shorter path $q = (f_1, \ldots, f_r)$ from $u$ to $v$. 
+Consider $p' = (e_1, \ldots, e_{i - 1}, f_1, \ldots, f_r, e_{j + 1}, \ldots, e_l)$.
+Since $q$ is a path from $u$ to $v$ and since $u = f^1_i = e^1_i = e^2_{i - 1}$
+and $v = f^2_r = e^2_{j} = e^1_{j + 1}$ , we have that $p'$ is also a 
+path from $u$ to $v$. This path is shorter than $p$ since
+\begin{align*}
+\igp(p') & = \sum_{k = 1}^{i - 1} \igp(e_k) + \sum_{k = 1}^r \igp(f_k) + \sum_{k = j + 1}^l \igp(e_i) \just{definition of $\igp(p')$} \\
+         & =  \sum_{k = 1}^{i - 1} \igp(e_k) + \igp(q) + \sum_{k = j + 1}^l \igp(e_i) \just{definition of $\igp(q)$}  \\
+         & <  \sum_{k = 1}^{i - 1} \igp(e_k) + \sum_{k = i}^j \igp(e_k) + \sum_{k = j + 1}^l \igp(e_i)  \just{$q$ is shorter than $(e_i, \ldots, e_j)$} \\
+         & = \sum_{k = 1}^l \igp(e_k) = \igp(p) \just{definition of $\igp(p)$}
+\end{align*}
+This contradicts the fact that $p$ is a shortest path.
+\end{proof}
+
+The shortest path subgraphs are easily characterized by the values of $\dist(u, v)$ as shown in the following proposition.
+
+\begin{proposition}
+\label{prop:sp-properties}
+Let $G$ be a network $v, u \in V(G)$ and $e \in E(G)$. Then
+\begin{enumerate}[i)]
+ \item There exists a shortest path containing $e$ if and only if $\dist(e^1, e^2) = \igp(e)$.
+ \item Edge $e$ belongs to a shortest path from $v$ to $e^2$ if and only if 
+ $\dist(v, e^2) = \dist(v, e^1) + \igp(e)$. 
+ \item There exists a shortest path from $v$ to $u$ containing edge $e$ if and only if
+ $\dist(v, e^1) + \igp(e) + \dist(e^2, u) = \dist(v, u)$.
+\end{enumerate}
+\end{proposition}
+
+\begin{proof}
+Let $G$ be a network $v, u \in V(G)$ and $e \in E(G)$.
+\begin{enumerate}[i)]
+ \item $(\Rightarrow)$ Suppose that there exists a shortest path $p = (e_1, \ldots, e_l)$ containing edge $e$.
+ Then $e = e_i$ for some $i$ and by Proposition \ref{prop:subsp} the sub-path $(e_i)$ of $p$ is a shortest path.
+ Thus $\dist(e^1, e^2) = \igp(e)$. 
+ 
+ $(\Leftarrow)$ If $\dist(e^1, e^2) = \igp(e)$ then by definition $p = (e)$ is a shortest path.
+ 
+ \item $(\Rightarrow)$ Suppose that $e$ belongs to a $\igp$ shortest path $p = (e_1, \ldots, e_l)$ from $v$ to $y$.
+ Since $p$ is a shortest path we must have $e_l = e$ or otherwise, since IGP weights are positive, $p$ would contain a positive cycle. 
+ Therefore
+ $$
+ \dist(v, y) = \sum_{i = 1}^l \igp(e_i) = \sum_{i = 1}^{l - 1} \igp(e_i) + \igp(x, y)
+ $$
+ By Proposition \ref{prop:subsp}, $(e_1, \ldots, e_{l - 1})$ is a shortest path between 
+ $v$ and $x$ and thus
+ $$
+ \sum_{i = 1}^{l - 1} \igp(e_i) = \dist(v, x)
+ $$
+ showing that $\dist(v, y) = \dist(v, x) + \igp(x, y)$.
+ 
+ $(\Leftarrow)$ Suppose that $\dist(v, y) = \dist(v, x) + \igp(x, y)$ and let $p = (e_1, \ldots, e_l)$
+ be a shortest path from $v$ to $x$. Then $p \oplus (x, y) = (e_1, \ldots, e_l, (x, y))$ has cost 
+ $\dist(v, x) + \igp(x, y) = \dist(v, y)$ showing that it is a shortest path between $x$ and $y$.
+ 
+ \item $(\Rightarrow)$ Suppose that there exists a shortest path $p = (e_1, \ldots, e_l)$ from $v$ to $u$ containing edge $e$.
+ Assume that $e = e_i$ for some $i \in \{1, \ldots, l\}$. Then
+ \begin{align*}
+ \dist(v, u) & = \igp(p) \just{$p$ is shortest path from $v$ to $u$} \\
+         & = \igp((e_1, \ldots, e_{i - 1})) + \igp(e_i) + \igp((e_{i + 1}, \ldots, e_l)) \just{def of $\igp(p)$} \\
+         & = \igp((e_1, \ldots, e_{i - 1})) + \igp(e) + \igp((e_{i + 1}, \ldots, e_l)) \just{$e_i = e$}  \\
+         & = \dist(v, x) + igp(e) + \dist(y, u) \just{sub-paths are shortest paths}
+ \end{align*}
+
+ $(\Leftarrow)$ Suppose that $\dist(v, x) + \igp(e) + \dist(y, u) = \dist(v, u)$. Let $p$ be a shortest
+ path from $v$ to $y$ and $q$ be a shortest path from $y$ to $u$. Then $p \oplus e \oplus q$ is a path from
+ $v$ to $u$ containing edge $e$ of cost $\dist(v, x) + \igp(e) + \dist(y, u)$. Since $\dist(v, x) + \igp(e) + \dist(y, u) = \dist(v, u)$
+ it follows that $p \oplus e \oplus q$ is a shortest path from $v$ to $u$.
+ 
+\end{enumerate}
+ 
+\end{proof}
+
+Next, we are going to prove some properties about shortest paths on symmetric networks.
+
+\begin{definition}
+Let $G$ be a symmetric network and $X \subseteq(E(G))$. We define
+$$
+\rev(X) = \{ \rev(e) \mid e \in X \}.
+$$
+\end{definition}
+
+\begin{definition}
+Let $G$ be a symmetric network and $p = (e_1, \ldots, e_l)$ a path on $G$. We define
+$$
+\rev(p) = ( \rev(e_l), \ldots, \rev(e_1) ).
+$$
+\end{definition}
+
+\begin{lemma}
+\label{lemma:rev-path}
+Let $G$ be a symmetric network $u, v \in V(G)$ and $p = (e_1, \ldots, e_l)$ be a path on $G$ from $u$ to $v$.
+Then $\rev(p)$ is a path from $v$ to $u$ with $\igp(p) = \igp(\rev(p))$.
+\end{lemma}
+
+\begin{proof}
+Let $i \in \{l, \ldots, 2\}$. Since $p$ is a path, we have $e^2_{i - 1} = e^1_{i}$. Thus
+$\rev(e_i)^2 = e^1_i = e^2_{i - 1}  = \rev(e_{i - 1})^1$ so that $\rev(p)$ is a path.
+It starts at $\rev(e_l)^1 = e^2_l = v$ and ends at $\rev(e_1)^2 = e^1_1 = u$. Finally,
+by definition, we have that $\igp(e_i) = \igp(\rev(e_i))$ for each $i$ so $\igp(p) = \igp(\rev(p))$.
+\end{proof}
+
+\begin{definition}
+Let $G$ be  a symmetric network and $H \subseteq G$. We define $\rev(H) = (V, \rev(E(H)))$.
+\end{definition}
+
+\begin{lemma}
+\label{lemma:sp-reverse}
+Let $G$ be a symmetric network, $u, v \in V(G)$ and $p$ a shortest path from $u$ to $v$.
+Then $\rev(p)$ is a shortest path from $v$ to $u$.
+\end{lemma}
+
+\begin{proof}
+We already from Lemma \ref{lemma:rev-path} that $\rev(p)$ is a path from $v$ to $u$ with $\igp(p) = \igp(\rev(p))$.
+Suppose that it is not a shortest path. Then there exists a path $q$ from $v$ to $u$ such that $\igp(q) < \igp(\rev(p))$. Therefore,
+$$
+\igp(\rev(q)) = \igp(q) < \igp(\rev(p)) = \igp(p)
+$$
+contradicting the fact that $p$ is a shortest path from $u$ to $v$ since $\rev(q)$ is also a path from $u$ to $v$.
+\end{proof}
+
+\begin{corollary}
+\label{cor:dag-rev}
+Let $G$ be a symmetric network and $u, v \in V(G)$. Then $\sp(u, v) = \rev(\sp(v, u))$. 
+\end{corollary}
+
+\begin{proof}
+By definition, $V(\sp(u, v)) = V(\rev(\sp(v, u)))$. Hence we need to show that $E(\sp(u, v)) = E(\rev(\sp(v, u)))$. 
+Let $e \in E(\sp(u, v))$. By definition of $\sp(u, v)$, there exists a shortest path $p$ from $u$ to $v$. By Lemma
+\ref{lemma:sp-reverse} $\rev(p)$ is a shortest path from $v$ to $u$ that contains $e$. Hence $E(\rev(p)) \subseteq \sp(v, u)$. 
+By definition of $\rev(p)$, there must be $e' \in \rev(p)$ such that $e = \rev(e')$. Therefore, since $e' \in \sp(v, u)$,
+$e = \rev(e') \in \rev(\sp(v, u))$. We conclude that $E(\sp(u, v)) \subseteq E(\rev(\sp(v, u)))$. The proof that 
+$E(\sp(u, v)) \supseteq E(\rev(\sp(v, u)))$ is analogous.
+\end{proof}

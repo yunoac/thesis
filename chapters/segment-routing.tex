@@ -1,0 +1,25 @@
+\chapter{Segment routing}
+\label{chapter:sr}
+
+\input{chapters/sr/intro}
+
+\input{chapters/sr/formal}
+
+\input{chapters/sr/minseg}
+
+\input{chapters/sr/reach}
+
+\section*{Conclusion}
+
+In this chapter we provided a first formalization of segment routing that comprises both node and adjacency segments. 
+We provided an algorithm for computing minimal segmentations. This algorithms opens the possibility of using traditional
+graph algorithm for solving optimization problems over a network and then using it to segment and implement the solution on
+a segment routed network. The advantage of this is that it allows to leverage the long lasting graph theory and
+algorithms that have been developed without needing to extend those results to segment routing. The drawback of course
+is that this approach yields no guarantees over the number of segments needed in the end. Maybe in the future, when the number
+of segments in the segment stack becomes less of a limitation most solutions will eventually switch to this approach. However
+for the time being, we still need solutions that take these constraints into account.
+
+We also developed a reachability theory which constitutes the first steps towards having tools to analyze how well a network
+is suited for segment routing. We will see in Chapter \ref{chapter:scmon} that this reachability theory makes it possible
+to provide minimum segment cost cycle covers of a network in polynomial time.

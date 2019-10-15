@@ -1,0 +1,587 @@
+\chapter{Introduction}
+\label{chapter:into}
+
+This thesis aims at providing a first mathematical formalization of segment routing and 
+showcase several of its use cases. We believe that such a formalization is
+going to help advance the research of the algorithmic aspects of segment routing by
+providing a solid mathematical foundation and notations which can serve as a starting
+point for others to research this topic.
+The presented use cases validate the practical interest of the deployment of segment routing
+on existing networks.
+
+Traditional networks use shortest path routing to forward the packets between the routers
+in the network. Without going into details of shortest path routing, each link in the network 
+has a IGP weight configured on it and shortest paths are computed with respect to these weights. These paths are
+used to create a routing table on reach router that maps the destination of the packet to an outgoing link interface.
+In this way, when a packet with destination $dst$ reaches a router, that router will inspect its routing table to find out
+the link interface towards which it needs to forward the packet. By doing so, the packet will reach $dst$ by traversing the
+shortest path relative to these IGP weights. 
+Figure \ref{fig:intro_sprouting} provides a high level illustration of shortest path routing of the Abilene network \cite{abilene}.
+When forwarding packets from router \node{a} to \node{i}, the shortest path, shown in green, will be traversed.
+The table on top of router \node{d} shows an abstraction of the information contained in its routing
+table. When \node{d} receives a packet with destination \node{i}, it inspects its routing table and sees that
+the next hop in the IGP shortest path to \node{i} is \node{e} so it forwards it there.
+All of this is an abstraction of what really goes on in a real network because it hides a lot of technical 
+aspects like, for instance, the fact that the information stored is the IP address. However, for the purposes
+of this thesis, this view is accurate enough as we focus on mathematical optimization problems related to
+computer networks rather than compute networks per se.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0 + \x,  0 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (-1 + \x,  -2 + \y) {\router{b}{router}};
+\node[scale=0.15] (c) at (0 + \x,  -3.5 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (2.5 + \x,  -1.5 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.5 + \x,  -2 + \y) {\router{e}{router}};
+\node[scale=0.15] (f) at (4 + \x,  -4 + \y) {\router{f}{router}};
+\node[scale=0.15] (i) at (7 + \x,  -3.5 + \y) {\router{i}{green}};
+\node[scale=0.15] (h) at (7 + \x,  -1.8 + \y) {\router{h}{router}};
+\node[scale=0.15] (g) at (5.8 + \x,  -0.5 + \y) {\router{g}{router}};
+\node[scale=0.15] (k) at (9.5 + \x,  -2 + \y) {\router{k}{router}};
+\node[scale=0.15] (j) at (10 + \x,  0 + \y) {\router{j}{router}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (b);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{46}} (c);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{34}} (d);
+\draw[line width=2] (a) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{31}} (d);
+\draw[line width=2] (c) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (f);
+\draw[line width=2] (d) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{43}} (e);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{21}} (g);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{11}} (h);
+\draw[line width=2] (h) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (i);
+\draw[line width=2] (f) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{30}} (i);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{61}} (j);
+\draw[line width=2] (j) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{52}} (k);
+\draw[line width=2] (k) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (i);
+\draw[line width=3, darkgreen] (a) edge[->] (d);
+\draw[line width=3, darkgreen] (d) edge[->] (e);
+\draw[line width=3, darkgreen] (e) edge[->] (f);
+\draw[line width=3, darkgreen] (f) edge[->] (i);
+%\draw[darkgreen, line width=3, ->] plot [smooth] coordinates { ($(a)+(0.6,0.1)$) ($(d)+(0,0.5)$) ($(e)+(0,0.6)$) ($(e)+(0.6,0)$) ($(f)+(0.5,0.5)$) ($(i)+(-0.5,0.25)$) };
+
+
+\node (t) at (\x + 3.5, \y + 1) {
+\begin{tabular}{|c|c|}
+\hline
+dest & next hop \\
+\hline
+$\vdots$ & $\vdots$ \\
+\hline
+\node{c} & \node{b} \\
+\hline
+\rowcolor{green}
+\node{i} & \node{e} \\
+\hline
+\node{j} & \node{e} \\
+\hline
+$\vdots$ & $\vdots$ \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (d) -- (t);
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of shortest path routing on the Abilene network.}
+\label{fig:intro_sprouting}
+\end{figure}
+
+During recent years, networking vendors and network operators have
+designed \cite{filsfils2015segment,rfc8402}, implemented
+\cite{srdemo} and deployed \cite{schuller2017traffic,srdeploy} 
+a new routing architecture called Segment Routing (SR). Segment
+Routing is a modern variant of source routing which can be used in
+either MPLS or IPv6 networks. In a nutshell, Segment Routing allows
+the source of a packet or the ingress node in a network to easily
+specify the path that packets need to follow inside the
+network. This path is specified as a series of labels, called \emph{segments}, (MPLS labels or
+IPv6 addresses in a special IPv6 header extension) that are added to
+each packet. 
+
+More concretely, a segment routing path is composed of one or more segments. 
+There are two types of segments: $(i)$ \emph{node} and $(ii)$ \emph{adjacency} segments. 
+Node segments represent routers. When a node segment is at the top of the stack, the packet is routed towards the corresponding router using
+standard shortest path routing. Figure \ref{fig:srnode} shows an example over the Abilene network of what happens when packets are
+sent from \node{a} to \node{i} using segment routing with one intermediate node segment representing node \node{g}. First, \node{a} will inspect the
+segment stack and see a node segment representing router \node{g}. It will pop this segment and forward the packet using
+shortest path routing to \node{g}. Then, node \node{g} will inspect the packet header and see that the next segment is router \node{i}.
+It will pop this segment and forward the packet using shortest path routing to \node{i}. At this point the segment stack is empty so the
+packet as arrived to its destination.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0 + \x,  0 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (-1 + \x,  -2 + \y) {\router{b}{router}};
+\node[scale=0.15] (c) at (0 + \x,  -3.5 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (2.5 + \x,  -1.5 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.5 + \x,  -2 + \y) {\router{e}{router}};
+\node[scale=0.15] (f) at (4 + \x,  -4 + \y) {\router{f}{router}};
+\node[scale=0.15] (i) at (7 + \x,  -3.5 + \y) {\router{i}{green}};
+\node[scale=0.15] (h) at (7 + \x,  -1.8 + \y) {\router{h}{router}};
+\node[scale=0.15] (g) at (5.8 + \x,  -0.5 + \y) {\router{g}{green}};
+\node[scale=0.15] (k) at (9.5 + \x,  -2 + \y) {\router{k}{router}};
+\node[scale=0.15] (j) at (10 + \x,  0 + \y) {\router{j}{router}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (b);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{46}} (c);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{34}} (d);
+\draw[line width=2] (a) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{31}} (d);
+\draw[line width=2] (c) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (f);
+\draw[line width=2] (d) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{43}} (e);
+\draw[line width=2] (e) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{21}} (g);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{11}} (h);
+\draw[line width=2] (h) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (i);
+\draw[line width=2] (f) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (i);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{61}} (j);
+\draw[line width=2] (j) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{52}} (k);
+\draw[line width=2] (k) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (i);
+\draw[line width=3, darkgreen] (a) edge[->] (d);
+\draw[line width=3, darkgreen] (d) edge[->] (e);
+\draw[line width=3, darkgreen] (e) edge[->] (g);
+
+\draw[line width=3, darkgreen] (g) edge[->] (h);
+\draw[line width=3, darkgreen] (h) edge[->] (i);
+
+\node[above of=a] (s1) {
+\begin{tabular}{|c|c|}
+\hline
+\node{g} & \node{i} \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (a) -- (s1);
+
+\node[above of=g] (s2) {
+\begin{tabular}{|c|}
+\hline
+\node{i} \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (g) -- (s2);
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of SR from \node{a} to \node{i} with a node segment on \node{g}.}
+\label{fig:srnode}
+\end{figure}
+
+Adjacency segments represent links. When an adjacency segment is at the top of the stack, the packet is routed towards the origin of the edge
+corresponding to the link using standard shortest path routing. Then, it is forwarded over that specific link to the router corresponding
+to the destination of that edge.
+
+Figure \ref{fig:sradj} illustrates an example of what happens when packets are
+sent from \node{a} to \node{i} using segment routing with an adjacency segment representing edge $(\node{g}, \node{j})$. First, \node{a} will inspect the
+segment stack and see an adjacency segment representing edge $(\node{g}, \node{j})$. It will forward the packet using
+shortest path routing to \node{g}. Then, node \node{g} will inspect the packet header and see that there is an adjacency of which he is the origin.
+It pops the adjacency segment from the segment stack and sends it over edge $(\node{g}, \node{j})$. From there,
+\node{j} will inspect the segment stack and see that in needs to forward that packet towards \node{i}.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0 + \x,  0 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (-1 + \x,  -2 + \y) {\router{b}{router}};
+\node[scale=0.15] (c) at (0 + \x,  -3.5 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (2.5 + \x,  -1.5 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.5 + \x,  -2 + \y) {\router{e}{router}};
+\node[scale=0.15] (f) at (4 + \x,  -4 + \y) {\router{f}{router}};
+\node[scale=0.15] (i) at (7 + \x,  -3.5 + \y) {\router{i}{green}};
+\node[scale=0.15] (h) at (7 + \x,  -1.8 + \y) {\router{h}{router}};
+\node[scale=0.15] (g) at (5.8 + \x,  -0.5 + \y) {\router{g}{green}};
+\node[scale=0.15] (k) at (9.5 + \x,  -2 + \y) {\router{k}{router}};
+\node[scale=0.15] (j) at (10 + \x,  0 + \y) {\router{j}{green}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (b);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{46}} (c);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{34}} (d);
+\draw[line width=2] (a) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{31}} (d);
+\draw[line width=2] (c) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (f);
+\draw[line width=2] (d) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{43}} (e);
+\draw[line width=2] (e) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{21}} (g);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{11}} (h);
+\draw[line width=2] (h) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (i);
+\draw[line width=2] (f) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (i);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{61}} (j);
+\draw[line width=2] (j) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{52}} (k);
+\draw[line width=2] (k) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (i);
+\draw[line width=3, darkgreen] (a) edge[->] (d);
+\draw[line width=3, darkgreen] (d) edge[->] (e);
+\draw[line width=3, darkgreen] (e) edge[->] (g);
+\draw[line width=4, dotted, darkgreen] (g) edge[->] (j);
+
+\draw[line width=3, darkgreen] (j) edge[->] (k);
+\draw[line width=3, darkgreen] (k) edge[->] (i);
+
+\node[above of=a] (s1) {
+\begin{tabular}{|c|c|}
+\hline
+$(\node{g}, \node{j})$ & \node{i} \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (a) -- (s1);
+
+\node[above of=g] (s2) {
+\begin{tabular}{|c|c|}
+\hline
+$(\node{g}, \node{j})$ & \node{i} \\
+\hline
+\end{tabular}
+};
+
+
+\node[above of=j] (s3) {
+\begin{tabular}{|c|}
+\hline
+\node{i} \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (g) -- (s2);
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of SR from \node{a} to \node{i} with an adjacency segment on $(\node{g}, \node{j})$.}
+\label{fig:sradj}
+\end{figure}
+
+\section{Why segment routing}
+
+Segments routing offers a lot of flexibility for routing packets by allowing to exploit non shortest path as illustrated
+in Figures \ref{fig:srnode} and \ref{fig:sradj}.
+It does so by leveraging traditional IP routing so it is easily implementable on current networks without
+needing to change the way networks operate or their infrastructure. Moreover, there is no need for routers
+to maintain more state than their already existing routing tables. The only overhead is on the packet header
+which now needs to contain the segment stack.
+
+SR is not the first technique to have been developed that makes it possible to route over non shortest paths. 
+Another technique is to use Multiprotocol Label Switching (MPLS) \cite{Ghein:2006:MF:1206881}. In a high level, MPLS works by
+configuring labeling tables on the routers. Conceptually, these tables are similar to the routing tables except that
+they are not build with respect to the IGP weights. Instead, they map pairs of (label, incoming interface) to another pair (label, outgoing interface). 
+Figure \ref{fig:mpls} shows an example of how a MPLS configuration can allow us to route packets from
+\node{a} to \node{c} over the non-shortest path $(\node{a}, \node{d}, \node{b}, \node{c})$. In this example, this is achieved by configuring the labeling table of \node{d} to map 
+packets coming from the interface corresponding to link $(\node{a}, \node{d})$ with label $5$ to label $8$
+$8$ and link $(\node{d}, \node{b})$. Second, we configure the labeling
+table of \node{b} to map packets coming from link $(\node{d}, \node{b})$ with label $8$ to be routed over $(\node{b}, \node{c})$
+with the same label.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0 + \x,  0 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (-1 + \x,  -2 + \y) {\router{b}{green}};
+\node[scale=0.15] (c) at (0 + \x,  -3.5 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (2.5 + \x,  -1.5 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.5 + \x,  -2 + \y) {\router{e}{router}};
+\node[scale=0.15] (f) at (4 + \x,  -4 + \y) {\router{f}{router}};
+\node[scale=0.15] (i) at (7 + \x,  -3.5 + \y) {\router{i}{router}};
+\node[scale=0.15] (h) at (7 + \x,  -1.8 + \y) {\router{h}{router}};
+\node[scale=0.15] (g) at (5.8 + \x,  -0.5 + \y) {\router{g}{router}};
+\node[scale=0.15] (k) at (9.5 + \x,  -2 + \y) {\router{k}{router}};
+\node[scale=0.15] (j) at (10 + \x,  0 + \y) {\router{j}{router}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (b);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{46}} (c);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{34}} (d);
+\draw[line width=2] (a) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{31}} (d);
+\draw[line width=2] (c) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (f);
+\draw[line width=2] (d) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{43}} (e);
+\draw[line width=2] (e) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{21}} (g);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{11}} (h);
+\draw[line width=2] (h) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (i);
+\draw[line width=2] (f) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (i);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{61}} (j);
+\draw[line width=2] (j) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{52}} (k);
+\draw[line width=2] (k) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (i);
+
+\draw[line width=3, darkgreen] (a) edge[->] (d);
+\draw[line width=3, darkgreen] (d) edge[->] (b);
+\draw[line width=3, darkgreen] (b) edge[->] (c);
+
+
+\node (p1) at (\x + 2, \y + -0.25) {
+\begin{tabular}{|c|c|}
+\hline
+\footnotesize 5 & \footnotesize data \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dashed] (p1) -- (1.5, -0.8);
+
+
+\node (p2) at (\x + 2.5, \y + -2.3) {
+\begin{tabular}{|c|c|}
+\hline
+\footnotesize 8 & \footnotesize data \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dashed] (p2) -- (1.5, -1.8);
+
+
+\node (t) at (\x + 5, \y + 1.5) {
+\begin{tabular}{|c|c|c|c|}
+\hline
+lbl in & in inter & lbl out & out inter \\
+\hline
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+\hline
+\rowcolor{green}
+5 & (\node{a}, \node{d}) & 8 & (\node{d}, \node{b}) \\
+\hline
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (d) -- (t);
+
+\node (t2) at (\x + 2, \y + -6) {
+\begin{tabular}{|c|c|c|c|}
+\hline
+lbl in & in inter & lbl out & out inter \\
+\hline
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+\hline
+\rowcolor{green}
+8 & (\node{d}, \node{b}) & 8 & (\node{b}, \node{c}) \\
+\hline
+$\vdots$ & $\vdots$ & $\vdots$ & $\vdots$ \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dotted] (b) -- (-0.75, -4.8);
+
+\node (p3) at (\x + 1.5, \y + -2.3-0.75) {
+\begin{tabular}{|c|c|}
+\hline
+\footnotesize 8 & \footnotesize data \\
+\hline
+\end{tabular}
+};
+
+\draw[line width=1, dashed] (p3) -- (-0.5, -2.5);
+
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of MPLS.}
+\label{fig:mpls}
+\end{figure}
+
+One drawback of MPLS when compared to segment routing is that the routers need to maintain an extra state,
+namely, the labeling tables. This makes it harder for solutions based on MPLS to scale has these
+labeling tables can become huge if a lot of different paths are configured~\cite{rfc5439,defo-sig15}. 
+MPLS also has some operational limitations \cite{mpls-opissues-ripe64} and makes a sub-optimal usage
+of resources~\cite{mpls-latency-imc11}.
+
+In contract, as we mentioned above, with segment
+routing only the ingress node needs to maintain a state and all the routing information is inserted in 
+the packed header. However, one drawback of SR is that, due to hardware limitations, some commercial routers only suppose a very limited amount
+of segments \cite{Tantsura_SID:2017}. An average low end router can support up to 5 segments whereas high end router can go up to 
+about 10 segments.
+
+Other more recent techniques exist that overcome these limitations as, for instance, Fibbing \cite{Vissicchio:2014:SLL:2670518.2673868}.
+Fibbing is an new architecture proposed in  2014 that enables central control over distributed routing. By doing so, similarly to segment routing, it 
+manages combines the advantages of SDN (flexibility, expressiveness, and manageability) and traditional (robustness, and scalability) approaches.
+
+The way Fibbing works is that it introduces fake nodes and links into an underlying link-state routing protocol. The fake routers and links
+are then taken into account by routers when computing their forwarding tables. Figure \ref{fig:intro_fibbing} illustrates how to implement
+the non shortest path $(\node{a}, \node{d}, \node{b}, \node{c})$ with fibbing. To do so, we can introduce a fake node \node{x} connected to \node{a} and \node{d}.
+This fake node advertises that it can reach \node{c} directly, with a weight of 1. Therefore, from the point of view of \node{a}, the next hop
+on the shortest path to \node{c} is not \node{b} but rather \node{x}. We ensure that the table are configured in a way such that when \node{a}
+send routes traffic towards fake node \node{x}, link $(\node{a}, \node{d})$ is used. In this way, \node{a} will send the packets to \node{d}
+and then from there routing will be done normally using shortest path $(\node{d}, \node{b}, \node{c})$. 
+
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0 + \x,  0 + \y) {\router{a}{green}};
+\node[scale=0.15] (b) at (-1 + \x,  -2 + \y) {\router{b}{router}};
+\node[scale=0.15] (c) at (0 + \x,  -3.5 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (2.5 + \x,  -1.5 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.5 + \x,  -2 + \y) {\router{e}{router}};
+\node[scale=0.15] (f) at (4 + \x,  -4 + \y) {\router{f}{router}};
+\node[scale=0.15] (i) at (7 + \x,  -3.5 + \y) {\router{i}{router}};
+\node[scale=0.15] (h) at (7 + \x,  -1.8 + \y) {\router{h}{router}};
+\node[scale=0.15] (g) at (5.8 + \x,  -0.5 + \y) {\router{g}{router}};
+\node[scale=0.15] (k) at (9.5 + \x,  -2 + \y) {\router{k}{router}};
+\node[scale=0.15] (j) at (10 + \x,  0 + \y) {\router{j}{router}};
+
+\node[draw, fill=marked] (x) at (0.5 + \x,  -1 + \y) {\footnotesize \texttt{x}};
+
+\draw[line width=2] (a) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{1}} (x);
+
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (b);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{46}} (c);
+\draw[line width=2] (b) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{34}} (d);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{31}} (d);
+\draw[line width=2] (c) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{35}} (f);
+\draw[line width=2] (d) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{43}} (e);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (f);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{21}} (g);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{11}} (h);
+\draw[line width=2] (h) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{27}} (i);
+\draw[line width=2] (f) edge[below, sloped] node[black,font=\bfseries] {\footnotesize \texttt{30}} (i);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{61}} (j);
+\draw[line width=2] (j) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{52}} (k);
+\draw[line width=2] (k) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{42}} (i);
+
+
+\draw[darkgreen, line width=3, ->] plot [smooth] coordinates { ($(a)+(0.3,-0.3)$) ($(x)+(0,0.3)$) ($(1.25, -0.75)$) ($(d)+(-0.5,0.2)$) };
+
+\draw[line width=2, dotted] (x) edge[above, sloped] node {\footnotesize \texttt{1}} (c);
+
+%\draw[line width=3, darkgreen] (a) edge[->] (d);
+\draw[line width=3, darkgreen] (d) edge[->] (b);
+\draw[line width=3, darkgreen] (b) edge[->] (c);
+
+\draw[->, very thick, orange] (x) -- (1.25, -0.75);
+
+
+
+%\draw[darkgreen, line width=3, ->] plot [smooth] coordinates { ($(a)+(0.6,0.1)$) ($(d)+(0,0.5)$) ($(e)+(0,0.6)$) ($(e)+(0.6,0)$) ($(f)+(0.5,0.5)$) ($(i)+(-0.5,0.25)$) };
+% \node (t) at (\x + 3.5, \y + 1) {
+% \begin{tabular}{|c|c|}
+% \hline
+% dest & next hop \\
+% \hline
+% $\vdots$ & $\vdots$ \\
+% \hline
+% \node{c} & \node{b} \\
+% \hline
+% \rowcolor{green}
+% \node{i} & \node{e} \\
+% \hline
+% \node{j} & \node{e} \\
+% \hline
+% $\vdots$ & $\vdots$ \\
+% \hline
+% \end{tabular}
+% };
+%\draw[line width=1, dotted] (d) -- (t);
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of fibbing on the Abilene network.}
+\label{fig:intro_fibbing}
+\end{figure}
+
+There is no particular reason for having chosen segment routing over fibbing other than the fact that we already had started 
+this thesis when we first learned about fibbing. It would be interesting to make a comparative
+study between the two technologies and better understand their limitations and when is one more suitable than the other.
+
+\section{SR applications and contributions}
+
+In what follows, we give an overview of the uses cases of segment routing that we study in this thesis.
+
+\subsubsection*{Traffic engineering}
+
+One of most successful and widely studied application of SR is traffic engineering (TE).
+In a nutshell, TE is the problem of routing a set of demands in the most efficient way (avoiding congestion) on a given
+network. A demand corresponds to a volume of traffic to be routed between two endpoints. Researchers
+have been exploiting the flexibility of SR to route over a wide range of paths to better balance
+the link utilisation when routing a large set of demands \cite{defo, hartert2015solving, steven, bhatia}.
+We also proposed a solution using column generation to find near optimal solutions for the TE problem \todo{Cite out INFOCOM19 paper}.
+A detailed explanation of our solution is given in Chapter \ref{chapter:te}.
+
+\subsubsection*{Network monitoring}
+
+In Chapter \ref{chapter:scmon} we explain how we
+leveraged segment routing to develop a network monitoring technique to detects single link failures
+in a network from a single vantage point \cite{scmon}. Our technique consists of computing a set of cycles that cover
+every single link of the network and to continuously send probes over those cycles in order to detect when a 
+links goes down. SR is crucial to our technique as it offers the necessary routing flexibility to ensure
+that we can route the probes over those cycles. 
+
+\subsubsection*{Traffic duplication over disjoint paths}
+
+Another application of segment routing that we explored is traffic duplication over disjoint paths.
+To achieve more efficient communications for low volume traffic, one solution is to duplicate this
+traffic over several disjoint paths \cite{duplication}. Again, the ability of segment routing to forward
+traffic over non shortest paths is crucial to forward traffic over disjoint paths.
+
+We also showed that we can exploit some properties of segment routing paths to provide disjoint paths that a 
+robust to link failures \cite{rdp}. Chapter \ref{chapter:disjoint} provides an in depth explanation of how this
+was achieved.
+
+
+\section{Publications}
+
+A lot of the work presented on this thesis goes well beyond the publications listed below. 
+While writing this thesis we explored each of the problems that we worked on in more depth
+finding new interesting and yet unpublished results.
+
+\begin{itemize}
+ \item \emph{Traffic duplication through segmentable disjoint paths} published in IFIP Networking Conference 2015.
+ \item \emph{SCMon: Leveraging segment routing to improve network monitoring} published in IEEE INFOCOM 2016.
+ \item \emph{Robustly disjoint paths with segment routing} published in the International Conference on emerging Networking EXperiments and Technologies (CoNEXT) 2018.
+ \item \emph{CG4SR: Near Optimal Traffic Engineering for Segment Routing with Column Generation} published in IEEE INFOCOM 2019.
+\end{itemize}
+
+
+\section{Structure and style}
+
+We did our best effort for this work be as self contained as possible while at the time trying to remain focused on what is novel. 
+From a theoretical point of view this
+means that we defined every concept that is used basing ourselves only on very general 
+mathematical concepts such as sets, ordered pairs, sequences and so on. On a practical point of view,
+we provide the pseudo-code of every algorithm and data structure that we developed, even the 
+known algorithms such as Dijkstra's algorithm. In this way we make it easier for anyone who wants
+to implement them to do so. We also provide a full working Java implementation available in the git
+repository \todo{link to git}.
+
+Most of the data that we use is also publicly available on this same repository as well as the scripts to perform
+the experiments described in this thesis. The only artifacts that is not available are private ISP topologies
+that we are not allowed to disclose.
+
+We hope that these choices will make it easier for others to build upon our work and develop new theoretical results
+and practical applications of segment routing.
+
+The remainder of this thesis is organized as follows. In Chapter \ref{chapter:graphs} we give the necessary
+background in graph theory which forms the basic building blocks of everything else in this thesis. We start by
+giving a graph representation of computer networks which slight differs from the traditional graph definitions.
+Our model will more easily enable us to model common features of networks such as, for instance, parallel links. Then, we provided
+an in depth explanation of the shortest path theory. Since segment routing paths are essentially concatenations of
+shortest paths, understanding the properties of shortest paths is crucial  for understanding segment routing.
+
+Then, in Chapter \ref{chapter:sr} we provide, to be best of our knowledge, the first theoretical study of segment routing 
+that fully covers both node and adjacency segments. Here we prove some fundamental theorems which are key to
+each of the applications of segment routing that we developed in this thesis. We also provide an analysis
+of segment routing on the topologies over dataset used for the experimental evaluation in this thesis.
+
+Chapter \ref{chapter:minlat} explores the problem of computing segment routing paths of minimum cost. This is 
+useful if one wants to use SR to route traffic between two points over a path of minimum latency. As we will see
+later, this problem also arises in one form or another as a subproblem of each and every one of the applications
+that we studied.
+
+Next, in Chapter \ref{chapter:te} we propose a solution for the traffic engineering problem with segment routing 
+based on column generation.
+We compare our approach with existing ones and show that our solutions are near optimal and provide a better lower bound
+that traditional techniques based on the multi-commodity flow problem.
+
+In Chapter \ref{chapter:scmon} we present an solution for detecting link failures in a network. Our solution granular to
+the point that it can detect link failures within link bundles. We will also show that using the tools developed 
+in Chapter \ref{chapter:sr}, we can provide exact bounds on the minimum number of segments required in any
+cycle cover of a network.
+
+Finally, we then study the problem of computing sets of disjoint paths with SR on Chapter \ref{chapter:disjoint}. We show that
+traffic duplication can be used to reduce the latency of network communications. We also exploit properties of
+segment routing paths to prove pairs of disjoint paths that are robust to any link failure.

@@ -1,0 +1,62 @@
+\chapter{Network monitoring with SR}
+\label{chapter:scmon}
+
+\input{chapters/monitoring/intro}
+
+%\input{chapters/monitoring/reach}
+
+\input{chapters/monitoring/cover}
+
+
+\begin{theorem}
+Let $G$ be a network $s \in V(G)$, $e = (u_1, u_2) \in E(G)$ and $k \geq 1$ an integer. There exsits a deterministic sr-cycle $\sr{c}$
+from $s$ to $s$ of cost at most $k$ such that $e \in \sr{c}$ if and only if there exist integers $k_1, k_2 \geq 1$, $x \in \nreach(k_1, s)$, $y$ such that $s \in \nreach(k_2, y)$ 
+and one of the two following conditions holds
+\begin{enumerate}[(1)]
+ \item $k_1 + k_2 = k$, $y \in \spreach(x)$ and $e \in \sp(x, y)$
+ \item $k_1 + k_2 = k - 2$, $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$
+\end{enumerate}
+\end{theorem}
+
+\begin{proof}
+Let $G$ be a network $s \in V(G)$, $e = (u_1, u_2) \in E(G)$ and $k \geq 1$ an integer.
+
+$(\Rightarrow)$ Assume that there exists a deterministic sr-cycle $\sr{c}$ from $s$ to $s$
+with $\cost(\sr{c}) \leq k$ such that $e \in \sr{c}$. Write $\sr{c} = \langle x_1, \ldots, x_l \rangle$.
+Since $e \in \sr{c}$ there exists $i \in \{1, \ldots, l\}$ such that either $x_i = e$ or $i < l$ and
+$e \in \sp(x^2_{i}, x^1_{i + 1})$.
+
+\emph{Case 1:} $e \in \sp(x^2_{i}, x^1_{i + 1})$. Let $x = x^2_{i}$ and $y = x^1_{i + 1}$. Then $\sr{p} = \langle x_1, \ldots, x_{i} \rangle$ is a deterministic sr-path
+from $s$ to $x$ of cost, say, $k_1$ and $\sr{q} = \langle x_{i + 1}, \ldots, x_l \rangle$ is a deterministic sr-path from $y$ to $s$ of cost $k_2 \leq k - k_1$. 
+Therefore, $x \in \nreach(k_1, s)$, $s \in \nreach(k_2, y)$. Since $\sr{c}$ is deterministic, there is a unique shortest path
+from $x$ to $y$ so $y \in \spreach(x)$. Since by hyphothese $e \in \sp(x, y)$, condition $(1)$ holds.
+
+\emph{Case 2:} $e = x_i$. Let $x = x^2_{i - 1}$ and $y = x^1_{i + 1}$. Then $\sr{p} = \langle x_1, \ldots, x_{i - 1} \rangle$ is a deterministic sr-path
+from $s$ to $x$ of cost, say $k_1$, and $\sr{q} = \langle x_{i + 1}, \ldots, x_l \rangle$ from $y$ to $s$ of cost, say $k_2$, such that
+$k_1 + k_2 = \cost(\sr{p}) + \cost(\sr{q}) = \cost(\sr{p}) - 2 \leq k - 2$. Thus $x \in \nreach(k_1, s)$ and $s \in \nreach(k_2, y)$.
+Since $\sr{c}$ is deterministic, there is a unique shortest path from $x = x^2_{i - 1}$ and $u_1 = x^1_i$. For the same reason,
+there exists a unique shortest path from $u_2 = x^2_i$ to $y = x^1_{i + 1}$.  Thus $u_1 \in \nreach(2, x)$ and $y \in \spreach(u_2)$ so that
+condition $(2)$ holds.
+
+Note that in the first case we have $k_1 + k_2 \leq k$ and in the second $k_1 + k_2 \leq k - 2$ instead of the equalities. 
+This is not a problem because if we have a solution with $k_1' + k_2' < k$ we also have a solution with longer paths. Same same is
+true for $k_1' + k_2' < k - 2$. One way to do so is to add the source $s$ enough times so that both paths have the desired segment cost.
+
+$(\Leftarrow)$ Assume that there exist integers $k_1, k_2 \geq 1$, $x \in \nreach(k_1, s)$, $y$ such that $s \in \nreach(k_2, y)$ 
+and either $(1)$ or $(2)$ holds. Since $x \in \nreach(k_1, s)$ there exists a deterministic sr-path
+$\sr{p} = \langle x_1, \ldots, x_l \rangle$ from $s$ to $x$ with $\cost(\sr{p}) \leq k_1$. In the same way, since $s \in \nreach(k_2, y)$,
+there exists a deterministic sr-path $\sr{q} = \langle y_1, \ldots, y_r \rangle$ from $y$ to $s$ with $\cost(\sr{q}) \leq k_2$.
+
+\emph{Case 1:} $k_1 + k_2 = k$, $y \in \spreach(x)$ and $e \in \sp(x, y)$. 
+Let $\sr{c} = \sr{p} + \sr{q} = \langle x_1, \ldots, x_l, y_1, \ldots, y_r \rangle$. 
+This sr-path is deterministic because since $y^1_1 = y \in \spreach(x) = \spreach(x^2_l)$. 
+For the other indexes, the unicity of shortest paths comes from the fact that both $\sr{p}$ and $\sr{q}$
+are deterministic. Since $\sr{c}$ goes from $s$ to $s$ and has cost $k_1 + k_2 = k$, $\sr{c}$ is a sr-cycle of cost at most $k$ from $s$ to $s$.
+It contains $e$ because $e \in \sp(x, y) = \sp(x^2_l, y^1_1)$.
+
+\emph{Case 2:} $k_1 + k_2 = k - 2$, $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$. Let $\sr{c} = \langle x_1, \ldots, x_l, e, y_1, \ldots, y_r \rangle$.
+Since $u_1 \in \spreach(x)$ and $y \in \spreach(u_2)$ we have that $\sr{c}$ is deterministic. As before, for the other indexes determinism comes from the 
+determinism of $\sr{p}$ and $\sr{q}$. Finally, $\cost(\sr{c}) = \cost(\sr{p}) + \cost(\sr{q}) + \cost(e) = k_1 + k_2 + 2 \leq k - 2 + 2 = k$. Clearly $e \in \sr{c}$
+so the proof is complete.
+\end{proof}
+

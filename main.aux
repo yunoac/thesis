@@ -1,0 +1,357 @@
+\relax 
+\citation{abilene}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}Introduction}{3}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:into}{{1}{3}}
+\citation{filsfils2015segment,rfc8402}
+\citation{srdemo}
+\citation{schuller2017traffic,srdeploy}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces Illustration of shortest path routing on the Abilene network.\relax }}{4}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:intro_sprouting}{{1.1}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Illustration of SR from \texttt  {a} to \texttt  {i} with a node segment on \texttt  {g}.\relax }}{5}}
+\newlabel{fig:srnode}{{1.2}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces Illustration of SR from \texttt  {a} to \texttt  {i} with an adjacency segment on $(\texttt  {g}, \texttt  {j})$.\relax }}{5}}
+\newlabel{fig:sradj}{{1.3}{5}}
+\citation{Ghein:2006:MF:1206881}
+\citation{rfc5439,defo-sig15}
+\citation{mpls-opissues-ripe64}
+\citation{mpls-latency-imc11}
+\@writefile{toc}{\contentsline {section}{\numberline {1.1}Why segment routing}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.4}{\ignorespaces Illustration of MPLS.\relax }}{6}}
+\newlabel{fig:mpls}{{1.4}{6}}
+\citation{Tantsura_SID:2017}
+\citation{Vissicchio:2014:SLL:2670518.2673868}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.5}{\ignorespaces Illustration of fibbing on the Abilene network.\relax }}{7}}
+\newlabel{fig:intro_fibbing}{{1.5}{7}}
+\citation{defo,hartert2015solving,steven,bhatia}
+\citation{CG4SR}
+\citation{scmon}
+\citation{duplication}
+\citation{rdp}
+\citation{duplication}
+\citation{scmon}
+\citation{rdp}
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}SR applications and contributions}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.3}Publications}{8}}
+\citation{CG4SR}
+\@writefile{toc}{\contentsline {section}{\numberline {1.4}Structure and style}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.5}Experimental setting}{10}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Network and routing model}{11}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:graphs}{{2}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Graph theory}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces In and out neighbors of a node.\relax }}{13}}
+\newlabel{fig:links}{{2.1}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces In and out neighbors of a node.\relax }}{14}}
+\newlabel{fig:inout}{{2.2}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Shortest paths}{14}}
+\newlabel{lemma:dag}{{2.1}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Proof intuition on a cycle with $3$ edges. Wiggly arrows represent shortest path.\relax }}{16}}
+\newlabel{fig:dag_intuition}{{2.3}{16}}
+\newlabel{prop:subsp}{{2.2}{16}}
+\newlabel{prop:sp-properties}{{2.3}{17}}
+\newlabel{lemma:rev-path}{{2.4}{18}}
+\newlabel{lemma:sp-reverse}{{2.5}{18}}
+\newlabel{cor:dag-rev}{{2.6}{18}}
+\citation{rocketfuel}
+\citation{internetzoo-jsac11}
+\citation{OVH}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Topology dataset analysis}{19}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:dataset}{{3}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Topology sizes}{19}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}ECMP and non shortest path links}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Topology sizes in the \texttt  {rf} group.\relax }}{20}}
+\newlabel{fig:rf_sizes}{{3.1}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Topology sizes in the \texttt  {real} group and \texttt  {ovh}.\relax }}{20}}
+\newlabel{fig:real_sizes}{{3.2}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Largest topologies in the \texttt  {zoo} group.\relax }}{20}}
+\newlabel{fig:zoo_sizes}{{3.3}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Minimum and maximum topology sizes.\relax }}{20}}
+\newlabel{fig:sizes}{{3.4}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Number of topologies by group size.\relax }}{20}}
+\newlabel{fig:group_sizes}{{3.5}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Percentage of links not in shortest paths and pairs with ECMP.\relax }}{21}}
+\newlabel{fig:ECMPcount}{{3.6}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Degrees and density}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces CDF over all topologies and all pairs of nodes of the number of shortest paths between those nodes.\relax }}{22}}
+\newlabel{fig:maxEDP_boxplot}{{3.7}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Box plot of the degrees over the different size categories of our topologies.\relax }}{22}}
+\newlabel{fig:deg_boxplot}{{3.8}{22}}
+\citation{Ahuja}
+\citation{Ahuja}
+\citation{Cormen:2009:IAT:1614191}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces Box plot of the degrees over the different size categories of our topologies.\relax }}{23}}
+\newlabel{fig:density_cdf}{{3.9}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Connectivity}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces CDF over all topologies and all pairs of nodes of the number of shortest paths between those nodes.\relax }}{24}}
+\newlabel{fig:mincut}{{3.10}{24}}
+\citation{Filsfils_SR:2015}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Segment routing}{25}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:sr}{{4}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Segment routing formalization}{25}}
+\newlabel{section:sr-formal}{{4.1}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Illustration of sr-path $\mathaccentV {vec}17E{p} = \delimiter "426830A \texttt  {a}, \texttt  {c}, \texttt  {e}, (\texttt  {f}, \texttt  {j}), \texttt  {i} \delimiter "526930B $.\relax }}{26}}
+\newlabel{fig:sr-path}{{4.1}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Shortest paths between consecutive segments.\relax }}{27}}
+\newlabel{fig:4case-sr}{{4.2}{27}}
+\citation{Tantsura_SID:2017}
+\newlabel{lemma:srsumcost}{{4.1}{29}}
+\newlabel{def:sr-concat}{{4.7}{29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces The four cases of sr-path concatenation.\relax }}{30}}
+\newlabel{fig:sr-concat}{{4.3}{30}}
+\newlabel{lemma:concat-cost}{{4.2}{31}}
+\newlabel{lemma:deterministic-concat}{{4.3}{32}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Acyclic sr-paths}{32}}
+\newlabel{section:acyclic}{{4.2}{32}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Illustration of a cyclic sr-path $\mathaccentV {vec}17E{p} = \delimiter "426830A \texttt  {a}, \texttt  {b}, \texttt  {d}, \texttt  {f} \delimiter "526930B $. It contains cycle $((\texttt  {d}, \texttt  {e}), (\texttt  {e}, \texttt  {d}))$. The sr-path $\mathaccentV {vec}17E{q} = \delimiter "426830A \texttt  {a}, \texttt  {b}, \texttt  {e}, \texttt  {f} \delimiter "526930B $ also goes from $\texttt  {a}$ to $\texttt  {f}$ but is acyclic. It visits a subset of the edges of $\mathsf  {forw}(\mathaccentV {vec}17E{p})$ so it is a sr-subpath of $\mathaccentV {vec}17E{q}$.\relax }}{33}}
+\newlabel{fig:cyclicsr}{{4.4}{33}}
+\newlabel{thm:sracyclic_noadj}{{4.5}{34}}
+\citation{Tantsura_SID:2017}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Construction of an acyclic sr-subpath.\relax }}{35}}
+\newlabel{tab:cases}{{4.1}{35}}
+\newlabel{thm:sracyclic}{{4.6}{35}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Minimal segmentations}{35}}
+\newlabel{lemma:seg_exists}{{4.7}{36}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Illustration of two different segmentations of the same path $p = ((\texttt  {a}, \texttt  {b}), (\texttt  {b}, \texttt  {c}), (\texttt  {c}, \texttt  {d}), (\texttt  {d}, \texttt  {g}), (\texttt  {g}, \texttt  {i}))$. In green we represent the edge segmentation $\delimiter "426830A (\texttt  {a}, \texttt  {b}), (\texttt  {b}, \texttt  {c}), (\texttt  {c}, \texttt  {d}), (\texttt  {d}, \texttt  {g}), (\texttt  {g}, \texttt  {i}) \delimiter "526930B $ and in orange the segmentation $\delimiter "426830A \texttt  {a}, (\texttt  {b}, \texttt  {c}), \texttt  {g}, \texttt  {i} \delimiter "526930B $.\relax }}{37}}
+\newlabel{fig:min-seg-example}{{4.5}{37}}
+\newlabel{lemma:edgeseg}{{4.8}{37}}
+\newlabel{prob:min-seg}{{1}{37}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Minimal path segmentation example.\relax }}{38}}
+\newlabel{fig:min-seg1}{{4.6}{38}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces $\textsf  {min-seg}\left ( G, p = (e_1, \ldots  e_l) \right )$\relax }}{39}}
+\newlabel{line:min-seg-for}{{3}{39}}
+\newlabel{line:min-seg-if1}{{4}{39}}
+\newlabel{line:min-seg-add2}{{6}{39}}
+\newlabel{line:min-seg-r2}{{7}{39}}
+\newlabel{line:min-seg-add1}{{9}{39}}
+\newlabel{line:min-seg-r1}{{10}{39}}
+\newlabel{line:min-seg-add3}{{12}{39}}
+\newlabel{line:min-seg-add4}{{14}{39}}
+\newlabel{algo:minseg}{{1}{39}}
+\newlabel{prop:adj-segs}{{4.9}{39}}
+\newlabel{lemma:min-seg-remove-node}{{4.10}{39}}
+\newlabel{lemma:min-seg-remove-edge}{{4.11}{40}}
+\newlabel{lemma:firstseg}{{4.12}{40}}
+\newlabel{lemma:lastseg}{{4.13}{40}}
+\newlabel{lemma:min-seg-add}{{4.14}{40}}
+\newlabel{prop:min-seg-feasible}{{4.15}{41}}
+\newlabel{lemma:min-seg-middle}{{4.16}{42}}
+\newlabel{lemma:ajd-min}{{4.17}{42}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Illustration of what happens if there is no element $y_j$ such that $x^2_i \leq _p y^2_j \leq _p x^1_{i + 1}$ on the proof of Lemma 4.16\hbox {}.\relax }}{43}}
+\newlabel{fig:min-seg-middle}{{4.7}{43}}
+\newlabel{lemma:ajd-algo}{{4.18}{43}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}SR reachability}{44}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Shortest path reachability of node \texttt  {e}\relax }}{44}}
+\newlabel{fig:reach-ex1}{{4.8}{44}}
+\newlabel{def:spreach}{{4.16}{44}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Illustration of the first part of the recurrence of $\textsf  {reach}(k, s)$\relax }}{45}}
+\newlabel{fig:nreachC1}{{4.9}{45}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.10}{\ignorespaces Illustration of the second part of the recurrence of $\textsf  {reach}(k, s)$\relax }}{45}}
+\newlabel{fig:nreachC2}{{4.10}{45}}
+\newlabel{thm:nreach}{{4.20}{46}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces $\textsf  {compute-reach}\left ( g \right )$\relax }}{47}}
+\newlabel{algo:nreach}{{2}{47}}
+\newlabel{lemma:reachminseg}{{4.21}{47}}
+\newlabel{cor:reachminseg}{{4.22}{47}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {3}{\ignorespaces $\textsf  {compute-sp-reach}\left ( g, s \right )$\relax }}{48}}
+\newlabel{algo:spreach_if}{{7}{48}}
+\newlabel{algo:spreach}{{3}{48}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.11}{\ignorespaces Percentage of topologies for each given value of $k_{\qopname  \relax m{min}}(G)$ and $k_{\qopname  \relax m{max}}(G)$.\relax }}{49}}
+\newlabel{fig:kminkmax}{{4.11}{49}}
+\newlabel{prob:max-seg}{{2}{49}}
+\newlabel{prob:max-seg-st}{{3}{49}}
+\newlabel{prob:lpst}{{4}{49}}
+\citation{schrijver-book}
+\newlabel{thm:max-seg-st-np}{{4.24}{50}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.12}{\ignorespaces Example of the transformation. Solid edges have weight $2$ whereas dotted edges have weight $2$.\relax }}{50}}
+\newlabel{fig-np-max-seg}{{4.12}{50}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.13}{\ignorespaces Example of the transformation.\relax }}{52}}
+\newlabel{fig:np-transform2}{{4.13}{52}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Optimal sr-paths}{53}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:sr-optimal}{{5}{53}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Minimum weight sr-path}{53}}
+\citation{Cormen:2009:IAT:1614191}
+\newlabel{problem:minweightsrpath}{{1}{54}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1.1}General algorithm}{54}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Illustration of the $\mathit  {sol}$ recurrence\relax }}{55}}
+\newlabel{fig:dp}{{5.1}{55}}
+\newlabel{thm:minwsrpath}{{5.1}{55}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {4}{\ignorespaces $\textsf  {minWeightSrPath}\left ( g, orig, dest, w, maxSeg \right )$\relax }}{56}}
+\newlabel{mwsrp-matrix}{{1}{56}}
+\newlabel{mwsrp-for1}{{8}{56}}
+\newlabel{mwsrp-if1}{{9}{56}}
+\newlabel{mwsrp-for2}{{16}{56}}
+\newlabel{mwsrp-if2}{{17}{56}}
+\newlabel{algo:min_weight_sr_path}{{4}{56}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1.2}Achieving minimum latency with SR}{56}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces A small subgraph of a real network where the IGP shortest path between two nodes paths is 74\% slower than the optimal path.\relax }}{57}}
+\newlabel{fig:minlat_example}{{5.2}{57}}
+\@writefile{toc}{\contentsline {subsubsection}{Shortest path plus segmentation}{57}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces Latecy gain in percentage.\relax }}{58}}
+\newlabel{fig:minlat_box}{{5.3}{58}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces Number of segments required in the minimum latency paths over all topologies.\relax }}{58}}
+\newlabel{fig:minlat_seg}{{5.4}{58}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces Number of segments required in the minimum latency paths for \textsf  {OVH-EUR}.\relax }}{59}}
+\newlabel{fig:minlat_seg_ovh}{{5.5}{59}}
+\@writefile{toc}{\contentsline {subsubsection}{Minimum latency SR-Path problem}{59}}
+\citation{Cormen:2009:IAT:1614191}
+\citation{Cormen:2009:IAT:1614191}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.6}{\ignorespaces The shortest path DAG between routers \texttt  {a} and \texttt  {j} in a real network.\relax }}{60}}
+\newlabel{fig:spdag_ecmp}{{5.6}{60}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.7}{\ignorespaces Evaluation of the average number of ECMP over all topologies.\relax }}{61}}
+\newlabel{fig:ecmp_pc}{{5.7}{61}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Maximum weight sr-paths}{61}}
+\newlabel{problem:maxweightsrpath}{{2}{61}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Maximum capacity sr-paths}{62}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.8}{\ignorespaces Traffic split example between ECMP.\relax }}{63}}
+\newlabel{fig:split-example}{{5.8}{63}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.9}{\ignorespaces Node loads with respect to $s = \texttt  {c}$ and $t = \texttt  {i}$.\relax }}{64}}
+\newlabel{fig:load}{{5.9}{64}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.10}{\ignorespaces Split ratio for sr-path $\delimiter "426830A \texttt  {a}, \texttt  {c}, \texttt  {i}, \texttt  {j} \delimiter "526930B $.\relax }}{64}}
+\newlabel{fig:ratio}{{5.10}{64}}
+\newlabel{lemma:srcap}{{5.3}{65}}
+\newlabel{prob:max-cap-srp}{{3}{65}}
+\newlabel{thm:min-cap-srp}{{5.4}{66}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {5}{\ignorespaces $\textsf  {maxCapSrPath}\left ( g, \tau , orig, dest, maxSeg \right )$\relax }}{67}}
+\newlabel{acap:sol1}{{5}{67}}
+\newlabel{acap:sol2}{{6}{67}}
+\newlabel{acap:if1}{{13}{67}}
+\newlabel{acap:if2}{{21}{67}}
+\newlabel{algo:max_cap_sr_path}{{5}{67}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.11}{\ignorespaces Example where the maximum capacity sr-path $\mathaccentV {vec}17E{p} = \delimiter "426830A \texttt  {a}, \texttt  {d}, \texttt  {c} \delimiter "526930B $ from $\texttt  {a}$ to $\texttt  {c}$ is cyclic. The green edges represent $\mathsf  {forw}(\mathaccentV {vec}17E{p})$ and the values on top of them the amount of traffic demand passing on each given edge.\relax }}{68}}
+\newlabel{fig:cyclic_opt}{{5.11}{68}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Conclusion}{68}}
+\citation{1039866}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Traffic engineering with SR}{69}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:te}{{6}{69}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.1}{\ignorespaces Small example where shortest path routing is not ideal for TE.\relax }}{69}}
+\newlabel{fig:te-example}{{6.1}{69}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}Traffic engineering formalization}{70}}
+\newlabel{prob:tep}{{1}{70}}
+\citation{Altin2009}
+\citation{MCF}
+\newlabel{prob:tep-mul}{{2}{71}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}A brief introduction to LP and MIP}{71}}
+\citation{lp1,lp2}
+\citation{lp3}
+\citation{wolsey}
+\citation{steven}
+\citation{MCF}
+\citation{lp1,lp2}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.2}{\ignorespaces Converting the flow to a path set.\relax }}{74}}
+\newlabel{fig:flow-path}{{6.2}{74}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {6}{\ignorespaces $\textsf  {TE-multipath}\left ( G, \mathcal  {D} \right )$\relax }}{75}}
+\newlabel{line:srmcf_lp}{{1}{75}}
+\newlabel{line:srmcf_buildg}{{4}{75}}
+\newlabel{line:srmcf_p1}{{5}{75}}
+\newlabel{line:srmcf_while}{{6}{75}}
+\newlabel{line:srmcf_delta}{{7}{75}}
+\newlabel{line:srmcf_add}{{8}{75}}
+\newlabel{line:srmcf_for}{{9}{75}}
+\newlabel{line:srmcf_update}{{10}{75}}
+\newlabel{line:srmcf_buildgw}{{11}{75}}
+\newlabel{line:srmcf_pw}{{12}{75}}
+\newlabel{algo:mcf-seg}{{6}{75}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}Traffic engineering with segment routing}{75}}
+\newlabel{prob:srte}{{3}{75}}
+\citation{bhatia}
+\newlabel{prob:srte-mul}{{4}{76}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3.1}Existing MIP models and algorithms for SRTE}{76}}
+\citation{hartert18}
+\citation{defo,hartert2015solving}
+\citation{steven}
+\citation{desaulniers2006column}
+\@writefile{toc}{\contentsline {section}{\numberline {6.4}The idea behind Column Generation}{79}}
+\citation{desaulniers2006column}
+\citation{branchPrice}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.3}{\ignorespaces The CG framework used in this thesis.\relax }}{83}}
+\newlabel{fig:col-gen-schema}{{6.3}{83}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.5}CG for the path model}{83}}
+\newlabel{prob:srte-pricing}{{5}{86}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.6}Minimizing the worst link utilization $\lambda $}{87}}
+\citation{repetita}
+\citation{defo,hartert2015solving}
+\citation{bhatia}
+\citation{steven}
+\citation{repetita}
+\citation{gravitymodel}
+\citation{repetita}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {7}{\ignorespaces $\textsf  {iterate-CG}\left ( G, \mathcal  {P}, \mathcal  {D}, \lambda , \textit  {maxp} \right )$\relax }}{89}}
+\newlabel{line:mastersolve}{{1}{89}}
+\newlabel{line:coststart}{{2}{89}}
+\newlabel{line:costend}{{5}{89}}
+\newlabel{algo:iterate}{{7}{89}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {8}{\ignorespaces $\textsf  {binsearch-CG}\left ( \mathcal  {D}, \lambda _M, k, \epsilon , \textit  {maxp} \right )$\relax }}{89}}
+\newlabel{line:init}{{1}{89}}
+\newlabel{algo:SRGen}{{8}{89}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.7}CG experimental results}{89}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {9}{\ignorespaces $\textsf  {column-generation}\left ( \mathcal  {P}, \mathcal  {D}, \lambda , \textit  {maxp} \right )$\relax }}{90}}
+\newlabel{algo:colgen}{{9}{90}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.4}{\ignorespaces Lower bound\relax }}{90}}
+\newlabel{fig:optimum_lowerbound}{{6.4}{90}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.7.1}Near-optimum evaluation}{90}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.5}{\ignorespaces Gap\relax }}{91}}
+\newlabel{fig:optimum:gap}{{6.5}{91}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.6}{\ignorespaces Execution time (CG4SR\nobreakspace  {}is limited to two segments)\relax }}{92}}
+\newlabel{fig:optimum:time}{{6.6}{92}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.7.2}Any-time behavior}{92}}
+\citation{b4}
+\citation{scmon}
+\citation{gravitymodel}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.7}{\ignorespaces Number of generated columns over the size of the demand matrices\relax }}{93}}
+\newlabel{fig:size:colgen}{{6.7}{93}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.8}{\ignorespaces Timeout at 1 minute\relax }}{94}}
+\newlabel{fig:anytime:1min}{{6.8}{94}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.9}{\ignorespaces Timeout at 5 minutes\relax }}{94}}
+\newlabel{fig:anytime:5min}{{6.9}{94}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.10}{\ignorespaces Timeout at 10 minutes\relax }}{95}}
+\newlabel{fig:anytime:10min}{{6.10}{95}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.11}{\ignorespaces Gaps between $SRTE-LP(\mathcal  {P}\mathcal  {D}\lambda )$ and SRLS or CG4SR\nobreakspace  {}after 10 min with a limit of 6 segments\relax }}{95}}
+\newlabel{fig:anytime:srlsdefense}{{6.11}{95}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6.12}{\ignorespaces The CG4SR\nobreakspace  {}solutions with or without adjacency segments. The limit of segments is fixed to 4.\relax }}{96}}
+\newlabel{fig:adjacency:upperbound}{{6.12}{96}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.7.3}Adjacency segment benefits}{96}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}Network monitoring with segment routing}{99}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chapter:scmon}{{7}{99}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces European backbone of \textsf  {OVH}. In contrast to prior techniques, our algorithm can monitor health and performance of single links in bundles (e.g., between \textsf  {LONDON} and \textsf  {ROUBAIX}).\relax }}{100}}
+\newlabel{fig:ovh}{{7.1}{100}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces First case of edge covering.\relax }}{101}}
+\newlabel{fig:cover-edge1}{{7.2}{101}}
+\newlabel{prob:min-seg-cover}{{1}{101}}
+\newlabel{prob:min-cycle-cover}{{2}{101}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.1}Minimum segment cost covers}{101}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.3}{\ignorespaces Second case of edge covering.\relax }}{102}}
+\newlabel{fig:cover-edge2}{{7.3}{102}}
+\newlabel{thm:edge-cover}{{7.1}{102}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {10}{\ignorespaces $\textsf  {build-srcycle}\left ( G, s, k, e \right )$\relax }}{104}}
+\newlabel{line:case1-cycle}{{2}{104}}
+\newlabel{line:case1-cycle-end}{{7}{104}}
+\newlabel{line:case2-cycle}{{9}{104}}
+\newlabel{line:case2-cycle-end}{{15}{104}}
+\newlabel{algo:build-cycle}{{10}{104}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {11}{\ignorespaces $\textsf  {cover-exists}\left ( G, s, k \right )$\relax }}{104}}
+\newlabel{algo:cover-exists}{{11}{104}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {12}{\ignorespaces $\textsf  {min-seg-cover}\left ( G, s \right )$\relax }}{105}}
+\newlabel{algo:min-seg-cover}{{12}{105}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {13}{\ignorespaces $\textsf  {min-seg-cover}\left ( G \right )$\relax }}{105}}
+\newlabel{algo:min-seg-cover2}{{13}{105}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.4}{\ignorespaces Runtime CDF of Algorithm 13\hbox {} over all topologies.\relax }}{106}}
+\newlabel{fig:min-seg-cover-runtime}{{7.4}{106}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.5}{\ignorespaces Runtime by topology size of Algorithm 13\hbox {} over all topologies.\relax }}{106}}
+\newlabel{fig:min-seg-cover-runtime-size}{{7.5}{106}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {14}{\ignorespaces $\textsf  {build-det-srpath}\left ( G, k, s, t \right )$\relax }}{107}}
+\newlabel{algo:build-det-srpath}{{14}{107}}
+\@writefile{toc}{\contentsline {section}{\numberline {7.2}Colu

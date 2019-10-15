@@ -1,0 +1,155 @@
+\section{Traffic engineering with segment routing}
+
+In this section we discuss the variants of Problems \ref{prob:tep} and \ref{prob:tep-mul} when
+instead of using arbitrary paths for routing, we use sr-paths. The SR version of the TE problem is
+obtained by replacing paths by sr-paths, $\cnt(p_i, e)$ by $\r(\sr{p}_i, e)$ and adding a constraint on the segment cost of 
+the sr-paths found. Recall that $\r(\sr{p}_i, e)$ was defined on Chapter \ref{chapter:sr-optimal} and represents the 
+proportion of the traffic that traverses edge $e$ when routing over sr-path $\sr{p}$.
+
+This last constraint is important to ensure that the paths can be supported by the routers in the network.
+This leads to the definition of the following two problems which, respectively, correspond to Problems \ref{prob:tep} and \ref{prob:tep-mul}.
+
+\begin{problem}{Segment routing traffic engineering}
+\label{prob:srte}
+\textbf{Input:} A network $G$, a set of demands $\mathcal{D} = \{d_1, \ldots, d_n\}$ on $G$ and $k \in \mathbb{N}$.
+
+\textbf{Output:} The minimum factor $\lambda \geq 0$ and set of sr-paths on $G$, $\sr{p}_1, \ldots, \sr{p}_n$ such that $\sr{p}_i$ is a 
+sr-path from $s_i$ to $t_i$ with $\cost(\sr{p}_i) \leq k $ and for each link $e \in E(G)$ it holds
+$$
+\sum_{i = 1}^n \r(\sr{p}_i, e) \cdot \vol(d_i) \leq \lambda \cdot \bnd(e).
+$$ 
+\end{problem}
+
+\begin{problem}{Segment routing traffic engineering}
+\label{prob:srte-mul}
+\textbf{Input:} A network $G$, a set of demands $\mathcal{D} = \{d_1, \ldots, d_n\}$ on $G$ and $k \in  \mathbb{N}$.
+
+\textbf{Output:} The minimum factor $\lambda \geq 0$ and set of sr-paths on $G$, $\sr{\mathcal{P}}_1, \ldots, \sr{\mathcal{P}}_n$ such that
+$\sr{\mathcal{P}}_i$ is a 
+non-empty set of pairs $(\sr{p}, f)$ where $\sr{p}$ sr-path from $s_i$ to $t_i$ with $\cost(\sr{p}_i) \leq k $, $f \in [0, 1]$ and for each link $e \in E(G)$ it holds
+$$
+\sum_{i = 1}^n \sum_{(\sr{p}, f) \in \sr{\mathcal{P}}_i} f \cdot \r(\sr{p}, e) \cdot \vol(d_i) \leq \lambda \cdot \bnd(e).
+$$ 
+\end{problem}
+
+The minimum segmentation algorithm provides a way to translate solutions of Problems \ref{prob:tep} and \ref{prob:tep-mul}
+into solutions of Problems \ref{prob:srte} and \ref{prob:srte-mul}, respectively. The advantage of this approach is that
+makes it possible to leverage existing algorithms for solving these widely studied graph problems. The drawback of course
+is that since these algorithms are oblivious to segment routing, there is no way of knowing whether or not the output paths will
+require too many segments for routers to be able to support them.
+
+We first evaluate the segment cost mentioned above. 
+We already did this in the previous chapter when we considered the problem of computing minimum latency sr-paths.
+This is a way to evaluate how necessary it is to develop dedicated algorithms and how often we can get away by
+simply segmenting graph centric solutions using the minimum segmentation algorithm proposed in Chapter \ref{chapter:sr}.
+Perhaps in the future routers will be able to support a high amount of segments
+and whenever this is the case, it will become fruitless to develop dedicated algorithms.
+
+% We used the dataset from the Repetita project to evaluate the segment cost of solutions to Problem \ref{prob:tep}. For each topology
+% we executed Algorithm \ref{algo:mcf-seg} defined in the previous section and segment all the paths from the solution. Figure 
+% \ref{fig:minseg_MCF} shows a CDF  of the maximum segment cost of minimum segmentation the path sets correspond to each demands,
+% over all topologies.
+% 
+% \begin{figure}
+% \begin{center}
+% \includegraphics[scale=0.6]{./Network-lib/data/plot/todo.pdf}
+% \end{center}
+% \caption{CDF of the segment cost of the minimal segmentations of solution computed with Algorithm \ref{algo:mcf-seg}.}
+% \label{fig:minseg_MCF}
+% \end{figure}
+
+
+\subsection{Existing MIP models and algorithms for SRTE}
+
+We now have all the tools needed to describe existing models for the traffic engineering problem with segment routing.
+The first approach that was developed by Bathia et al and considers only sr-paths of the form $\langle s, x, t \rangle$ to route a demand from
+$s$ to $t$ \cite{bhatia}. That is, it restricts the set of admissible sr-paths to sr-paths with a single detours towards a given
+router $x$ on the network. The main advantage of doing this is that we obtain a very efficient model since for each demand 
+there is a single decision to make: which intermediate router to use.
+
+% To simplify the notations and model formulations, it is convenient to define the set of all sr-paths with a segment cost lower
+% than a given constant.
+% 
+
+% 
+% With this notation,
+
+Let $\PB = \left\{ \langle \src(d), x, \dst(d) \rangle \mid x \in V(G) \right\}$. We define binary variables $x_{dp}$ such that $x_{dp} = 1$ if and only if demand $d$ is routed
+over sr-path $p$.  Their model can be formulated as follows.
+
+\begin{center}
+\begin{tabular}{crcllr}
+\multicolumn{5}{l}{$\bhatia(G, \mathcal{D})$} \\[0.5cm] 
+$\displaystyle \mathbf{min}$ & $\lambda$ & & & & \\[0.5cm]
+$\textbf{s.t.}$ & $\displaystyle \sum_{p \in \PB} x_{d p}$ & $=$ & $1$ & $\forall d \in \mathcal{D}$ \\[0.5cm] 
+& $\displaystyle \sum_{\sr{p} \in \PB} \sum_{d \in \mathcal{D}} \r(\sr{p}, e)  \cdot \vol(d) \cdot x_{dp}$ & $\leq$ & $\lambda \cdot \bnd(e)$ & $\forall e \in E(G)$ \\[0.5cm]
+& $x_{dp} \in \{ 0, 1 \}$ & & & $\forall p \in \PB, \ \forall d \in \mathcal{D}$
+\end{tabular}
+\end{center}
+
+
+The first set of constraints specifies that each demand has to be served by exactly one path. The second set of constraints ensures that no edge 
+carries more than $\lambda \cdot \bnd(e)$ traffic.
+
+The model that we use for our column generation solution is a generalization of this one where we replace the set of paths considered, $\PB$
+by the set of all sr-paths with at most a given segment cost, $\mathcal{\sr{P}}_k(G)$. 
+Renaud Hartert already had proposed this generalization in his thesis \cite{hartert18}. The only difference between his model and ours is that we also
+consider adjacency segments in our sr-paths whereas his model only considered node segments. We discuss our model in more detail in the next section.
+
+In his thesis, Hartert also proposed another model called \emph{segment model}. This model is closely related to the IP version of the model that we presented for the
+multi-commodity flow \mcflp. In the integral MCF model, we use variables $x_{ed}$ to indicate whether demand $d$ is routed though edge $e$. Then
+we use classic flow conservation constraints to ensure that if $x_{ed} = 1$ then we have a path $(e_1, \ldots, e_l)$ starting at
+$\src(d)$ and ending at $\src(d)$ such that $x_{e_1 d} = 1, \ldots, x_{e_l d} = 1$. In the segment model, instead of edges we consider the shortest
+path subgraphs. Concretely, we use variables $x^d_{u v}$ for $d \in \mathcal{D}, u, v \in V(G)$
+defined such that $x^d_{u v} = 1$ if and only demand $d$ is routed over the shortest paths between nodes $u$ and $v$, that is, the subgraph $\sp(u, v)$. 
+Then we use the same flow conservation constraints to ensure that whenever $x^d_{uv} = 1$ then there exists a sequence of nodes
+$(v_1 = s, v_2, \ldots, v_k = t)$ such that $x^d_{v_1 v_2} = x^d_{v_2 v_3} = \ldots = x^d_{v_{k - 1} v_k} = 1$ meaning that we route the demand
+$d$ by following the shortest paths from $v_1$ to $v_2$, then from $v_2$ to $v_3$ and so on. In other words, we use sr-path 
+$\langle v_1, v_2, \ldots, v_k \rangle$ to route $d$.
+
+\begin{center}
+\begin{tabular}{rcllr}
+\multicolumn{5}{l}{$\srteseg(G, \mathcal{D})$} \\[0.5cm] 
+\multicolumn{3}{l}{$\mathbf{min} \quad \lambda$} & $\textbf{s.t.}$ & \\[0.5cm]
+$\displaystyle \sum_{d = 1}^r \sum_{u, v \in V(G) : u \neq v} x^d_{uv} \cdot \r(u, v, e) \cdot \vol(d)$ & $\leq$ & $\lambda \cdot \bnd(e)$ & $\forall e \in E(G)$ & \\[0.5cm]
+$\displaystyle \sum_{u \in V(G) \setminus \{ v \}} x^d_{uv} - \sum_{u \in V(G) \setminus \{ v \}} x^d_{vu}$ & $=$    &  $0$ & $\forall d = (s, t, \nu) \in \mathcal{D}$, & \\[-0.2cm]
+& & & $\forall v \in V(G) \setminus \{ s, t \}$ & \\[0.5cm]
+$\displaystyle \sum_{u \in V(G) \setminus \{ s \}} x^d_{us} - \sum_{u \in V(G) \setminus \{ s \}} x^d_{us}$ & $=$    & $-1$ & $\forall i \in \{ 1, \ldots, r \}$, \\[-0.2cm]
+& & & $\forall d = (s, t, \nu) \in \mathcal{D}$ \\[0.5cm]
+$\displaystyle \sum_{u \in V(G) \setminus \{ t \}} x^d_{ut} - \sum_{u \in V(G) \setminus \{ t \}} x^d_{ut}$ & $=$    &  $1$ & $\forall i \in \{ 1, \ldots, r \}$, \\[-0.2cm]
+& & & $\forall d = (s, t, \nu) \in \mathcal{D}$ \\[0.5cm] 
+$x^d_{uv}$  &    $\in$    &  $\{0, 1\}$  & $\forall e \in E(G), \ \forall d \in \mathcal{D}$ & \\[0.5cm]
+$\lambda \geq 0$ & & & &    
+\end{tabular}
+\end{center}
+
+
+As it is, this model does not make any guarantees on the number of segments used to route a demand. We can overcome this by adding the following additional constraint
+limiting the maximum number of node segments in the sr-paths to $k$:
+
+$$
+\sum_{u, v \in V(G) : u \neq v} x^d_{u, v} \leq k \quad \forall d \in \mathcal{D}.
+$$
+
+In all these models, by relaxing the integrability constraints to allow the variables to take any real value in $[0, 1]$ we automatically get a polynomial time solvable
+LP for Problem \ref{prob:srte-mul} (over the restricted set of sr-paths that each model considers). 
+
+\subsubsection*{Model comparison}
+
+Due to its simplicity, optimal solutions of $\bhatia$ can be computed very efficiently. It it a relaxation of Problem \ref{prob:srte} because it significantly restricts the
+sets of sr-paths that can be used by considering only paths in $P_1$. The generalization of this model consisting of replacing $P_1$ by $\mathcal{\sr{P}}_k$ removes this 
+restriction by considering any possible sr-path whose segment cost is at most $k$ to route any given demand. The problem of this model is that it contains a number of variables
+which is exponential with respect to $k$ since $|\Pk| = O(|G|^k)$. This means that even for small values of $k$ it will not scale. Hartert showed in his thesis that even for $k \geq 3$ the number of 
+variables is too big to allow good solutions to be found in a reasonable amount of computation time. We will show how we use column generation to overcome this problem the next section.
+
+The segment model presented above overcomes this problem by implicitly representing sr-paths with flow conservation constraints. With this, it manages
+to model sr-paths of segment cost up to $k$ using only $|V(G)|^2 \cdot |\mathcal{D}|$ variables. One drawback of this solution is that it
+cannot represent sr-paths containing adjacency segments. Moreover, it turns out that on the larger topologies this model quickly becomes too large as well. This is not
+surprising since with one demand per pair of nodes the total number of variables is about $|V(G)|^4$.
+
+Other researchers have proposed heuristic techniques for solving Problem \ref{prob:srte}. Hartert et al. proposed in DEFO \cite{defo,hartert2015solving} a Large
+Neighborhood Search technique combined with Constraint Programming. Later, Gay et al. proposed in \cite{steven} to use standard local search to iteratively improve the current solution. 
+These heuristic approaches are rather efficient but provide no way of knowing how far from the optimal value they end up.
+Moreover, all the existing approaches only consider node segments in their formulation. They are thus not able to fully exploit the flexibility of segment routing with adjacency segments.
+Not only that but we have shown in our experiments that, on instances where only a few routing configuration lead to good solution, these heuristic approaches have difficulty of finding them. 
+This is a common drawback of LS since in such cases it becomes very unlikely for the search to be able to reach these very precise configurations.

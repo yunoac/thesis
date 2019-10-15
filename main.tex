@@ -1,0 +1,336 @@
+\documentclass[a4paper,10pt]{book}
+
+\usepackage{eulervm}
+
+% packages
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor,colortbl}
+\usepackage{makecell}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage[]{algorithm}
+\usepackage[noend]{algorithmic}
+\usepackage{enumerate}% http://ctan.org/pkg/enumerate
+\usepackage{varwidth}
+
+\usepackage{url}
+\usepackage{cite}
+\usepackage{tikz}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage[]{algorithm}
+\usepackage[noend]{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{amsthm}
+\usepackage{xstring}
+\usepackage{tabstackengine}
+\usepackage[space]{grffile}
+\usepackage{subfig}
+\usepackage{balance}
+
+\usepackage{tabularx}
+
+
+
+%%
+%\algnewcommand{\LineComment}[1]{\State \(\triangleright\) #1}
+%% colors
+\definecolor{green}{RGB}{169,223,191}
+\definecolor{darkgreen}{RGB}{46,139,87}
+\definecolor{gray}{RGB}{160,160,160}
+\definecolor{lightgray}{RGB}{220,220,220}
+\definecolor{darkgray}{RGB}{120,120,120}
+\definecolor{seagreen}{RGB}{46,139,87}
+
+\definecolor{router}{RGB}{255,255,255}
+\definecolor{marked}{RGB}{220,220,220}
+
+\usetikzlibrary{calc}
+
+%
+
+% theorems
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem*{observation*}{Observation}
+\newcommand{\just}[1]{\tag*{\footnotesize {\color{darkgray}[#1]}}}
+
+%%
+
+% notations
+\newcommand{\fset}{F}
+\newcommand{\powerset}{\mathcal{P}}
+\newcommand{\igp}{\mathsf{igp}}
+\newcommand{\lat}{\mathsf{lat}}
+\newcommand{\bnd}{\mathsf{cap}}
+\newcommand{\idx}{\mathsf{idx}}
+
+\newcommand{\src}{\mathit{src}}
+\newcommand{\dst}{\mathit{dst}}
+\newcommand{\vol}{\mathit{vol}}
+
+
+\newcommand{\mcflp}{\textsf{MCF-LP}}
+\newcommand{\srtepath}{\textsf{SRTE-PATH}}
+\newcommand{\srtepathdem}{\textsf{SRTE-DEM}}
+\newcommand{\srtepathlp}{\textsf{SRTE-DEM-LP}}
+\newcommand{\srtepathlpdual}{\textsf{SRTE-DEM-DUAL}}
+\newcommand{\bhatia}{\textsf{SRTE-1DET}}
+\newcommand{\srteseg}{\textsf{SRTE-SEG}}
+\newcommand{\PB}{P_1}
+
+
+\renewcommand{\sp}{\mathsf{SP}}
+\newcommand{\SP}{\mathsf{SP}}
+\newcommand{\seq}{\mathsf{path}}
+
+\newcommand{\oute}{\delta^+}
+\newcommand{\ine}{\delta^-}
+\newcommand{\outn}{\mathcal{N}^+}
+\newcommand{\inn}{\mathcal{N}^-}
+
+\newcommand{\dist}{d}
+
+
+\newcommand{\latmax}{\mathit{lat}_\mathit{M}}
+\newcommand{\latavg}{\mathit{lat}_\mu}
+
+\newcommand{\adj}{\textsf{adj}}
+
+\newcommand{\cnt}{\mathcal{C}}
+
+%%
+
+\newcommand{\algrule}[1][.2pt]{\par\vskip.5\baselineskip\hrule height #1\par\vskip.5\baselineskip}
+
+\newcommand{\Pk}{\mathcal{\sr{P}}_k}
+\newcommand{\Csk}{\mathcal{\sr{C}}^s_k}
+
+% sr
+\newcommand{\sr}[1]{\vec{#1}}
+\newcommand{\len}{\textit{len}}
+\newcommand{\seg}{\textit{seg}}
+
+\newcommand{\nreach}{\textsf{reach}}
+\newcommand{\ereach}{\textsf{e-reach}}
+
+\newcommand{\spreach}{\textsf{sp-reach}}
+
+\newcommand{\kn}{k_n}
+\newcommand{\ke}{k_e}
+
+\newcommand{\kM}{k_{\max}}
+\newcommand{\km}{k_{\min}}
+
+\renewcommand{\r}{\tau}
+\newcommand{\load}{\mathsf{load}}
+\newcommand{\rev}{\mathsf{rev}}
+
+
+\newcommand{\name}{CG4SR}  % Temporary name
+
+\newcommand{\node}{\textit{node}}
+
+\newcommand{\cost}{\textsf{sr-cost}}
+\newcommand{\mseg}{\textsf{min-seg}}
+\newcommand{\NPhard}{\textsf{NP-hard}}
+\newcommand{\NPcomplete}{\textsf{NP-complete}}
+\renewcommand{\node}[1]{\texttt{#1}}
+\newcommand{\topo}[1]{\textsf{#1}}
+
+\renewcommand{\P}[1]{\mathcal{P}}
+\newcommand{\D}[1]{\mathcal{D}}
+
+
+\newcommand{\edge}[2]{(\node{#1}, \node{#2})}
+
+
+%%% CG CYCLE COVER
+
+\newcommand{\ccPrimalMip}{\textsf{SRCC}}
+\newcommand{\ccPrimalLp}{\textsf{SRCC-LP}}
+\newcommand{\ccDualLp}{\textsf{SRCC-DUAL}}
+
+\newcommand{\ccPrimalLpK}{\textsf{SRCC-LP-K}}
+\newcommand{\ccDualLpK}{\textsf{SRCC-DUAL-K}}
+
+
+%%
+
+% tikz
+\usetikzlibrary{calc, shadings, shadows, shapes.arrows}
+\usetikzlibrary{positioning,arrows,backgrounds,decorations.pathmorphing}
+
+\tikzset{%
+  interface/.style={draw, rectangle, rounded corners, font=\LARGE\sffamily},
+  ethernet/.style={interface, fill=yellow!50},% ethernet interface
+  serial/.style={interface, fill=green!70},% serial interface
+  speed/.style={sloped, anchor=south, font=\large\sffamily},% line speed at edge
+  route/.style={draw, shape=single arrow, single arrow head extend=4mm,
+    minimum height=1.7cm, minimum width=3mm,
+    drop shadow={opacity=0, fill=black}, font=\tiny}% inroute / outroute arrows
+}
+\newcommand*{\shift}{1.3cm}
+\newcommand*{\router}[2]{
+\begin{tikzpicture}[yscale=1.5]   
+  \coordinate (ll) at (-3,0.5);
+  \coordinate (lr) at (3,0.5);
+  \coordinate (ul) at (-3,2);
+  \coordinate (ur) at (3,2);
+  \draw [line width=2, fill=#2] (ll) arc (-180:0:3cm and .75cm) -- (ur) arc (0:-180:3cm and .75cm)
+    -- cycle;
+  \draw [line width=2, fill=#2] (ul)
+    arc (-180:180:3cm and .75cm);
+  \node[text width=5cm,text centered,font=\bfseries] at (0,0.5){};
+  \node[scale=5,text centered,font=\bfseries] at (0,0.5){#1};
+  
+  \begin{scope}[yshift=2cm, yscale=0.28, transform shape]
+    \node[very thick, route, rotate=45, xshift=\shift] {\strut};
+    \node[very thick, route, rotate=-45, xshift=-\shift] {\strut};
+    \node[very thick, route, rotate=-135, xshift=\shift] {\strut};
+    \node[very thick, route, rotate=135, xshift=-\shift] {\strut};
+  \end{scope}
+\end{tikzpicture}}
+
+\tikzset{
+  wavy/.style = {
+     decorate,
+     decoration = {snake, amplitude=1.5mm, segment length=8mm}
+  },
+  main node/.style={circle,fill=gray!25,draw,font=\sffamily\Large\bfseries}
+}
+%%
+\newcommand{\lnt}[1]{\overline{\ln}^{#1}}
+
+\newcommand{\todo}[1]{{\color{red}\textbf{TODO:~}#1}}
+\newcommand{\note}[1]{{\color{orange}#1}}
+
+\newcommand{\question}[1]{{\color{cyan}#1}}
+
+
+\newcommand{\crit}{\mathsf{cr}}
+
+\newcommand{\forw}{\mathsf{forw}}
+\newcommand{\fail}{\mathsf{fail}}
+
+\newcommand{\maxflow}{\textsf{MAX-FLOW}}
+\newcommand{\maxedp}{\textsf{MAX-EDP}}
+\newcommand{\minlatedp}{\textsf{MIN-LAT-EDP}}
+\newcommand{\sredpseg}{\textsf{SR-EDP-SEG}}
+\newcommand{\sredpfortz}{\textsf{SR-EDP-FORTZ}}
+\newcommand{\sredp}{\textsf{SR-2EDP}}
+
+\newcommand{\hide}[1]{{\color{gray} #1}}
+
+\newcommand{\cmt}[1]{{\color{darkgreen}$\quad$[#1]}}
+\newcommand{\cmtline}[1]{\STATE {\color{darkgreen}[#1]}}
+
+\newcounter{pbcnt}[chapter]
+\newenvironment{problem}[1]% environment name
+{
+  \refstepcounter{pbcnt}
+  \setlength{\parindent}{0pt}
+  \par\vspace{\baselineskip}
+  \textbf{Problem \thepbcnt~(#1)}\begin{itshape}%
+  \par\vspace{\baselineskip}\ignorespaces
+}
+{
+  \end{itshape}\ignorespacesafterend\newline
+} 
+
+\begin{document}
+
+\tableofcontents
+
+%\todo{have a section explaining how to read CDF}
+\input{chapters/introduction.tex}
+\input{chapters/graph-theory.tex}
+\input{chapters/analysis.tex}
+\input{chapters/segment-routing.tex}
+\input{chapters/min-lat-sr.tex}
+\input{chapters/te.tex}
+\input{chapters/network-monitoring.tex}
+\input{chapters/disjoint.tex}
+
+\chapter{Conclusion}
+
+In this thesis we proposed a first mathematical formalization of segment routing. So far, segment routing had been used
+to solve some networking problems such as traffic engineering but the further that these results would go in terms of 
+formalization was showing how to model segment routing in terms of linear constraints.
+
+We go a step further and show interesting results about the structure of these segment routing paths. We showed that these
+results have practical applications by exploiting them to solve several algorithmic problems related to segment routing. \\
+
+The most important results were:
+
+\begin{itemize}
+
+ \item Minimal segmentations can be computed in polynomial time. This result opens the door to solving segment routing problems
+ by ignoring segment routing constraints and solving the problem as a graph problem and only segmenting the resulting paths
+ in the end. This is, of course, not always applicable in practice as solving problem in this way yields results that are
+ sub-optimal in terms of the number of segments used in the final solution. Nevertheless, as the routers' capacity to support segments
+ increases, we believe that this will become the standard approach.
+ 
+ \item We can always connect two connected routers with a acyclic sr-path. This result can be leveraged to prune cyclic solutions on
+ problems where we can prove that a cyclic sr-path will always be sub-optimal.
+ 
+ \item In some applications, such as network monitoring, we need to be know exactly which network links are used to forward traffic. We
+ defined a notion of determinism for sr-paths that expresses this requirement. We provided bound on the minimum segment cost to connect
+ two nodes of any given network with deterministic sr-paths.
+ 
+ \item Computing a cycle cover of a graph that uses a minimal amount of segments to 
+ represent the cycles can be achieve in polynomial time.
+ 
+ \item Computing minimum cost sr-paths can be done in polynomial time. The algorithm can be leveraged to compute
+ minimum latency sr-paths and maximum capacity sr-paths.
+ 
+\end{itemize}
+
+Apart from this more theoretical aspect, we have also showed how to exploit segment routing on several real world applications.
+
+\begin{itemize}
+ \item We showed that we can leverage segmenting for network monitoring of single link failures. We proposed an algorithm that yields a
+ solution with minimal segment cost. We also extended that solution using column generation in order to try to reduce the number 
+ probes that are necessary for monitoring.
+ 
+ \item We propose an alternative solution for the traffic engineering problem with segment routing based on column generation. Our 
+ solution provided near optimal solutions that run faster than previous linear programming models. It also provides a lower bound so we can
+ evaluate how good the solution is.
+ 
+ \item Robust and low latency connections are important for applications that require low latency. We showed how we can compute and
+ implement disjoint path using segment routing. We also improved on this solution by exploiting properties of segment routing paths 
+ for providing failure tolerance guarantees to our solution.
+\end{itemize}
+
+While writing this thesis we also left some open problems which show that there is still a lot to be done when is comes to
+segment routing. Our results show that the deployment of segment routing can lead to improved communications with low 
+overhead. 
+
+\begin{itemize}
+ \item We showed that we can compute a sr-cycle cover of a network in polynomial time but our complexity is still quite high.
+ How fast can we solve this problem?
+ 
+ \item Suppose that we know a set of paths that we want to implement on a network. How to select IGP weights so that the maximum
+ cost of the minimal segmentation of those paths is as small as possible?
+ 
+ \item How can we find IGP weights that are ECMP-free and complete and no weight is above a given constant? Could these weights
+ we a solution to the previous problem?
+ 
+ \item We also proposed several column generation models but we did not solve them to optimality by doing, for instance,
+ a branch-and-price. How efficiently can this be achieved?
+ 
+\end{itemize}
+
+\bibliographystyle{abbrv} 
+\bibliography{biblio}
+
+
+\end{document}

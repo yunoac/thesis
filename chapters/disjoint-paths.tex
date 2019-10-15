@@ -1,0 +1,36 @@
+\chapter{Disjoint sr-paths}
+
+Find disjoint paths in a graph is a very well estabilished problem.
+
+In networking, it has several applications such has bla bla
+
+In this chapter we study this problem of finding disjoint paths in a segment routing
+setting. 
+
+\section{Finding disjoint paths in a graph}
+
+In this sections we describe several problems related to finding disjoint paths in a graph.
+We will see that small changes in the problem definition can have drastic effect on its 
+complexity class.
+
+It its most basic form, we have two nodes on the graph $s$ and $t$ that we wish to connect
+and we seek to find a maximum cardinality set of edge disjoint paths betweem them.
+
+\begin{problem}{Maximum set of edge disjoint paths}
+\label{problem:maxedgedisjoint}
+\textbf{Input:} A graph $G = (V, E)$ and two distinct nodes $s, t \in V$.
+
+\textbf{Output:} A set of edge disjoint $s$-$t$ paths $\{ p_1, \ldots, p_k\}$ of maximum cardinality.
+\end{problem}
+
+Problem \ref{problem:maxedgedisjoint} is solvable in polynomial time.
+
+
+\section{Disjoint sr-paths}
+
+
+
+\begin{definition}
+Two sr-path $p_1$ and $p_2$ are disjoint if and only if $\forw(p_1) \cap \forw(p_2) = \emptyset$.
+\end{definition}
+

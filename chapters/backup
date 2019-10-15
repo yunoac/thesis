@@ -1,0 +1,442 @@
+
+\newpage
+ 
+The following definition 
+
+
+\begin{definition}
+Let $G$ be a network and $X \subseteq V(G)$ a subset of nodes. We define 
+$$
+\oute(G, X) = \{ (u, v, i) \in E(G) \mid u \in X \ \wedge \ v \in V(G) \setminus X \}
+$$
+\end{definition}
+
+
+-------------------------------
+
+Figure \ref{fig:indexing} shows 
+an example of edge indexing and how subgraphs are presented. The edges are labelex with the valude of 
+$\idx(e)$. A subgraph is represented with the green edges. On the bottom we se a bitset corresponding
+to this subgraph with bits set to one on indexes $\idx(e)$ for each edge $e$ in the subgraph.
+
+Given a subset of nodes $X \subseteq V(G)$ we write $\overline{X} = V(G) \setminus X$ and
+the set of edges starting at $X$ and ending at $\overline{X}$ by $E(X, \overline{X})$.
+
+Given two paths $p = (v_1, v_2, \ldots, v_n)$ and $q = (v_n, v_{n + 1}, \ldots, v_m)$ we
+write $p + q = (v_1, \ldots, v_n, v_{n + 1}, \ldots, v_m)$. In particupar, if $e = (u, v)$
+and $p$ is a path ending at node $u$, $p + (u, v)$ denotes the path $p$ to which we append
+edge $e$.
+
+Given two nodes $x, y \in V(G)$, we write $x \rightsquigarrow y$ to express the fact that 
+there exists a path in $G$ from $x$ to $y$.
+
+\note{We need to convert this to directed graph.}
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+
+\node[scale=0.15] (a) at (0.5 + \x,  0.5 + \y) {\router{a}{lightgray}};
+\node[scale=0.15] (b) at (0.5 + \x, -1.0 + \y) {\router{b}{lightgray}};
+\node[scale=0.15] (c) at (2.5 + \x,  0.0 + \y) {\router{c}{lightgray}};
+\node[scale=0.15] (d) at (4.5 + \x,  0.0 + \y) {\router{d}{lightgray}};
+\node[scale=0.15] (e) at (4.0 + \x, -2.0 + \y) {\router{e}{lightgray}};
+\node[scale=0.15] (g) at (6.0 + \x,  0.5 + \y) {\router{g}{lightgray}};
+\node[scale=0.15] (i) at (8.0 + \x,  0.0 + \y) {\router{i}{lightgray}};
+\node[scale=0.15] (h) at (7.0 + \x, -1.5 + \y) {\router{h}{lightgray}};
+\node[scale=0.15] (f) at (4.0 + \x, -3.5 + \y) {\router{f}{lightgray}};
+\node[scale=0.15] (j) at (8.0 + \x, -2.5 + \y) {\router{j}{lightgray}};
+\draw[line width=2, gray] (f) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{15}} (j);
+\draw[line width=2, gray] (h) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{16}} (j);
+\draw[line width=2, gray] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{0}} (b);
+\draw[line width=2, gray] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{2}} (c);
+\draw[line width=2, gray] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{6}} (c);
+\draw[line width=2, gray] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{4}} (e);
+\draw[line width=2, gray] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{5}} (f);
+\draw[line width=2, gray] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{8}} (f);
+\draw[line width=2, gray] (h) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{11}} (f);
+\draw[line width=2, gray] (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{13}} (i);
+\draw[line width=2, gray] (i) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{14}} (h);
+
+%%%%
+\draw[line width=2, darkgreen]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{10}} (g);
+\draw[line width=2, darkgreen]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{7}} (e);
+\draw[line width=2, darkgreen]  (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{9}} (h);
+\draw[line width=2, darkgreen]  (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{12}} (h);
+\draw[line width=2, darkgreen]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{1}} (c);
+\draw[line width=2, darkgreen]  (c) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{3}} (d);
+%%%%
+
+%\draw[line width=2] (\x + 10, \y + -1) edge[above] node[font=\bfseries] {\tiny $\idx(e)$} (\x + 10.5, \y + -1);
+
+\def\dx{0}
+\def\dy{-5}
+
+\fill[gray] (\dx, \dy) rectangle  (\dx + 8.5, \dy + 0.5);
+\fill[darkgreen] (\dx + 0.5, \dy + 0) rectangle (\dx + 1, \dy + 0.5);
+\fill[darkgreen] (\dx + 1.5, \dy + 0) rectangle (\dx + 2, \dy + 0.5);
+\fill[darkgreen] (\dx + 3.5, \dy + 0) rectangle (\dx + 4, \dy + 0.5);
+\fill[darkgreen] (\dx + 4.5, \dy + 0) rectangle (\dx + 5.5, \dy + 0.5);
+\fill[darkgreen] (\dx + 6, \dy + 0) rectangle (\dx + 6.5, \dy + 0.5);
+
+
+\draw (\dx, \dy) rectangle  (\dx + 8.5, \dy + 0.5);
+\foreach \x in {0.5,1,...,8.5} {
+  \draw (\dx + \x, \dy + 0) -- (\dx + \x, \dy + 0.5);
+}
+\node at (\dx + 0.25, \dy + -0.2) {\tiny \texttt{0}};
+\node at (\dx + 0.75, \dy + -0.2) {\tiny \texttt{1}};
+\node at (\dx + 1.25, \dy + -0.2) {\tiny \texttt{2}};
+\node at (\dx + 1.75, \dy + -0.2) {\tiny \texttt{3}};
+\node at (\dx + 2.25, \dy + -0.2) {\tiny \texttt{4}};
+\node at (\dx + 2.75, \dy + -0.2) {\tiny \texttt{5}};
+\node at (\dx + 3.25, \dy + -0.2) {\tiny \texttt{6}};
+\node at (\dx + 3.75, \dy + -0.2) {\tiny \texttt{7}};
+\node at (\dx + 4.25, \dy + -0.2) {\tiny \texttt{8}};
+\node at (\dx + 4.75, \dy + -0.2) {\tiny \texttt{9}};
+\node at (\dx + 5.25, \dy + -0.2) {\tiny \texttt{10}};
+\node at (\dx + 5.75, \dy + -0.2) {\tiny \texttt{11}};
+\node at (\dx + 6.25, \dy + -0.2) {\tiny \texttt{12}};
+\node at (\dx + 6.75, \dy + -0.2) {\tiny \texttt{13}};
+\node at (\dx + 7.25, \dy + -0.2) {\tiny \texttt{14}};
+\node at (\dx + 7.75, \dy + -0.2) {\tiny \texttt{15}};
+\node at (\dx + 8.25, \dy + -0.2) {\tiny \texttt{16}};
+
+
+\node at (\dx + 0.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 0.75, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 1.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 1.75, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 2.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 2.75, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 3.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 3.75, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 4.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 4.75, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 5.25, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 5.75, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 6.25, \dy + 0.25) {\tiny \texttt{1}};
+\node at (\dx + 6.75, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 7.25, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 7.75, \dy + 0.25) {\tiny \texttt{0}};
+\node at (\dx + 8.25, \dy + 0.25) {\tiny \texttt{0}};
+
+
+\node[anchor=west] at (\dx + 8.5, \dy + 0.25) {\footnotesize subgraph biset};
+
+
+\end{tikzpicture}
+\end{center}
+\label{fig:indexing}
+\caption{Edge indexing and subgraph bitset representation.}
+\end{figure}
+
+\todo{fix network talk}
+
+In traidional networks, packets are routed via shortest paths with respect to the IGP costs that are configured
+on the networks links. In our model, this corresponds to shortest paths with respect to the function $\igp$.
+
+\section{Shortest paths}
+
+In this sections we are going to review shortest path algorithms and provide implementations for them
+using our network model. 
+
+\subsection{Dijktra's algorithm}
+
+Dijktra's algorithm is probably the most used algorithm for computing shortest paths. Its original variant
+\cite{Dijkstra:1959:NTP:2722880.2722945} was used to compute a shortest path between a given source node
+and destination node. Later, it was easily adapter to compute a shrortest path between a source node and all
+other nodes in the graph.
+
+Dijktra's algorithm assumes that all edge weights are non-negative. This means that, in particular, is suited to compute
+shortest paths with respect to the $\igp$ weights. We will describe our implementation that runs in 
+$O(|E| \log|V|)$. Our variant is slightly different than the usual one found in the literature.
+We believe that the proof of corecteness or this variant is more intuitive and that the implementation is
+slightly more natural.
+
+Before we proceed, we would like to note that it is possible to implement Dijkstra's algorithm so that it runs
+in $O(|E| + |V| \log|V|)$. Unfortunately this is more of a theoretical result than a practical one as, in practice, 
+this algorithm tends to run up to 60\% slower on graphs  with about 100 nodes \cite{Knuth:1993:SGP:313559.313609}.
+
+\subsubsection*{Algorithm description}
+
+We denote by $\dist(u, v)$ to be the minimum $\igp$ cost of a path from $u$ to $v$.
+The idea of the algorithm is to maintain a subset of nodes $S$ for which we know the value of 
+$\dist(s, v)$ and at each iteration add a new node to $S$ until $S = V$.
+
+We maintain these distances in an array $\textit{dist}$ such that $\textit{dist}[v] = \dist(s, v)$,
+the shortest path distance from $s$ to $v$. Since we assume that all edges have non-negative
+weights, we know that $\textit{dist}[s] = \dist(s, s) = 0$. Thus, we can initialize $S = \{ s \}$.
+For the other nodes $v \neq s$, we will start with $\textit{dist}[v] = \infty$.
+
+As we said above, at each iteration we aim at finding a new node $v$ for which we can be sure that we
+know $\textit{dist}[v]$ so that we can add it to $S$. To find $v$, we are going to look at all edges
+that go from an element in $S$ to an element outside of $S$ and pick $v$ such that
+$$
+\textit{dist}[u] + w(u, v)
+$$
+is minimal. It is not hard to see that, with this choise of $v$, it hols $\textit{dist}[v] = \textit{dist}[u] + \igp(u, v)$ so
+that we can add $v$ to $S$. Figure \ref{fig:dijkstra} given an intuition on why this has to be the case.
+Imagine that there was a better path going out of $S$ via some other edge $(x, y)$ as shown in orange and red.
+Because of the way in which we selected $v$,
+we know that the orange path costs at least as much as the blue path. Hence, since the edge weights are non-negative,
+the red path is has non-negative cost so this alternative path cannot have a lower cost than the blue path.
+
+The next theorem formalizes this intuitive reasoning.
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=2]
+
+%\node[draw, circle, fill=gray!50!white, font=\bf] (s) at (0, -0.6) {\tiny \texttt{s}};
+%\node[draw, circle, fill=gray!50!white, font=\bf] (u) at (1, 0.4) {\tiny \texttt{u}};
+%\node[draw, circle, fill=gray!50!white, font=\bf] (v) at (1 + 0.7, 0.4 + 0.7) {\tiny \texttt{v}};
+%\node[draw, circle, fill=gray!50!white, font=\bf] (x) at (-0.1, 0.5) {\tiny \texttt{x}};
+%\node[draw, circle, fill=gray!50!white, font=\bf] (y) at (-0.1, 1.5) {\tiny \texttt{y}};
+
+\node[scale=0.15] (s) at (0, -0.6) {\router{s}{lightgray}};
+\node[scale=0.15] (u) at (1.1, 0.3) {\router{u}{lightgray}};
+\node[scale=0.15] (v) at (1+0.7, 0.4 + 0.9) {\router{v}{lightgray}};
+\node[scale=0.15] (x) at (-0.1, 0.5) {\router{x}{lightgray}};
+\node[scale=0.15] (y) at (-0.3, 1.5) {\router{y}{lightgray}};
+
+
+
+\path (s) edge[very thick, out=110, in=270, wavy, ->, orange] (x);
+\draw (x) edge[very thick, ->, orange] (y);
+\path (y) edge[very thick, out=0, in=150, wavy, ->, red] (v);
+
+\path (s) edge[very thick, out=20, in=230, wavy, ->, cyan] (u);
+\draw (u) edge[very thick, ->, cyan] (v);
+
+\draw[very thick, dashed, gray] (0,0) ellipse (2cm and 1cm);
+
+
+\node at (-1.3, -0.4) {$S$};
+
+%\def\y{0.45}
+%\node[anchor=west] at (3, \y + 0.5) {\small $\blacktriangleright$ $(u, v)$: edge out of $S$ with minimum $dist[u]$};
+%\node[anchor=west] at (3, \y + 0) {\small $\blacktriangleright$ $S$: set of nodes for wich $dist$ is known};
+%\node[anchor=west] at (3, \y + -0.5) {\small $\blacktriangleright$ $(s, \ldots, x, y, \ldots, v)$: a path that we suppose};
+%\node[anchor=west] at (3, \y + -0.9) {\small {\color{white} $\blacktriangleright$} is better than $(s, \ldots, u, v)$};
+
+\end{tikzpicture}
+\end{center}
+\caption{Intuition about why $\textit{dist}[v] = \textit{dist}[u] + \igp(u, v)$ if $u \in S$ minimizes $\textit{dist}[z] + \igp(z, v)$, $z \in S$.}
+\label{fig:dijkstra}
+\end{figure}
+
+\begin{theorem}
+\label{thm:sp}
+Let $S$ be a set of nodes $u$ such that $\dist(s, u)$ is known and finite. Let $(u, v) \in E(S, \overline{S})$ be an edge
+minimizing $\dist(s, u) + w(u, v)$. Then $\dist(s, v) = \dist(s, u) + \igp(u, v)$.
+\end{theorem}
+
+\begin{proof}
+Since $\dist(s, u)$ is finite, clearly there exists a path $p$ from $s$ to $u$ in the network. Since $(u, v) \in E(G)$ there exists a path
+from $s$ to $v$ of cost $\dist(s, u) + \igp(u, v)$ in the network, namelly, $p + (u, v)$. Hence
+\begin{equation}
+\label{eq:disjktra-up}
+\dist(s, v) \leq \dist(s, u) + \igp(u, v)
+\end{equation}
+Assume by contradiction that $\dist(s, v) < \dist(s, u) + \igp(u, v)$. Let $q$ be a path in the network such that
+$\igp(q) < \dist(s, u) + \igp(u, v)$. Since $v \notin S$, $q$ must exit the set $S$ at some point, say via some
+edge $(x, y) \in \oute(G, S)$. The we can write $q = (e_1, e_{i - 1}, \ldots, (x, y), e_{i + 1} \ldots, e_l)$ so that
+\begin{align*}
+\igp(q) & = \igp(e_1, \ldots, e_{i - 1}) + \igp(x, y) + \igp(e_{i + 1}, \ldots, e_l)  \just{definition of $\igp(q)$} \\
+        & \geq \igp(e_1, \ldots, e_{i - 1}) + \igp(x, y)                    \just{non-negative weights, $\igp(e_{i + 1}, \ldots, e_l) \geq 0$} \\
+        & \geq \dist(s, x) + \igp(x, y)                          \just{$(e_1, \ldots, e_{i - 1})$ is a path from $s$ to $x$}\\
+        & \geq \dist(s, u) + \igp(u, v)                          \just{$(u, v)$ minimizes $\dist(s, a) + \igp(a, b)$ over $\oute(G, S)$}
+\end{align*}
+contradicting our assumption. Thus $\dist(s, v) \geq \dist(s, u) + \igp(u, v)$ and by 
+(\ref{eq:disjktra-up}) it follows that
+$\dist(s, v) =  \dist(s, u) + \igp(u, v)$.
+\end{proof}
+
+\begin{algorithm}[t]
+\small
+\caption{$\textsf{dijkstra}\left( G, s \right)$}
+\begin{flushleft}
+\textbf{Input:}
+\end{flushleft}
+\vspace{-0.5cm}
+\begin{itemize}
+   \item[--] $G$: the network graph
+   \item[--] $s$: the source node $s \in V(G)$
+\end{itemize}
+\vspace{-0.15cm}
+\textbf{Output:}
+\vspace{-0.1cm}
+\begin{itemize}
+   \item[--] $\textit{dist}$: an array of size $|V(G)|$ such that
+                     $\textit{dist}[v] = \dist(s, v)$
+                     if there exist a path from $s$ to $v$
+                     or $\infty$ otherwise
+\end{itemize}
+\vspace{-0.15cm}
+\begin{algorithmic}[1]
+\algrule
+\STATE $\textit{dist} \gets \textsf{array}(|V(G)|, \infty)$
+\STATE $\textit{dist}[s] \gets 0$
+\STATE $Q \gets \textsf{priority-queue}()$
+\FOR{$e \in G.\textsf{out-edges}(s)$}
+  \STATE $Q.\textsf{add}(e)$
+\ENDFOR
+\WHILE{$|Q| > 0$} \label{dijkstra:while}
+  \STATE $(u, v) \gets Q.\textsf{remove-min}()$ \label{dijkstra:pq}
+  \IF{$\textit{dist}[v] = \infty$} \label{dijkstra:if}
+    \STATE $\textit{dist}[v] \gets \textit{dist}[u] + \igp(u, v)$ \label{dijkstra:update}
+    \FOR{$e \in \oute(G, v)$} \label{dijkstra:for}
+      \STATE $Q.\textsf{add}(e)$ \label{dijkstra:add}
+    \ENDFOR
+  \ENDIF
+\ENDWHILE
+\RETURN $\textit{dist}$
+\end{algorithmic}
+\label{algo:dijkstra}
+\end{algorithm}
+
+\begin{proposition}
+Algorithm \ref{algo:dijkstra} outputs an array of size $|V(G)|$ such that $\textit{dist}[v] = \dist(s, v)$
+if there exist a path from $s$ to $v$ or $\infty$ otherwise.
+\end{proposition}
+
+\begin{proof}
+Let $S$ be the set of nodes such that $\textsf{dist}[v] \neq \infty$ at any given time.
+It is easy to see that because of condition on line $8$, whenver a value is assigned to
+$\textsf{dist}[v]$, this value will never change again. Before the while loop at line \ref{dijkstra:while} we
+have $S = \{ s \}$ and $\textsf{dist}[s] = 0 = \dist(s, s)$. 
+
+Whenever we update a distance
+on line \ref{dijkstra:if}, we have $\textsf{dist}[v] = \infty$ so that $v \notin S$. Thus $(u, v)$ is a edge
+in $\oute(G, S)$ and the usage of a priority queue ensure that it is the one minimizing
+$\dist(s, u) + w(u, v)$ so \ref{thm:sp} ensure that $\textsf{dist}[v] = \dist(s, v)$. After that,
+the value of $\textsf{dist}[v]$ is never modified again.
+\todo{improve this: use induction and argue that we visit every reachable node}
+\end{proof}
+
+The priority queue order used is defined so that $(u_1, v_1) \leq (u_2, v_2)$ if and only if 
+$\dist(s, u_1) + \igp(u_1, v_1) \leq \dist(s, u_2) + \igp(u_2, v_2)$.
+
+\note{If the graph has no parallel edges then we can prove that $Q$ always contains the edges
+in $E(S, \overline{S})$. Otherwise it might be false but everything remains true as they are just
+going to be ignores in the distance check. So each edge is put and extracted at most one time from
+the queue}
+
+\begin{proposition}
+Let $G$ be a network, $n = |V(G)$ and $m = |E(G)|$.
+Algorithm \ref{algo:dijkstra} runs in $O(m \log(n))$. 
+\end{proposition}
+
+\begin{proof}
+Priority queues allow to remove the lowest element in $\log |Q|$ where $|Q|$ is the size of the queue. Therefore,
+line \ref{dijkstra:pq} takes $O(\log |E|)$ to execute at the size of the queue is at most $|E|$. The same goes
+for insertion at line \ref{dijkstra:add}. 
+
+For edge $(v, w)$ to be added into $Q$ at line \ref{dijkstra:add} we need to have $\textit{dist}[v] = \infty$ at line
+\ref{dijkstra:if}. Whenever this happens, we immedialy change $\textit{dist}[v]$ to a finite value at line \ref{dijkstra:update}.
+Hence, each edge $(v, w)$ can only be added at most once into $Q$.
+
+Because of condition at line \ref{dijkstra:if}, lines 
+\ref{dijkstra:update}, \ref{dijkstra:for} and \ref{dijkstra:add} are executed at most once for each
+given $v$. Thus the total cost of lines \ref{dijkstra:if} to \ref{dijkstra:add}, over the whole
+execution of the algorithm is $O(n + m)$.
+
+Therefore the total runtime of the algorithm is
+$$
+O(m \log m + n + m) = O(m \log (n^2)) = O(m \log n)
+$$
+\end{proof}
+
+
+\begin{proposition}
+\label{prop:subsp}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a shortest path on $G$. Then for each
+$i, j \in \{1, \ldots, l\}$ with $i \leq j$, $(e_i, \ldots, e_j)$ a shortest path.
+\end{proposition}
+
+\begin{proof}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a shortest path on $G$ and $i, j \in \{1, \ldots, l\}$
+with $i \leq j$.
+Let $v = e^1_i$ and $u = e^2_j$. Suppose that $(e_i, \ldots, e_j)$ is not a shortest path. 
+There there exists another shorter path $q = (f_1, \ldots, f_r)$ from $u$ to $v$. 
+Consider $p' = (e_1, \ldots, e_{i - 1}, f_1, \ldots, f_r, e_{j + 1}, \ldots, e_l)$.
+Since $q$ is a path from $u$ to $v$ and since $u = f^1_i = e^1_i = e^2_{i - 1}$
+and $v = f^2_r = e^2_{j} = e^1_{j + 1}$ , we have that $p'$ is also a 
+path from $u$ to $v$. This path is shorter than $p$ since
+\begin{align*}
+\igp(p') & = \sum_{k = 1}^{i - 1} \igp(e_k) + \sum_{k = 1}^r \igp(f_k) + \sum_{k = j + 1}^l \igp(e_i) \just{definition of $\igp(p')$} \\
+         & =  \sum_{k = 1}^{i - 1} \igp(e_k) + \igp(q) + \sum_{k = j + 1}^l \igp(e_i) \just{definition of $\igp(q)$}  \\
+         & <  \sum_{k = 1}^{i - 1} \igp(e_k) + \sum_{k = i}^j \igp(e_k) + \sum_{k = j + 1}^l \igp(e_i)  \just{$q$ is shorter than $(e_i, \ldots, e_j)$} \\
+         & = \sum_{k = 1}^l \igp(e_k) = \igp(p) \just{definition of $\igp(p)$}
+\end{align*}
+This contradicts the fact that $p$ is a shortest path.
+\end{proof}
+
+\begin{definition}
+Let $G$ be a network and $r \in V(G)$. We define the \emph{shortest path subgraph rooted at $r$} as
+$\sp(r) = (V, E')$ where $e \in E'$ if there exists $v \in V(G)$ and a shortest path $p$ from
+$r$ to $v$ such that $e \in E(p)$.
+\end{definition}
+
+\begin{lemma}
+\label{lemma:dag}
+Let $G$ be a network and $r \in V(G)$. Then $\sp(r)$ is a directed acyclic graph.
+\end{lemma}
+
+\begin{proof}
+Suppose that there exists a cycle $c = (e_1, \ldots, e_l)$ on $\sp(r)$.
+Then by definition
+there exist shortest paths $p_1, \ldots, p_l$ such that $p_i$ is a shortest path containing $e_i$.
+For each $i$, write $e_i = (u_i, v_i)$, $w_i = \igp(p_1) - \igp(e_i)$. and $j = i + 1$ if $i < l$
+or $1$ if $i = l$.
+
+Before we proceed with the general case, let's see the proof in an example with three nodes. 
+So suppose that $c = (e_1, e_2, e_3)$ as shows in
+Figure \ref{fig:dagintuition}. By definition, $w_1 + \igp(e_1)$ is the cost of a shortest path from $r$ to $b$ and since
+$w_2$ is also the cost of a path from $r$ to $b$ we have that $w_1 + \igp(e_1) \leq w_2$. Since $\igp(e_1) > 0$
+we conclude that $w_1 < w_2$. In the same way we can see that $w_2 < w_3$ and $w_3 < w_1$ leading to
+the contradiction that $w_1 < w_1$.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\node[scale=0.15] (r) at (0, 0) {\router{r}{lightgray}};
+\node[scale=0.15] (a) at (3, -1) {\router{a}{lightgray}};
+\node[scale=0.15] (b) at (3, 1) {\router{b}{lightgray}};
+\node[scale=0.15] (c) at (5, 0) {\router{c}{lightgray}};
+\draw[line width=2] (a) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_1$} (b);
+\draw[line width=2] (b) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_2$} (c);
+\draw[line width=2] (c) edge[above, sloped, ->] node[black,font=\bfseries] {\footnotesize $e_3$} (a);
+\path (r) edge[very thick, out=0, in=180, wavy, ->] node[black,font=\bfseries, above right] {$w_1$} (a);
+\path (r) edge[very thick, out=30, in=130, wavy, ->] node[black,font=\bfseries, above left] {$w_2$} (b);
+\path (r) edge[very thick, out=270, in=240, wavy, ->] node[black,font=\bfseries, above] {$w_3$} (c);
+\end{tikzpicture}
+\end{center}
+\label{fig:dagintuition}
+\caption{Proof intuition on a cycle with $3$ edges.}
+\end{figure}
+
+In general, we have that $w_i + \igp(e_i) \leq w_j$ because $w_i + \igp(e_i)$ is by definition the cost
+of the shortest path from $r$ to $v_i$ and $w_j$ is the cost of a path from $r$ to $v_i$. Since for each $i$,
+$\igp(w_i) > 0$ we conclude that $w_i < w_j$. As this is true for all $i$ we have
+$w_1 < w_2 < \ldots < w_l < w_1$ which is impossible. Therefore such a cycle cannot exist.
+\end{proof}
+
+\begin{lemma}
+\label{lemma:sp-indeg}
+Let $G$ be a network and $v, u \in V(G)$. There exists a unique shortest path from $v$ to $u$ if and only if 
+$\delta^-(\sp(v), u) = 1$, where $\sp(v)$ is the shortest path DAG rooted at $v$. 
+\end{lemma}
+
+
+\subsection{All pairs shortest paths}
+
+
+
+\subsection{Bellman-Ford algorithm}
+
+Bellman-Ford algorithm solves the shortest path problem while dropping the assumption that all the edge weights are non-negative \cite{bellman:routing}. 
+The reason why Bellman-Ford algorithm is important for segment routing is that the way 

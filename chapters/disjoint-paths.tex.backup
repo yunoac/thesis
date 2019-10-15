@@ -1,0 +1,17 @@
+\chapter{Disjoint sr-paths}
+
+Find disjoint paths in a graph is a very well estabilished problem.
+
+In networking, it has several applications such has bla bla
+
+In this chapter we study this problem of finding disjoint paths in a segment routing
+setting. 
+
+\section{Finding disjoint paths in a graph}
+
+\section{Disjoint sr-paths}
+
+\begin{definition}
+Two sr-path $p_1$ and $p_2$ are disjoint if and only if $\forw(p_1) \cap \forw(p_2) = \emptyset$.
+\end{definition}
+

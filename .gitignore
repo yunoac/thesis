@@ -5,8 +5,11 @@
 ./*.pdf
 .backup
 .png
+*synctex*
+*.toc
 Network-lib/data/topologies/real
 Network-lib/data/results/real
+Network-lib/data/topologies_original/real
 Network-lib/.classpath
 Network-lib/.project
 Network-lib/.settings

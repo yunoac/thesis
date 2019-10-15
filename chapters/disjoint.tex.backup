@@ -1,0 +1,192 @@
+\chapter{Disjoint paths with SR}
+\label{chapter:disjoint}
+
+For an Internet Service Provider (ISP), providing disjoint paths to its
+customers might be one of those advanced connectivity services that generate
+more revenues. This is what emerged from our discussion with a national ISP that
+we call ``reference ISP''. When we met them, this ISP's operators themselves
+steered the discussion towards possibilities to provide disjoint paths between
+sites to which a customer is connected. They were motivated by requests from
+banks and financial customers.
+
+We have quickly realized that the disjoint-path connectivity service has a much
+bigger market than our reference ISP. An illustration is provided by the
+NANOG email discussion about a major outage of the Bell network on August
+4th, 2017~\cite{refnanog}. The email thread started with Bell's customers
+complaining that both Internet and mobile connectivity were completely absent in
+East Canada, affecting banking, ATM, land lines and even 911 services. When a
+single fibre cut was indicated as the cause of the outage, someone expressed
+doubts that ISPs really provide geographically diverse circuits, irrespectively
+of what they promise and sell. The following emails discussed the impossibility
+to work around this limitation by relying on two providers, as their networks
+may share the same physical infrastructure (fibres, conduit, etc.), without the
+ISPs even knowing it -- as they do not share information between each other.
+
+The discussion we had with the reference ISP's operators was indeed focused on
+\textit{providing disjoint paths within a single ISP}, their own. A possible
+solution~\cite{art:2014} to achieve this goal is to deploy two parallel
+networks, say a red and a blue copy of the same topology, and configure the
+intra-domain routing protocol (IGP) so that any packet is forwarded in only one of
+the two networks -- i.e., packets that enter the red copy are only forwarded in
+the red copy.
+The few links between the two networks are only used if one of the two copies is
+partitioned. This architecture provides disjoint paths by design, but it is very
+expensive since the entire network is doubled.
+The reference ISP's operators were therefore reluctant to deploy it.
+%The operators discarded solutions
+%based on adding physical redundancy, like the 1+1 protection scheme in optical
+%networks~\cite{}, because of the additional costs. 
+Of course, they were also aware that MPLS tunnels can be created over
+arbitrary paths with RSVP-TE~\cite{rfc3209}, including disjoint ones, on an
+existing infrastructure.
+However, they were in the process of moving away from MPLS, in order to avoid
+its operational limitations~\cite{mpls-opissues-ripe64}, its sub-optimal usage
+of resources~\cite{mpls-latency-imc11} and its scalability challenges with
+respect to the routers' state~\cite{rfc5439,defo-sig15}.
+
+%including synchronization with the
+%underlying IGP and control-plane overhead~\cite{}, scalability~\cite{} and
+%latency inflation~\cite{mpls-latency-imc11}.
+
+Looking at other ISPs, our operators were instead considering Segment Routing
+(SR). SR~\cite{Filsfils_SR:2015} is a recent architecture that several service providers already
+deployed~\cite{srdeploy-16,srbellcanada-17,srmicrosoft-17}. It is a source
+routing technology enabling to force packets via a sequence of nodes, called
+\textit{segments}, by adding information about those nodes inside the packet
+headers.
+The actual paths followed by packets are then determined by the concatenation of
+the shortest paths from each segment to the following one. These shortest paths are
+computed by an underlying IGP, and updated by the IGP itself after failures.
+
+Motivated by this, we dedicate this chapter to the study of the problem of computing and implementing disjoint paths over a network and
+how to implement such paths with segment routing. We are also going to provide a solution for leveraging some properties of sr-paths to
+show how we can provide disjoint paths that are robust to link failures.
+
+\begin{definition}
+Let $G$ be a network and $\sr{p}$ a sr-path on $G$. We say that $\sr{p}$ is cyclic $\forw(\sr{p})$ contains is
+cyclic.
+\end{definition}
+
+\begin{theorem}
+\label{thm:sracyclic_node}
+Let $G$ be a network, $u, v \in V(G)$ with $u \neq v$ and $\sr{p}$ be a sr-path on $G$ from $u$ to $v$ containing only node segments. Then there exists an acyclic sr-path $\sr{q}$ such that
+$\forw(\sr{q}) \subseteq \forw(\sr{p})$ and $\cost(\sr{q}) \leq \cost(\sr{p})$.
+\end{theorem}
+
+\begin{proof}
+If $\sr{p} = \langle x_1, x_2 \rangle$ then $\forw(\sr{p}) = \sp(x_1, x_2)$ and thus it is acyclic by Lemma \ref{lemma:dag}.
+
+To give some intuition about the general case we start by proving the result for $n = 3$. 
+Suppoe now that $\sr{p} = \langle x_1, x_2, x_3 \rangle$. If $\sr{p}$ is acyclic then
+there is nothing to prove since we can just take $\sr{q} = \sr{p}$. Otherwise, Let $y$ be a node such that $\dist(x_1, y)$ is minimal
+and $y$ belongs to a cycle in $\forw(\sr{p})$. Let $\sr{q} = \langle x_1, y, x_3 \rangle$. Suppose that there is a cycle in
+$\forw(\sr{q})$. Let $z$ be a node that is visited more than once in that cycle. Since $\langle x_1, y \rangle$ and $\langle y, x_3 \rangle$ are
+both acyclic we know that $z \neq y$. Therefore, $y$ must occur on a path from $x_1$ to $y$ and also on a path from $y$ to $x_3$. Hence,
+$d(x_1, z) < d(x_1, y)$. On the other hand, $E(\sp(x_1, y)) \subseteq E(\sp(x_1, x_2))$ and $E(\sp(y, x_3)) \subseteq E(\sp(x_1, x_3))$ so 
+$\forw(\sr{q}) \subseteq \forw(\sr{p})$. Thus, in particular, $z$ is also a node in a cycle in $\forw(\sr{p})$ contradicting the choice of $y$ since $d(x_1, z) < d(x_1, y)$.
+We conclude that $\forw(\sr{q})$ is acyclic. Figure
+\ref{fig:acyclicproof1} illustrates this.
+Clearly $\cost(\sr{p}) = \cost(\sr{q})$ since $\cost(y) = \cost(x_2)$ because $y$ is a node segment.
+
+\begin{figure}
+\begin{center}
+\begin{tabular}{ccc}
+\begin{tikzpicture}[scale = 0.8]
+\draw[white] (-1, -1) rectangle (5, 5);
+\node[scale=0.15] (x1) at (0, 0) {\router{$x_1$}{router}};
+\node[scale=0.15] (x2) at (4, 0) {\router{$x_2$}{router}};
+\node[scale=0.15] (x3) at (2, 4) {\router{$x_3$}{router}};
+
+
+\node[scale=0.15] (y) at (2, 2) {\router{$y$}{router}};
+
+\draw[line width=2, black] (x1) edge[below, sloped, bend left, dashed, ->] (y);
+\draw[line width=2, black] (y) edge[below, sloped, bend left, dashed, ->] (x2);
+
+\draw[line width=2, black] (y) edge[below, sloped, bend left, dashed, ->] (x3);
+\draw[line width=2, black] (x2) edge[below, sloped, bend left, dashed, ->] (y);
+
+\end{tikzpicture}
+
+&
+
+\begin{tikzpicture}[scale = 0.8]
+\draw[white] (-1, -1) rectangle (1, 5);
+\node at (0, 2) {$\rightarrow$};
+\end{tikzpicture}
+&
+
+\begin{tikzpicture}[scale = 0.8]
+\draw[white] (-1, -1) rectangle (3, 5);
+
+\node[scale=0.15] (x1) at (0, 0) {\router{$x_1$}{router}};
+\node[scale=0.15] (x3) at (2, 4) {\router{$x_3$}{router}};
+
+
+\node[scale=0.15] (y) at (2, 2) {\router{$y$}{router}};
+
+\draw[line width=2, black] (x1) edge[below, sloped, bend left, dashed, ->] (y);
+
+\draw[line width=2, black] (y) edge[below, sloped, bend left, dashed, ->] (x3);
+
+\end{tikzpicture}
+
+\\
+
+$\langle x_1, x_2, x_3 \rangle$ & & $\langle x_1, y, x_3 \rangle$
+
+\end{tabular}
+\end{center}
+\caption{Illustration of the proof for $\sr{p} = \langle x_1, x_2, x_3 \rangle$.}
+\label{fig:acyclicproof1}
+\end{figure}
+
+For the general case write $\sr{p} = \langle x_1, \ldots, x_n \rangle$. If $\sr{p}$ is acyclic then chose $\sr{q} = \sr{p}$.
+Otherwise let $y$ a the node that appears in a cycle such that $\dist(x_1, y)$ is minimal. Let $i$ be the smallest index
+such that there exists a shortest path from $x_i$ to $x_{i + 1}$ passing by $y$ and $j$ be the largest such index.
+Let $\sr{q} = \langle x_1, \ldots, x_{i - 1}, y, x_{j + 1}, \ldots, x_n \rangle$. In the same way as before, if there is a 
+cycle in $\forw(\sr{q}$ then there is a node $z \neq y$ that is visited by a shortest path form $x_{i'}$ to $x_{i' + 1}$
+and $x_{j'}$ to $y_{j' + 1}$ with $i' < i - 1$ and $j' \geq j + 1$. This contradicts the choice of $y, i$ and $j$.
+Clearly $\sr{q}$ has lower segment cost so the proof is complete.
+\end{proof}
+
+We can prove that the results holds even if $\sr{p}$ is allowed to contain both node and adjacency segments giving the following theorem.
+The proof is a bit more technical since adjacency segments behave a little bit differently. For example with adjacency segments it is not 
+true that $\langle x_1, x_2 \rangle$ is acyclic. If $x_1 = x_2$ then node $x_1$ is visited twice as show in Figure \ref{fig:acyclicproof2}.
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}
+\draw[white] (-1, -1) rectangle (5, 5);
+\node[scale=0.15] (u) at (0, 0) {\router{$u$}{router}};
+\node[scale=0.15] (v) at (3, 0) {\router{$v$}{router}};
+
+\draw[line width=2, black] (u) edge[below, sloped, ->] (v);
+\draw[line width=2, black] (v) edge[below, bend left = 40, dashed, sloped, ->] (u);
+
+\end{tikzpicture}
+
+\end{center}
+\caption{Sr-path $\langle x_1, x_1 \rangle$ with $x_1 = (u, v)$.}
+\label{fig:acyclicproof1}
+\end{figure}
+
+
+\begin{theorem}
+\label{thm:sracyclic}
+Let $G$ be a network, $u, v \in V(G)$ with $u \neq v$ and $\sr{p}$ be a sr-path on $G$ from $u$ to $v$. Then there exists an acyclic sr-path $\sr{q}$ such that
+$\forw(\sr{q}) \subseteq \forw(\sr{p})$ and $\cost(\sr{q}) \leq \cost(\sr{p})$.
+\end{theorem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+%\input{chapters/disjoint/dp.tex}
+
+%\input{chapters/disjoint/dpsr.tex}
+
+%\input{chapters/disjoint/rdp.tex}
+

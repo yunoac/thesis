@@ -1,0 +1,642 @@
+\section{Minimal segmentations}
+
+In this section we study the problem of efficiently representing paths in the network with SR.
+Suppose that you have a path in your network that you want to use to send traffic between two nodes. Traditional
+shortest path routing does not allow you to forward traffic on it unless that path already is a shortest paht with
+respect to the $\igp$ weights configured on the links. SR makes it possible, at least in theory, to forward traffic
+on \emph{any} path in the network since we can always just add all edges of the path as adjacency segments
+in the segment routing stack. In practice however, this solution cannot be implemented because, as we mentioned above, 
+due to hardware limitations of the routers currently deployed in the networks, 
+the stack size is often limited to a few segments \cite{Tantsura_SID:2017}.
+
+This motivates the problem of, given a path $p$ in the network, finding a sr-path $\sr{p}$ that represents $p$. That is, a sr-path $\sr{p}$
+such that if traffic is routed over it, packets will traverse exactly the edges of $p$ in order. To do that, we need a formal definition of what 
+does it mean for a sr-path to represent a path in the network.
+
+\begin{definition}
+Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a deterministic sr-path. We define
+$$
+\seq(\sr{p}) = x_1 \oplus \sp(x^2_1, x^1_2) \oplus x_2 \oplus \ldots \oplus \sp(x^2_{l - 1}, x^1_l) \oplus x_l
+$$
+\end{definition}
+
+Note that since $\sr{p}$ is deterministic, $\seq(\sr{p})$ corresponds to a path in $G$ since each $\sp(x^2_{i - 1}, x^1_i)$
+is a single path.
+
+\begin{definition}
+Let $G$ be a network and $p$ a path on $G$. A deterministic sr-path $\sr{p} = \langle x_1, \ldots, x_l \rangle$ is said to be a segmentation of $p$ if and only if
+$p = \seq(\sr{p})$.
+\end{definition}
+
+Note that we restrict ourselves to deterministic sr-paths since the equality in the above definition would never hold if
+for some $i$, $\sp(x^2_i, x^1_{i + 1})$ was not a path. Moreover, $\oplus$ is only defined if both operands are paths.
+We start by showing that any path possess a segmentation.
+
+\begin{lemma}
+\label{lemma:seg_exists}
+Let $G$ be a network and $p$ a path on $G$. Then, there exists a sr-path $\sr{p}$ such that $\sr{p}$ is a segmentation of
+$p$. Moreover, any path admits a segmentation of cost at most $2|E(G)|$.
+\end{lemma}
+
+\begin{proof}
+Let $p = (e_1, \ldots, e_l)$ be a path on $G$ and let $\sr{p} = \langle e_1, \ldots, e_l \rangle$. For each $i = 1, \ldots, l - 1$
+we have that $\sp(e^2_i, e^1_{i + 1}) = \emptyset$ since $e^2_i = e^1_{i + 1}$. Thus
+\begin{align*}
+e_1 \oplus \sp(e^2_1, e^1_2) \oplus e_2 \oplus \ldots \oplus \sp(e^2_{l - 1}, e^1_l) \oplus e_l & = e_1 \oplus e_2 \oplus \ldots \oplus e_l = p.
+\end{align*}
+\end{proof}
+
+Note that previous models of segment routing considered only node segments and therefore this result was not true. In such models it is impossible
+to represent some network paths in terms of SR. As we saw in Chapter \ref{chapter:dataset}, there are about $1\%$ of the network links
+that do not belong to a shortest path and $24\%$ of pairs of nodes with ECMP. We mentioned that those were the conditions that might lead to the
+need of using an adjacency segment. We characterize in Proposition \ref{prop:adj-segs} exactly which situations lead to the need of using
+an adjacency segment.
+
+We call the segmentation used in the proof of Lemma \ref{lemma:seg_exists} the \emph{edge segmentation} of $p$.
+Consider the path $((\node{a}, \node{b}), (\node{b}, \node{c}), (\node{c}, \node{d}), (\node{d}, \node{g}), (\node{g}, \node{i}))$ shown in green in Figure \ref{fig:min-seg-example}.
+We already saw in Lemma \ref{lemma:seg_exists} above that $\sr{p} = \langle (\node{a}, \node{b}), (\node{b}, \node{c}), (\node{c}, \node{d}), (\node{d}, \node{g}), (\node{g}, \node{i}) \rangle$
+is a segmentation of $p$. But this is not the unique segmentation of $p$. For example $\sr{q} = \langle \node{a}, (\node{b}, \node{c}), \node{g}, \node{i} \rangle$ is
+also a segmentation of $p$. We have
+\begin{align*}
+e_1 \oplus \sp(e^2_1, e^1_2) \oplus e_2 \oplus \ldots \oplus \sp(e^2_{l - 1}, e^1_l) \oplus e_l & = \\
+(\node{a}) \oplus \sp(\node{a}, \node{b}) \oplus (\node{b}, \node{c}) \oplus  \sp(\node{c}, \node{g}) \oplus (g) \oplus \sp(\node{g}, \node{i}) \oplus (i) & = \\
+(\node{a}) \oplus ((\node{a}, \node{b})) \oplus ((\node{b}, \node{c})) \oplus  ((\node{c}, \node{d}), (\node{d}, \node{g})) \oplus (g) \oplus ((\node{g}, \node{i})) \oplus (i) & = \\
+((\node{a}, \node{b}), (\node{b}, \node{c}), (\node{c}, \node{d}), (\node{d}, \node{g}), (\node{g}, \node{i})).
+\end{align*}
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}[scale=1.4]
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0.5 + \x,  0.5 + \y) {\router{a}{marked}};
+\node[scale=0.15] (b) at (0.5 + \x, -1.0 + \y) {\router{b}{router}};
+\node[scale=0.15] (c) at (2.5 + \x,  0.0 + \y) {\router{c}{router}};
+\node[scale=0.15] (d) at (4.5 + \x,  0.0 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.0 + \x, -2.0 + \y) {\router{e}{router}};
+\node[scale=0.15] (g) at (6.0 + \x,  0.5 + \y) {\router{g}{marked}};
+\node[scale=0.15] (i) at (8.0 + \x,  0.0 + \y) {\router{i}{marked}};
+\node[scale=0.15] (h) at (7.0 + \x, -1.5 + \y) {\router{h}{router}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (i);
+\draw[line width=2] (i) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (g);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2]  (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (c) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (d);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+
+%%%%
+\draw (a) edge[line width=4, dotted, darkgreen, ->] node[line width = 1, draw, solid, black, fill=green] {\footnotesize $x_1$} (b);
+\draw (b) edge[line width=4, dotted, darkgreen, ->] node[line width = 1, draw, solid, black, fill=green] {\footnotesize $x_2$} (c);
+\draw (c) edge[line width=4, dotted, darkgreen, ->] node[line width = 1, draw, solid, black, fill=green] {\footnotesize $x_3$} (d);
+\draw (d) edge[line width=4, dotted, darkgreen, ->] node[line width = 1, draw, solid, black, fill=green] {\footnotesize $x_4$} (g);
+\draw (g) edge[line width=4, dotted, darkgreen, ->] node[line width = 1, draw, solid, black, fill=green] {\footnotesize $x_5$} (i);
+
+\draw (a) edge[line width=3, orange, above, bend right=25, ->] (b);
+\draw (b) edge[line width=4, dotted, orange, bend right=30, ->] node[line width = 1, draw, solid, black, fill=orange!20!white] {\footnotesize $y_2$} (c);
+\draw (c) edge[line width=3, orange, above, bend right=25, ->] (d);
+\draw (d) edge[line width=3, orange, above, bend right=25, ->] (g);
+\draw (g) edge[line width=3, orange, above, bend right=25, ->] (i);
+
+\node[left = 0.1cm of a, draw, fill=orange!20!white] {\footnotesize $y_1$};
+\node[above = 0.1cm of g, draw, fill=orange!20!white] {\footnotesize $y_3$};
+\node[above = 0.1cm of i, draw, fill=orange!20!white] {\footnotesize $y_4$};
+
+%%%%
+
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of two different segmentations of the same path $p = (\edge{a}{b}, \edge{b}{c}, \edge{c}{d}, \edge{d}{g}, \edge{g}{i})$. In green
+we represent the edge segmentation $\langle \edge{a}{b}, \edge{b}{c}, \edge{c}{d}, \edge{d}{g}, \edge{g}{i} \rangle$ and in orange the segmentation
+$\langle \node{a}, \edge{b}{c}, \node{g}, \node{i} \rangle$.}
+\label{fig:min-seg-example}
+\end{figure}
+
+\begin{lemma}
+\label{lemma:edgeseg}
+Let $G$ be a network. Any path in $G$ has a segmentation with segment cost at most $2 \cdot |E(G)|$. 
+\end{lemma}
+
+\begin{proof}
+Given a path $p = (e_1, \ldots, e_l)$ in $G$, we have that $\sr{p} = \langle e_1, \ldots, e_2 \rangle$ is a segmentation of
+$p$ with cost $2 \cdot |E(G)|$.
+\end{proof}
+
+
+This shows that not all segmentations are equal. Even though they represent the same path in the network,
+they do not have the same segment cost. In practice we would like the one with the minimum cost. This motivates
+the following problem.
+
+\begin{problem}{Minimum path segmentation}
+\label{prob:min-seg}
+Given a network $G$ and a path $p$ in $G$, find a segment $\sr{p}$ of $p$ such that $\cost(\sr{p})$ is minimal.
+\end{problem}
+
+We propose a greedy polynomial time algorithm solving Problem \ref{prob:min-seg}. The idea behind the algorithm is that we start walking over the input path and incrementally build the segmentation so that
+at each step the current sr-path is a segmentation of the prefix of the path that we traversed so far. At each node, we check whether 
+replacing the last node of the current segmentation by that node yields a correct segmentation. 
+If it does, then we replace it move on to the next node. If it does not, then we need to either append that node to
+the segmentation or the adjacency segment corresponding to the last traversed edge.
+
+To illustrate this, consider the graph on Figure \ref{fig:min-seg-example} and
+suppose that the input path is $p = ((\node{a}, \node{b}), (\node{b}, \node{c}), (\node{c}, \node{d}), (\node{d}, \node{g}), (\node{g}, \node{i}))$, shown in blue. 
+The idea is to start with a sr-path $\langle \node{a} \rangle$
+and follow path $p$ adding segments whenever necessary. When we arrive at node $b$ we have that $\sp(\node{a}, \node{b}) = (\node{a}, \node{b})$ so appending
+$\node{b}$ to the segmentation make the paths match. Then we go to node $\node{c}$ and try to see whether $\node{c}$ can replace the last segment, $\node{b}$. 
+This would give the sr-path $\langle \node{a}, \node{c} \rangle$ which is not ok since $\sp(\node{a}, \node{c}) = (a, c)$ which is not a prefix of path $p$. Thus, 
+we cannot replace $\node{b}$ so we try to add $\node{c}$ getting the path $\langle \node{a}, \node{b}, \node{c} \rangle$. 
+Now we are good because the current sr-path represents $(\node{a}, \node{b}, \node{c})$ which is a prefix of $p$. Then, we do the same with $\node{d}$.
+Replacing $\node{c}$ by $\node{d}$ gives
+the sr-path $\langle \node{a}, \node{b}, \node{d} \rangle$. This path is not ok because there are two shortest paths between nodes $\node{b}$ and $\node{d}$, namely,
+$(\node{b}, \node{c}, \node{d})$ and $(\node{b}, \node{e}, \node{d})$ so $\sr{p}$ would not be deterministic. This means that, as before, we need to add $\node{d}$ to the end of the list getting
+the sr-path $\langle \node{a}, \node{b}, \node{c}, \node{d} \rangle$. Next we go to $\node{g}$ and this time replacing node $\node{d}$ works because 
+the unique shortest path between $\node{c}$ and $\node{g}$ is $((\node{c}, \node{d}), (\node{d}, \node{g}))$ which matches $p$. So far 
+$\sr{p} = \langle \node{a}, \node{b}, \node{c}, \node{g} \rangle$ which represents the prefix  
+$((\node{a}, \node{b}), (\node{b}, \node{c}), (\node{c}, \node{d}), (\node{d}, \node{g}))$ of $p$.
+Finally, we process node $\node{i}$. Replacing $\node{g}$ by $\node{i}$ gives the sr-path $\langle \node{a}, \node{b}, \node{c}, \node{i} \rangle$ which does not match path $p$ because
+there are two shortest paths between nodes $\node{c}$ and $\node{i}$. Thus we need to append node $\node{i}$ instead and the final sr-path
+is $\sr{p} = \langle \node{a}, \node{b}, \node{c}, \node{g}, \node{i} \rangle$.
+
+\begin{figure}[H]
+\begin{center}
+\begin{tikzpicture}
+\def\x{0}
+\def\y{0}
+\node[scale=0.15] (a) at (0.5 + \x,  0.5 + \y) {\router{a}{marked}};
+\node[scale=0.15] (b) at (0.5 + \x, -1.0 + \y) {\router{b}{marked}};
+\node[scale=0.15] (c) at (2.5 + \x,  0.0 + \y) {\router{c}{marked}};
+\node[scale=0.15] (d) at (4.5 + \x,  0.0 + \y) {\router{d}{router}};
+\node[scale=0.15] (e) at (4.0 + \x, -2.0 + \y) {\router{e}{router}};
+\node[scale=0.15] (g) at (6.0 + \x,  0.5 + \y) {\router{g}{marked}};
+\node[scale=0.15] (i) at (8.0 + \x,  0.0 + \y) {\router{i}{marked}};
+\node[scale=0.15] (h) at (7.0 + \x, -1.5 + \y) {\router{h}{router}};
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2] (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (i);
+\draw[line width=2] (i) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (g);
+\draw[line width=2]  (d) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (e);
+\draw[line width=2]  (e) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (g) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (h);
+\draw[line width=2]  (c) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (d);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (b);
+\draw[line width=2]  (a) edge[above, sloped] node[black,font=\bfseries] {\tiny \texttt{}} (c);
+
+%%%%
+\draw (a) edge[line width=3, darkgreen, above, ->, bend right = 20] (b);
+\draw (b) edge[line width=3, darkgreen, above, ->, bend left = 20] (c);
+\draw (c) edge[line width=3, darkgreen, above, ->, bend left = 20] (d);
+\draw (d) edge[line width=3, darkgreen, above, ->, bend left = 20] (g);
+\draw (g) edge[line width=3, darkgreen, above, ->, bend left = 20] (i);
+%%%%
+
+\node[left = 0.1cm of a, draw, fill=green] {\footnotesize $x_1$};
+\node[left = 0.1cm of b, draw, fill=green] {\footnotesize $x_2$};
+\node[above = 0.1cm of c, draw, fill=green] {\footnotesize $x_3$};
+\node[above = 0.1cm of g, draw, fill=green] {\footnotesize $x_4$};
+\node[above = 0.1cm of i, draw, fill=green] {\footnotesize $x_5$};
+\end{tikzpicture}
+\end{center}
+\caption{Minimal path segmentation example.}
+\label{fig:min-seg1}
+\end{figure}
+
+\begin{observation*}
+In a previous example we saw that $\langle \node{a}, (\node{b}, \node{c}), \node{g}, \node{i} \rangle$ is a segmentation of $p$. Our algorithm
+produced instead the segmentation $\langle \node{a}, \node{b}, \node{c}, \node{g}, \node{i} \rangle$. Both these segmentations are minimal segmentations of 
+$(\node{a}, \node{b}, \node{c}, \node{d}, \node{g}, \node{i})$ on the network shown in Figure \ref{fig:min-seg1}. This shows that \emph{minimal segmentations are not unique}.
+\end{observation*}
+
+An alternative way to think about our algorithm is to imagine that we start following path $p$ on the shortest path subnetwork rooted at its origin.
+We do so until we either reach an edge $e$ that forces us to move out of the current shortest path subnetwork or a node with in-degree in the subnetwork
+larger than $1$ (ECMP). In both cases we need to exit the current shortest path subnetwork either by adding a node segment on $e^1$ and continuing the walk
+on $\sp(e^1)$ or by adding an adjacency segment over $e$ and continuing the walk over $\sp(e^2)$.
+
+In the remainder of this section, we are going to provide a formal description of the minimum path segmentation
+algorithm, give its time complexity and prove its correctness.
+
+We start by analyzing all the situations where we need adjacency segments.
+
+\begin{proposition}
+\label{prop:adj-segs}
+Let $G$ be a network and $p$ a path on $G$. Suppose that $e = (u, v) \in E(p)$ is such that either $e$ is not a shortest path
+between $u$ and $v$ or there exists a shortest path from $u$ to $v$ that does not contain $e$. Then any segmentation of $p$ contains the
+adjacency segment $e$. We denote this set of adjacency segments as $\adj(G, p)$.
+\end{proposition}
+
+\begin{proof}
+Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a segmentation of $p$ that does not contain $e = (u, v)$ in its segmentation.
+Then it means that there exists $i$ such that $e$ is on the shortest path between $x^2_i$ and $x^1_{i + 1}$. By hypothesis,
+there exists a shortest path that does not contain $e$ from $u$ to $v$. Replacing $e$ by that path yields another shortest path
+between $x^2_i$ and $x^1_{i + 1}$ showing that $\sr{p}$ is not deterministic and thus not a segmentation.
+\end{proof}
+
+\begin{algorithm}[t]
+\small
+\caption{$\textsf{min-seg}\left( G, p = (e_1, \ldots e_l) \right)$}
+\begin{algorithmic}[1]
+\STATE $r \gets p.\textsf{firstNode}()$
+\STATE $\sr{p} \gets \langle \rangle$
+\FOR{$e = (u, v) \in (e_1, \ldots e_l)$} \label{line:min-seg-for}
+  \IF{$e \notin E(\sp(G, r))$ \textbf{or} $\delta^-(\sp(G, r), v) > 1$} \label{line:min-seg-if1}
+    \IF{$e \notin E(\sp(G, u))$ \textbf{or} $\delta^-(\sp(G, u), v) > 1$}
+      \STATE $\sr{p}.\textsf{append}(e)$ \label{line:min-seg-add2}
+      \STATE $r \gets v$ \label{line:min-seg-r2}
+    \ELSE
+      \STATE $\sr{p}.\textsf{append}(u)$ \label{line:min-seg-add1}
+      \STATE $r \gets u$ \label{line:min-seg-r1}
+    \ENDIF
+  \ENDIF
+\ENDFOR
+\IF{$|\sr{p}| = 0$ \textbf{or} $\sr{p}.\textsf{origin}() \neq p.\textsf{origin}()$}
+  \STATE $\sr{p}.\textsf{addFirst}(p.\textsf{origin}())$  \label{line:min-seg-add3}
+\ENDIF
+\IF{$\sr{p}.\textsf{destination}() \neq p.\textsf{destination}()$}
+  \STATE $\sr{p}.\textsf{addFirst}(p.\textsf{destination}())$ \label{line:min-seg-add4}
+\ENDIF
+\RETURN $\sr{p}$
+\end{algorithmic}
+\label{algo:minseg}
+\end{algorithm}
+
+The next two lemmas give conditions upon which we can \emph{remove} a node segment and an adjacency from a segmentation of a path $p$
+such that the result it still a segmentation of $p$.
+
+\begin{lemma}
+\label{lemma:min-seg-remove-node}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots x_l \rangle$ be a segmentation of $p$ such that
+$x_i \in V(G)$ for some $i$. Then $\langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is a segmentation of $p$
+if and only if there is a unique shortest path between $x^2_{i - 1}$ and $x^1_{i + 1}$ that passes by node $x_i$.
+\end{lemma}
+
+\begin{proof}
+$(\Rightarrow)$ Assume that $\sr{q} = \langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is also a segmentation
+of $p$. Then $\sr{q}$ is deterministic so there is a unique shortest path between $x^2_{i - 1}$ and $x^1_{i + 1}$. To see that it passes by
+node $x_i$ we observe that by definition $\seq(\sr{p}) = \seq(\sr{q})$ so
+\begin{align*}
+\sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_{i}, x^1_{i + 1}) = \sp(x^2_{i - 1}, x^1_{i + 1}).
+\end{align*}
+
+$(\Leftarrow)$
+Since there is a unique shortest path from $x^2_{i - 1}$ and $x^1_{i + 1}$ and this path passes by node $x^1_i = x^2_i$
+we have that 
+\begin{align*}
+\sp(x^2_{i - 1}, x^1_{i + 1}) & = \sp(x^2_{i - 1}, x^1_i) \oplus \sp(x^1_i, x^1_{i + 1}) \just{unique sp passes by $x^1_i$} \\
+ & = \sp(x^2_{i - 1}, x^1_i) \oplus \sp(x^2_i, x^1_{i + 1}) \just{$x^2_i = x^1_i$} \\
+ & = \sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1}) \just{def of $\oplus$ and $x^1_i = x_i = x^2_i$}
+\end{align*}
+Therefore,         
+\begin{align*}
+p & = \seq(\sr{p}) \\
+  & = x_1 \oplus \ldots \oplus x_{i - 1} \oplus \sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1}) \oplus x_{i + 1} \oplus \ldots x_l \\
+  & = x_1 \oplus \ldots \oplus x_{i - 1} \oplus \sp(x^2_{i - 1}, x^1_{i + 1}) \oplus x_{i + 1}  \oplus \ldots x_l \\ 
+  & = \seq \langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle
+\end{align*}
+meaning that $\langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is a segmentation of $p$.
+\end{proof}
+
+We have the following analogous result for adjacency segments.
+
+\begin{lemma}
+\label{lemma:min-seg-remove-edge}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots x_l \rangle$ be a segmentation of $p$ such that
+$x_i \in E(G)$ for some $i$. Then $\langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is a segmentation of $p$
+if and only if there is a unique shortest path between $x^2_{i - 1}$ and $x^1_{i + 1}$ that contains edge $x_i$.
+\end{lemma}
+
+\begin{proof}
+The proof is analogous to the proof of Lemma \ref{lemma:min-seg-remove-node}. 
+\end{proof}
+
+The next two results characterize the first and last segments of any segment of a path $p$. They are quite intuitive and say that 
+a segmentation of a path $p = (e_1, \ldots, e_k)$ must either start with a node segment $e^1_1$ or an adjacency segment over $e_1$ and end 
+with either a node segment $e^2_k$ or an adjacency segment over $e_k$.
+
+\begin{lemma}
+\label{lemma:firstseg}
+Given a graph $G$ and a path $p = (e_1, \ldots, e_k)$ on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a segmentation of $p$. Then
+either $x_1 = e^1_1$ or $x_1 = e_1$
+\end{lemma}
+
+\begin{proof}
+Since $\sr{p}$ is a segmentation of $p$ we have that $\seq(\sr{p}) = p$. Therefore, by definition of $\seq(\sr{p})$, either $x_1 = e_1$ or $x_1$ is a node segment and
+$e_1$ is the first edge of $\sp(x^2_1, x^1_2)$. In the latter case we must have $x^1_1 = e^1_1$.
+\end{proof}
+
+\begin{lemma}
+\label{lemma:lastseg}
+Given a graph $G$ and a path $p = (e_1, \ldots, e_k)$ on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a segmentation of $p$. Then
+either $x_l = e^2_k$ or $x_l = e_k$
+\end{lemma}
+
+\begin{proof}
+Since $\sr{p}$ is a segmentation of $p$ we have that $\seq(\sr{p}) = p$. Therefore, by definition of $\seq(\sr{p})$, either $x_l = e_k$ or $x_l$ is a node segment and
+$e_k$ is the last edge of $\sp(x^2_{l - 1}, x^2_l)$. In the latter case we must have $x^2_l = e^2_k$.
+\end{proof}
+
+% \begin{proof}
+% $(\Rightarrow)$ Assume that $\sr{q} = \langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is also a segmentation
+% of $p$. Then $\sr{q}$ is deterministic so there is a unique shortest path between $x^2_{i - 1}$ and $x^1_{i + 1}$. To see that it contains edge
+% $x_i$ we observe that by definition $\seq(\sr{p}) = \seq(\sr{q})$ so
+% \begin{align*}
+% \sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_{i}, x^1_{i + 1}) = \sp(x^2_{i - 1}, x^1_{i + 1}).
+% \end{align*}
+% 
+% $(\Leftarrow)$
+% Since there is a unique shortest path from $x^2_{i - 1}$ and $x^1_{i + 1}$ and this path contains edge $x_i$
+% we have that 
+% \begin{align*}
+% \sp(x^2_{i - 1}, x^1_{i + 1}) = \sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1})
+% \end{align*}
+% Therefore,         
+% \begin{align*}
+% p & = \seq(\sr{p}) \\
+%   & = x_1 \oplus \ldots \oplus x_{i - 1} \oplus \sp(x^2_{i - 1}, x^1_i) \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1}) \oplus x_{i + 1} \oplus \ldots x_l \\
+%   & = x_1 \oplus \ldots \oplus x_{i - 1} \oplus \sp(x^2_{i - 1}, x^1_{i + 1}) \oplus x_{i + 1}  \oplus \ldots x_l \\ 
+%   & = \seq(\langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle)
+% \end{align*}
+% meaning that $\langle x_1, \ldots, x_{i - 1}, x_{i + 1}, \ldots, x_l \rangle$ is a segmentation of $p$.
+% \end{proof}
+
+To prove that our minimum segmentation algorithm is correct, we will show that any minimal segmentation
+can be transformed in a series of steps to match the output of our algorithm. The next lemma will be important
+in one of those transformation steps. Contrary to Lemma \ref{lemma:min-seg-remove-node}, it tells us a condition under wich we can
+\emph{add} a segment to an existing segmentation of a path $p$ while preserving the fact that it is a segmentation of $p$.
+
+\begin{lemma}
+\label{lemma:min-seg-add}
+Let $G$ be a network and $p$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a segmentation of $p$.
+For any $i = 1, \ldots, l - 1$, if $v \in V(\sp(x^2_i, x^1_{i+1}))$ then $\langle x_1, \ldots, x_i, v, x_{i + 1}, \ldots, x_l \rangle$
+is a segmentation of $p$.
+\end{lemma}
+
+\begin{proof}
+Since $\sr{p}$ is deterministic and $v \in V(\sp(x^2_i, x^1_{i+1}))$ it holds that
+$$
+\sp(x^2_i, x^1_{i + 1}) = \sp(x^2_i, v) \oplus v \oplus \sp(v, x^1_{i + 1}).
+$$
+Therefore,
+\begin{align*}
+p & = \seq(\sr{p}) \\
+  & = x_1 \oplus \ldots \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1}) \oplus x_{i + 1} \oplus \ldots x_l \\
+  & = x_1 \oplus \ldots \oplus x_i \oplus \sp(x^2_i, v) \oplus v \oplus \sp(v, x^1_{i + 1}) \oplus x_{i + 1} \oplus \ldots x_l \\
+  & = \seq(\langle x_1, \ldots, x_i, v, x_{i + 1}, \ldots, x_l \rangle).
+\end{align*}
+\end{proof}
+
+% \begin{lemma}
+% Let $G$ be a network and $p$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a segmentation of $p$.
+% For all $i = 1, \ldots, l - 1$ such that $x^2_i \neq x^1_{i + 1}$, the sr-path $\langle x_1 \ldots, x_i \rangle$ is not a segmentation of $p$.
+% \end{lemma}
+% 
+% \begin{proof}
+% \begin{align*}
+% \seq(\langle x_1, \ldots, x_i \rangle) & = x_1 \oplus \ldots \oplus x_i \oplus \sp(x^2_i, x^1_{i + 1}) \oplus x_{i} \\
+% \end{align*}
+% \end{proof}
+
+\begin{proposition}
+\label{prop:min-seg-feasible}
+Given a graph $G$ and a path $p$ on $G$, Algorithm \ref{algo:minseg} outputs a segmentation $\sr{p}$ of $p$.
+\end{proposition}
+
+\begin{proof}
+Let $p = (e_1, \ldots, e_l)$, $(v_1, v_2, \ldots, v_{l + 1})$ be the sequences of nodes visited by $p$ and
+$\sr{p} = \langle x_1, \ldots, x_r \rangle$. We start by proving by induction on $j \geq 2$ that $\langle x_1, \ldots, x_j \rangle$ is
+deterministic and $\seq \langle x_1, \ldots, x_j \rangle$ is a prefix of $p$.
+
+\emph{Base case:} $j = 2$.
+
+By construction we have that either $x_1 = v_1$ or $x_1 = e_1$. This is so because the only three lines where this element 
+could have been inserted into $\sr{p}$ are lines \ref{line:min-seg-add1}, \ref{line:min-seg-add2} when $e = e_1$ or line \ref{line:min-seg-add3} at the end.
+If it was on one of the lines \ref{line:min-seg-add1} or \ref{line:min-seg-add3} then $x_1 = v_1$. Otherwise $x_1 = e_1$.
+
+\emph{Case 1:} $x_1 = v_1$. Then the algorithm proceeds by iterating over the elements $e \in E(p)$ and only add the next element when we reach some edge $e_i = (u, v) = (v_i, v_{i + 1})$ 
+such that there exist multiple shortest paths between $r = v_1$ and $v_{i + 1}$ or $e_i$ does not belong to any shortest path starting at $r$.
+At this point we add $x_2$ which is either
+equal to $v_i$ or $e_i$. In either case, since condition on line \ref{line:min-seg-if1} ensures the uniqueness of the shortest path between
+$x^2_1 = v_1$ and $x^1_2 = v_i$ it holds that $\langle x_1, x_2 \rangle$ is deterministic. To see that it corresponds to a prefix of $p$, we consider the two cases for $x_2$.
+If $x_2 = v_i$ then
+$$
+x_1 \oplus \sp(x^2_1, x^1_2) \oplus x_2 = v_1 \oplus \sp(v, v_i) \oplus v_i = \sp(v_1, v_i) = e_1 \oplus \ldots \oplus e_{i - 1}
+$$ 
+and if $x_2 = e_i$ then
+$$
+x_1 \oplus \sp(x^2_1, x^1_2) \oplus x_2 = \sp(v_1, v_i) \oplus e_i = e_1 \oplus \ldots \oplus e_{i - 1} \oplus e_i.
+$$
+
+\emph{Case 2:} $x_1 = e_1$. In this case everything remains the same except that $r = v_2 = x^2_1$. Therefore, if $x_2 = v_i$ then
+$$
+x_1 \oplus \sp(x^2_1, x^1_2) \oplus x_2 = e_1 \oplus \sp(v_2, v_i) = e_1 \oplus \ldots \oplus e_{i - 1}
+$$ 
+and if $x_2 = e_i$ then
+$$
+x_1 \oplus \sp(x^2_1, x^1_2) \oplus x_2 = e_1 \oplus \sp(v_2, v_i) \oplus x_2 = e_1 \oplus e_2 \oplus \ldots \oplus e_{i - 1} \oplus e_i.
+$$
+
+In any case, $\langle x_1, x_2 \rangle$ is deterministic and $\seq \langle x_1, x_2 \rangle$ is a prefix of $p$.  
+This completes the proof of the base case. \\
+
+\emph{Induction step:} Suppose that for some $j \geq 2$ the sr-path $\langle x_1, \ldots, x_j \rangle$ is deterministic and
+a prefix of $p$. Using analogous arguments as above, we can show that if $e_i$ is the edge on the for loop in line \ref{line:min-seg-for} when
+$x_j$ is added and $e_k$ ($j < k$) the one when $x_{j + 1}$ is added then $\langle x_j, x_{j + 1} \rangle$ is deterministic with
+\[ \seq \langle x_j, x_{j + 1} \rangle                                   =
+  \begin{cases}
+    e_i \oplus \ldots \oplus e_{k - 1}     & \quad \text{if } x_{j + 1} = v_k \\
+    e_i \oplus \ldots \oplus e_{k}  & \quad \text{if } x_{j + 1} = e_k
+  \end{cases}
+\]
+Therefore $\langle x_1, \ldots, x_j, x_{j + 1} \rangle$ is deterministic and 
+\[ \seq \langle x_1, \ldots, x_j, x_{j + 1} \rangle  =
+  \begin{cases}
+    e_1 \oplus \ldots \oplus e_{k - 1} & \quad \text{if } x_{j + 1} = v_k \\
+    e_1 \oplus \ldots \oplus e_{k}  & \quad \text{if } x_{j + 1} = e_k
+  \end{cases}
+\]
+is a prefix of $p$. This concludes the proof that for $j \geq 2$, $\langle x_1, \ldots, x_j \rangle$ is deterministic and $\seq \langle x_1, \ldots, x_j \rangle$ is a prefix of $p$. \\
+
+It remains to show that at the end of the algorithm $\sr{p}$ covers the whole path. Let $x$ be the last element of $\sr{p}$
+after the for loop ends. If $x^2 = v_{l + 1}$ then there is 
+nothing to prove. Otherwise at line \ref{line:min-seg-add4} we add one node segment $x_l = v_{l + 1}$. With the same argument as above,
+we know that $\sp(x^2, x_l)$ is unique and covers the remaining edges of $p$ since the condition on line \ref{line:min-seg-if1} was always false for the remaining edges.
+\end{proof}
+
+\begin{definition}
+Let $G$ be a network and $p$ a path on $G$ visiting nodes $(v_1, \ldots, v_l)$. Given two nodes $v, u \in V(p)$ we write
+$v \leq_p u$ if and only if $v = v_i$ and $u = v_j$ with $i \leq j$.
+\end{definition}
+
+\begin{lemma}
+\label{lemma:min-seg-middle}
+Let $G$ be a network and $p$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be the segmentation of $p$ produced by Algorithm \ref{algo:minseg}.
+Let $\sr{q} = \langle y_1, \ldots, y_r \rangle$ be any other segmentation of $p$. Then for any $i \in \{ 1, \ldots, l - 1 \}$,
+there exists $j \in \{ 1, \ldots, r \}$ such that $x^2_i \leq_p y^2_j \leq_p x^1_{i + 1}$.
+\end{lemma}
+
+\begin{proof}
+Let $i \in \{ 1, \ldots, l - 1 \}$.
+Suppose that no such $j$ exists. Then, since $\sr{q}$ is a segmentation of $p$, by Lemmas \ref{lemma:firstseg} and \ref{lemma:lastseg}
+there exists $j$ such that $y^2_j <_p x^2_i$ and $x^1_{i + 1} <_p y^1_{j + 1}$.
+But then, since $\sr{q}$ is deterministic, there exists a unique shortest path between
+$y^2_j$ and $y^1_{j + 1}$. This path will contain the shortest path between $x^2_i$ and $x^1_{i + 1}$ plus, at least, the next edge of $p$ with source
+at node $x^1_{i + 1}$. This contradicts the fact that $x_{i + 1}$ is a segment of $\sr{p}$ since condition \ref{line:min-seg-if1} would prevent
+it to be added to $\sr{p}$. Figure \ref{fig:min-seg-middle} illustrates this proof.
+\end{proof}
+
+\begin{figure}
+\begin{center}
+\begin{tikzpicture}
+\def\dx{1.2}
+\node[scale=0.1] (v1) at (0*\dx, 0)  {\router{$v_1$}{router}};
+\node[scale=0.1] (v2) at (1*\dx, 0)  {\router{$v_2$}{router}};
+\node[scale=0.1] (v3) at (2*\dx, 0)  {\router{$v_3$}{router}};
+\node[scale=0.1] (v4) at (3*\dx, 0)  {\router{$v_4$}{router}};
+\node[scale=0.1] (v5) at (4*\dx, 0)  {\router{$v_5$}{router}};
+\node[scale=0.1] (v6) at (5*\dx, 0)  {\router{$v_6$}{router}};
+\node[scale=0.1] (v7) at (6*\dx, 0)  {\router{$v_7$}{router}};
+\node[scale=0.1] (v8) at (7*\dx, 0)  {\router{$v_8$}{router}};
+\node[scale=0.1] (v9) at (8*\dx, 0)  {\router{$v_9$}{router}};
+\node[scale=0.1] (v10) at (9*\dx, 0) {\router{$v_{10}$}{router}};
+
+\draw[line width=2]  (v1) edge[below, sloped, ->] node {\tiny $e_1$} (v2);
+\draw[line width=2]  (v2) edge[below, sloped, ->] node {\tiny $e_2$} (v3);
+\draw[line width=2]  (v3) edge[below, sloped, ->] node {\tiny $e_3$} (v4);
+\draw[line width=2]  (v4) edge[below, sloped, ->] node {\tiny $e_4$} (v5);
+\draw[line width=2]  (v5) edge[below, sloped, ->] node {\tiny $e_5$} (v6);
+\draw[line width=2]  (v6) edge[below, sloped, ->, orange] node (e6) {\tiny $e_6$} (v7);
+\draw[line width=2]  (v7) edge[below, sloped, ->] node {\tiny $e_7$} (v8);
+\draw[line width=2]  (v8) edge[below, sloped, ->] node {\tiny $e_8$} (v9);
+\draw[line width=2]  (v9) edge[below, sloped, ->] node {\tiny $e_9$} (v10);
+
+\def\dy{0.2}
+\node[above =\dy cm of v3] (xi)   {\footnotesize $x^2_i$};
+\node[above =\dy cm of v6] (xi+1) {\footnotesize $x^1_{i + 1}$};
+\node[above =\dy cm of v2] (yj)   {\footnotesize $y^2_{j}$};
+\node[above =\dy cm of v8] (yj+1) {\footnotesize $y^1_{j + 1}$};
+
+\draw[|-|] (xi.south) -- (xi+1.south);
+\draw (yj.north) edge[|-|, above] node {\footnotesize unique shortest path} (yj+1.north);
+\draw[line width=0.1cm, red!50!black] (5*\dx, 1.05) -- (6*\dx, 1.05);
+\node[red!50!black] at (5.5*\dx, 1.05) {\Large \textsf{X}};
+
+\node [draw, dashed, fill=lightgray, below= 0.3cm of e6] (text) {%
+ \begin{varwidth}{3cm}
+   \footnotesize $x_{i + 1} \in \sr{p}$ with $x^1_{i + 1} = v_6$ means that there is no unique shortest path starting at $x^2_i$ and using $e_6$
+  \end{varwidth}
+};
+
+\node [draw, dashed, fill=lightgray] at (5.5*\dx, 2.3) (text2) {%
+ \begin{varwidth}{3cm}
+   \footnotesize {\color{red!50!black}\textbf{contradiction}} cannot be in a unique shortest path starting at or before $x^2_i$
+  \end{varwidth}
+};
+
+\draw[dashed] (5.5*\dx, 1.05) -- (text2);
+
+\draw[dashed] (text) -- (e6);
+\end{tikzpicture}
+\end{center}
+\caption{Illustration of what happens if there is no element $y_j$ such that $x^2_i \leq_p y^2_j \leq_p x^1_{i + 1}$ on the proof of Lemma \ref{lemma:min-seg-middle}.}
+\label{fig:min-seg-middle}
+\end{figure}
+
+\begin{lemma}
+\label{lemma:ajd-min}
+Let $G$ be a network and $p$ a path on $G$. There exists a minimal segmentation of $p$ such that all its adjacency segments
+belong to $\adj(G, p)$.
+\end{lemma}
+
+\begin{proof}
+Let $G$ be a network and $p$ a path on $G$. Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be a minimal segmentation of $p$. Assume that 
+$x_i$ is an adjacency not in $\adj(G, p)$. Then $x_i = e \in E(p)$ such that
+$e$ is the unique shortest path between $(e^1, e^2)$. Therefore if we let $\sr{q} = \langle x_1, \ldots, x_{i - 1}, e^1, e^2, x_{i + 1}, \ldots, x_l \rangle$
+we have
+\begin{align*}
+\seq(\sr{q}) & = x_1 \oplus \ldots x_{i - 1} \oplus e^1 \oplus \sp(e^1, e^2) \oplus e^2 \oplus x_{i + 1} \oplus \ldots \oplus x_l \\
+             & = x_1 \oplus \ldots x_{i - 1} \oplus \sp(e^1, e^2) \oplus x_{i + 1} \oplus \ldots \oplus x_l \\
+             & = x_1 \oplus \ldots x_{i - 1} \oplus e \oplus x_{i + 1} \oplus \ldots \oplus x_l \\
+             & = \seq(\sr{p}) = p. \\
+\end{align*}
+We conclude that $\sr{q}$ is a segmentation of $p$. Moreover, since $\cost(\sr{q}) = (\cost(\sr{p}) - 2) + 2 = \cost(\sr{p})$ 
+$\sr{q}$ is a minimal segmentation of $p$. By repeating this process we can obtain a minimal segmentation of $p$
+such that all of its adjacency segments are in $\adj(G, p)$.
+\end{proof}
+
+\begin{lemma}
+\label{lemma:ajd-algo}
+Let $G$ be a network and $p$ a path on $G$. 
+The set of adjacency segments in a segmentation computed by Algorithm \ref{algo:minseg} on input $p$ is $\adj(G, p)$.
+\end{lemma}
+
+\begin{proof}
+Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be segmentation produced by Algorithm \ref{algo:minseg} on input $p$.  Suppose that
+$x_i = e = (u, v) \in E(p)$ is an adjacency segment. The only place where adjacency segments are added is on line \ref{line:min-seg-add2}.
+This happens if and only if $e \notin E(\sp(G, u))$ or $\delta^-(\sp(G, u), v) > 1$. If $e \notin E(\sp(G, u))$ then it means that $e$ is not the shortest
+path between $u$ and $v$. Otherwise, if  $\delta^-(\sp(G, u), v) > 1$ it means that $e$ is not the unique shortest path between its endpoints.
+Therefore $e \in \adj(G, p)$.
+\end{proof}
+
+\begin{theorem}
+Given a network $G$ and a path $p$ on $G$, Algorithm \ref{algo:minseg} outputs a minimal segmentation $\sr{p}$ of $p$.
+\end{theorem}
+
+\begin{proof}
+Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be the segmentation produced by Algorithm \ref{algo:minseg} and 
+$\sr{q} = \langle y_1, \ldots, y_r \rangle$ a minimal segmentation. By Lemmas \ref{lemma:ajd-min} and \ref{lemma:ajd-algo} we can
+assume that $\sr{p}$ and $\sr{q}$ have the same adjacency segments. In particular, by Lemma \ref{lemma:firstseg} we have that $x_1 = y_1$.
+Since $\sr{p}$ and $\sr{q}$ have the same adjacency segments, if $y_2$ is an adjacency segment then so is $x_2$ and $x_2 = y_2$. Otherwise
+both are not segments. Lemma \ref{lemma:min-seg-middle} says that, $x^2_1 \leq_p y^2_2 \leq_p x^1_2$. Let $i$ be the largest index such that
+$x^2_1 \leq_p y^2_i \leq_p x^1_2$. Then $x_2$ belongs to the unique
+shortest path between $y^2_i$ and $y^1_{i + 1}$. Hence, by Lemma \ref{lemma:min-seg-add},
+$\langle y_1, \ldots, y_i, x_2, y_{i + 1}, \ldots y_r \rangle$ is a segmentation of $p$. Finally, by applying Lemma \ref{lemma:min-seg-remove-node} 
+on $y_2, \ldots, y_i$ we conclude that $\langle y_1, x_2, y_{i + 1}, \ldots y_r \rangle$ is also a segmentation of $p$.
+
+With this argument we were able to replace the first segment of $\sr{q}$ not matching $\sr{p}$ with the corresponding segment of $\sr{p}$.
+By repeating this process for each node segment of $\sr{q}$ we are able to transform $\sr{q}$ into $\sr{p}$ while preserving the segment cost.
+Therefore $\sr{p}$ is also a minimal segmentation of $p$.
+\end{proof}
+
+In this section we provided an algorithm that is able to compute minimal segmentations efficiently. The time needed to compute the
+segmentation of a path depends on how we implement Algorithm \ref{algo:minseg}. If we do not precompute anything beforehand, we
+will need to perform at most $V(G)$ shortest path computations. If this is done is $O(|E(G)| \cdot \log(|V(G)|)$ with Dijkstra's 
+algorithm we get a complexity of $O(|V(G)| \cdot |E(G)| \cdot \log(|V(G)|)$. However, if we precompute the all pairs shortest IGP
+shortest path matrix with Floyd Warshal's algorithm in $O(|V(G)|^3)$ we can then segment any path in linear time $O(|G|)$. Both these implementations
+are provided in our library.
+
+
+% Let $\sr{p} = \langle x_1, \ldots, x_l \rangle$ be the segmentation produced by Algorithm \ref{algo:minseg} and 
+% $\sr{q} = \langle y_1, \ldots, y_r \rangle$ a minimal segmentation. Proposition \ref{prop:min-seg-feasible} tell us that
+% $\sr{p}$ is a segmentation of $p$. By construction and since $\sr{q}$ start by observing that $\sr{p}$ cannot be a proper prefix
+% of $\sr{q}$ nor can $\sr{q}$ be a proper prefix of $\sr{p}$. 
+% 
+% 
+% 
+% Let $i$ be the smallest index such that $x_i \neq y_i$.
+% \todo{do the case where this index does not exists so that one is a subsequence of the other, not trivial but not hard}
+% Let the sequence of nodes visited by $p$ be $(v_1, \ldots, v_t)$.  \\
+% 
+% Assume that $x^1_i = v_j$ and that $y^1_i = v_k$ with $k > j$. 
+% 
+% We are going to show that this is not possible.
+% Let $r = x^2_{i - 1} = y^2_{i - 1}$. Because of line \ref{line:min-seg-if1}, for $x_i$ to be an element of $\sr{p}$, it means $e = (v_j, v_{j + 1})$ is such that
+% $e \notin E(\sp(G, r)$ or $\delta^-(\sp(G, r), v_{j + 1})$. 
+% 
+% \emph{Case 1:} $e \notin E(\sp(G, r)$. In this case $\sr{q}$ cannot be a segmentation of $p$ since it fails to cover edge $e$.
+% This is so because since $k > j$, it would have to do so on $\sp(y^2_{i - 1}, y^1_i) = \sp(r, v_k)$ which can only happen if $e \in E(\sp(G), r)$.
+% 
+% \emph{Case 2:} $\delta^-(\sp(G, r), v_{j + 1})$. In this case there is ECMP between $r$ and $v_{j + 1}$ so, since $k > j$ there is also ECMP between 
+% $r = y^1_{i - 1}$ and $v_k = y^2_{i}$. Thus $\sr{q}$ is not deterministic. 
+% 
+% Therefore, $y^1_i = v_k$ with $k \leq j$. \\
+% 
+% Now we are going to prove that if we replace $y_i$ by $x_i$ in $\sr{q}$, $\sr{q}$ remains a segmentation of $p$. Since $\sr{q}$ is a segmentation
+% of $p$, we have that $\sp(y^2_i, y^1_{i + 1})$ is a unique shortest path. 
+

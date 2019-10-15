@@ -1,0 +1,161 @@
+\chapter{Traffic engineering with SR}
+\label{chapter:te}
+
+In this chapter we propose a column generation algorithm for solving the traffic engineering (TE) problem 
+on a network using segment routing. The traffic engineering problem consists of routing a set of demands over the 
+network whilst minimizing congestion. Routing traffic between a source
+and a destination along shortest paths allows for no flexibility regarding the way this traffic is send which may lead to a suboptimal 
+usage of the network infrastructure.
+
+Consider the four router network show in Figure \ref{fig:te-example}. Suppose that we want to route three demands on this network, all from
+\node{a} to \node{b}. Assuming unit IGP weights, all those demands will traverse the link $(\node{a}, \node{d})$. In contrast, we could
+route one of them via \node{b} and the other via \node{c} as shown on the right. This second solution leads to a much more efficient
+utilisation of the network. It spreads the traffic thus leading to less congestions. Assuming equal demand volumes, the solution on the right
+improves the congestion of the link $(\node{a}, \node{b})$ by $66\%$. This is a very small example and even here we can already see the limitations of shortest path routing for TE. 
+
+\begin{figure}[H]
+\begin{center}
+\begin{tabular}{ccc}
+\begin{tikzpicture}[scale=1.2]
+%\node[draw, circle] (a) at (0, 0) {\tiny \texttt{a}};
+
+\node[scale=0.15] (a) at (0, 0)     {\router{a}{router}};
+\node[scale=0.15] (b) at (1, 1)    {\router{b}{router}};
+\node[scale=0.15] (c) at (1, -1)     {\router{c}{router}};
+\node[scale=0.15] (d) at (2, -0)    {\router{d}{router}};
+
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (b);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (c);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+\draw[line width=2] (c) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+
+\draw[cyan, line width=2, ->] plot [smooth] coordinates { (0.5, 0.2) (1.5, 0.2) };
+\draw[orange, line width=2, ->] plot [smooth] coordinates { (0.5, 0) (1.5, 0) };
+\draw[darkgreen, line width=2, ->] plot [smooth] coordinates { (0.5, -0.2) (1.5, -0.2) };
+
+\end{tikzpicture}
+
+&
+
+$\quad$
+
+&
+
+\begin{tikzpicture}[scale=1.2]
+%\node[draw, circle] (a) at (0, 0) {\tiny \texttt{a}};
+
+\node[scale=0.15] (a) at (0, 0)     {\router{a}{router}};
+\node[scale=0.15] (b) at (1, 1)    {\router{b}{router}};
+\node[scale=0.15] (c) at (1, -1)     {\router{c}{router}};
+\node[scale=0.15] (d) at (2, -0)    {\router{d}{router}};
+
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (b);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (c);
+\draw[line width=2] (a) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+\draw[line width=2] (b) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+\draw[line width=2] (c) edge[above, sloped] node[black,font=\bfseries] {\footnotesize \texttt{}} (d);
+
+\draw[cyan, line width=2, ->] plot [smooth] coordinates { (0, 0.5) (0.3, 1) (1, 1.5) (1.8, 1) (2, 0.5) };
+\draw[orange, line width=2, ->] plot [smooth] coordinates { (0.5, 0) (1.5, 0) };
+\draw[darkgreen, line width=2, ->] plot [smooth] coordinates { (0, -0.5) (0.3, -1) (1, -1.5) (1.8, -1) (2, -0.5) };
+
+\end{tikzpicture}
+\end{tabular}
+\end{center}
+\caption{Small example where shortest path routing is not ideal for TE.}
+\label{fig:te-example}
+\end{figure}
+
+Attempts at solving the TE problem can be categorized into two main categories. On one hand we could improve the way a set of demands
+is routed by computing new IGP weights such that the resulting shortest paths between the endpoints of each demand minimize the 
+network congestion \cite{1039866}. Another possibility is to use a forwarding mechanism that allows to route traffic over arbitrary paths.
+This is the approach that we are going to study in this chapter by using SR as a forwarding mechanism.
+
+\section{Traffic engineering formalization}
+
+We start by providing a formal definition of the TE problem and its segment routing variant starting with a very simple definition
+of demand.
+
+\begin{definition}
+A demand in a network $G$ is a triple $(s, t, \nu)$ where $s, t \in V(G)$ and $\nu \in \mathbb{N}^+$. Given a demand $d$
+we write $\src(d) = s$, $\dst(d) = t$ and $\vol(d) = \nu$.
+\end{definition}
+
+The usual definition of the problem assumes that a demand matrix is given as input rather than a set of demands. The entry $i, j$ of the
+matrix contains a positive number representing the volume of the traffic that needs to be routed between $i$ and $j$. We prefer
+to use a set of demands at it allows for more granularity. With a demand set, we can have several demands between the same pair of routers that are routed
+in different ways. If for some reason such granularity is not implementable in practice, one can always group the demands between the same source-destination pairs 
+into a single demand. This makes the model with a set of demands more general than the matrix one.
+
+The following definition will be useful to express the load of a link when routing a demand on a given path $p$.
+
+\begin{definition}
+Let $G$ be a network and $p = (e_1, \ldots, e_l)$ a path on $G$. Given $e \in E(G)$, we denote the number of indexes such that
+$e_i = e$ by $\cnt(p, e)$.
+\end{definition}
+
+We can now formally define the TE problem. We start with a general definition that is not SR centric where we assume that any path in the network can be used
+to route any given demand.
+
+\begin{problem}{TE min-factor problem}
+\label{prob:tep}
+Let $G$ be a network and $\mathcal{D}$ a set of $n$ demands $\{d_1, \ldots, d_n\}$ on $G$.
+The \emph{traffic engineering problem} is to find the minimum factor $\lambda \geq 0$ and set of paths on $G$, $p_1, \ldots, p_n$ such that $p_i$ is a 
+path from $s_i$ to $t_i$ and for each link $e \in E(G)$ it holds
+%%$$
+%%\sum_{i = 1}^r ?? \nu_i \leq \lambda \cdot \bnd(e)
+%%$$
+$$
+\sum_{i = 1}^n \cnt(p_i, e) \cdot \vol(d_i) \leq \lambda \cdot \bnd(e)
+$$
+\end{problem}
+
+This is far from the only variant of the TE problem. In this version of the problem we aim at minimizing the maximum congestion of any link.
+The value of
+$$
+\sum_{i = 1}^n \cnt(p_i, e) \cdot \vol(d_i)
+$$
+gives the total amount of traffic that will be routed through edge $e$ if one uses paths $p_1, \ldots, p_n$ to route demands
+$d_1, \ldots, d_n$, respectively. Note that in the definition of the problem, we did not require the paths to be simple. Therefore we need
+to count how many this an edge is used by the path. This might seem unnecessary at first sight since it is easy to
+see that there is always a solution where each path $p_i$ is simple. However, we will see that with segment routing this
+is not true and so, for consistency, we define the problem directly using these factors.
+
+A solution with $\lambda = 1$ is a solution where the capacity of every edge
+is not exceeded. Clearly the lower $\lambda$ is, the better as this means that no edge is using more that a ratio $\lambda$
+of its capacity. 
+One could argue that this objective function is not the most interesting in practice because it looks only at
+the worst case link utilization and fails to provide a global view of the network. Imagine for instance a solution where each link
+is used at $50\%$ but one link is used at, say, $90\%$. This version of the problem will prefer, for example, a solution where every link
+is used at $80\%$ since the maximum utilisation is lower. A lot of variants have been considered in the literature \cite{Altin2009}.
+The reason why we chose this objective function is because most segment routing solutions so far focus on this variant of the problem thus making it easier for us 
+to compare our result with theirs.
+
+A common relaxation of the problem is to consider that each demand can be served by a set of paths rather than a single path.
+It turns out that this variant of the problem is much easier to solve. We will see that we can solve it in polynomial time
+whereas Problem \ref{prob:tep} is \NPhard \cite{MCF}.
+
+\begin{problem}{TE-multipath min-factor problem}
+\label{prob:tep-mul}
+Let $G$ be a network and $\mathcal{D}$ a set of $n$ demands $\{d_1, \ldots, d_n\}$ on $G$.
+The \emph{multipath traffic engineering problem} is to find the minimum factor $\lambda \geq 0$ and $\mathcal{P}_1, \ldots, \mathcal{P}_n$ such that each 
+$\mathcal{P}_i$ is a non-empty set of pairs $(p, f)$ where $p$ is a path from $s_i$ to $t_i$ and $f \in [0, 1]$ and for each link $e \in E(G)$ it holds
+$$
+\sum_{i = 1}^n \sum_{(p, f) \in \mathcal{P}_i} \cnt(p, e) \cdot f \cdot \vol(d_i) \leq \lambda \cdot \bnd(e)
+$$
+\end{problem}
+
+This relaxation is often used to provide a lower bound to the optimal value $\lambda^*$ of Problem \ref{prob:tep}. In the next section we are going to provide
+a brief overview about linear programming (LP) which will be the central tool used to solve the problems presented in this chapter. We will also show how solve
+Problem \ref{prob:tep-mul} in polynomial time by providing a LP formulation for it.
+
+\input{chapters/te/lp.tex}
+
+\input{chapters/te/mip.tex}
+
+\input{chapters/te/cg.tex}
+
+\input{chapters/te/mcf.tex}
+
+\input{chapters/te/results.tex}
